@@ -1,169 +1,99 @@
-import tidyxml
+import requests
+import pytz
 import pprint
 import datetime
-import pytz
 import hashlib
-import re
+from bs4 import BeautifulSoup
 
 wnotice = 'https://www.math.uwaterloo.ca/~wnotice/notice_prgms/wreg'
 emailfrom = 'wnotice@math.uwaterloo.ca'
-debug = False
 
 def get_depts():
-  res = tidyxml.parse_url(wnotice+'/view_notice.pl')
-  content = res['content'][0]['content'][1]['content'][3]['content'][1]['content'][0]['content'][0]['content'][0]['content'][0]['content']
-  
-  s = ''
-  dept = None
-  deptlist = {}
-  for i in content:
-    if type(i) is str:
-      s = i
-    elif type(i) is dict and i['name'] == 'input':
-      if dept is not None:
-        deptlist[dept] = s
-      dept = i['attrs']['value']
-  deptlist[dept] = s
-  content = res['content'][0]['content'][1]['content'][3]['content'][1]['content'][0]['content'][0]['content'][1]['content'][0]['content']
-  
-  s = ''
-  dept = None
-  for i in content:
-    if type(i) is str:
-      s = i
-    elif type(i) is dict and i['name'] == 'input':
-      if dept is not None:
-        deptlist[dept] = s
-      dept = i['attrs']['value']
-  deptlist[dept] = s
-  deptlist['all_depts'] = 'All Departments'
-  return deptlist
-
-def search_and_extract(stuff, key):
-  for i in range(0, len(stuff)):
-    e = stuff[i]
-    if (type(e) == dict) and (len(e['content']) > 0) and (e['content'][0]) == (key+':'):
-      j = i+1
-      data = ''
-      while (j < len(stuff)) and ((type(stuff[j]) != dict) or (stuff[j]['name'] != 'br')):
-        if type(stuff[j]) == dict:
-          if stuff[j]['name'] == 'p':
-            data += '\n\n'
-          if type(stuff[j]['content'][0]) == dict:
-            data += stuff[j]['content'][0]['content'][0]
-          else:
-            data += stuff[j]['content'][0]
-        else:
-          data += stuff[j]
-        data += ' '
-        j = j+1
-      return data.rstrip()
-  return None
-
-def format_event(stuff):
-  event = {}
-  when = stuff[0][0]['content'][0].replace('  ', ' ')
-  local = pytz.timezone ('America/Toronto')
-  when = re.sub(r'[^\w:, ]+', '', when)
-  naive = datetime.datetime.strptime(when, '%A, %d %B %Y, %I:%M%p')
-  local_dt = local.localize(naive, is_dst=None)
-  utc_dt = local_dt.astimezone (pytz.utc)
-  event['when'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
-  event['when_end'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
-  event['seq'] = utc_dt.strftime('%Y%m%d%H')
-  extra = None
-  if (len(stuff[0][0]['content']) > 1) and (stuff[0][0]['content'][1]['content'][0] == '*** CANCELLED ***'):
-    extra = [stuff[0][0]['content'][1]['content'][0], '']
-    event['venue'] = stuff[0][2]['content'][0]
-    event['whofull'] = stuff[1][0]
-    event['where'] = ''
-    event['title'] = stuff[1][2]['content'][0]['content'][0]
-    event['abstract'] = None
-    event['remarks'] = None
-  else:
-    event['where'] = stuff[0][1][3:]
-    event['where'] = event['where'].replace(' true', '')
-    if len(stuff) > 2:
-      event['venue'] = stuff[1][0]['content'][0]
-    else:
-      event['venue'] = ''
-      stuff.insert(1, [])
-      extra = [stuff[0][2]['content'][0]['content'][0] + ' - ' + stuff[0][4]['content'][0]['content'][0], stuff[0][6]['content'][0]]
-    event['whofull'] = search_and_extract(stuff[2], 'Speaker')
-    event['title'] = search_and_extract(stuff[2], 'Title')
-    event['abstract'] = search_and_extract(stuff[2], 'Abstract')
-    event['remarks'] = search_and_extract(stuff[2], 'Remarks')
-  # cleaning up data
-  title = event['title']
-  if title[:1] == '"':
-    title = title[1:]
-  if title[-1:] == '"':
-    title = title[:-1]
-  title = title.replace('``', '"')
-  title = title.replace('\'\'', '"')
-  title = title.replace('""', '"')
-  event['title'] = title
-  whosplit = event['whofull'].split(', ', 1)
-  event['who'] = whosplit[0]
-  event['affiliation'] = whosplit[1]
-  event['venue'] = event['venue'].replace('Seminar Seminar', 'Seminar')
-  if extra != None:
-    event['title'] = extra[0] + ' - ' + event['title']
-    if event['remarks'] != None:
-      event['remarks'] = extra[1] + '\n\n' + event['remarks']
-    else:
-      event['remarks'] = extra[1]
-  event['uid'] = utc_dt.strftime('%Y')+'_'+hashlib.md5(event['who']+'|'+event['title']).hexdigest()+'.'+emailfrom
-  #pprint.pprint(stuff)
-  #pprint.pprint(event)
-  #print '\n\n'
-  return event
+    bs = BeautifulSoup(requests.get(wnotice+'/view_notice.pl').text, 'html5lib')
+    depts = {d.attrs['value']:d.next_sibling.strip() for d in bs.find_all("input", attrs={'name':'dept'})}
+    depts['all_depts'] = 'All Departments'
+    return depts
 
 def get_listing(dept):
-  res = tidyxml.parse_url(wnotice+'/list_notices_p.pl?dept='+dept+'&time_frame=month')
-  content = res['content'][0]['content'][1]['content'][4]['content']
-  events = []
-  stuff = []
-  for i in content:
-    if type(i) is dict:
-      if i['name'] == 'dt':
-        stuff.append(i['content'])
-      elif i['name'] == 'dd':
-        stuff.append(i['content'])
-        events.append(format_event(stuff))
-        stuff = []
-  return events
+    bs = BeautifulSoup(requests.get(wnotice+'/list_notices_p.pl?dept='+dept+'&time_frame=year').text, 'html5lib')
+    events = []
+    for dd in bs.find_all('dd'):
+        dt2 = dd.previous_sibling
+        dt1 = dt2.previous_sibling
+
+        when = dt1.find('b').text.strip()
+        local_tz = pytz.timezone ('America/Toronto')
+        parsed_dt = datetime.datetime.strptime(when, '%A, %d %B %Y, %I:%M%p')
+        local_dt = local_tz.localize(parsed_dt, is_dst=None)
+        utc_dt = local_dt.astimezone (pytz.utc)
+
+        event = {}
+        event['when'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
+        event['when_end'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
+        event['seq'] = utc_dt.strftime('%Y%m%d%H')
+
+        event['venue'] = dt2.find('em').text.strip()
+        event['where'] = dt1.text.split('--')[1].replace('true', '').strip()
+        if '--' in dt2.text:
+            event['dept'] = dt2.text.split('--')[1].strip()
+
+        for em in dd.find_all('em'):
+            if em.text == 'Speaker:':
+                line = em.next_sibling.strip()
+                if 'Department' in line:
+                    event['who'] = line.rsplit(', Department')[0].strip()
+                    event['affiliation'] = 'Department ' + line.rsplit('Department')[1].strip()
+                else:
+                    event['who'] = line.rsplit(',')[0].strip()
+                    event['affiliation'] = line.rsplit(',')[1].strip()
+            elif em.text == 'Title:':
+                title = em.next_sibling.next_sibling.find('em').text.strip()
+                if title[:1] == '"':
+                    title = title[1:]
+                if title[-1:] == '"':
+                    title = title[:-1]
+                title = title.replace('$', '')
+                event['title'] = title
+            elif em.text == 'Abstract:':
+                # XXX TODO FIXME: This will cut off at the end of first paragraph
+                event['abstract'] = em.next_sibling.strip()
+            elif em.text == 'Remarks:':
+                event['remarks'] = em.next_sibling.strip()
+
+        event['uid'] = utc_dt.strftime('%Y')+'_'+hashlib.md5((event['who']+'|'+event['title']).encode('utf-8')).hexdigest()+'.'+emailfrom
+        events.append(event)
+    return events
 
 def dump_ics(dept, name):
-  listing = get_listing(dept)
-  if debug == True:
-    return None
-  fd = open('webnotice/'+dept+'.ics', 'w')
-  fd.write('BEGIN:VCALENDAR\n')
-  fd.write('X-WR-CALNAME:Webnotice ('+name+')\n')
-  fd.write('X-WR-CALDESC:Webnotice ('+name+') at University of Waterloo\n')
-  fd.write('X-PUBLISHED-TTL:PT60M\n')
-  fd.write('PRODID:-//UW-Webnotice/NONSGML 0.1//EN\n')
-  fd.write('VERSION:2.0\n')
-  for event in listing:
-    fd.write('BEGIN:VEVENT\n')
-    fd.write('DTSTAMP:'+event['when']+'\n')
-    fd.write('UID:'+event['uid']+'\n')
-    fd.write('DTSTART:'+event['when']+'\n')
-    fd.write('DTEND:'+event['when_end']+'\n')
-    fd.write('SUMMARY:'+event['title']+' ('+event['venue']+')\n')
-    fd.write('LOCATION:'+event['where']+'\n')
-    fd.write('DESCRIPTION:'+event['title']+'\\n'+event['who']+', '+event['affiliation']+'\\n\\n')
-    if event['remarks'] != None:
-      fd.write(event['remarks'])
-      fd.write('\\n\\n')
-    if event['abstract'] != None:
-      fd.write(event['abstract'].replace('\n', '\\n'))
+    listing = get_listing(dept)
+    fd = open('webnotice/'+dept+'.ics', 'w')
+    fd.write('BEGIN:VCALENDAR\n')
+    fd.write('X-WR-CALNAME:Webnotice ('+name+')\n')
+    fd.write('X-WR-CALDESC:Webnotice ('+name+') at University of Waterloo\n')
+    fd.write('X-PUBLISHED-TTL:PT60M\n')
+    fd.write('PRODID:-//UW-Webnotice/NONSGML 0.1//EN\n')
+    fd.write('VERSION:2.0\n')
+    for event in listing:
+        fd.write('BEGIN:VEVENT\n')
+        fd.write('DTSTAMP:'+event['when']+'\n')
+        fd.write('UID:'+event['uid']+'\n')
+        fd.write('DTSTART:'+event['when']+'\n')
+        fd.write('DTEND:'+event['when_end']+'\n')
+        fd.write('SUMMARY:'+event['title']+' ('+event['venue']+')\n')
+        fd.write('LOCATION:'+event['where']+'\n')
+        fd.write('DESCRIPTION:'+event['title']+'\\n'+event['who']+', '+event['affiliation']+'\\n\\n')
+        if 'remarks' in event:
+            fd.write(event['remarks'])
+            fd.write('\\n\\n')
+        if 'abstract' in event:
+            fd.write(event['abstract'].replace('\n', '\\n'))
     fd.write('\n')
     fd.write('END:VEVENT\n')
-  fd.write('END:VCALENDAR\n')
-  fd.close()
+    fd.write('END:VCALENDAR\n')
+    fd.close()
 
-depts = get_depts()
-for dept in depts:
-  dump_ics(dept, depts[dept])
+if __name__ == '__main__':
+    depts = get_depts()
+    print(depts)
+    for dept in depts:
+        dump_ics(dept, depts[dept])

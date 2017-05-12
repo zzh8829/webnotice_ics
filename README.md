@@ -3,21 +3,37 @@ webnotice_ics
 
 Crawl webnotice and convert it to ICS format.
 
-Dependencies:
- - tidy (just the program, not the python library)
- - wget
- - pytz (python lib)
+## Dependencies
 
-Usage: python webnotice.py
+- requests
+- beautifulsoup4
+- html5lib
+- pytz
 
-Things you might want to modify:
+```
+pip install -r requirements.txt
+```
 
-In tidyxml.py:
- - tidycmd - change to the location of tidy
+## Usage
+```
+python webnotice.py
+```
 
+## Customizations
 In webnotice.py
  - webnotice - change this to the root of your http webnotice installation
 
-Output:
+## Output
   - creates folder webnotice/ containing all the .ics files
   - autodetects the categories/departments available and generates the appropriate ics
+
+## Improvements
+
+Using beatifulsoup instead of xml parser hack
+
+
+## Authors
+
+Originally developed by [Sarah Harvey](https://github.com/worldwise001/webnotice_ics)
+
+Forked + Rewritten by [Zihao Zhang](https://github.com/zzh8829/webnotice_ics)
