@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Webnotice (Combinatorics and Optimization)
+X-WR-CALDESC:Webnotice (Combinatorics and Optimization) at University of Waterloo
+X-PUBLISHED-TTL:PT60M
+PRODID:-//UW-Webnotice/NONSGML 0.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20170512T193000Z
+UID:2017_98a0e3bba540c529613c16c476fa461d.wnotice@math.uwaterloo.ca
+DTSTART:20170512T193000Z
+DTEND:20170512T203000Z
+SUMMARY:Line Search in Polymatroids (Colloquium)
+LOCATION:Math & Computer, Room 5501
+DESCRIPTION:Line Search in Polymatroids\nDr. Michel Goemans, Massachusetts Institute of Technology\n\nWe consider the classical problem of finding the intersection of a line and an (extended) polymatroid in dimension n. When the direction of the line is nonnegative, the problem is well-understood and the Discrete Newton method will require at most n trials. For general directions, however, no bound (depending only on the dimension) was known and we provide a quadratic upper bound. The analysis relies on several extremal results, such as the length of the longest chain of ring families (closed under intersection and union) or the length of the longest geometrically increasing sequence of values for a submodular function.BEGIN:VEVENT
+DTSTAMP:20170518T183000Z
+UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
+DTSTART:20170518T183000Z
+DTEND:20170518T193000Z
+SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar)
+LOCATION:Math & Computer, Room 6486
+DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr. David Wagner, University of Waterloo\n\nThe Heilmann-Lieb Theorem on matching polynomials gives detailed information about the location of zeros of the polynomial $\sum_k m_k(G) x^k$, in which $m_k(G)$ is the number of $k$-edge matchings of a graph $G$.  It has a stronger multivariate version. I will describe a general method which produces theorems of this type, with the set of matchings of $G$ replaced by the set of $(f,g)$-factors of $G$:\ for any two functions $f,g:V(G)\rightarrow\mathbb{N}$, an \emph{$(f,g)$-factor} $H$ is a spanning subgraph such that $f(v) \leq \deg(H,v) \leq g(v)$ for all $v\in V(G)$.  (The Heilmann-Lieb Theorem is the case $f\equiv 0$ and $g\equiv 1$.)BEGIN:VEVENT
+DTSTAMP:20170518T193000Z
+UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
+DTSTART:20170518T193000Z
+DTEND:20170518T203000Z
+SUMMARY:Some connectivity results for 2-polymatroids (Seminar)
+LOCATION:Math & Computer, Room 5417
+DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley, Louisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$, let $r(X)$ be the number of vertices incident with some edge in $X$.  From the pair $(E(G),r)$, which is an example of a $2$-polymatroid, one can detemine $G$ up to isolated vertices and one can recognize matchings in $G$. The cycle matroid in $G$ does not allow the determination of either of these things. Loosely speaking, a $2$-polymatroid is like a matroid except that individual elements can have rank $2$ instead of just $0$ or $1$. In joint work with Charles Semple and Geoff Whittle, the speaker has been seeking connectivity results for $2$-polymatroids that resemble corresponding results for matroids.BEGIN:VEVENT
+DTSTAMP:20170519T193000Z
+UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
+DTSTART:20170519T193000Z
+DTEND:20170519T203000Z
+SUMMARY:The Mathematical Contributions of W.T. Tutte (Colloquium)
+LOCATION:Math & Computer, Room 5501
+DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley, Louisiana State University\n\n"If a theorem about graphs can be expressed in terms of edges and circuits only it probably exemplifies a more general theorem about matroids". Bill Tutte wrote these words in a commentary on his 1966 paper 'Connectivity in matroids'. Indeed, he went on to write that a "belief in this general principle" led him to seek a matroid generalization of his 1961 theorem that distinguishes the special role that wheels play among 3-connected graphs. Because of the impossibility of doing justice to all of Bill's mathematical contributions in a single colloquium, this talk will concentrate on those contributions that lie on the interface between graph theory and matroid theory.
+END:VEVENT
+END:VCALENDAR

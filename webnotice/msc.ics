@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Webnotice (Mathematics Student Clubs)
+X-WR-CALDESC:Webnotice (Mathematics Student Clubs) at University of Waterloo
+X-PUBLISHED-TTL:PT60M
+PRODID:-//UW-Webnotice/NONSGML 0.1//EN
+VERSION:2.0
+
+END:VEVENT
+END:VCALENDAR

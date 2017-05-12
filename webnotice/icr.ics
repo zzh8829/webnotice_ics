@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Webnotice (Institute for Computer Research)
+X-WR-CALDESC:Webnotice (Institute for Computer Research) at University of Waterloo
+X-PUBLISHED-TTL:PT60M
+PRODID:-//UW-Webnotice/NONSGML 0.1//EN
+VERSION:2.0
+
+END:VEVENT
+END:VCALENDAR
