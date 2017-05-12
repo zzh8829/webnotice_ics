@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
+X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
 SUMMARY:Number Theory in Function Fields (Seminar)
 DTSTART:20170508T140000Z
@@ -8,18 +9,18 @@ DTEND:20170508T150000Z
 DTSTAMP:20170508T140000Z
 UID:2017_d717d1ca9634647601703d14d199a51a.wnotice@math.uwaterloo.ca
 DESCRIPTION:Number Theory in Function Fields\nWentang Kuo\, Department of 
- Pure Mathematics\, University of Waterloo\nNumber theory is a branch of pu
- re mathematics devoted\nprimarily to the study of the integers. Integers c
- an be\nconsidered either in themselves\, such as properties of\nprime numb
- ers\, or as solutions to equations. The quotient\nfield of the ring of pol
- ynomials is called the rational function\nfield. As the ring of polynomial
- s over a finite field shares\nsimilar arithmetic properties to the ring of
-  integers\,\nmany problems in integers have analogues for polynomials.\nIn
-  this talk\, we will use Fermat's last theorem and the\nprime number theor
- em as examples to discuss their analogues\nin polynomials. Also\, in spite
-  of similarities between rational\nnumbers and the rational function field
- \, we will talk about\ndifferences and difficulties arising from problems 
- in these\ntwo settings.
+ Pure Mathematics\, University of Waterloo\n\nNumber theory is a branch of 
+ pure mathematics devoted\nprimarily to the study of the integers. Integers
+  can be\nconsidered either in themselves\, such as properties of\nprime nu
+ mbers\, or as solutions to equations. The quotient\nfield of the ring of p
+ olynomials is called the rational function\nfield. As the ring of polynomi
+ als over a finite field shares\nsimilar arithmetic properties to the ring 
+ of integers\,\nmany problems in integers have analogues for polynomials.\n
+ In this talk\, we will use Fermat's last theorem and the\nprime number the
+ orem as examples to discuss their analogues\nin polynomials. Also\, in spi
+ te of similarities between rational\nnumbers and the rational function fie
+ ld\, we will talk about\ndifferences and difficulties arising from problem
+ s in these\ntwo settings.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
@@ -30,20 +31,20 @@ DTEND:20170509T183000Z
 DTSTAMP:20170509T173000Z
 UID:2017_52376fc8c757a1085a29f62cbe2f4aa8.wnotice@math.uwaterloo.ca
 DESCRIPTION:Contact Representation of Planar Graphs in 2D and 3D\nStephen 
- Kobourov\, Department of Computer Science\, University of Arizona\nIn a pr
- oportional contact representation of a planar graph\, each vertex is repre
- sented by a simple polygon with area proportional to a given weight\, and 
- edges are represented by adjacencies between the corresponding pairs of po
- lygons. We show how to use Schnyder realizers and canonical orders for pla
- nar graphs to obtain different types of contact representations. Specifica
- lly\, we describe an algorithm that constructs proportional contact repres
- entation for arbitrary planar graphs using 10-sided rectilinear polygons. 
- We also describe a construction with 8-sided polygons\, which is optimal i
- n terms of polygonal complexity\, as 8-sided polygons are sometimes necess
- ary. In 3D vertices are represented by polytopes and edges by contacts bet
- ween the corresponding polytopes contacts. We show that planar 3-trees hav
- e contact representations with cubes and proportional contact representati
- ons with boxes.
+ Kobourov\, Department of Computer Science\, University of Arizona\n\nIn a 
+ proportional contact representation of a planar graph\, each vertex is rep
+ resented by a simple polygon with area proportional to a given weight\, an
+ d edges are represented by adjacencies between the corresponding pairs of 
+ polygons. We show how to use Schnyder realizers and canonical orders for p
+ lanar graphs to obtain different types of contact representations. Specifi
+ cally\, we describe an algorithm that constructs proportional contact repr
+ esentation for arbitrary planar graphs using 10-sided rectilinear polygons
+ . We also describe a construction with 8-sided polygons\, which is optimal
+  in terms of polygonal complexity\, as 8-sided polygons are sometimes nece
+ ssary. In 3D vertices are represented by polytopes and edges by contacts b
+ etween the corresponding polytopes contacts. We show that planar 3-trees h
+ ave contact representations with cubes and proportional contact representa
+ tions with boxes.
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -53,12 +54,12 @@ DTEND:20170509T193000Z
 DTSTAMP:20170509T183000Z
 UID:2017_4704a3222af7e7c988e5124f5af215b7.wnotice@math.uwaterloo.ca
 DESCRIPTION:Momentum and Position Forms\nJonathan Herman\, Department of P
- ure Mathematics\, University of Waterloo\nWe first recall the theory of th
- e classical momentum and position functions on the phase space of a manifo
- ld. The Poisson bracket relations between these functions form the bridgin
- g gap from classical to quantum mechanics. We extend the Poisson bracket t
- o multisymplectic geometry and show that a more general relationship holds
-  between 'momentum and position forms' on an $n$-plectic manifold.
+ ure Mathematics\, University of Waterloo\n\nWe first recall the theory of 
+ the classical momentum and position functions on the phase space of a mani
+ fold. The Poisson bracket relations between these functions form the bridg
+ ing gap from classical to quantum mechanics. We extend the Poisson bracket
+  to multisymplectic geometry and show that a more general relationship hol
+ ds between 'momentum and position forms' on an $n$-plectic manifold.
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
@@ -68,12 +69,12 @@ DTEND:20170509T203000Z
 DTSTAMP:20170509T193000Z
 UID:2017_c3351cb381ee1d21d5ab90a10ed7bf0c.wnotice@math.uwaterloo.ca
 DESCRIPTION:Muchnik and Medvedev Reducibilities\nMohammad Mahmoud\, Depart
- ment of Pure Mathematics\, University of Waterloo\nEven though both reduci
- bilities seemed to behave in a similar way\, we could see (without proof)\
- , that they differ at how they get affected by adding a constant to the st
- ructures. We give a proof this time and also show in another result that t
- he difference is more than just the reactions to adding constants. The lat
- ter result will require a version of the Slaman-Wehner structure.
+ ment of Pure Mathematics\, University of Waterloo\n\nEven though both redu
+ cibilities seemed to behave in a similar way\, we could see (without proof
+ )\, that they differ at how they get affected by adding a constant to the 
+ structures. We give a proof this time and also show in another result that
+  the difference is more than just the reactions to adding constants. The l
+ atter result will require a version of the Slaman-Wehner structure.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
@@ -83,11 +84,11 @@ DTEND:20170510T204500Z
 DTSTAMP:20170510T194500Z
 UID:2017_b6decacdb2d575f7c889c75df8635f19.wnotice@math.uwaterloo.ca
 DESCRIPTION:Open Challenges in Data Science\nEugene Wen\, David Kierstead\
- nThe talk will be followed by a networking reception in MC 5501.\nManulife
- s Advanced Analytics teams translate complex data into insights. We use 
- machine learning and other predictive modelling techniques to predict the 
- likelihood of future events and optimize outcomes. Four use cases we belie
- ve data science can improve the customer experience are:
+ n\nThe talk will be followed by a networking reception in MC 5501.\nManuli
+ fes Advanced Analytics teams translate complex data into insights. We us
+ e machine learning and other predictive modelling techniques to predict th
+ e likelihood of future events and optimize outcomes. Four use cases we bel
+ ieve data science can improve the customer experience are:
 LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -99,15 +100,16 @@ DTSTAMP:20170511T080000Z
 UID:2017_4cc3e9f6cb32720db50952482feaae3a.wnotice@math.uwaterloo.ca
 DESCRIPTION:A Tale of Two Parasites: how can Gaussian processes contribute
   to improved public health in Africa?\nProf. Peter Diggle\, Lancaster Univ
- ersity\nRefreshments will be provided.\nIn this talk\, I will rst make som
- e general comments about the role of statistical modelling in scientic res
- earch\, illustrated by two examples from infectious disease epidemiology. 
- I will then describe in detail how statistical modelling based on Gaussian
-  spatial stochastic processes has been used to construct region-wide risk 
- maps to inform the operation of a multi-national control programme for onc
- hocerciasis (river blindness) in equatorial Africa. Finally\, I will descr
- ibe work-in progress aimed at exploiting recent developments in mobile mic
- roscopy to enable more precise local predictions of community-level risk.
+ ersity\n\nRefreshments will be provided.\nIn this talk\, I will rst make s
+ ome general comments about the role of statistical modelling in scientic r
+ esearch\, illustrated by two examples from infectious disease epidemiology
+ . I will then describe in detail how statistical modelling based on Gaussi
+ an spatial stochastic processes has been used to construct region-wide ris
+ k maps to inform the operation of a multi-national control programme for o
+ nchocerciasis (river blindness) in equatorial Africa. Finally\, I will des
+ cribe work-in progress aimed at exploiting recent developments in mobile m
+ icroscopy to enable more precise local predictions of community-level risk
+ .
 LOCATION:STC 0050
 END:VEVENT
 BEGIN:VEVENT
@@ -118,16 +120,16 @@ DTEND:20170511T150000Z
 DTSTAMP:20170511T140000Z
 UID:2017_58bcf53b944671afe4afc9fcf909cf72.wnotice@math.uwaterloo.ca
 DESCRIPTION:DBMS as a Bioinformatics Application Platform\nEvguenia Eflov\
- , David R. Cheriton School of Computer Science\nWith recent advancements i
- n technology\, bioinformatics applications have to process and manage cons
- tantly growing amounts of data. Applications developed for a single proces
- sing node may not be sufficient to handle the demands of the current data 
- volume. Several processing frameworks that aim to overcome the limitations
-  of a single computer have been proposed and used\, with MapReduce\, MPI a
- nd GPU-based being the most utilized. Of the three\, MapReduce is most fre
- quently used in practice\; however\, there are limitations to usefulness o
- f the framework\, most notably\, the required structure of the application
-  tasks executed in the framework.
+ , David R. Cheriton School of Computer Science\n\nWith recent advancements
+  in technology\, bioinformatics applications have to process and manage co
+ nstantly growing amounts of data. Applications developed for a single proc
+ essing node may not be sufficient to handle the demands of the current dat
+ a volume. Several processing frameworks that aim to overcome the limitatio
+ ns of a single computer have been proposed and used\, with MapReduce\, MPI
+  and GPU-based being the most utilized. Of the three\, MapReduce is most f
+ requently used in practice\; however\, there are limitations to usefulness
+  of the framework\, most notably\, the required structure of the applicati
+ on tasks executed in the framework.
 LOCATION:DC 3317
 END:VEVENT
 BEGIN:VEVENT
@@ -141,19 +143,19 @@ UID:2017_3003f737b7bdd0d3cb378da755be0a80.wnotice@math.uwaterloo.ca
 DESCRIPTION:A new construction of compact G_2~manifolds by glueing Eguchi-
  Hanson spaces\, Part II: Modifying the identification with the normal bund
  le\nSpiro Karigiannis\, Department of Pure Mathematics\, University of Wat
- erloo\nThis is the second in a series of talks\, where I will go through t
- he details of my new construction with Dominic Joyce of smooth compact $G_
- 2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this g
- lueing involves three pieces\, rather than two\, and two of the three piec
- es \\emph{do not} admit natural torsion-free $G_2$~structures\, which make
- s the construction much more complicated than the only other existing cons
- tructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Paci
- ni (2003/2012). In the second talk\, I will discuss both modifying the con
- nection on the normal bundle and the exponential map\, in order to kill th
- e leading errors in the torsion on the middle glueing piece. If time permi
- ts we will discuss the next major component of the construction\, namely t
- he fibre-wise blow up of the orbifold to obtain a family of topologically 
- Eguchi-Hanson spaces.
+ erloo\n\nThis is the second in a series of talks\, where I will go through
+  the details of my new construction with Dominic Joyce of smooth compact $
+ G_2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this
+  glueing involves three pieces\, rather than two\, and two of the three pi
+ eces \\emph{do not} admit natural torsion-free $G_2$~structures\, which ma
+ kes the construction much more complicated than the only other existing co
+ nstructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Pa
+ cini (2003/2012). In the second talk\, I will discuss both modifying the c
+ onnection on the normal bundle and the exponential map\, in order to kill 
+ the leading errors in the torsion on the middle glueing piece. If time per
+ mits we will discuss the next major component of the construction\, namely
+  the fibre-wise blow up of the orbifold to obtain a family of topologicall
+ y Eguchi-Hanson spaces.
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
@@ -163,17 +165,17 @@ DTEND:20170511T193000Z
 DTSTAMP:20170511T183000Z
 UID:2017_11f096dde28ce60a1fd889b3849f8ad2.wnotice@math.uwaterloo.ca
 DESCRIPTION:Summer heat overwinters in the Arctic Ocean\nProfessor Mary-Lo
- uise Timmermans\, Yale University\nThe talk will address the implications 
- of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent years
- \, atypically warm water layers have been observed at depth in the\nArctic
-  Ocean. These derive from intense summertime solar heating in expansive ic
- e-free\nregions. Heat that is stored in the shallow ocean can be released 
- in the fall and winter by\nshear-driven mixing\, and convective mixing by 
- the release of dense plumes during sea-ice\ngrowth\, reducing the net sea-
- ice growth. On the other hand\, deeper warm ocean layers\nremain unaffecte
- d. I'll show that under continued warming\, there exists the possibility f
- or a\nregime shift in ocean ventilation by these warm waters\, and a subse
- quent cap on the storage\nof deep-ocean heat.
+ uise Timmermans\, Yale University\n\nThe talk will address the implication
+ s of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent yea
+ rs\, atypically warm water layers have been observed at depth in the\nArct
+ ic Ocean. These derive from intense summertime solar heating in expansive 
+ ice-free\nregions. Heat that is stored in the shallow ocean can be release
+ d in the fall and winter by\nshear-driven mixing\, and convective mixing b
+ y the release of dense plumes during sea-ice\ngrowth\, reducing the net se
+ a-ice growth. On the other hand\, deeper warm ocean layers\nremain unaffec
+ ted. I'll show that under continued warming\, there exists the possibility
+  for a\nregime shift in ocean ventilation by these warm waters\, and a sub
+ sequent cap on the storage\nof deep-ocean heat.
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -183,15 +185,15 @@ DTEND:20170512T203000Z
 DTSTAMP:20170512T193000Z
 UID:2017_98a0e3bba540c529613c16c476fa461d.wnotice@math.uwaterloo.ca
 DESCRIPTION:Line Search in Polymatroids\nDr. Michel Goemans\, Massachusett
- s Institute of Technology\nWe consider the classical problem of finding th
- e intersection of a line and an (extended) polymatroid in dimension n. Whe
- n the direction of the line is nonnegative\, the problem is well-understoo
- d and the Discrete Newton method will require at most n trials. For genera
- l directions\, however\, no bound (depending only on the dimension) was kn
- own and we provide a quadratic upper bound. The analysis relies on several
-  extremal results\, such as the length of the longest chain of ring famili
- es (closed under intersection and union) or the length of the longest geom
- etrically increasing sequence of values for a submodular function.
+ s Institute of Technology\n\nWe consider the classical problem of finding 
+ the intersection of a line and an (extended) polymatroid in dimension n. W
+ hen the direction of the line is nonnegative\, the problem is well-underst
+ ood and the Discrete Newton method will require at most n trials. For gene
+ ral directions\, however\, no bound (depending only on the dimension) was 
+ known and we provide a quadratic upper bound. The analysis relies on sever
+ al extremal results\, such as the length of the longest chain of ring fami
+ lies (closed under intersection and union) or the length of the longest ge
+ ometrically increasing sequence of values for a submodular function.
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -203,14 +205,14 @@ DTSTAMP:20170516T170000Z
 UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
 DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
  rged Particles with Layered Nano-structures\nKamran Akbari\, Department of
-  Applied Mathematics\nThe study of the interaction of relativistic charged
-  particles with matter at the nano-scale is important since it is at the c
- ore of many problems in Electromagnetic Theory\, Condensed Matter Physics\
- , Nano-science and Technology\, Mathematical Physics\, Electrical Engineer
- ing\, and Material Science. One of the most import configurations for such
-  interactions arises in the context of electron-energy-loss spectroscopy (
- EELS) of nano-meter sized specimens within transmission electron microscop
- e.
+  Applied Mathematics\n\nThe study of the interaction of relativistic charg
+ ed particles with matter at the nano-scale is important since it is at the
+  core of many problems in Electromagnetic Theory\, Condensed Matter Physic
+ s\, Nano-science and Technology\, Mathematical Physics\, Electrical Engine
+ ering\, and Material Science. One of the most import configurations for su
+ ch interactions arises in the context of electron-energy-loss spectroscopy
+  (EELS) of nano-meter sized specimens within transmission electron microsc
+ ope.
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -221,10 +223,10 @@ DTEND:20170517T183000Z
 DTSTAMP:20170517T173000Z
 UID:2017_02f363c6a4b0b0c683fb7d1fe84885cb.wnotice@math.uwaterloo.ca
 DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
- sity of Campinas\nThe genome median problem is an important problem in phy
- logenetic reconstruction under rearrangement models. It can be stated as f
- ollows: Given three genomes\, find a fourth that minimizes the sum of the 
- pairwise rearrangement distances between it and the three input genomes.
+ sity of Campinas\n\nThe genome median problem is an important problem in p
+ hylogenetic reconstruction under rearrangement models. It can be stated as
+  follows: Given three genomes\, find a fourth that minimizes the sum of th
+ e pairwise rearrangement distances between it and the three input genomes.
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -235,24 +237,24 @@ DTEND:20170518T150000Z
 DTSTAMP:20170518T140000Z
 UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
 DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
- tical Transitions\nTom Bury\, Department of Applied Mathematics\nAbrupt an
- d often irreversible transitions can be observed in a wide variety of syst
- ems including ecological communities\, complex disease and social networks
- . These so-called 'critical transitions' can be brought on by a gradual ch
- ange in external conditions that quietly reduce the resilience of a system
- . Despite their seemingly unpredictable nature\, generic early warning sig
- nals have been proposed which\, once verified for a particular system\, co
- uld provide the means for mitigating or even preventing unwanted transitio
- ns. However\, in higher dimensions\, the typical early warning signals can
-  become amplified\, muted\, or even reversed\, due to the intricate variab
- le interactions in the approach to the transition. In addition\, these mor
- e complex systems can exhibit a wider variety of transitions to their simp
- lified counterparts. This thesis aims to pin down the mechanisms that caus
- e these particular alterations in early warning signals\, which may then w
- ork in our favour by helping us characterise the transition being approach
- ed. Working alongside models in the social\, ecological and biological sci
- ences\, we hope to contribute the the challenging task of detecting nearby
-  critical transitions in these fields.
+ tical Transitions\nTom Bury\, Department of Applied Mathematics\n\nAbrupt 
+ and often irreversible transitions can be observed in a wide variety of sy
+ stems including ecological communities\, complex disease and social networ
+ ks. These so-called 'critical transitions' can be brought on by a gradual 
+ change in external conditions that quietly reduce the resilience of a syst
+ em. Despite their seemingly unpredictable nature\, generic early warning s
+ ignals have been proposed which\, once verified for a particular system\, 
+ could provide the means for mitigating or even preventing unwanted transit
+ ions. However\, in higher dimensions\, the typical early warning signals c
+ an become amplified\, muted\, or even reversed\, due to the intricate vari
+ able interactions in the approach to the transition. In addition\, these m
+ ore complex systems can exhibit a wider variety of transitions to their si
+ mplified counterparts. This thesis aims to pin down the mechanisms that ca
+ use these particular alterations in early warning signals\, which may then
+  work in our favour by helping us characterise the transition being approa
+ ched. Working alongside models in the social\, ecological and biological s
+ ciences\, we hope to contribute the the challenging task of detecting near
+ by critical transitions in these fields.
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -263,16 +265,16 @@ DTEND:20170518T193000Z
 DTSTAMP:20170518T183000Z
 UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
 DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr.
-  David Wagner\, University of Waterloo\nThe Heilmann-Lieb Theorem on match
- ing polynomials gives detailed information about the location of zeros of 
- the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of $
- k$-edge matchings of a graph $G$.  It has a stronger multivariate version.
-  I will describe a general method which produces theorems of this type\, w
- ith the set of matchings of $G$ replaced by the set of $(f\,g)$-factors of
-  $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\em
- ph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\deg
- (H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is th
- e case $f\\equiv 0$ and $g\\equiv 1$.)
+  David Wagner\, University of Waterloo\n\nThe Heilmann-Lieb Theorem on mat
+ ching polynomials gives detailed information about the location of zeros o
+ f the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of
+  $k$-edge matchings of a graph $G$.  It has a stronger multivariate versio
+ n. I will describe a general method which produces theorems of this type\,
+  with the set of matchings of $G$ replaced by the set of $(f\,g)$-factors 
+ of $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\
+ emph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\d
+ eg(H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is 
+ the case $f\\equiv 0$ and $g\\equiv 1$.)
 LOCATION:Math & Computer\, Room 6486
 END:VEVENT
 BEGIN:VEVENT
@@ -282,16 +284,16 @@ DTEND:20170518T203000Z
 DTSTAMP:20170518T193000Z
 UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
 DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley\, Lo
- uisiana State University\nFor a graph $G$ and each subset  $X$ of $E(G)$\,
-  let $r(X)$ be the number of vertices incident with some edge in $X$.  Fro
- m the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one ca
- n detemine $G$ up to isolated vertices and one can recognize matchings in 
- $G$. The cycle matroid in $G$ does not allow the determination of either o
- f these things. Loosely speaking\, a $2$-polymatroid is like a matroid exc
- ept that individual elements can have rank $2$ instead of just $0$ or $1$.
-  In joint work with Charles Semple and Geoff Whittle\, the speaker has bee
- n seeking connectivity results for $2$-polymatroids that resemble correspo
- nding results for matroids.
+ uisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$
+ \, let $r(X)$ be the number of vertices incident with some edge in $X$.  F
+ rom the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one 
+ can detemine $G$ up to isolated vertices and one can recognize matchings i
+ n $G$. The cycle matroid in $G$ does not allow the determination of either
+  of these things. Loosely speaking\, a $2$-polymatroid is like a matroid e
+ xcept that individual elements can have rank $2$ instead of just $0$ or $1
+ $. In joint work with Charles Semple and Geoff Whittle\, the speaker has b
+ een seeking connectivity results for $2$-polymatroids that resemble corres
+ ponding results for matroids.
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
@@ -301,16 +303,16 @@ DTEND:20170519T203000Z
 DTSTAMP:20170519T193000Z
 UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
 DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
- , Louisiana State University\n"If a theorem about graphs can be expressed 
- in terms of edges and circuits only it probably exemplifies a more general
-  theorem about matroids". Bill Tutte wrote these words in a commentary on 
- his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write th
- at a "belief in this general principle" led him to seek a matroid generali
- zation of his 1961 theorem that distinguishes the special role that wheels
-  play among 3-connected graphs. Because of the impossibility of doing just
- ice to all of Bill's mathematical contributions in a single colloquium\, t
- his talk will concentrate on those contributions that lie on the interface
-  between graph theory and matroid theory.
+ , Louisiana State University\n\n"If a theorem about graphs can be expresse
+ d in terms of edges and circuits only it probably exemplifies a more gener
+ al theorem about matroids". Bill Tutte wrote these words in a commentary o
+ n his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write 
+ that a "belief in this general principle" led him to seek a matroid genera
+ lization of his 1961 theorem that distinguishes the special role that whee
+ ls play among 3-connected graphs. Because of the impossibility of doing ju
+ stice to all of Bill's mathematical contributions in a single colloquium\,
+  this talk will concentrate on those contributions that lie on the interfa
+ ce between graph theory and matroid theory.
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -321,17 +323,17 @@ DTEND:20170524T150000Z
 DTSTAMP:20170524T140000Z
 UID:2017_64a91a864ff85b3bc72de1097ea0d862.wnotice@math.uwaterloo.ca
 DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
- ame\nDiane Watson\, David R. Cheriton School of Computer Science\nTextbook
- s\, as supplementary material\, are known to improve student outcomes by a
- ccommodating multiple learning types and reinforcing material learned in c
- lass\; however\, most students do not often complete assigned readings. We
-  created Reading Garden\, a motivational game aimed to get students to rea
- d more of the textbook. Reading Garden is a casual\, multiplayer game foll
- owing common design patterns of many social games. For example\, it follow
- s the free-to-play model\, where the game can always be played for free\, 
- but has special advanced actions and decorations that can be purchased wit
- h gold  a special in-game currency. Players earn gold by completing assi
- gned readings.
+ ame\nDiane Watson\, David R. Cheriton School of Computer Science\n\nTextbo
+ oks\, as supplementary material\, are known to improve student outcomes by
+  accommodating multiple learning types and reinforcing material learned in
+  class\; however\, most students do not often complete assigned readings. 
+ We created Reading Garden\, a motivational game aimed to get students to r
+ ead more of the textbook. Reading Garden is a casual\, multiplayer game fo
+ llowing common design patterns of many social games. For example\, it foll
+ ows the free-to-play model\, where the game can always be played for free\
+ , but has special advanced actions and decorations that can be purchased w
+ ith gold  a special in-game currency. Players earn gold by completing as
+ signed readings.
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
@@ -341,15 +343,15 @@ DTSTART:20170613T143000Z
 DTEND:20170613T153000Z
 DTSTAMP:20170613T143000Z
 UID:2017_6032531de8399b10098e69fe141c0feb.wnotice@math.uwaterloo.ca
-DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\nA public 
- ledger is a tamperproof sequence of data that can be read and augmented by
-  everyone. Shared public ledgers stand to revolutionize the way a democrat
- ic society operates. They secure all kinds of traditional transactions  
- such as payments\, asset transfers\, titling  in the exact order in whic
- h they occur\, and enable totally new transactions  such as cryptocurren
- cies and smart contracts. They can remove intermediaries and usher in a ne
- w paradigm for trust. As currently implemented\, however\, public ledgers 
- cannot achieve their enormous potential.
+DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\n\nA publi
+ c ledger is a tamperproof sequence of data that can be read and augmented 
+ by everyone. Shared public ledgers stand to revolutionize the way a democr
+ atic society operates. They secure all kinds of traditional transactions 
+  such as payments\, asset transfers\, titling  in the exact order in w
+ hich they occur\, and enable totally new transactions  such as cryptocur
+ rencies and smart contracts. They can remove intermediaries and usher in a
+  new paradigm for trust. As currently implemented\, however\, public ledge
+ rs cannot achieve their enormous potential.
 LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
@@ -360,15 +362,15 @@ DTEND:20170616T150000Z
 DTSTAMP:20170616T140000Z
 UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
 DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry 
- Lyons\, Oxford University\nRough path theory aims to build an effective ca
- lculus that can model the interactions between complex oscillatory (rough)
-  evolving systems. At its mathematical foundations\, it is a combination o
- f analysis blended with algebra that goes back to LC Young\, and to KT Che
- n. Key to the theory is the essential need to incorporate additional non-c
- ommutative structure into areas of mathematics we thought were stable. At 
- its high points\, there are the regularity structures of Martin Hairer tha
- t allow robust meaning to be given to numerous core nonlinear stochastic p
- des describing evolving interfaces in physics.
+ Lyons\, Oxford University\n\nRough path theory aims to build an effective 
+ calculus that can model the interactions between complex oscillatory (roug
+ h) evolving systems. At its mathematical foundations\, it is a combination
+  of analysis blended with algebra that goes back to LC Young\, and to KT C
+ hen. Key to the theory is the essential need to incorporate additional non
+ -commutative structure into areas of mathematics we thought were stable. A
+ t its high points\, there are the regularity structures of Martin Hairer t
+ hat allow robust meaning to be given to numerous core nonlinear stochastic
+  pdes describing evolving interfaces in physics.
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -379,10 +381,10 @@ DTEND:20170616T190000Z
 DTSTAMP:20170616T180000Z
 UID:2017_423f48310ef5d2058ea4f1d0f48b778f.wnotice@math.uwaterloo.ca
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
- rashant Nalini Vasudevan\, MIT\nWe present functions that are hard to comp
- ute on average for algorithms running in some fixed polynomial time\, assu
- ming widely-conjectured worst-case hardness of certain problems from the s
- tudy of fine-grained complexity.
+ rashant Nalini Vasudevan\, MIT\n\nWe present functions that are hard to co
+ mpute on average for algorithms running in some fixed polynomial time\, as
+ suming widely-conjectured worst-case hardness of certain problems from the
+  study of fine-grained complexity.
 LOCATION:DC 2585
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +395,12 @@ DTEND:20170620T160000Z
 DTSTAMP:20170620T150000Z
 UID:2017_3096b7c44248430de469c410325e02e0.wnotice@math.uwaterloo.ca
 DESCRIPTION:A Biologically Constrained Model of Semantic Memory Search\nIv
- ana Kajić\, David R. Cheriton School of Computer Science\nThe semantic fl
- uency task has been used to understand the effects of semantic relationshi
- ps on human memory search. A variety of computational models have been pro
- posed that explain human behavioral data\, yet it remains unclear how mill
- ions of spiking neurons work in unison to realize the cognitive processes 
- involved in memory search.
+ ana Kajić\, David R. Cheriton School of Computer Science\n\nThe semantic 
+ fluency task has been used to understand the effects of semantic relations
+ hips on human memory search. A variety of computational models have been p
+ roposed that explain human behavioral data\, yet it remains unclear how mi
+ llions of spiking neurons work in unison to realize the cognitive processe
+ s involved in memory search.
 LOCATION:DC 2310
 END:VEVENT
 END:VCALENDAR

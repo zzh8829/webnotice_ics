@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
+X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
 SUMMARY:Contact Representation of Planar Graphs in 2D and 3D (Algorithms a
  nd Complexity Group Seminar)
@@ -9,20 +10,20 @@ DTEND:20170509T183000Z
 DTSTAMP:20170509T173000Z
 UID:2017_52376fc8c757a1085a29f62cbe2f4aa8.wnotice@math.uwaterloo.ca
 DESCRIPTION:Contact Representation of Planar Graphs in 2D and 3D\nStephen 
- Kobourov\, Department of Computer Science\, University of Arizona\nIn a pr
- oportional contact representation of a planar graph\, each vertex is repre
- sented by a simple polygon with area proportional to a given weight\, and 
- edges are represented by adjacencies between the corresponding pairs of po
- lygons. We show how to use Schnyder realizers and canonical orders for pla
- nar graphs to obtain different types of contact representations. Specifica
- lly\, we describe an algorithm that constructs proportional contact repres
- entation for arbitrary planar graphs using 10-sided rectilinear polygons. 
- We also describe a construction with 8-sided polygons\, which is optimal i
- n terms of polygonal complexity\, as 8-sided polygons are sometimes necess
- ary. In 3D vertices are represented by polytopes and edges by contacts bet
- ween the corresponding polytopes contacts. We show that planar 3-trees hav
- e contact representations with cubes and proportional contact representati
- ons with boxes.
+ Kobourov\, Department of Computer Science\, University of Arizona\n\nIn a 
+ proportional contact representation of a planar graph\, each vertex is rep
+ resented by a simple polygon with area proportional to a given weight\, an
+ d edges are represented by adjacencies between the corresponding pairs of 
+ polygons. We show how to use Schnyder realizers and canonical orders for p
+ lanar graphs to obtain different types of contact representations. Specifi
+ cally\, we describe an algorithm that constructs proportional contact repr
+ esentation for arbitrary planar graphs using 10-sided rectilinear polygons
+ . We also describe a construction with 8-sided polygons\, which is optimal
+  in terms of polygonal complexity\, as 8-sided polygons are sometimes nece
+ ssary. In 3D vertices are represented by polytopes and edges by contacts b
+ etween the corresponding polytopes contacts. We show that planar 3-trees h
+ ave contact representations with cubes and proportional contact representa
+ tions with boxes.
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -32,11 +33,11 @@ DTEND:20170510T204500Z
 DTSTAMP:20170510T194500Z
 UID:2017_b6decacdb2d575f7c889c75df8635f19.wnotice@math.uwaterloo.ca
 DESCRIPTION:Open Challenges in Data Science\nEugene Wen\, David Kierstead\
- nThe talk will be followed by a networking reception in MC 5501.\nManulife
- s Advanced Analytics teams translate complex data into insights. We use 
- machine learning and other predictive modelling techniques to predict the 
- likelihood of future events and optimize outcomes. Four use cases we belie
- ve data science can improve the customer experience are:
+ n\nThe talk will be followed by a networking reception in MC 5501.\nManuli
+ fes Advanced Analytics teams translate complex data into insights. We us
+ e machine learning and other predictive modelling techniques to predict th
+ e likelihood of future events and optimize outcomes. Four use cases we bel
+ ieve data science can improve the customer experience are:
 LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -47,16 +48,16 @@ DTEND:20170511T150000Z
 DTSTAMP:20170511T140000Z
 UID:2017_58bcf53b944671afe4afc9fcf909cf72.wnotice@math.uwaterloo.ca
 DESCRIPTION:DBMS as a Bioinformatics Application Platform\nEvguenia Eflov\
- , David R. Cheriton School of Computer Science\nWith recent advancements i
- n technology\, bioinformatics applications have to process and manage cons
- tantly growing amounts of data. Applications developed for a single proces
- sing node may not be sufficient to handle the demands of the current data 
- volume. Several processing frameworks that aim to overcome the limitations
-  of a single computer have been proposed and used\, with MapReduce\, MPI a
- nd GPU-based being the most utilized. Of the three\, MapReduce is most fre
- quently used in practice\; however\, there are limitations to usefulness o
- f the framework\, most notably\, the required structure of the application
-  tasks executed in the framework.
+ , David R. Cheriton School of Computer Science\n\nWith recent advancements
+  in technology\, bioinformatics applications have to process and manage co
+ nstantly growing amounts of data. Applications developed for a single proc
+ essing node may not be sufficient to handle the demands of the current dat
+ a volume. Several processing frameworks that aim to overcome the limitatio
+ ns of a single computer have been proposed and used\, with MapReduce\, MPI
+  and GPU-based being the most utilized. Of the three\, MapReduce is most f
+ requently used in practice\; however\, there are limitations to usefulness
+  of the framework\, most notably\, the required structure of the applicati
+ on tasks executed in the framework.
 LOCATION:DC 3317
 END:VEVENT
 BEGIN:VEVENT
@@ -67,10 +68,10 @@ DTEND:20170517T183000Z
 DTSTAMP:20170517T173000Z
 UID:2017_02f363c6a4b0b0c683fb7d1fe84885cb.wnotice@math.uwaterloo.ca
 DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
- sity of Campinas\nThe genome median problem is an important problem in phy
- logenetic reconstruction under rearrangement models. It can be stated as f
- ollows: Given three genomes\, find a fourth that minimizes the sum of the 
- pairwise rearrangement distances between it and the three input genomes.
+ sity of Campinas\n\nThe genome median problem is an important problem in p
+ hylogenetic reconstruction under rearrangement models. It can be stated as
+  follows: Given three genomes\, find a fourth that minimizes the sum of th
+ e pairwise rearrangement distances between it and the three input genomes.
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -81,17 +82,17 @@ DTEND:20170524T150000Z
 DTSTAMP:20170524T140000Z
 UID:2017_64a91a864ff85b3bc72de1097ea0d862.wnotice@math.uwaterloo.ca
 DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
- ame\nDiane Watson\, David R. Cheriton School of Computer Science\nTextbook
- s\, as supplementary material\, are known to improve student outcomes by a
- ccommodating multiple learning types and reinforcing material learned in c
- lass\; however\, most students do not often complete assigned readings. We
-  created Reading Garden\, a motivational game aimed to get students to rea
- d more of the textbook. Reading Garden is a casual\, multiplayer game foll
- owing common design patterns of many social games. For example\, it follow
- s the free-to-play model\, where the game can always be played for free\, 
- but has special advanced actions and decorations that can be purchased wit
- h gold  a special in-game currency. Players earn gold by completing assi
- gned readings.
+ ame\nDiane Watson\, David R. Cheriton School of Computer Science\n\nTextbo
+ oks\, as supplementary material\, are known to improve student outcomes by
+  accommodating multiple learning types and reinforcing material learned in
+  class\; however\, most students do not often complete assigned readings. 
+ We created Reading Garden\, a motivational game aimed to get students to r
+ ead more of the textbook. Reading Garden is a casual\, multiplayer game fo
+ llowing common design patterns of many social games. For example\, it foll
+ ows the free-to-play model\, where the game can always be played for free\
+ , but has special advanced actions and decorations that can be purchased w
+ ith gold  a special in-game currency. Players earn gold by completing as
+ signed readings.
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
@@ -101,15 +102,15 @@ DTSTART:20170613T143000Z
 DTEND:20170613T153000Z
 DTSTAMP:20170613T143000Z
 UID:2017_6032531de8399b10098e69fe141c0feb.wnotice@math.uwaterloo.ca
-DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\nA public 
- ledger is a tamperproof sequence of data that can be read and augmented by
-  everyone. Shared public ledgers stand to revolutionize the way a democrat
- ic society operates. They secure all kinds of traditional transactions  
- such as payments\, asset transfers\, titling  in the exact order in whic
- h they occur\, and enable totally new transactions  such as cryptocurren
- cies and smart contracts. They can remove intermediaries and usher in a ne
- w paradigm for trust. As currently implemented\, however\, public ledgers 
- cannot achieve their enormous potential.
+DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\n\nA publi
+ c ledger is a tamperproof sequence of data that can be read and augmented 
+ by everyone. Shared public ledgers stand to revolutionize the way a democr
+ atic society operates. They secure all kinds of traditional transactions 
+  such as payments\, asset transfers\, titling  in the exact order in w
+ hich they occur\, and enable totally new transactions  such as cryptocur
+ rencies and smart contracts. They can remove intermediaries and usher in a
+  new paradigm for trust. As currently implemented\, however\, public ledge
+ rs cannot achieve their enormous potential.
 LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
@@ -120,10 +121,10 @@ DTEND:20170616T190000Z
 DTSTAMP:20170616T180000Z
 UID:2017_423f48310ef5d2058ea4f1d0f48b778f.wnotice@math.uwaterloo.ca
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
- rashant Nalini Vasudevan\, MIT\nWe present functions that are hard to comp
- ute on average for algorithms running in some fixed polynomial time\, assu
- ming widely-conjectured worst-case hardness of certain problems from the s
- tudy of fine-grained complexity.
+ rashant Nalini Vasudevan\, MIT\n\nWe present functions that are hard to co
+ mpute on average for algorithms running in some fixed polynomial time\, as
+ suming widely-conjectured worst-case hardness of certain problems from the
+  study of fine-grained complexity.
 LOCATION:DC 2585
 END:VEVENT
 BEGIN:VEVENT
@@ -134,12 +135,12 @@ DTEND:20170620T160000Z
 DTSTAMP:20170620T150000Z
 UID:2017_3096b7c44248430de469c410325e02e0.wnotice@math.uwaterloo.ca
 DESCRIPTION:A Biologically Constrained Model of Semantic Memory Search\nIv
- ana Kajić\, David R. Cheriton School of Computer Science\nThe semantic fl
- uency task has been used to understand the effects of semantic relationshi
- ps on human memory search. A variety of computational models have been pro
- posed that explain human behavioral data\, yet it remains unclear how mill
- ions of spiking neurons work in unison to realize the cognitive processes 
- involved in memory search.
+ ana Kajić\, David R. Cheriton School of Computer Science\n\nThe semantic 
+ fluency task has been used to understand the effects of semantic relations
+ hips on human memory search. A variety of computational models have been p
+ roposed that explain human behavioral data\, yet it remains unclear how mi
+ llions of spiking neurons work in unison to realize the cognitive processe
+ s involved in memory search.
 LOCATION:DC 2310
 END:VEVENT
 END:VCALENDAR

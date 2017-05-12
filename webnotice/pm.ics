@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
+X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
 SUMMARY:Number Theory in Function Fields (Seminar)
 DTSTART:20170508T140000Z
@@ -8,18 +9,18 @@ DTEND:20170508T150000Z
 DTSTAMP:20170508T140000Z
 UID:2017_d717d1ca9634647601703d14d199a51a.wnotice@math.uwaterloo.ca
 DESCRIPTION:Number Theory in Function Fields\nWentang Kuo\, Department of 
- Pure Mathematics\, University of Waterloo\nNumber theory is a branch of pu
- re mathematics devoted\nprimarily to the study of the integers. Integers c
- an be\nconsidered either in themselves\, such as properties of\nprime numb
- ers\, or as solutions to equations. The quotient\nfield of the ring of pol
- ynomials is called the rational function\nfield. As the ring of polynomial
- s over a finite field shares\nsimilar arithmetic properties to the ring of
-  integers\,\nmany problems in integers have analogues for polynomials.\nIn
-  this talk\, we will use Fermat's last theorem and the\nprime number theor
- em as examples to discuss their analogues\nin polynomials. Also\, in spite
-  of similarities between rational\nnumbers and the rational function field
- \, we will talk about\ndifferences and difficulties arising from problems 
- in these\ntwo settings.
+ Pure Mathematics\, University of Waterloo\n\nNumber theory is a branch of 
+ pure mathematics devoted\nprimarily to the study of the integers. Integers
+  can be\nconsidered either in themselves\, such as properties of\nprime nu
+ mbers\, or as solutions to equations. The quotient\nfield of the ring of p
+ olynomials is called the rational function\nfield. As the ring of polynomi
+ als over a finite field shares\nsimilar arithmetic properties to the ring 
+ of integers\,\nmany problems in integers have analogues for polynomials.\n
+ In this talk\, we will use Fermat's last theorem and the\nprime number the
+ orem as examples to discuss their analogues\nin polynomials. Also\, in spi
+ te of similarities between rational\nnumbers and the rational function fie
+ ld\, we will talk about\ndifferences and difficulties arising from problem
+ s in these\ntwo settings.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
@@ -29,12 +30,12 @@ DTEND:20170509T193000Z
 DTSTAMP:20170509T183000Z
 UID:2017_4704a3222af7e7c988e5124f5af215b7.wnotice@math.uwaterloo.ca
 DESCRIPTION:Momentum and Position Forms\nJonathan Herman\, Department of P
- ure Mathematics\, University of Waterloo\nWe first recall the theory of th
- e classical momentum and position functions on the phase space of a manifo
- ld. The Poisson bracket relations between these functions form the bridgin
- g gap from classical to quantum mechanics. We extend the Poisson bracket t
- o multisymplectic geometry and show that a more general relationship holds
-  between 'momentum and position forms' on an $n$-plectic manifold.
+ ure Mathematics\, University of Waterloo\n\nWe first recall the theory of 
+ the classical momentum and position functions on the phase space of a mani
+ fold. The Poisson bracket relations between these functions form the bridg
+ ing gap from classical to quantum mechanics. We extend the Poisson bracket
+  to multisymplectic geometry and show that a more general relationship hol
+ ds between 'momentum and position forms' on an $n$-plectic manifold.
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
@@ -44,12 +45,12 @@ DTEND:20170509T203000Z
 DTSTAMP:20170509T193000Z
 UID:2017_c3351cb381ee1d21d5ab90a10ed7bf0c.wnotice@math.uwaterloo.ca
 DESCRIPTION:Muchnik and Medvedev Reducibilities\nMohammad Mahmoud\, Depart
- ment of Pure Mathematics\, University of Waterloo\nEven though both reduci
- bilities seemed to behave in a similar way\, we could see (without proof)\
- , that they differ at how they get affected by adding a constant to the st
- ructures. We give a proof this time and also show in another result that t
- he difference is more than just the reactions to adding constants. The lat
- ter result will require a version of the Slaman-Wehner structure.
+ ment of Pure Mathematics\, University of Waterloo\n\nEven though both redu
+ cibilities seemed to behave in a similar way\, we could see (without proof
+ )\, that they differ at how they get affected by adding a constant to the 
+ structures. We give a proof this time and also show in another result that
+  the difference is more than just the reactions to adding constants. The l
+ atter result will require a version of the Slaman-Wehner structure.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
@@ -63,19 +64,19 @@ UID:2017_3003f737b7bdd0d3cb378da755be0a80.wnotice@math.uwaterloo.ca
 DESCRIPTION:A new construction of compact G_2~manifolds by glueing Eguchi-
  Hanson spaces\, Part II: Modifying the identification with the normal bund
  le\nSpiro Karigiannis\, Department of Pure Mathematics\, University of Wat
- erloo\nThis is the second in a series of talks\, where I will go through t
- he details of my new construction with Dominic Joyce of smooth compact $G_
- 2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this g
- lueing involves three pieces\, rather than two\, and two of the three piec
- es \\emph{do not} admit natural torsion-free $G_2$~structures\, which make
- s the construction much more complicated than the only other existing cons
- tructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Paci
- ni (2003/2012). In the second talk\, I will discuss both modifying the con
- nection on the normal bundle and the exponential map\, in order to kill th
- e leading errors in the torsion on the middle glueing piece. If time permi
- ts we will discuss the next major component of the construction\, namely t
- he fibre-wise blow up of the orbifold to obtain a family of topologically 
- Eguchi-Hanson spaces.
+ erloo\n\nThis is the second in a series of talks\, where I will go through
+  the details of my new construction with Dominic Joyce of smooth compact $
+ G_2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this
+  glueing involves three pieces\, rather than two\, and two of the three pi
+ eces \\emph{do not} admit natural torsion-free $G_2$~structures\, which ma
+ kes the construction much more complicated than the only other existing co
+ nstructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Pa
+ cini (2003/2012). In the second talk\, I will discuss both modifying the c
+ onnection on the normal bundle and the exponential map\, in order to kill 
+ the leading errors in the torsion on the middle glueing piece. If time per
+ mits we will discuss the next major component of the construction\, namely
+  the fibre-wise blow up of the orbifold to obtain a family of topologicall
+ y Eguchi-Hanson spaces.
 LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR

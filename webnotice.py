@@ -70,6 +70,7 @@ def dump_ics(dept, name):
     cal = Calendar()
     cal.add('prodid', '-//UW-Webnotice//EN')
     cal.add('version', '2.0')
+    cal.add('x-wr-calname', 'UW Webnotice (%s)'%name)
     for item in listing:
         event = Event()
         event['uid'] = item['uid']
@@ -78,9 +79,9 @@ def dump_ics(dept, name):
         event['dtend'] = item['when_end']
         event['location'] = item['where']
         event['summary'] = item['title']+' ('+item['venue']+')'
-        event['description'] = "\n".join(filter(None,[
+        event['description'] = '\n'.join(filter(None,[
                                          item['title'],
-                                         item['who']+', '+item['affiliation'],
+                                         item['who']+', '+item['affiliation'] + '\n',
                                          item.get('remarks', ''),
                                          item.get('abstract', '')]))
 
