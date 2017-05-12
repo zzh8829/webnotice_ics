@@ -9,6 +9,7 @@ Crawl webnotice and convert it to ICS format.
 - beautifulsoup4
 - html5lib
 - pytz
+- icalendar
 
 ```
 pip install -r requirements.txt

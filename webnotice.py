@@ -3,6 +3,7 @@ import pytz
 import pprint
 import datetime
 import hashlib
+from icalendar import Calendar, Event
 from bs4 import BeautifulSoup
 
 wnotice = 'https://www.math.uwaterloo.ca/~wnotice/notice_prgms/wreg'
@@ -66,31 +67,29 @@ def get_listing(dept):
 
 def dump_ics(dept, name):
     listing = get_listing(dept)
-    fd = open('webnotice/'+dept+'.ics', 'w')
-    fd.write('BEGIN:VCALENDAR\n')
-    fd.write('X-WR-CALNAME:Webnotice ('+name+')\n')
-    fd.write('X-WR-CALDESC:Webnotice ('+name+') at University of Waterloo\n')
-    fd.write('X-PUBLISHED-TTL:PT60M\n')
-    fd.write('PRODID:-//UW-Webnotice/NONSGML 0.1//EN\n')
-    fd.write('VERSION:2.0\n')
-    for event in listing:
-        fd.write('BEGIN:VEVENT\n')
-        fd.write('DTSTAMP:'+event['when']+'\n')
-        fd.write('UID:'+event['uid']+'\n')
-        fd.write('DTSTART:'+event['when']+'\n')
-        fd.write('DTEND:'+event['when_end']+'\n')
-        fd.write('SUMMARY:'+event['title']+' ('+event['venue']+')\n')
-        fd.write('LOCATION:'+event['where']+'\n')
-        fd.write('DESCRIPTION:'+event['title']+'\\n'+event['who']+', '+event['affiliation']+'\\n\\n')
-        if 'remarks' in event:
-            fd.write(event['remarks'])
-            fd.write('\\n\\n')
-        if 'abstract' in event:
-            fd.write(event['abstract'].replace('\n', '\\n'))
-    fd.write('\n')
-    fd.write('END:VEVENT\n')
-    fd.write('END:VCALENDAR\n')
-    fd.close()
+    cal = Calendar()
+    cal.add('prodid', '-//UW-Webnotice//EN')
+    cal.add('version', '2.0')
+    for item in listing:
+        event = Event()
+        event['uid'] = item['uid']
+        event['dtstamp'] = item['when']
+        event['dtstart'] = item['when']
+        event['dtend'] = item['when_end']
+        event['location'] = item['where']
+        event['summary'] = item['title']+' ('+item['venue']+')'
+        event['description'] = "\n".join(filter(None,[
+                                         item['title'],
+                                         item['who']+', '+item['affiliation'],
+                                         item.get('remarks', ''),
+                                         item.get('abstract', '')]))
+
+        cal.add_component(event)
+
+    f = open('webnotice/'+dept+'.ics', 'wb')
+    f.write(cal.to_ical())
+    f.close()
+
 
 if __name__ == '__main__':
     depts = get_depts()

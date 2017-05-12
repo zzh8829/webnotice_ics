@@ -1,37 +1,90 @@
 BEGIN:VCALENDAR
-X-WR-CALNAME:Webnotice (Applied Mathematics)
-X-WR-CALDESC:Webnotice (Applied Mathematics) at University of Waterloo
-X-PUBLISHED-TTL:PT60M
-PRODID:-//UW-Webnotice/NONSGML 0.1//EN
 VERSION:2.0
+PRODID:-//UW-Webnotice//EN
 BEGIN:VEVENT
-DTSTAMP:20170511T183000Z
-UID:2017_11f096dde28ce60a1fd889b3849f8ad2.wnotice@math.uwaterloo.ca
+SUMMARY:Summer heat overwinters in the Arctic Ocean (Colloquium)
 DTSTART:20170511T183000Z
 DTEND:20170511T193000Z
-SUMMARY:Summer heat overwinters in the Arctic Ocean (Colloquium)
+DTSTAMP:20170511T183000Z
+UID:2017_11f096dde28ce60a1fd889b3849f8ad2.wnotice@math.uwaterloo.ca
+DESCRIPTION:Summer heat overwinters in the Arctic Ocean\nProfessor Mary-Lo
+ uise Timmermans\, Yale University\nThe talk will address the implications 
+ of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent years
+ \, atypically warm water layers have been observed at depth in the\nArctic
+  Ocean. These derive from intense summertime solar heating in expansive ic
+ e-free\nregions. Heat that is stored in the shallow ocean can be released 
+ in the fall and winter by\nshear-driven mixing\, and convective mixing by 
+ the release of dense plumes during sea-ice\ngrowth\, reducing the net sea-
+ ice growth. On the other hand\, deeper warm ocean layers\nremain unaffecte
+ d. I'll show that under continued warming\, there exists the possibility f
+ or a\nregime shift in ocean ventilation by these warm waters\, and a subse
+ quent cap on the storage\nof deep-ocean heat.
 LOCATION:MC 6460
-DESCRIPTION:Summer heat overwinters in the Arctic Ocean\nProfessor Mary-Louise Timmermans, Yale University\n\nThe talk will address the implications of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent years, atypically warm water layers have been observed at depth in the\nArctic Ocean. These derive from intense summertime solar heating in expansive ice-free\nregions. Heat that is stored in the shallow ocean can be released in the fall and winter by\nshear-driven mixing, and convective mixing by the release of dense plumes during sea-ice\ngrowth, reducing the net sea-ice growth. On the other hand, deeper warm ocean layers\nremain unaffected. I'll show that under continued warming, there exists the possibility for a\nregime shift in ocean ventilation by these warm waters, and a subsequent cap on the storage\nof deep-ocean heat.BEGIN:VEVENT
-DTSTAMP:20170516T170000Z
-UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
+  Particles with Layered Nano-structures (Comprehensive Exam)
 DTSTART:20170516T170000Z
 DTEND:20170516T180000Z
-SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged Particles with Layered Nano-structures (Comprehensive Exam)
+DTSTAMP:20170516T170000Z
+UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
+DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
+ rged Particles with Layered Nano-structures\nKamran Akbari\, Department of
+  Applied Mathematics\nThe study of the interaction of relativistic charged
+  particles with matter at the nano-scale is important since it is at the c
+ ore of many problems in Electromagnetic Theory\, Condensed Matter Physics\
+ , Nano-science and Technology\, Mathematical Physics\, Electrical Engineer
+ ing\, and Material Science. One of the most import configurations for such
+  interactions arises in the context of electron-energy-loss spectroscopy (
+ EELS) of nano-meter sized specimens within transmission electron microscop
+ e.
 LOCATION:MC 6460
-DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Charged Particles with Layered Nano-structures\nKamran Akbari, Department of Applied Mathematics\n\nThe study of the interaction of relativistic charged particles with matter at the nano-scale is important since it is at the core of many problems in Electromagnetic Theory, Condensed Matter Physics, Nano-science and Technology, Mathematical Physics, Electrical Engineering, and Material Science. One of the most import configurations for such interactions arises in the context of electron-energy-loss spectroscopy (EELS) of nano-meter sized specimens within transmission electron microscope.BEGIN:VEVENT
-DTSTAMP:20170518T140000Z
-UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Theory and Application of Early Warning Signals for Critica
+ l Transitions (Comprehensive Exam)
 DTSTART:20170518T140000Z
 DTEND:20170518T150000Z
-SUMMARY:On the Theory and Application of Early Warning Signals for Critical Transitions (Comprehensive Exam)
+DTSTAMP:20170518T140000Z
+UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
+DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
+ tical Transitions\nTom Bury\, Department of Applied Mathematics\nAbrupt an
+ d often irreversible transitions can be observed in a wide variety of syst
+ ems including ecological communities\, complex disease and social networks
+ . These so-called 'critical transitions' can be brought on by a gradual ch
+ ange in external conditions that quietly reduce the resilience of a system
+ . Despite their seemingly unpredictable nature\, generic early warning sig
+ nals have been proposed which\, once verified for a particular system\, co
+ uld provide the means for mitigating or even preventing unwanted transitio
+ ns. However\, in higher dimensions\, the typical early warning signals can
+  become amplified\, muted\, or even reversed\, due to the intricate variab
+ le interactions in the approach to the transition. In addition\, these mor
+ e complex systems can exhibit a wider variety of transitions to their simp
+ lified counterparts. This thesis aims to pin down the mechanisms that caus
+ e these particular alterations in early warning signals\, which may then w
+ ork in our favour by helping us characterise the transition being approach
+ ed. Working alongside models in the social\, ecological and biological sci
+ ences\, we hope to contribute the the challenging task of detecting nearby
+  critical transitions in these fields.
 LOCATION:MC 6460
-DESCRIPTION:On the Theory and Application of Early Warning Signals for Critical Transitions\nTom Bury, Department of Applied Mathematics\n\nAbrupt and often irreversible transitions can be observed in a wide variety of systems including ecological communities, complex disease and social networks. These so-called 'critical transitions' can be brought on by a gradual change in external conditions that quietly reduce the resilience of a system. Despite their seemingly unpredictable nature, generic early warning signals have been proposed which, once verified for a particular system, could provide the means for mitigating or even preventing unwanted transitions. However, in higher dimensions, the typical early warning signals can become amplified, muted, or even reversed, due to the intricate variable interactions in the approach to the transition. In addition, these more complex systems can exhibit a wider variety of transitions to their simplified counterparts. This thesis aims to pin down the mechanisms that cause these particular alterations in early warning signals, which may then work in our favour by helping us characterise the transition being approached. Working alongside models in the social, ecological and biological sciences, we hope to contribute the the challenging task of detecting nearby critical transitions in these fields.BEGIN:VEVENT
-DTSTAMP:20170616T140000Z
-UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium
+ )
 DTSTART:20170616T140000Z
 DTEND:20170616T150000Z
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium)
+DTSTAMP:20170616T140000Z
+UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
+DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry 
+ Lyons\, Oxford University\nRough path theory aims to build an effective ca
+ lculus that can model the interactions between complex oscillatory (rough)
+  evolving systems. At its mathematical foundations\, it is a combination o
+ f analysis blended with algebra that goes back to LC Young\, and to KT Che
+ n. Key to the theory is the essential need to incorporate additional non-c
+ ommutative structure into areas of mathematics we thought were stable. At 
+ its high points\, there are the regularity structures of Martin Hairer tha
+ t allow robust meaning to be given to numerous core nonlinear stochastic p
+ des describing evolving interfaces in physics.
 LOCATION:MC 6460
-DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry Lyons, Oxford University\n\nRough path theory aims to build an effective calculus that can model the interactions between complex oscillatory (rough) evolving systems. At its mathematical foundations, it is a combination of analysis blended with algebra that goes back to LC Young, and to KT Chen. Key to the theory is the essential need to incorporate additional non-commutative structure into areas of mathematics we thought were stable. At its high points, there are the regularity structures of Martin Hairer that allow robust meaning to be given to numerous core nonlinear stochastic pdes describing evolving interfaces in physics.
 END:VEVENT
 END:VCALENDAR
