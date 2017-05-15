@@ -3,26 +3,6 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:Summer heat overwinters in the Arctic Ocean (Colloquium)
-DTSTART:20170511T183000Z
-DTEND:20170511T193000Z
-DTSTAMP:20170511T183000Z
-UID:2017_11f096dde28ce60a1fd889b3849f8ad2.wnotice@math.uwaterloo.ca
-DESCRIPTION:Summer heat overwinters in the Arctic Ocean\nProfessor Mary-Lo
- uise Timmermans\, Yale University\n\nThe talk will address the implication
- s of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent yea
- rs\, atypically warm water layers have been observed at depth in the\nArct
- ic Ocean. These derive from intense summertime solar heating in expansive 
- ice-free\nregions. Heat that is stored in the shallow ocean can be release
- d in the fall and winter by\nshear-driven mixing\, and convective mixing b
- y the release of dense plumes during sea-ice\ngrowth\, reducing the net se
- a-ice growth. On the other hand\, deeper warm ocean layers\nremain unaffec
- ted. I'll show that under continued warming\, there exists the possibility
-  for a\nregime shift in ocean ventilation by these warm waters\, and a sub
- sequent cap on the storage\nof deep-ocean heat.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
   Particles with Layered Nano-structures (Comprehensive Exam)
 DTSTART:20170516T170000Z

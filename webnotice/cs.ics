@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
-SUMMARY:Contact Representation of Planar Graphs in 2D and 3D (Algorithms a
- nd Complexity Group Seminar)
-DTSTART:20170509T173000Z
-DTEND:20170509T183000Z
-DTSTAMP:20170509T173000Z
-UID:2017_52376fc8c757a1085a29f62cbe2f4aa8.wnotice@math.uwaterloo.ca
-DESCRIPTION:Contact Representation of Planar Graphs in 2D and 3D\nStephen 
- Kobourov\, Department of Computer Science\, University of Arizona\n\nIn a 
- proportional contact representation of a planar graph\, each vertex is rep
- resented by a simple polygon with area proportional to a given weight\, an
- d edges are represented by adjacencies between the corresponding pairs of 
- polygons. We show how to use Schnyder realizers and canonical orders for p
- lanar graphs to obtain different types of contact representations. Specifi
- cally\, we describe an algorithm that constructs proportional contact repr
- esentation for arbitrary planar graphs using 10-sided rectilinear polygons
- . We also describe a construction with 8-sided polygons\, which is optimal
-  in terms of polygonal complexity\, as 8-sided polygons are sometimes nece
- ssary. In 3D vertices are represented by polytopes and edges by contacts b
- etween the corresponding polytopes contacts. We show that planar 3-trees h
- ave contact representations with cubes and proportional contact representa
- tions with boxes.
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Challenges in Data Science (Computer Science Seminar)
-DTSTART:20170510T194500Z
-DTEND:20170510T204500Z
-DTSTAMP:20170510T194500Z
-UID:2017_b6decacdb2d575f7c889c75df8635f19.wnotice@math.uwaterloo.ca
-DESCRIPTION:Open Challenges in Data Science\nEugene Wen\, David Kierstead\
- n\nThe talk will be followed by a networking reception in MC 5501.\nManuli
- fes Advanced Analytics teams translate complex data into insights. We us
- e machine learning and other predictive modelling techniques to predict th
- e likelihood of future events and optimize outcomes. Four use cases we bel
- ieve data science can improve the customer experience are:
-LOCATION:MC 5501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DBMS as a Bioinformatics Application Platform (Bioinformatics Grou
- p Master's Essay Presentation)
-DTSTART:20170511T140000Z
-DTEND:20170511T150000Z
-DTSTAMP:20170511T140000Z
-UID:2017_58bcf53b944671afe4afc9fcf909cf72.wnotice@math.uwaterloo.ca
-DESCRIPTION:DBMS as a Bioinformatics Application Platform\nEvguenia Eflov\
- , David R. Cheriton School of Computer Science\n\nWith recent advancements
-  in technology\, bioinformatics applications have to process and manage co
- nstantly growing amounts of data. Applications developed for a single proc
- essing node may not be sufficient to handle the demands of the current dat
- a volume. Several processing frameworks that aim to overcome the limitatio
- ns of a single computer have been proposed and used\, with MapReduce\, MPI
-  and GPU-based being the most utilized. Of the three\, MapReduce is most f
- requently used in practice\; however\, there are limitations to usefulness
-  of the framework\, most notably\, the required structure of the applicati
- on tasks executed in the framework.
-LOCATION:DC 3317
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Genome Matrices and the Median Problem (Algorithms and Complexity 
  Group Seminar)
 DTSTART:20170517T173000Z
@@ -115,17 +57,17 @@ LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It (Crypt
- ography\, Security\, and Privacy (CrySP) Group Colloquium)
-DTSTART:20170616T180000Z
-DTEND:20170616T190000Z
-DTSTAMP:20170616T180000Z
+ ography\, Security\, and Privacy (CrySP) Group Seminar)
+DTSTART:20170616T143000Z
+DTEND:20170616T153000Z
+DTSTAMP:20170616T143000Z
 UID:2017_423f48310ef5d2058ea4f1d0f48b778f.wnotice@math.uwaterloo.ca
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
  rashant Nalini Vasudevan\, MIT\n\nWe present functions that are hard to co
  mpute on average for algorithms running in some fixed polynomial time\, as
  suming widely-conjectured worst-case hardness of certain problems from the
   study of fine-grained complexity.
-LOCATION:DC 2585
+LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Biologically Constrained Model of Semantic Memory Search (Artifi

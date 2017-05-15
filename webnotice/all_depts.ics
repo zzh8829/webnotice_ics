@@ -3,198 +3,21 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:Number Theory in Function Fields (Seminar)
-DTSTART:20170508T140000Z
-DTEND:20170508T150000Z
-DTSTAMP:20170508T140000Z
-UID:2017_d717d1ca9634647601703d14d199a51a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Number Theory in Function Fields\nWentang Kuo\, Department of 
- Pure Mathematics\, University of Waterloo\n\nNumber theory is a branch of 
- pure mathematics devoted\nprimarily to the study of the integers. Integers
-  can be\nconsidered either in themselves\, such as properties of\nprime nu
- mbers\, or as solutions to equations. The quotient\nfield of the ring of p
- olynomials is called the rational function\nfield. As the ring of polynomi
- als over a finite field shares\nsimilar arithmetic properties to the ring 
- of integers\,\nmany problems in integers have analogues for polynomials.\n
- In this talk\, we will use Fermat's last theorem and the\nprime number the
- orem as examples to discuss their analogues\nin polynomials. Also\, in spi
- te of similarities between rational\nnumbers and the rational function fie
- ld\, we will talk about\ndifferences and difficulties arising from problem
- s in these\ntwo settings.
+SUMMARY:The Hales-Jewett Theorem (Seminar)
+DTSTART:20170515T140000Z
+DTEND:20170515T150000Z
+DTSTAMP:20170515T140000Z
+UID:2017_3d49bf5605cb263a82d382e463a1f07c.wnotice@math.uwaterloo.ca
+DESCRIPTION:The Hales-Jewett Theorem\nShouzhen Gu\, Department of Pure Mat
+ hematics\, University of Waterloo\n\nWe give a proof of Schur's Theorem\, 
+ which states that if the\nintegers from 1 to $N$ are coloured using $r$ co
+ lours\, then for\nsufficiently large $N$\, there will be a monochromatic s
+ olution to $x+y=z$.\nThen\, we present the Hales-Jewett Theorem on the exi
+ stence of\nmonochromatic combinatorial lines in the integer points of a hy
+ percube of\nhigh enough dimension. As a corollary\, we can find monochroma
+ tic\narithmetic progressions of any given length in the integers from 1 to
+  $N$\nfor large enough $N$\, which demonstrates van der Waerden's Theorem.
 LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contact Representation of Planar Graphs in 2D and 3D (Algorithms a
- nd Complexity Group Seminar)
-DTSTART:20170509T173000Z
-DTEND:20170509T183000Z
-DTSTAMP:20170509T173000Z
-UID:2017_52376fc8c757a1085a29f62cbe2f4aa8.wnotice@math.uwaterloo.ca
-DESCRIPTION:Contact Representation of Planar Graphs in 2D and 3D\nStephen 
- Kobourov\, Department of Computer Science\, University of Arizona\n\nIn a 
- proportional contact representation of a planar graph\, each vertex is rep
- resented by a simple polygon with area proportional to a given weight\, an
- d edges are represented by adjacencies between the corresponding pairs of 
- polygons. We show how to use Schnyder realizers and canonical orders for p
- lanar graphs to obtain different types of contact representations. Specifi
- cally\, we describe an algorithm that constructs proportional contact repr
- esentation for arbitrary planar graphs using 10-sided rectilinear polygons
- . We also describe a construction with 8-sided polygons\, which is optimal
-  in terms of polygonal complexity\, as 8-sided polygons are sometimes nece
- ssary. In 3D vertices are represented by polytopes and edges by contacts b
- etween the corresponding polytopes contacts. We show that planar 3-trees h
- ave contact representations with cubes and proportional contact representa
- tions with boxes.
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Momentum and Position Forms (Seminar)
-DTSTART:20170509T183000Z
-DTEND:20170509T193000Z
-DTSTAMP:20170509T183000Z
-UID:2017_4704a3222af7e7c988e5124f5af215b7.wnotice@math.uwaterloo.ca
-DESCRIPTION:Momentum and Position Forms\nJonathan Herman\, Department of P
- ure Mathematics\, University of Waterloo\n\nWe first recall the theory of 
- the classical momentum and position functions on the phase space of a mani
- fold. The Poisson bracket relations between these functions form the bridg
- ing gap from classical to quantum mechanics. We extend the Poisson bracket
-  to multisymplectic geometry and show that a more general relationship hol
- ds between 'momentum and position forms' on an $n$-plectic manifold.
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muchnik and Medvedev Reducibilities (Seminar)
-DTSTART:20170509T193000Z
-DTEND:20170509T203000Z
-DTSTAMP:20170509T193000Z
-UID:2017_c3351cb381ee1d21d5ab90a10ed7bf0c.wnotice@math.uwaterloo.ca
-DESCRIPTION:Muchnik and Medvedev Reducibilities\nMohammad Mahmoud\, Depart
- ment of Pure Mathematics\, University of Waterloo\n\nEven though both redu
- cibilities seemed to behave in a similar way\, we could see (without proof
- )\, that they differ at how they get affected by adding a constant to the 
- structures. We give a proof this time and also show in another result that
-  the difference is more than just the reactions to adding constants. The l
- atter result will require a version of the Slaman-Wehner structure.
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Challenges in Data Science (Computer Science Seminar)
-DTSTART:20170510T194500Z
-DTEND:20170510T204500Z
-DTSTAMP:20170510T194500Z
-UID:2017_b6decacdb2d575f7c889c75df8635f19.wnotice@math.uwaterloo.ca
-DESCRIPTION:Open Challenges in Data Science\nEugene Wen\, David Kierstead\
- n\nThe talk will be followed by a networking reception in MC 5501.\nManuli
- fes Advanced Analytics teams translate complex data into insights. We us
- e machine learning and other predictive modelling techniques to predict th
- e likelihood of future events and optimize outcomes. Four use cases we bel
- ieve data science can improve the customer experience are:
-LOCATION:MC 5501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Tale of Two Parasites: how can Gaussian processes contribute to 
- improved public health in Africa? (Seminar)
-DTSTART:20170511T080000Z
-DTEND:20170511T090000Z
-DTSTAMP:20170511T080000Z
-UID:2017_4cc3e9f6cb32720db50952482feaae3a.wnotice@math.uwaterloo.ca
-DESCRIPTION:A Tale of Two Parasites: how can Gaussian processes contribute
-  to improved public health in Africa?\nProf. Peter Diggle\, Lancaster Univ
- ersity\n\nRefreshments will be provided.\nIn this talk\, I will rst make s
- ome general comments about the role of statistical modelling in scientic r
- esearch\, illustrated by two examples from infectious disease epidemiology
- . I will then describe in detail how statistical modelling based on Gaussi
- an spatial stochastic processes has been used to construct region-wide ris
- k maps to inform the operation of a multi-national control programme for o
- nchocerciasis (river blindness) in equatorial Africa. Finally\, I will des
- cribe work-in progress aimed at exploiting recent developments in mobile m
- icroscopy to enable more precise local predictions of community-level risk
- .
-LOCATION:STC 0050
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DBMS as a Bioinformatics Application Platform (Bioinformatics Grou
- p Master's Essay Presentation)
-DTSTART:20170511T140000Z
-DTEND:20170511T150000Z
-DTSTAMP:20170511T140000Z
-UID:2017_58bcf53b944671afe4afc9fcf909cf72.wnotice@math.uwaterloo.ca
-DESCRIPTION:DBMS as a Bioinformatics Application Platform\nEvguenia Eflov\
- , David R. Cheriton School of Computer Science\n\nWith recent advancements
-  in technology\, bioinformatics applications have to process and manage co
- nstantly growing amounts of data. Applications developed for a single proc
- essing node may not be sufficient to handle the demands of the current dat
- a volume. Several processing frameworks that aim to overcome the limitatio
- ns of a single computer have been proposed and used\, with MapReduce\, MPI
-  and GPU-based being the most utilized. Of the three\, MapReduce is most f
- requently used in practice\; however\, there are limitations to usefulness
-  of the framework\, most notably\, the required structure of the applicati
- on tasks executed in the framework.
-LOCATION:DC 3317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A new construction of compact G_2~manifolds by glueing Eguchi-Hans
- on spaces\, Part II: Modifying the identification with the normal bundle (
- Seminar)
-DTSTART:20170511T183000Z
-DTEND:20170511T193000Z
-DTSTAMP:20170511T183000Z
-UID:2017_3003f737b7bdd0d3cb378da755be0a80.wnotice@math.uwaterloo.ca
-DESCRIPTION:A new construction of compact G_2~manifolds by glueing Eguchi-
- Hanson spaces\, Part II: Modifying the identification with the normal bund
- le\nSpiro Karigiannis\, Department of Pure Mathematics\, University of Wat
- erloo\n\nThis is the second in a series of talks\, where I will go through
-  the details of my new construction with Dominic Joyce of smooth compact $
- G_2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this
-  glueing involves three pieces\, rather than two\, and two of the three pi
- eces \\emph{do not} admit natural torsion-free $G_2$~structures\, which ma
- kes the construction much more complicated than the only other existing co
- nstructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Pa
- cini (2003/2012). In the second talk\, I will discuss both modifying the c
- onnection on the normal bundle and the exponential map\, in order to kill 
- the leading errors in the torsion on the middle glueing piece. If time per
- mits we will discuss the next major component of the construction\, namely
-  the fibre-wise blow up of the orbifold to obtain a family of topologicall
- y Eguchi-Hanson spaces.
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer heat overwinters in the Arctic Ocean (Colloquium)
-DTSTART:20170511T183000Z
-DTEND:20170511T193000Z
-DTSTAMP:20170511T183000Z
-UID:2017_11f096dde28ce60a1fd889b3849f8ad2.wnotice@math.uwaterloo.ca
-DESCRIPTION:Summer heat overwinters in the Arctic Ocean\nProfessor Mary-Lo
- uise Timmermans\, Yale University\n\nThe talk will address the implication
- s of a warming Arctic Ocean on the overlying sea-ice\ncover. In recent yea
- rs\, atypically warm water layers have been observed at depth in the\nArct
- ic Ocean. These derive from intense summertime solar heating in expansive 
- ice-free\nregions. Heat that is stored in the shallow ocean can be release
- d in the fall and winter by\nshear-driven mixing\, and convective mixing b
- y the release of dense plumes during sea-ice\ngrowth\, reducing the net se
- a-ice growth. On the other hand\, deeper warm ocean layers\nremain unaffec
- ted. I'll show that under continued warming\, there exists the possibility
-  for a\nregime shift in ocean ventilation by these warm waters\, and a sub
- sequent cap on the storage\nof deep-ocean heat.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Line Search in Polymatroids (Colloquium)
-DTSTART:20170512T193000Z
-DTEND:20170512T203000Z
-DTSTAMP:20170512T193000Z
-UID:2017_98a0e3bba540c529613c16c476fa461d.wnotice@math.uwaterloo.ca
-DESCRIPTION:Line Search in Polymatroids\nDr. Michel Goemans\, Massachusett
- s Institute of Technology\n\nWe consider the classical problem of finding 
- the intersection of a line and an (extended) polymatroid in dimension n. W
- hen the direction of the line is nonnegative\, the problem is well-underst
- ood and the Discrete Newton method will require at most n trials. For gene
- ral directions\, however\, no bound (depending only on the dimension) was 
- known and we provide a quadratic upper bound. The analysis relies on sever
- al extremal results\, such as the length of the longest chain of ring fami
- lies (closed under intersection and union) or the length of the longest ge
- ometrically increasing sequence of values for a submodular function.
-LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
@@ -216,6 +39,20 @@ DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Faizrahmanov-Kalimullin Theorem (Seminar)
+DTSTART:20170516T193000Z
+DTEND:20170516T203000Z
+DTSTAMP:20170516T193000Z
+UID:2017_341de20f1661b2be0311275929b17c0a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Faizrahmanov-Kalimullin Theorem\nMohammad Mahmoud\, Department
+  of Pure Mathematics\, University of Waterloo\n\nThis week we finish the p
+ roof of Faizrahmanov-Kalimullin Theorem which says that there is a structu
+ re whose degree spectra is all the non-computable degrees\, but unlike the
+  Slaman-Wehner structure\, there is no uniform computable way that gives u
+ s a copy of the structure from any non-computable set.
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genome Matrices and the Median Problem (Algorithms and Complexity 
  Group Seminar)
 DTSTART:20170517T173000Z
@@ -228,6 +65,36 @@ DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
   follows: Given three genomes\, find a fourth that minimizes the sum of th
  e pairwise rearrangement distances between it and the three input genomes.
 LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A gentle overview of some quantum algebras\, quantum groups\, and 
+ their prime and primitive ideals (Seminar)
+DTSTART:20170517T193000Z
+DTEND:20170517T203000Z
+DTSTAMP:20170517T193000Z
+UID:2017_2082a8b3fa73260a9867de37710fadd3.wnotice@math.uwaterloo.ca
+DESCRIPTION:A gentle overview of some quantum algebras\, quantum groups\, 
+ and their prime and primitive ideals\nBrendan Nolan\, University of Kent\n
+ \nI will introduce some examples of quantum algebras and quantum groups\, 
+ outlining some behaviour which they share with their classical counterpart
+ s. I will discuss the Goodearl--Letzter stratification of quantum algebras
+  with respect to the actions of algebraic tori\, which gives deep insights
+  into the prime and primitive spectra of various quantum algebras.
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brun's Sieve (Seminar)
+DTSTART:20170517T210000Z
+DTEND:20170517T220000Z
+DTSTAMP:20170517T210000Z
+UID:2017_1bc8a16e28198a4ff5b93a131c9877aa.wnotice@math.uwaterloo.ca
+DESCRIPTION:Brun's Sieve\nErtan Elma\, Department of Pure Mathematics\, Un
+ iversity of Waterloo\n\nFirst\, we will have a look at Brun's Main Theorem
+  (section  \n6.2 of the book An Introduction to Sieve Methods and Their  \
+ nApplications\, by R. Murty\, C. Cojojaru) and then prove that there are  
+ \ninfinitely many natural numbers n such that n and n+2 have at most 7  \n
+ prime factors.
+LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:On the Theory and Application of Early Warning Signals for Critica
@@ -256,6 +123,22 @@ DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
  ciences\, we hope to contribute the the challenging task of detecting near
  by critical transitions in these fields.
 LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Affine-local properties (Seminar)
+DTSTART:20170518T183000Z
+DTEND:20170518T193000Z
+DTSTAMP:20170518T183000Z
+UID:2017_6cef8d03b79f80a07befe50c52d01f0f.wnotice@math.uwaterloo.ca
+DESCRIPTION:Affine-local properties\nDiana Castaneda Santos\, Department o
+ f Pure Mathematics\, University of Waterloo\n\nWe will continue working on
+  Section 5.3  of Ravi Vail's  \nnotes. Last time we discussed about the af
+ fine communication lemma.  \nNow\, we will use it to define properties on 
+ schemes that can be  \nverified locally on its affine pieces. Properties s
+ uch as being  \nNoetherian\, being reduced or being of finite type over a 
+ ring $A$\, can  \nbe verified in this way. Finally we will define affine a
+ nd projective  \nvarieties over a field $k$ and show examples of these.
+LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
@@ -316,6 +199,18 @@ DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Topological and fractal properties of non-integer base expansions 
+ (Seminar)
+DTSTART:20170523T193000Z
+DTEND:20170523T203000Z
+DTSTAMP:20170523T193000Z
+UID:2017_7630f6caa6452f01b06b7a1930fe8b9b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Topological and fractal properties of non-integer base expansi
+ ons\nVilmos Komornik\, University of Strasbourg\n\nGiven a base 1\\less q\
+ \le 2\, following Renyi (1957) we consider expansions of the form
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game 
  (Human-Computer Interaction PhD Seminar)
 DTSTART:20170524T140000Z
@@ -335,6 +230,29 @@ DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
  ith gold  a special in-game currency. Players earn gold by completing as
  signed readings.
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
+ etic Insights (Seminar)
+DTSTART:20170526T193000Z
+DTEND:20170526T203000Z
+DTSTAMP:20170526T193000Z
+UID:2017_78ab2191b787d6390484f2b62ccc8c24.wnotice@math.uwaterloo.ca
+DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
+ heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
+ hicago\n\nIn a typical routing problem\, we are given a graph G\, and a co
+ llection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, called deman
+ d pairs\, that we would like to route. In order to route a demand pair (s_
+ i\,t_i)\, we need to choose a path connecting s_i to t_i in G. Our goal is
+  usually to route as many of the demand pairs as possible\, while keeping 
+ the congestion of the routing - the maximum load on any vertex or an edge 
+ of G - as small as possible. This general framework gives rise to a number
+  of basic and widely studied graph routing problems\, that have lead to th
+ e development of a rich toolkit of algorithmic techniques\, as well as str
+ uctural graph theoretic results. In this talk we will describe some of the
+  recent developments in approximation algorithms for graph routing problem
+ s\, and highlight some connections between this area and graph theory.
+LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALGORAND\, A New Public Ledger (Distinguished Lecture Series Semin
@@ -375,17 +293,17 @@ LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It (Crypt
- ography\, Security\, and Privacy (CrySP) Group Colloquium)
-DTSTART:20170616T180000Z
-DTEND:20170616T190000Z
-DTSTAMP:20170616T180000Z
+ ography\, Security\, and Privacy (CrySP) Group Seminar)
+DTSTART:20170616T143000Z
+DTEND:20170616T153000Z
+DTSTAMP:20170616T143000Z
 UID:2017_423f48310ef5d2058ea4f1d0f48b778f.wnotice@math.uwaterloo.ca
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
  rashant Nalini Vasudevan\, MIT\n\nWe present functions that are hard to co
  mpute on average for algorithms running in some fixed polynomial time\, as
  suming widely-conjectured worst-case hardness of certain problems from the
   study of fine-grained complexity.
-LOCATION:DC 2585
+LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Biologically Constrained Model of Semantic Memory Search (Artifi

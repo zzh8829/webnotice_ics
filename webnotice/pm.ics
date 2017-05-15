@@ -3,80 +3,92 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Number Theory in Function Fields (Seminar)
-DTSTART:20170508T140000Z
-DTEND:20170508T150000Z
-DTSTAMP:20170508T140000Z
-UID:2017_d717d1ca9634647601703d14d199a51a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Number Theory in Function Fields\nWentang Kuo\, Department of 
- Pure Mathematics\, University of Waterloo\n\nNumber theory is a branch of 
- pure mathematics devoted\nprimarily to the study of the integers. Integers
-  can be\nconsidered either in themselves\, such as properties of\nprime nu
- mbers\, or as solutions to equations. The quotient\nfield of the ring of p
- olynomials is called the rational function\nfield. As the ring of polynomi
- als over a finite field shares\nsimilar arithmetic properties to the ring 
- of integers\,\nmany problems in integers have analogues for polynomials.\n
- In this talk\, we will use Fermat's last theorem and the\nprime number the
- orem as examples to discuss their analogues\nin polynomials. Also\, in spi
- te of similarities between rational\nnumbers and the rational function fie
- ld\, we will talk about\ndifferences and difficulties arising from problem
- s in these\ntwo settings.
+SUMMARY:The Hales-Jewett Theorem (Seminar)
+DTSTART:20170515T140000Z
+DTEND:20170515T150000Z
+DTSTAMP:20170515T140000Z
+UID:2017_3d49bf5605cb263a82d382e463a1f07c.wnotice@math.uwaterloo.ca
+DESCRIPTION:The Hales-Jewett Theorem\nShouzhen Gu\, Department of Pure Mat
+ hematics\, University of Waterloo\n\nWe give a proof of Schur's Theorem\, 
+ which states that if the\nintegers from 1 to $N$ are coloured using $r$ co
+ lours\, then for\nsufficiently large $N$\, there will be a monochromatic s
+ olution to $x+y=z$.\nThen\, we present the Hales-Jewett Theorem on the exi
+ stence of\nmonochromatic combinatorial lines in the integer points of a hy
+ percube of\nhigh enough dimension. As a corollary\, we can find monochroma
+ tic\narithmetic progressions of any given length in the integers from 1 to
+  $N$\nfor large enough $N$\, which demonstrates van der Waerden's Theorem.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Momentum and Position Forms (Seminar)
-DTSTART:20170509T183000Z
-DTEND:20170509T193000Z
-DTSTAMP:20170509T183000Z
-UID:2017_4704a3222af7e7c988e5124f5af215b7.wnotice@math.uwaterloo.ca
-DESCRIPTION:Momentum and Position Forms\nJonathan Herman\, Department of P
- ure Mathematics\, University of Waterloo\n\nWe first recall the theory of 
- the classical momentum and position functions on the phase space of a mani
- fold. The Poisson bracket relations between these functions form the bridg
- ing gap from classical to quantum mechanics. We extend the Poisson bracket
-  to multisymplectic geometry and show that a more general relationship hol
- ds between 'momentum and position forms' on an $n$-plectic manifold.
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muchnik and Medvedev Reducibilities (Seminar)
-DTSTART:20170509T193000Z
-DTEND:20170509T203000Z
-DTSTAMP:20170509T193000Z
-UID:2017_c3351cb381ee1d21d5ab90a10ed7bf0c.wnotice@math.uwaterloo.ca
-DESCRIPTION:Muchnik and Medvedev Reducibilities\nMohammad Mahmoud\, Depart
- ment of Pure Mathematics\, University of Waterloo\n\nEven though both redu
- cibilities seemed to behave in a similar way\, we could see (without proof
- )\, that they differ at how they get affected by adding a constant to the 
- structures. We give a proof this time and also show in another result that
-  the difference is more than just the reactions to adding constants. The l
- atter result will require a version of the Slaman-Wehner structure.
+SUMMARY:Faizrahmanov-Kalimullin Theorem (Seminar)
+DTSTART:20170516T193000Z
+DTEND:20170516T203000Z
+DTSTAMP:20170516T193000Z
+UID:2017_341de20f1661b2be0311275929b17c0a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Faizrahmanov-Kalimullin Theorem\nMohammad Mahmoud\, Department
+  of Pure Mathematics\, University of Waterloo\n\nThis week we finish the p
+ roof of Faizrahmanov-Kalimullin Theorem which says that there is a structu
+ re whose degree spectra is all the non-computable degrees\, but unlike the
+  Slaman-Wehner structure\, there is no uniform computable way that gives u
+ s a copy of the structure from any non-computable set.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A new construction of compact G_2~manifolds by glueing Eguchi-Hans
- on spaces\, Part II: Modifying the identification with the normal bundle (
- Seminar)
-DTSTART:20170511T183000Z
-DTEND:20170511T193000Z
-DTSTAMP:20170511T183000Z
-UID:2017_3003f737b7bdd0d3cb378da755be0a80.wnotice@math.uwaterloo.ca
-DESCRIPTION:A new construction of compact G_2~manifolds by glueing Eguchi-
- Hanson spaces\, Part II: Modifying the identification with the normal bund
- le\nSpiro Karigiannis\, Department of Pure Mathematics\, University of Wat
- erloo\n\nThis is the second in a series of talks\, where I will go through
-  the details of my new construction with Dominic Joyce of smooth compact $
- G_2$~manifolds by glueing families of Eguchi-Hanson spaces. In fact\, this
-  glueing involves three pieces\, rather than two\, and two of the three pi
- eces \\emph{do not} admit natural torsion-free $G_2$~structures\, which ma
- kes the construction much more complicated than the only other existing co
- nstructions\, by Joyce (1994) and by Kovalev/Corti-Haskins-Nordstr\\"om-Pa
- cini (2003/2012). In the second talk\, I will discuss both modifying the c
- onnection on the normal bundle and the exponential map\, in order to kill 
- the leading errors in the torsion on the middle glueing piece. If time per
- mits we will discuss the next major component of the construction\, namely
-  the fibre-wise blow up of the orbifold to obtain a family of topologicall
- y Eguchi-Hanson spaces.
-LOCATION:MC 5479
+SUMMARY:A gentle overview of some quantum algebras\, quantum groups\, and 
+ their prime and primitive ideals (Seminar)
+DTSTART:20170517T193000Z
+DTEND:20170517T203000Z
+DTSTAMP:20170517T193000Z
+UID:2017_2082a8b3fa73260a9867de37710fadd3.wnotice@math.uwaterloo.ca
+DESCRIPTION:A gentle overview of some quantum algebras\, quantum groups\, 
+ and their prime and primitive ideals\nBrendan Nolan\, University of Kent\n
+ \nI will introduce some examples of quantum algebras and quantum groups\, 
+ outlining some behaviour which they share with their classical counterpart
+ s. I will discuss the Goodearl--Letzter stratification of quantum algebras
+  with respect to the actions of algebraic tori\, which gives deep insights
+  into the prime and primitive spectra of various quantum algebras.
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brun's Sieve (Seminar)
+DTSTART:20170517T210000Z
+DTEND:20170517T220000Z
+DTSTAMP:20170517T210000Z
+UID:2017_1bc8a16e28198a4ff5b93a131c9877aa.wnotice@math.uwaterloo.ca
+DESCRIPTION:Brun's Sieve\nErtan Elma\, Department of Pure Mathematics\, Un
+ iversity of Waterloo\n\nFirst\, we will have a look at Brun's Main Theorem
+  (section  \n6.2 of the book An Introduction to Sieve Methods and Their  \
+ nApplications\, by R. Murty\, C. Cojojaru) and then prove that there are  
+ \ninfinitely many natural numbers n such that n and n+2 have at most 7  \n
+ prime factors.
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Affine-local properties (Seminar)
+DTSTART:20170518T183000Z
+DTEND:20170518T193000Z
+DTSTAMP:20170518T183000Z
+UID:2017_6cef8d03b79f80a07befe50c52d01f0f.wnotice@math.uwaterloo.ca
+DESCRIPTION:Affine-local properties\nDiana Castaneda Santos\, Department o
+ f Pure Mathematics\, University of Waterloo\n\nWe will continue working on
+  Section 5.3  of Ravi Vail's  \nnotes. Last time we discussed about the af
+ fine communication lemma.  \nNow\, we will use it to define properties on 
+ schemes that can be  \nverified locally on its affine pieces. Properties s
+ uch as being  \nNoetherian\, being reduced or being of finite type over a 
+ ring $A$\, can  \nbe verified in this way. Finally we will define affine a
+ nd projective  \nvarieties over a field $k$ and show examples of these.
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topological and fractal properties of non-integer base expansions 
+ (Seminar)
+DTSTART:20170523T193000Z
+DTEND:20170523T203000Z
+DTSTAMP:20170523T193000Z
+UID:2017_7630f6caa6452f01b06b7a1930fe8b9b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Topological and fractal properties of non-integer base expansi
+ ons\nVilmos Komornik\, University of Strasbourg\n\nGiven a base 1\\less q\
+ \le 2\, following Renyi (1957) we consider expansions of the form
+LOCATION:MC 5417
 END:VEVENT
 END:VCALENDAR

@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Line Search in Polymatroids (Colloquium)
-DTSTART:20170512T193000Z
-DTEND:20170512T203000Z
-DTSTAMP:20170512T193000Z
-UID:2017_98a0e3bba540c529613c16c476fa461d.wnotice@math.uwaterloo.ca
-DESCRIPTION:Line Search in Polymatroids\nDr. Michel Goemans\, Massachusett
- s Institute of Technology\n\nWe consider the classical problem of finding 
- the intersection of a line and an (extended) polymatroid in dimension n. W
- hen the direction of the line is nonnegative\, the problem is well-underst
- ood and the Discrete Newton method will require at most n trials. For gene
- ral directions\, however\, no bound (depending only on the dimension) was 
- known and we provide a quadratic upper bound. The analysis relies on sever
- al extremal results\, such as the length of the longest chain of ring fami
- lies (closed under intersection and union) or the length of the longest ge
- ometrically increasing sequence of values for a submodular function.
-LOCATION:Math & Computer\, Room 5501
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
  )
 DTSTART:20170518T183000Z
@@ -76,6 +58,29 @@ DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
  stice to all of Bill's mathematical contributions in a single colloquium\,
   this talk will concentrate on those contributions that lie on the interfa
  ce between graph theory and matroid theory.
+LOCATION:Math & Computer\, Room 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
+ etic Insights (Seminar)
+DTSTART:20170526T193000Z
+DTEND:20170526T203000Z
+DTSTAMP:20170526T193000Z
+UID:2017_78ab2191b787d6390484f2b62ccc8c24.wnotice@math.uwaterloo.ca
+DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
+ heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
+ hicago\n\nIn a typical routing problem\, we are given a graph G\, and a co
+ llection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, called deman
+ d pairs\, that we would like to route. In order to route a demand pair (s_
+ i\,t_i)\, we need to choose a path connecting s_i to t_i in G. Our goal is
+  usually to route as many of the demand pairs as possible\, while keeping 
+ the congestion of the routing - the maximum load on any vertex or an edge 
+ of G - as small as possible. This general framework gives rise to a number
+  of basic and widely studied graph routing problems\, that have lead to th
+ e development of a rich toolkit of algorithmic techniques\, as well as str
+ uctural graph theoretic results. In this talk we will describe some of the
+  recent developments in approximation algorithms for graph routing problem
+ s\, and highlight some connections between this area and graph theory.
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 END:VCALENDAR

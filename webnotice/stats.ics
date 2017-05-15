@@ -2,25 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
-BEGIN:VEVENT
-SUMMARY:A Tale of Two Parasites: how can Gaussian processes contribute to 
- improved public health in Africa? (Seminar)
-DTSTART:20170511T080000Z
-DTEND:20170511T090000Z
-DTSTAMP:20170511T080000Z
-UID:2017_4cc3e9f6cb32720db50952482feaae3a.wnotice@math.uwaterloo.ca
-DESCRIPTION:A Tale of Two Parasites: how can Gaussian processes contribute
-  to improved public health in Africa?\nProf. Peter Diggle\, Lancaster Univ
- ersity\n\nRefreshments will be provided.\nIn this talk\, I will rst make s
- ome general comments about the role of statistical modelling in scientic r
- esearch\, illustrated by two examples from infectious disease epidemiology
- . I will then describe in detail how statistical modelling based on Gaussi
- an spatial stochastic processes has been used to construct region-wide ris
- k maps to inform the operation of a multi-national control programme for o
- nchocerciasis (river blindness) in equatorial Africa. Finally\, I will des
- cribe work-in progress aimed at exploiting recent developments in mobile m
- icroscopy to enable more precise local predictions of community-level risk
- .
-LOCATION:STC 0050
-END:VEVENT
 END:VCALENDAR
