@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
-SUMMARY:Genome Matrices and the Median Problem (Algorithms and Complexity 
- Group Seminar)
-DTSTART:20170517T173000Z
-DTEND:20170517T183000Z
-DTSTAMP:20170517T173000Z
-UID:2017_02f363c6a4b0b0c683fb7d1fe84885cb.wnotice@math.uwaterloo.ca
-DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
- sity of Campinas\n\nThe genome median problem is an important problem in p
- hylogenetic reconstruction under rearrangement models. It can be stated as
-  follows: Given three genomes\, find a fourth that minimizes the sum of th
- e pairwise rearrangement distances between it and the three input genomes.
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game 
  (Human-Computer Interaction PhD Seminar)
 DTSTART:20170524T140000Z
@@ -35,6 +21,43 @@ DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
  , but has special advanced actions and decorations that can be purchased w
  ith gold  a special in-game currency. Players earn gold by completing as
  signed readings.
+LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continuous Affect Prediction from Different Features and Modeling 
+ Approaches in Evaluation-Power-Activity Space (Artificial Intelligence Lab
+  Master's Thesis Presentation)
+DTSTART:20170531T170000Z
+DTEND:20170531T180000Z
+DTSTAMP:20170531T170000Z
+UID:2017_d2e15359ab343b56b56ce140b3014776.wnotice@math.uwaterloo.ca
+DESCRIPTION:Continuous Affect Prediction from Different Features and Model
+ ing Approaches in Evaluation-Power-Activity Space\nZhengkun Shang\, David 
+ R. Cheriton School of Computer Science\n\nTo come...
+LOCATION:DC 3126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
+ tial Observability (Master's Thesis Presentation)
+DTSTART:20170606T140000Z
+DTEND:20170606T150000Z
+DTSTAMP:20170606T140000Z
+UID:2017_57cd53e80cf64d65466e79f4d96b694b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Hierarchical Task Recognition and Planning in Smart Homes with
+  Partial Observability\nDan Wang\, David R. Cheriton School of Computer Sc
+ ience\n
+LOCATION:DC 2102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
+  and Lattice Path Enumeration (Symbolic Computation Group PhD Defence)
+DTSTART:20170613T140000Z
+DTEND:20170613T150000Z
+DTSTAMP:20170613T140000Z
+UID:2017_d02522bd0f11207e3a48bf954602aba9.wnotice@math.uwaterloo.ca
+DESCRIPTION:Analytic Combinatorics in Several Variables: Effective Asympto
+ tics and Lattice Path Enumeration\nStephen Melczer\, David R. Cheriton Sch
+ ool of Computer Science\n\nTo come...
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT

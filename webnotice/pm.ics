@@ -3,80 +3,52 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:The Hales-Jewett Theorem (Seminar)
-DTSTART:20170515T140000Z
-DTEND:20170515T150000Z
-DTSTAMP:20170515T140000Z
-UID:2017_3d49bf5605cb263a82d382e463a1f07c.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Hales-Jewett Theorem\nShouzhen Gu\, Department of Pure Mat
- hematics\, University of Waterloo\n\nWe give a proof of Schur's Theorem\, 
- which states that if the\nintegers from 1 to $N$ are coloured using $r$ co
- lours\, then for\nsufficiently large $N$\, there will be a monochromatic s
- olution to $x+y=z$.\nThen\, we present the Hales-Jewett Theorem on the exi
- stence of\nmonochromatic combinatorial lines in the integer points of a hy
- percube of\nhigh enough dimension. As a corollary\, we can find monochroma
- tic\narithmetic progressions of any given length in the integers from 1 to
-  $N$\nfor large enough $N$\, which demonstrates van der Waerden's Theorem.
+SUMMARY:Computable Functors and Effective Interpretability (Computabil
+ ity Learning Seminar)
+DTSTART:20170523T150000Z
+DTEND:20170523T160000Z
+DTSTAMP:20170523T150000Z
+UID:2017_c0d2833c87473f9504d8bb93ba698200.wnotice@math.uwaterloo.ca
+DESCRIPTION:Computable Functors and Effective Interpretability\nMichae
+ l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\n\nWe
+  introduce the notion of a computable functor and the definition of effect
+ ive inter- pretability. The former is a computable analogue of a category-
+ theoretic functor between ω-presentations of structures\, and the latter 
+ is an effective version of model-theoretic inter- pretability. We show tha
+ t effective interpretations induce computable functors\, and briefly menti
+ on the converse.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Faizrahmanov-Kalimullin Theorem (Seminar)
-DTSTART:20170516T193000Z
-DTEND:20170516T203000Z
-DTSTAMP:20170516T193000Z
-UID:2017_341de20f1661b2be0311275929b17c0a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Faizrahmanov-Kalimullin Theorem\nMohammad Mahmoud\, Department
-  of Pure Mathematics\, University of Waterloo\n\nThis week we finish the p
- roof of Faizrahmanov-Kalimullin Theorem which says that there is a structu
- re whose degree spectra is all the non-computable degrees\, but unlike the
-  Slaman-Wehner structure\, there is no uniform computable way that gives u
- s a copy of the structure from any non-computable set.
+SUMMARY:Applications of the zeta function over function fields. (Stude
+ nt Number Theory Seminars Seminar)
+DTSTART:20170523T153000Z
+DTEND:20170523T163000Z
+DTSTAMP:20170523T153000Z
+UID:2017_0362c5cdd46e28eee2ea80ecf61e804e.wnotice@math.uwaterloo.ca
+DESCRIPTION:Applications of the zeta function over function fields.\nS
+ tephen Wen\, Department of Pure Mathematics\, University of Waterloo\n\nWe
+  provide a proof of the Prime Number Theorem over function fields. We exam
+ ine and extend techniques used in a zeta function proof of the theorem to 
+ other applications such as counting square- and higher power- free polynom
+ ials of a given degree. If time permits\, Dirichlet Series will be in- tro
+ duced with an aim towards proving the analogue of Dirichlets Theorem on pr
+ imes in arithmetic progressions.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A gentle overview of some quantum algebras\, quantum groups\, and 
- their prime and primitive ideals (Seminar)
-DTSTART:20170517T193000Z
-DTEND:20170517T203000Z
-DTSTAMP:20170517T193000Z
-UID:2017_2082a8b3fa73260a9867de37710fadd3.wnotice@math.uwaterloo.ca
-DESCRIPTION:A gentle overview of some quantum algebras\, quantum groups\, 
- and their prime and primitive ideals\nBrendan Nolan\, University of Kent\n
- \nI will introduce some examples of quantum algebras and quantum groups\, 
- outlining some behaviour which they share with their classical counterpart
- s. I will discuss the Goodearl--Letzter stratification of quantum algebras
-  with respect to the actions of algebraic tori\, which gives deep insights
-  into the prime and primitive spectra of various quantum algebras.
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brun's Sieve (Seminar)
-DTSTART:20170517T210000Z
-DTEND:20170517T220000Z
-DTSTAMP:20170517T210000Z
-UID:2017_1bc8a16e28198a4ff5b93a131c9877aa.wnotice@math.uwaterloo.ca
-DESCRIPTION:Brun's Sieve\nErtan Elma\, Department of Pure Mathematics\, Un
- iversity of Waterloo\n\nFirst\, we will have a look at Brun's Main Theorem
-  (section  \n6.2 of the book An Introduction to Sieve Methods and Their  \
- nApplications\, by R. Murty\, C. Cojojaru) and then prove that there are  
- \ninfinitely many natural numbers n such that n and n+2 have at most 7  \n
- prime factors.
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Affine-local properties (Seminar)
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_6cef8d03b79f80a07befe50c52d01f0f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Affine-local properties\nDiana Castaneda Santos\, Department o
- f Pure Mathematics\, University of Waterloo\n\nWe will continue working on
-  Section 5.3  of Ravi Vail's  \nnotes. Last time we discussed about the af
- fine communication lemma.  \nNow\, we will use it to define properties on 
- schemes that can be  \nverified locally on its affine pieces. Properties s
- uch as being  \nNoetherian\, being reduced or being of finite type over a 
- ring $A$\, can  \nbe verified in this way. Finally we will define affine a
- nd projective  \nvarieties over a field $k$ and show examples of these.
+SUMMARY:The Spencer Complex Part 3 (Geometry Working Seminar)
+DTSTART:20170523T183000Z
+DTEND:20170523T193000Z
+DTSTAMP:20170523T183000Z
+UID:2017_deac39a119eb9b748be831a2688a41a7.wnotice@math.uwaterloo.ca
+DESCRIPTION:The Spencer Complex Part 3\nAnthony McCormick\,\, Departme
+ nt of Pure Mathematics\, University of Waterloo\n\nWe will begin our const
+ ruction of resolutions of the sheaf kernel of a linear partial differentia
+ l operator between vector bundles. Furthermore\, we will discuss some of t
+ he connections and interpretations of these resolutions in terms of deform
+ ation theory\, and outline how they can be applied to the integrability pr
+ oblem for G-structures.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
@@ -90,5 +62,25 @@ DESCRIPTION:Topological and fractal properties of non-integer base expansi
  ons\nVilmos Komornik\, University of Strasbourg\n\nGiven a base 1\\less q\
  \le 2\, following Renyi (1957) we consider expansions of the form
 LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A new construction of compact G2 manifolds by glueing Eguchi-Han
+ son spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson spac
+ es (Geometry Working Seminar)
+DTSTART:20170525T183000Z
+DTEND:20170525T193000Z
+DTSTAMP:20170525T183000Z
+UID:2017_a35237d0dfac71463bb96e975c5eaeb9.wnotice@math.uwaterloo.ca
+DESCRIPTION:A new construction of compact G2 manifolds by glueing Eguchi
+ -Hanson spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson 
+ spaces\nSpiro Karigiannis\, Department of Pure Mathematics\, University 
+ of Waterloo\n\nWe move on to the second of four main steps of the construc
+ tion: resolving the orbifold singularities by performing a fibre-wise blow
+  up. The important point is that there is no natural torsion-free G2 struc
+ ture on this third glueing region. The natural G2 structure is not even cl
+ osed. There is a natural way to correct it to be closed\, which we will di
+ scuss. The third step is correcting this further to remove the leading err
+ or term in the torsion\, which is the third main step.
+LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR

@@ -3,53 +3,6 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
-  Particles with Layered Nano-structures (Comprehensive Exam)
-DTSTART:20170516T170000Z
-DTEND:20170516T180000Z
-DTSTAMP:20170516T170000Z
-UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
- rged Particles with Layered Nano-structures\nKamran Akbari\, Department of
-  Applied Mathematics\n\nThe study of the interaction of relativistic charg
- ed particles with matter at the nano-scale is important since it is at the
-  core of many problems in Electromagnetic Theory\, Condensed Matter Physic
- s\, Nano-science and Technology\, Mathematical Physics\, Electrical Engine
- ering\, and Material Science. One of the most import configurations for su
- ch interactions arises in the context of electron-energy-loss spectroscopy
-  (EELS) of nano-meter sized specimens within transmission electron microsc
- ope.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Theory and Application of Early Warning Signals for Critica
- l Transitions (Comprehensive Exam)
-DTSTART:20170518T140000Z
-DTEND:20170518T150000Z
-DTSTAMP:20170518T140000Z
-UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
-DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
- tical Transitions\nTom Bury\, Department of Applied Mathematics\n\nAbrupt 
- and often irreversible transitions can be observed in a wide variety of sy
- stems including ecological communities\, complex disease and social networ
- ks. These so-called 'critical transitions' can be brought on by a gradual 
- change in external conditions that quietly reduce the resilience of a syst
- em. Despite their seemingly unpredictable nature\, generic early warning s
- ignals have been proposed which\, once verified for a particular system\, 
- could provide the means for mitigating or even preventing unwanted transit
- ions. However\, in higher dimensions\, the typical early warning signals c
- an become amplified\, muted\, or even reversed\, due to the intricate vari
- able interactions in the approach to the transition. In addition\, these m
- ore complex systems can exhibit a wider variety of transitions to their si
- mplified counterparts. This thesis aims to pin down the mechanisms that ca
- use these particular alterations in early warning signals\, which may then
-  work in our favour by helping us characterise the transition being approa
- ched. Working alongside models in the social\, ecological and biological s
- ciences\, we hope to contribute the the challenging task of detecting near
- by critical transitions in these fields.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium
  )
 DTSTART:20170616T140000Z

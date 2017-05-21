@@ -3,62 +3,30 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
- )
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr.
-  David Wagner\, University of Waterloo\n\nThe Heilmann-Lieb Theorem on mat
- ching polynomials gives detailed information about the location of zeros o
- f the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of
-  $k$-edge matchings of a graph $G$.  It has a stronger multivariate versio
- n. I will describe a general method which produces theorems of this type\,
-  with the set of matchings of $G$ replaced by the set of $(f\,g)$-factors 
- of $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\
- emph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\d
- eg(H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is 
- the case $f\\equiv 0$ and $g\\equiv 1$.)
+SUMMARY:Polynomials of graphs (Seminar)
+DTSTART:20170525T183000Z
+DTEND:20170525T193000Z
+DTSTAMP:20170525T183000Z
+UID:2017_8558e91f973126d0e625234c63cebe7b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Polynomials of graphs\nKrystal Guo\, University of Waterloo\n\
+ nThe characteristic polynomials and matching polynomials of a graph are we
+ ll-known graph polynomials. We study a more general graph polynomial\, whi
+ ch attains both of the polynomials in special contexts\, using a construct
+ ion from graph embeddings. The underlying theory uses Viennot's theory of 
+ heaps.
 LOCATION:Math & Computer\, Room 6486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Some connectivity results for 2-polymatroids (Seminar)
-DTSTART:20170518T193000Z
-DTEND:20170518T203000Z
-DTSTAMP:20170518T193000Z
-UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley\, Lo
- uisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$
- \, let $r(X)$ be the number of vertices incident with some edge in $X$.  F
- rom the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one 
- can detemine $G$ up to isolated vertices and one can recognize matchings i
- n $G$. The cycle matroid in $G$ does not allow the determination of either
-  of these things. Loosely speaking\, a $2$-polymatroid is like a matroid e
- xcept that individual elements can have rank $2$ instead of just $0$ or $1
- $. In joint work with Charles Semple and Geoff Whittle\, the speaker has b
- een seeking connectivity results for $2$-polymatroids that resemble corres
- ponding results for matroids.
+SUMMARY:Matroids doing algebra (Seminar)
+DTSTART:20170525T193000Z
+DTEND:20170525T203000Z
+DTSTAMP:20170525T193000Z
+UID:2017_432010d464a1634658c94ca28f230d3a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Matroids doing algebra\nJim Geelen\, University of Waterloo\n\
+ nWe describe a folklore construction for encoding a Diophantine equation i
+ nto a matroid and state a conjecture which\, if true\, would give a novel 
+ way of solving Diophantine equations over the reals.
 LOCATION:Math & Computer\, Room 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mathematical Contributions of W.T. Tutte (Colloquium)
-DTSTART:20170519T193000Z
-DTEND:20170519T203000Z
-DTSTAMP:20170519T193000Z
-UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
- , Louisiana State University\n\n"If a theorem about graphs can be expresse
- d in terms of edges and circuits only it probably exemplifies a more gener
- al theorem about matroids". Bill Tutte wrote these words in a commentary o
- n his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write 
- that a "belief in this general principle" led him to seek a matroid genera
- lization of his 1961 theorem that distinguishes the special role that whee
- ls play among 3-connected graphs. Because of the impossibility of doing ju
- stice to all of Bill's mathematical contributions in a single colloquium\,
-  this talk will concentrate on those contributions that lie on the interfa
- ce between graph theory and matroid theory.
-LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor

@@ -3,200 +3,53 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:The Hales-Jewett Theorem (Seminar)
-DTSTART:20170515T140000Z
-DTEND:20170515T150000Z
-DTSTAMP:20170515T140000Z
-UID:2017_3d49bf5605cb263a82d382e463a1f07c.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Hales-Jewett Theorem\nShouzhen Gu\, Department of Pure Mat
- hematics\, University of Waterloo\n\nWe give a proof of Schur's Theorem\, 
- which states that if the\nintegers from 1 to $N$ are coloured using $r$ co
- lours\, then for\nsufficiently large $N$\, there will be a monochromatic s
- olution to $x+y=z$.\nThen\, we present the Hales-Jewett Theorem on the exi
- stence of\nmonochromatic combinatorial lines in the integer points of a hy
- percube of\nhigh enough dimension. As a corollary\, we can find monochroma
- tic\narithmetic progressions of any given length in the integers from 1 to
-  $N$\nfor large enough $N$\, which demonstrates van der Waerden's Theorem.
+SUMMARY:Computable Functors and Effective Interpretability (Computabil
+ ity Learning Seminar)
+DTSTART:20170523T150000Z
+DTEND:20170523T160000Z
+DTSTAMP:20170523T150000Z
+UID:2017_c0d2833c87473f9504d8bb93ba698200.wnotice@math.uwaterloo.ca
+DESCRIPTION:Computable Functors and Effective Interpretability\nMichae
+ l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\n\nWe
+  introduce the notion of a computable functor and the definition of effect
+ ive inter- pretability. The former is a computable analogue of a category-
+ theoretic functor between ω-presentations of structures\, and the latter 
+ is an effective version of model-theoretic inter- pretability. We show tha
+ t effective interpretations induce computable functors\, and briefly menti
+ on the converse.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
-  Particles with Layered Nano-structures (Comprehensive Exam)
-DTSTART:20170516T170000Z
-DTEND:20170516T180000Z
-DTSTAMP:20170516T170000Z
-UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
- rged Particles with Layered Nano-structures\nKamran Akbari\, Department of
-  Applied Mathematics\n\nThe study of the interaction of relativistic charg
- ed particles with matter at the nano-scale is important since it is at the
-  core of many problems in Electromagnetic Theory\, Condensed Matter Physic
- s\, Nano-science and Technology\, Mathematical Physics\, Electrical Engine
- ering\, and Material Science. One of the most import configurations for su
- ch interactions arises in the context of electron-energy-loss spectroscopy
-  (EELS) of nano-meter sized specimens within transmission electron microsc
- ope.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faizrahmanov-Kalimullin Theorem (Seminar)
-DTSTART:20170516T193000Z
-DTEND:20170516T203000Z
-DTSTAMP:20170516T193000Z
-UID:2017_341de20f1661b2be0311275929b17c0a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Faizrahmanov-Kalimullin Theorem\nMohammad Mahmoud\, Department
-  of Pure Mathematics\, University of Waterloo\n\nThis week we finish the p
- roof of Faizrahmanov-Kalimullin Theorem which says that there is a structu
- re whose degree spectra is all the non-computable degrees\, but unlike the
-  Slaman-Wehner structure\, there is no uniform computable way that gives u
- s a copy of the structure from any non-computable set.
+SUMMARY:Applications of the zeta function over function fields. (Stude
+ nt Number Theory Seminars Seminar)
+DTSTART:20170523T153000Z
+DTEND:20170523T163000Z
+DTSTAMP:20170523T153000Z
+UID:2017_0362c5cdd46e28eee2ea80ecf61e804e.wnotice@math.uwaterloo.ca
+DESCRIPTION:Applications of the zeta function over function fields.\nS
+ tephen Wen\, Department of Pure Mathematics\, University of Waterloo\n\nWe
+  provide a proof of the Prime Number Theorem over function fields. We exam
+ ine and extend techniques used in a zeta function proof of the theorem to 
+ other applications such as counting square- and higher power- free polynom
+ ials of a given degree. If time permits\, Dirichlet Series will be in- tro
+ duced with an aim towards proving the analogue of Dirichlets Theorem on pr
+ imes in arithmetic progressions.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genome Matrices and the Median Problem (Algorithms and Complexity 
- Group Seminar)
-DTSTART:20170517T173000Z
-DTEND:20170517T183000Z
-DTSTAMP:20170517T173000Z
-UID:2017_02f363c6a4b0b0c683fb7d1fe84885cb.wnotice@math.uwaterloo.ca
-DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
- sity of Campinas\n\nThe genome median problem is an important problem in p
- hylogenetic reconstruction under rearrangement models. It can be stated as
-  follows: Given three genomes\, find a fourth that minimizes the sum of th
- e pairwise rearrangement distances between it and the three input genomes.
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A gentle overview of some quantum algebras\, quantum groups\, and 
- their prime and primitive ideals (Seminar)
-DTSTART:20170517T193000Z
-DTEND:20170517T203000Z
-DTSTAMP:20170517T193000Z
-UID:2017_2082a8b3fa73260a9867de37710fadd3.wnotice@math.uwaterloo.ca
-DESCRIPTION:A gentle overview of some quantum algebras\, quantum groups\, 
- and their prime and primitive ideals\nBrendan Nolan\, University of Kent\n
- \nI will introduce some examples of quantum algebras and quantum groups\, 
- outlining some behaviour which they share with their classical counterpart
- s. I will discuss the Goodearl--Letzter stratification of quantum algebras
-  with respect to the actions of algebraic tori\, which gives deep insights
-  into the prime and primitive spectra of various quantum algebras.
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brun's Sieve (Seminar)
-DTSTART:20170517T210000Z
-DTEND:20170517T220000Z
-DTSTAMP:20170517T210000Z
-UID:2017_1bc8a16e28198a4ff5b93a131c9877aa.wnotice@math.uwaterloo.ca
-DESCRIPTION:Brun's Sieve\nErtan Elma\, Department of Pure Mathematics\, Un
- iversity of Waterloo\n\nFirst\, we will have a look at Brun's Main Theorem
-  (section  \n6.2 of the book An Introduction to Sieve Methods and Their  \
- nApplications\, by R. Murty\, C. Cojojaru) and then prove that there are  
- \ninfinitely many natural numbers n such that n and n+2 have at most 7  \n
- prime factors.
+SUMMARY:The Spencer Complex Part 3 (Geometry Working Seminar)
+DTSTART:20170523T183000Z
+DTEND:20170523T193000Z
+DTSTAMP:20170523T183000Z
+UID:2017_deac39a119eb9b748be831a2688a41a7.wnotice@math.uwaterloo.ca
+DESCRIPTION:The Spencer Complex Part 3\nAnthony McCormick\,\, Departme
+ nt of Pure Mathematics\, University of Waterloo\n\nWe will begin our const
+ ruction of resolutions of the sheaf kernel of a linear partial differentia
+ l operator between vector bundles. Furthermore\, we will discuss some of t
+ he connections and interpretations of these resolutions in terms of deform
+ ation theory\, and outline how they can be applied to the integrability pr
+ oblem for G-structures.
 LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Theory and Application of Early Warning Signals for Critica
- l Transitions (Comprehensive Exam)
-DTSTART:20170518T140000Z
-DTEND:20170518T150000Z
-DTSTAMP:20170518T140000Z
-UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
-DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
- tical Transitions\nTom Bury\, Department of Applied Mathematics\n\nAbrupt 
- and often irreversible transitions can be observed in a wide variety of sy
- stems including ecological communities\, complex disease and social networ
- ks. These so-called 'critical transitions' can be brought on by a gradual 
- change in external conditions that quietly reduce the resilience of a syst
- em. Despite their seemingly unpredictable nature\, generic early warning s
- ignals have been proposed which\, once verified for a particular system\, 
- could provide the means for mitigating or even preventing unwanted transit
- ions. However\, in higher dimensions\, the typical early warning signals c
- an become amplified\, muted\, or even reversed\, due to the intricate vari
- able interactions in the approach to the transition. In addition\, these m
- ore complex systems can exhibit a wider variety of transitions to their si
- mplified counterparts. This thesis aims to pin down the mechanisms that ca
- use these particular alterations in early warning signals\, which may then
-  work in our favour by helping us characterise the transition being approa
- ched. Working alongside models in the social\, ecological and biological s
- ciences\, we hope to contribute the the challenging task of detecting near
- by critical transitions in these fields.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Affine-local properties (Seminar)
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_6cef8d03b79f80a07befe50c52d01f0f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Affine-local properties\nDiana Castaneda Santos\, Department o
- f Pure Mathematics\, University of Waterloo\n\nWe will continue working on
-  Section 5.3  of Ravi Vail's  \nnotes. Last time we discussed about the af
- fine communication lemma.  \nNow\, we will use it to define properties on 
- schemes that can be  \nverified locally on its affine pieces. Properties s
- uch as being  \nNoetherian\, being reduced or being of finite type over a 
- ring $A$\, can  \nbe verified in this way. Finally we will define affine a
- nd projective  \nvarieties over a field $k$ and show examples of these.
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
- )
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr.
-  David Wagner\, University of Waterloo\n\nThe Heilmann-Lieb Theorem on mat
- ching polynomials gives detailed information about the location of zeros o
- f the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of
-  $k$-edge matchings of a graph $G$.  It has a stronger multivariate versio
- n. I will describe a general method which produces theorems of this type\,
-  with the set of matchings of $G$ replaced by the set of $(f\,g)$-factors 
- of $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\
- emph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\d
- eg(H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is 
- the case $f\\equiv 0$ and $g\\equiv 1$.)
-LOCATION:Math & Computer\, Room 6486
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some connectivity results for 2-polymatroids (Seminar)
-DTSTART:20170518T193000Z
-DTEND:20170518T203000Z
-DTSTAMP:20170518T193000Z
-UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley\, Lo
- uisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$
- \, let $r(X)$ be the number of vertices incident with some edge in $X$.  F
- rom the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one 
- can detemine $G$ up to isolated vertices and one can recognize matchings i
- n $G$. The cycle matroid in $G$ does not allow the determination of either
-  of these things. Loosely speaking\, a $2$-polymatroid is like a matroid e
- xcept that individual elements can have rank $2$ instead of just $0$ or $1
- $. In joint work with Charles Semple and Geoff Whittle\, the speaker has b
- een seeking connectivity results for $2$-polymatroids that resemble corres
- ponding results for matroids.
-LOCATION:Math & Computer\, Room 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mathematical Contributions of W.T. Tutte (Colloquium)
-DTSTART:20170519T193000Z
-DTEND:20170519T203000Z
-DTSTAMP:20170519T193000Z
-UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
- , Louisiana State University\n\n"If a theorem about graphs can be expresse
- d in terms of edges and circuits only it probably exemplifies a more gener
- al theorem about matroids". Bill Tutte wrote these words in a commentary o
- n his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write 
- that a "belief in this general principle" led him to seek a matroid genera
- lization of his 1961 theorem that distinguishes the special role that whee
- ls play among 3-connected graphs. Because of the impossibility of doing ju
- stice to all of Bill's mathematical contributions in a single colloquium\,
-  this talk will concentrate on those contributions that lie on the interfa
- ce between graph theory and matroid theory.
-LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Topological and fractal properties of non-integer base expansions 
@@ -232,6 +85,69 @@ DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Polynomials of graphs (Seminar)
+DTSTART:20170525T183000Z
+DTEND:20170525T193000Z
+DTSTAMP:20170525T183000Z
+UID:2017_8558e91f973126d0e625234c63cebe7b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Polynomials of graphs\nKrystal Guo\, University of Waterloo\n\
+ nThe characteristic polynomials and matching polynomials of a graph are we
+ ll-known graph polynomials. We study a more general graph polynomial\, whi
+ ch attains both of the polynomials in special contexts\, using a construct
+ ion from graph embeddings. The underlying theory uses Viennot's theory of 
+ heaps.
+LOCATION:Math & Computer\, Room 6486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A new construction of compact G2 manifolds by glueing Eguchi-Han
+ son spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson spac
+ es (Geometry Working Seminar)
+DTSTART:20170525T183000Z
+DTEND:20170525T193000Z
+DTSTAMP:20170525T183000Z
+UID:2017_a35237d0dfac71463bb96e975c5eaeb9.wnotice@math.uwaterloo.ca
+DESCRIPTION:A new construction of compact G2 manifolds by glueing Eguchi
+ -Hanson spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson 
+ spaces\nSpiro Karigiannis\, Department of Pure Mathematics\, University 
+ of Waterloo\n\nWe move on to the second of four main steps of the construc
+ tion: resolving the orbifold singularities by performing a fibre-wise blow
+  up. The important point is that there is no natural torsion-free G2 struc
+ ture on this third glueing region. The natural G2 structure is not even cl
+ osed. There is a natural way to correct it to be closed\, which we will di
+ scuss. The third step is correcting this further to remove the leading err
+ or term in the torsion\, which is the third main step.
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matroids doing algebra (Seminar)
+DTSTART:20170525T193000Z
+DTEND:20170525T203000Z
+DTSTAMP:20170525T193000Z
+UID:2017_432010d464a1634658c94ca28f230d3a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Matroids doing algebra\nJim Geelen\, University of Waterloo\n\
+ nWe describe a folklore construction for encoding a Diophantine equation i
+ nto a matroid and state a conjecture which\, if true\, would give a novel 
+ way of solving Diophantine equations over the reals.
+LOCATION:Math & Computer\, Room 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tweaking variables to make them uncorrelated (Seminar)
+DTSTART:20170525T200000Z
+DTEND:20170525T210000Z
+DTSTAMP:20170525T200000Z
+UID:2017_d48d4f92e94d6018044f097530fcf1b9.wnotice@math.uwaterloo.ca
+DESCRIPTION:Tweaking variables to make them uncorrelated\nPaul Garthwa
+ ite\, the Open University\n\nRefreshments will be provided.\nInterpreting 
+ the results of a statistical analysis would be easier if all variables wer
+ e uncorrelated and all data sets consisted of orthogonal x-variables. Prin
+ cipal components is one way of obtaining orthogonal/uncorrelated variables
+ \, but the relationship between the principal components and the original 
+ x-variables is complex. This talk proposes two transformations that give o
+ rthogonal/uncorrelated components with a close one-to-one correspondence b
+ etween the x-variables and the components.
+LOCATION:M3 3127
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
  etic Insights (Seminar)
 DTSTART:20170526T193000Z
@@ -253,6 +169,43 @@ DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
   recent developments in approximation algorithms for graph routing problem
  s\, and highlight some connections between this area and graph theory.
 LOCATION:Math & Computer\, Room 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continuous Affect Prediction from Different Features and Modeling 
+ Approaches in Evaluation-Power-Activity Space (Artificial Intelligence Lab
+  Master's Thesis Presentation)
+DTSTART:20170531T170000Z
+DTEND:20170531T180000Z
+DTSTAMP:20170531T170000Z
+UID:2017_d2e15359ab343b56b56ce140b3014776.wnotice@math.uwaterloo.ca
+DESCRIPTION:Continuous Affect Prediction from Different Features and Model
+ ing Approaches in Evaluation-Power-Activity Space\nZhengkun Shang\, David 
+ R. Cheriton School of Computer Science\n\nTo come...
+LOCATION:DC 3126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
+ tial Observability (Master's Thesis Presentation)
+DTSTART:20170606T140000Z
+DTEND:20170606T150000Z
+DTSTAMP:20170606T140000Z
+UID:2017_57cd53e80cf64d65466e79f4d96b694b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Hierarchical Task Recognition and Planning in Smart Homes with
+  Partial Observability\nDan Wang\, David R. Cheriton School of Computer Sc
+ ience\n
+LOCATION:DC 2102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
+  and Lattice Path Enumeration (Symbolic Computation Group PhD Defence)
+DTSTART:20170613T140000Z
+DTEND:20170613T150000Z
+DTSTAMP:20170613T140000Z
+UID:2017_d02522bd0f11207e3a48bf954602aba9.wnotice@math.uwaterloo.ca
+DESCRIPTION:Analytic Combinatorics in Several Variables: Effective Asympto
+ tics and Lattice Path Enumeration\nStephen Melczer\, David R. Cheriton Sch
+ ool of Computer Science\n\nTo come...
+LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALGORAND\, A New Public Ledger (Distinguished Lecture Series Semin
