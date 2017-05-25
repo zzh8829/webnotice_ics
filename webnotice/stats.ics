@@ -3,21 +3,20 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
 BEGIN:VEVENT
-SUMMARY:Tweaking variables to make them uncorrelated - Paul Garthwaite
- \, the Open University (Seminar)
+SUMMARY:Tweaking variables to make them uncorrelated - stats (Seminar)
 DTSTART:20170525T200000Z
 DTEND:20170525T210000Z
 DTSTAMP:20170525T200000Z
 UID:20170525_419d5ae102577eb4dd204e4cfbd9a8a7
 DESCRIPTION:Tweaking variables to make them uncorrelated\nPaul Garthwa
- ite\, the Open University\nSeminar\n\n\nInterpreting the results of a stat
- istical analysis would be easier if all variables were uncorrelated and al
- l data sets consisted of orthogonal x-variables. Principal components is o
- ne way of obtaining orthogonal/uncorrelated variables\, but the relationsh
- ip between the principal components and the original x-variables is comple
- x. This talk proposes two transformations that give orthogonal/uncorrelate
- d components with a close one-to-one correspondence between the x-variable
- s and the components.\nRefreshments will be provided.
+ ite\, the Open University\nstats\nSeminar\n\n\nInterpreting the results of
+  a statistical analysis would be easier if all variables were uncorrelated
+  and all data sets consisted of orthogonal x-variables. Principal componen
+ ts is one way of obtaining orthogonal/uncorrelated variables\, but the rel
+ ationship between the principal components and the original x-variables is
+  complex. This talk proposes two transformations that give orthogonal/unco
+ rrelated components with a close one-to-one correspondence between the x-v
+ ariables and the components.\nRefreshments will be provided.
 LOCATION:M3 3127
 END:VEVENT
 END:VCALENDAR

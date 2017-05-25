@@ -4,141 +4,136 @@ PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
 SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game 
- - Diane Watson\, David R. Cheriton School of Computer Science (Human-Compu
- ter Interaction PhD Seminar)
+ - cs (Human-Computer Interaction PhD Seminar)
 DTSTART:20170524T140000Z
 DTEND:20170524T150000Z
 DTSTAMP:20170524T140000Z
 UID:20170524_761f90e16614527ad37714656eb644c8
 DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
- ame\nDiane Watson\, David R. Cheriton School of Computer Science\nHuman-Co
- mputer Interaction PhD Seminar\n\n\nTextbooks\, as supplementary material\
- , are known to improve student outcomes by accommodating multiple learning
-  types and reinforcing material learned in class\; however\, most students
-  do not often complete assigned readings. We created Reading Garden\, a mo
- tivational game aimed to get students to read more of the textbook. Readin
- g Garden is a casual\, multiplayer game following common design patterns o
- f many social games. For example\, it follows the free-to-play model\, whe
- re the game can always be played for free\, but has special advanced actio
- ns and decorations that can be purchased with gold  a special in-game cu
- rrency. Players earn gold by completing assigned readings.
+ ame\nDiane Watson\, David R. Cheriton School of Computer Science\ncs\nHuma
+ n-Computer Interaction PhD Seminar\n\n\nTextbooks\, as supplementary mater
+ ial\, are known to improve student outcomes by accommodating multiple lear
+ ning types and reinforcing material learned in class\; however\, most stud
+ ents do not often complete assigned readings. We created Reading Garden\, 
+ a motivational game aimed to get students to read more of the textbook. Re
+ ading Garden is a casual\, multiplayer game following common design patter
+ ns of many social games. For example\, it follows the free-to-play model\,
+  where the game can always be played for free\, but has special advanced a
+ ctions and decorations that can be purchased with gold  a special in-gam
+ e currency. Players earn gold by completing assigned readings.
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Continuous Affect Prediction from Different Features and Modeling 
- Approaches in Evaluation-Power-Activity Space - Zhengkun Shang\, David R. 
- Cheriton School of Computer Science (Artificial Intelligence Lab Master's 
- Thesis Presentation)
+ Approaches in Evaluation-Power-Activity Space - cs (Artificial Intelligenc
+ e Lab Master's Thesis Presentation)
 DTSTART:20170531T170000Z
 DTEND:20170531T180000Z
 DTSTAMP:20170531T170000Z
 UID:20170531_8c4f40d571ea6e21b885a80b00bd11ba
 DESCRIPTION:Continuous Affect Prediction from Different Features and Model
  ing Approaches in Evaluation-Power-Activity Space\nZhengkun Shang\, David 
- R. Cheriton School of Computer Science\nArtificial Intelligence Lab Master
- 's Thesis Presentation\n\n\nTo come...
+ R. Cheriton School of Computer Science\ncs\nArtificial Intelligence Lab Ma
+ ster's Thesis Presentation\n\n\nTo come...
 LOCATION:DC 3126
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bidder Profiling by Acquisition and Analysis of Market Data in Wat
- er Distribution Industry - Milad Khaki\, David R. Cheriton School of Compu
- ter Science (Artificial Intelligence Lab PhD Seminar)
+ er Distribution Industry - cs (Artificial Intelligence Lab PhD Seminar)
 DTSTART:20170602T170000Z
 DTEND:20170602T180000Z
 DTSTAMP:20170602T170000Z
 UID:20170602_b54927873d21572f5f1f4a9e59519208
 DESCRIPTION:Bidder Profiling by Acquisition and Analysis of Market Data in
   Water Distribution Industry\nMilad Khaki\, David R. Cheriton School of Co
- mputer Science\nArtificial Intelligence Lab PhD Seminar\n\n\nThe project i
- nvolves the analysis of procurement auctions for water infrastructure main
- tenance projects for Cities of Niagara Falls and London. The primary conce
- rn of this proposal is to generate a reliable mechanism for importing diff
- erent formats of the tender summaries\, provided as input data\, of the pr
- ojects and unify them in a database for further exploration and processing
- . For this part of the research\, I developed a water infrastructure ontol
- ogy to standardize the different aspects of the knowledge available in thi
- s field\, which would eventually help us to import the data and look for a
- ny contextual inconsistencies and errors and act appropriately to repair t
- hem.
+ mputer Science\ncs\nArtificial Intelligence Lab PhD Seminar\n\n\nThe proje
+ ct involves the analysis of procurement auctions for water infrastructure 
+ maintenance projects for Cities of Niagara Falls and London. The primary c
+ oncern of this proposal is to generate a reliable mechanism for importing 
+ different formats of the tender summaries\, provided as input data\, of th
+ e projects and unify them in a database for further exploration and proces
+ sing. For this part of the research\, I developed a water infrastructure o
+ ntology to standardize the different aspects of the knowledge available in
+  this field\, which would eventually help us to import the data and look f
+ or any contextual inconsistencies and errors and act appropriately to repa
+ ir them.
 LOCATION:DC 3323
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
- tial Observability - Dan Wang\, David R. Cheriton School of Computer Scien
- ce (Master's Thesis Presentation)
+ tial Observability - cs (Master's Thesis Presentation)
 DTSTART:20170606T140000Z
 DTEND:20170606T150000Z
 DTSTAMP:20170606T140000Z
 UID:20170606_09e776cad468af670d9aa932c736af2c
 DESCRIPTION:Hierarchical Task Recognition and Planning in Smart Homes with
   Partial Observability\nDan Wang\, David R. Cheriton School of Computer Sc
- ience\nMaster's Thesis Presentation\n\n
+ ience\ncs\nMaster's Thesis Presentation\n\n
 LOCATION:DC 2102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
-  and Lattice Path Enumeration - Stephen Melczer\, David R. Cheriton School
-  of Computer Science (Symbolic Computation Group PhD Defence)
+  and Lattice Path Enumeration - cs (Symbolic Computation Group PhD Defence
+ )
 DTSTART:20170613T140000Z
 DTEND:20170613T150000Z
 DTSTAMP:20170613T140000Z
 UID:20170613_f13fa61b5a9b1a31ce23f42980223493
 DESCRIPTION:Analytic Combinatorics in Several Variables: Effective Asympto
  tics and Lattice Path Enumeration\nStephen Melczer\, David R. Cheriton Sch
- ool of Computer Science\nSymbolic Computation Group PhD Defence\n\n\nTo co
- me...
+ ool of Computer Science\ncs\nSymbolic Computation Group PhD Defence\n\n\nT
+ o come...
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALGORAND\, A New Public Ledger - Silvio Micali\, MIT (Distinguishe
- d Lecture Series Seminar)
+SUMMARY:ALGORAND\, A New Public Ledger - cs (Distinguished Lecture Series 
+ Seminar)
 DTSTART:20170613T143000Z
 DTEND:20170613T153000Z
 DTSTAMP:20170613T143000Z
 UID:20170613_c2674b1840717f56928c1b39317137b3
-DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\nDistingui
- shed Lecture Series Seminar\n\n\nA public ledger is a tamperproof sequence
-  of data that can be read and augmented by everyone. Shared public ledgers
-  stand to revolutionize the way a democratic society operates. They secure
-  all kinds of traditional transactions  such as payments\, asset transfe
- rs\, titling  in the exact order in which they occur\, and enable totall
- y new transactions  such as cryptocurrencies and smart contracts. They c
- an remove intermediaries and usher in a new paradigm for trust. As current
- ly implemented\, however\, public ledgers cannot achieve their enormous po
- tential.
+DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\ncs\nDisti
+ nguished Lecture Series Seminar\n\n\nA public ledger is a tamperproof sequ
+ ence of data that can be read and augmented by everyone. Shared public led
+ gers stand to revolutionize the way a democratic society operates. They se
+ cure all kinds of traditional transactions  such as payments\, asset tra
+ nsfers\, titling  in the exact order in which they occur\, and enable to
+ tally new transactions  such as cryptocurrencies and smart contracts. Th
+ ey can remove intermediaries and usher in a new paradigm for trust. As cur
+ rently implemented\, however\, public ledgers cannot achieve their enormou
+ s potential.
 LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It - Pras
- hant Nalini Vasudevan\, MIT (Cryptography\, Security\, and Privacy (CrySP)
-  Group Seminar)
+SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It - cs (
+ Cryptography\, Security\, and Privacy (CrySP) Group Seminar)
 DTSTART:20170616T143000Z
 DTEND:20170616T153000Z
 DTSTAMP:20170616T143000Z
 UID:20170616_8b8f26d23fd116545dc792fb8193a696
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
- rashant Nalini Vasudevan\, MIT\nCryptography\, Security\, and Privacy (Cry
- SP) Group Seminar\n\n\nWe present functions that are hard to compute on av
- erage for algorithms running in some fixed polynomial time\, assuming wide
- ly-conjectured worst-case hardness of certain problems from the study of f
- ine-grained complexity.
+ rashant Nalini Vasudevan\, MIT\ncs\nCryptography\, Security\, and Privacy 
+ (CrySP) Group Seminar\n\n\nWe present functions that are hard to compute o
+ n average for algorithms running in some fixed polynomial time\, assuming 
+ widely-conjectured worst-case hardness of certain problems from the study 
+ of fine-grained complexity.
 LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Biologically Constrained Model of Semantic Memory Search - Ivana
-  Kajić\, David R. Cheriton School of Computer Science (Artificial Intelli
- gence Lab PhD Seminar)
+SUMMARY:A Biologically Constrained Model of Semantic Memory Search - cs (A
+ rtificial Intelligence Lab PhD Seminar)
 DTSTART:20170620T150000Z
 DTEND:20170620T160000Z
 DTSTAMP:20170620T150000Z
 UID:20170620_149cc03868992a6d70716edc01d54edb
 DESCRIPTION:A Biologically Constrained Model of Semantic Memory Search\nIv
- ana Kajić\, David R. Cheriton School of Computer Science\nArtificial Inte
- lligence Lab PhD Seminar\n\n\nThe semantic fluency task has been used to u
- nderstand the effects of semantic relationships on human memory search. A 
- variety of computational models have been proposed that explain human beha
- vioral data\, yet it remains unclear how millions of spiking neurons work 
- in unison to realize the cognitive processes involved in memory search.
+ ana Kajić\, David R. Cheriton School of Computer Science\ncs\nArtificial 
+ Intelligence Lab PhD Seminar\n\n\nThe semantic fluency task has been used 
+ to understand the effects of semantic relationships on human memory search
+ . A variety of computational models have been proposed that explain human 
+ behavioral data\, yet it remains unclear how millions of spiking neurons w
+ ork in unison to realize the cognitive processes involved in memory search
+ .
 LOCATION:DC 2310
 END:VEVENT
 END:VCALENDAR

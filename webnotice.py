@@ -60,11 +60,12 @@ def get_listing(dept):
             event['dtend'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
 
             event['location'] = where
-            event['summary'] = title + ' - ' + who + ' ('+ venue +')'
+            event['summary'] = title + ' - ' + dept + ' ('+ venue +')'
 
             event['description'] = '\n'.join(filter(None,[
                                              title,
                                              who,
+                                             dept,
                                              venue,
                                              '\n',
                                              abstract,

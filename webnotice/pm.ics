@@ -3,75 +3,72 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Computable Functors and Effective Interpretability - Michael D
- eveau\,\, Department of Pure Mathematics\, University of Waterloo (Computa
- bility Learning Seminar)
+SUMMARY:Computable Functors and Effective Interpretability - pm (Compu
+ tability Learning Seminar)
 DTSTART:20170523T150000Z
 DTEND:20170523T160000Z
 DTSTAMP:20170523T150000Z
 UID:20170523_fa2afed1fb70f628705c718f4574c46e
 DESCRIPTION:Computable Functors and Effective Interpretability\nMichae
- l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\nComp
- utability Learning Seminar\n\n\nWe introduce the notion of a computable fu
- nctor and the definition of effective inter- pretability. The former is a 
- computable analogue of a category-theoretic functor between ω-presentatio
- ns of structures\, and the latter is an effective version of model-theoret
- ic inter- pretability. We show that effective interpretations induce compu
- table functors\, and briefly mention the converse.
+ l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\npm\n
+ Computability Learning Seminar\n\n\nWe introduce the notion of a computabl
+ e functor and the definition of effective inter- pretability. The former i
+ s a computable analogue of a category-theoretic functor between ω-present
+ ations of structures\, and the latter is an effective version of model-the
+ oretic inter- pretability. We show that effective interpretations induce c
+ omputable functors\, and briefly mention the converse.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Applications of the zeta function over function fields. - Step
- hen Wen\, Department of Pure Mathematics\, University of Waterloo (Student
-  Number Theory Seminars Seminar)
+SUMMARY:Applications of the zeta function over function fields. - pm (
+ Student Number Theory Seminars Seminar)
 DTSTART:20170523T153000Z
 DTEND:20170523T163000Z
 DTSTAMP:20170523T153000Z
 UID:20170523_dbbf7db0a85e14ef0bb039b43d54d836
 DESCRIPTION:Applications of the zeta function over function fields.\nS
- tephen Wen\, Department of Pure Mathematics\, University of Waterloo\nStud
- ent Number Theory Seminars Seminar\n\n\nWe provide a proof of the Prime Nu
- mber Theorem over function fields. We examine and extend techniques used i
- n a zeta function proof of the theorem to other applications such as count
- ing square- and higher power- free polynomials of a given degree. If time 
- permits\, Dirichlet Series will be in- troduced with an aim towards provin
- g the analogue of Dirichlets Theorem on primes in arithmetic progressions.
+ tephen Wen\, Department of Pure Mathematics\, University of Waterloo\npm\n
+ Student Number Theory Seminars Seminar\n\n\nWe provide a proof of the Prim
+ e Number Theorem over function fields. We examine and extend techniques us
+ ed in a zeta function proof of the theorem to other applications such as c
+ ounting square- and higher power- free polynomials of a given degree. If t
+ ime permits\, Dirichlet Series will be in- troduced with an aim towards pr
+ oving the analogue of Dirichlets Theorem on primes in arithmetic progressi
+ ons.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Spencer Complex Part 3 - Anthony McCormick\,\, Department 
- of Pure Mathematics\, University of Waterloo (Geometry Working Seminar)
+SUMMARY:The Spencer Complex Part 3 - pm (Geometry Working Seminar)
 DTSTART:20170523T183000Z
 DTEND:20170523T193000Z
 DTSTAMP:20170523T183000Z
 UID:20170523_86f9847f230496ecee908fa2c7ba0fae
 DESCRIPTION:The Spencer Complex Part 3\nAnthony McCormick\,\, Departme
- nt of Pure Mathematics\, University of Waterloo\nGeometry Working Seminar\
- n\n\nWe will begin our construction of resolutions of the sheaf kernel of 
- a linear partial differential operator between vector bundles. Furthermore
- \, we will discuss some of the connections and interpretations of these re
- solutions in terms of deformation theory\, and outline how they can be app
- lied to the integrability problem for G-structures.
+ nt of Pure Mathematics\, University of Waterloo\npm\nGeometry Working Semi
+ nar\n\n\nWe will begin our construction of resolutions of the sheaf kernel
+  of a linear partial differential operator between vector bundles. Further
+ more\, we will discuss some of the connections and interpretations of thes
+ e resolutions in terms of deformation theory\, and outline how they can be
+  applied to the integrability problem for G-structures.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Topological and fractal properties of non-integer base expansions 
- - Vilmos Komornik\, University of Strasbourg (Seminar)
+ - pm (Seminar)
 DTSTART:20170523T193000Z
 DTEND:20170523T203000Z
 DTSTAMP:20170523T193000Z
 UID:20170523_e6ab78d391dad5abfe9b87dace97511f
 DESCRIPTION:Topological and fractal properties of non-integer base expansi
- ons\nVilmos Komornik\, University of Strasbourg\nSeminar\n\n\nGiven a base
-  1\\less q\\le 2\, following Renyi (1957) we consider expansions of the fo
- rm
+ ons\nVilmos Komornik\, University of Strasbourg\npm\nSeminar\n\n\nGiven a 
+ base 1\\less q\\le 2\, following Renyi (1957) we consider expansions of th
+ e form
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A new construction of compact G2 manifolds by glueing Eguchi-Han
  son spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson spac
- es - Spiro Karigiannis\, Department of Pure Mathematics\, University of 
- Waterloo (Geometry Working Seminar)
+ es - pm (Geometry Working Seminar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
@@ -79,14 +76,14 @@ UID:20170525_3057c491040754f00c17c7586277bb7b
 DESCRIPTION:A new construction of compact G2 manifolds by glueing Eguchi
  -Hanson spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson 
  spaces\nSpiro Karigiannis\, Department of Pure Mathematics\, University 
- of Waterloo\nGeometry Working Seminar\n\n\nWe move on to the second of fou
- r main steps of the construction: resolving the orbifold singularities by 
- performing a fibre-wise blow up. The important point is that there is no n
- atural torsion-free G2 structure on this third glueing region. The natural
-  G2 structure is not even closed. There is a natural way to correct it to 
- be closed\, which we will discuss. The third step is correcting this furth
- er to remove the leading error term in the torsion\, which is the third ma
- in step.
+ of Waterloo\npm\nGeometry Working Seminar\n\n\nWe move on to the second of
+  four main steps of the construction: resolving the orbifold singularities
+  by performing a fibre-wise blow up. The important point is that there is 
+ no natural torsion-free G2 structure on this third glueing region. The nat
+ ural G2 structure is not even closed. There is a natural way to correct it
+  to be closed\, which we will discuss. The third step is correcting this f
+ urther to remove the leading error term in the torsion\, which is the thir
+ d main step.
 LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR
