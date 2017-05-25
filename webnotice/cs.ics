@@ -8,25 +8,25 @@ SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game
 DTSTART:20170524T140000Z
 DTEND:20170524T150000Z
 DTSTAMP:20170524T140000Z
-UID:20170524_12aacf05a749a4f472f866b6ba6aaf38
-DESCRIPTION:Speaker: Diane Watson\, David R. Cheriton School of Computer S
- cienceTitle: "Reading Garden: A Case Study of an In-Classroom Motivational
-  Game"\nAbstract: Textbooks\, as supplementary material\, are known to imp
- rove student outcomes by accommodating multiple learning types and reinfor
- cing material learned in class\; however\, most students do not often comp
- lete assigned readings. We created Reading Garden\, a motivational game ai
- med to get students to read more of the textbook. Reading Garden is a casu
- al\, multiplayer game following common design patterns of many social game
- s. For example\, it follows the free-to-play model\, where the game can al
- ways be played for free\, but has special advanced actions and decorations
-  that can be purchased with gold  a special in-game currency. Players ea
- rn gold by completing assigned readings.\nWe then deployed Reading Garden 
- in three iterations of a human computer interaction courses\, in two diffe
- rent departments\, at the University of Waterloo. Each study featured an e
- ntire class playing the game simultaneously throughout the four-month term
- . This talk will discuss the results of those ecologically valid deploymen
- ts\, as well as the ethical challenges associated with conducting studies 
- in classrooms. \n\n      \n
+UID:20170524T140000Z_478aa5c84de514f627e9f561c1e593a1
+DESCRIPTION:Speaker:  Diane Watson\, David R. Cheriton School of Computer 
+ Science\nTitle:   "Reading Garden: A Case Study of an In-Classroom Motivat
+ ional Game" \n\nAbstract:  Textbooks\, as supplementary material\, are kno
+ wn to improve student outcomes by accommodating multiple learning types an
+ d reinforcing material learned in class\; however\, most students do not o
+ ften complete assigned readings. We created Reading Garden\, a motivationa
+ l game aimed to get students to read more of the textbook. Reading Garden 
+ is a casual\, multiplayer game following common design patterns of many so
+ cial games. For example\, it follows the free-to-play model\, where the ga
+ me can always be played for free\, but has special advanced actions and de
+ corations that can be purchased with gold  a special in-game currency. P
+ layers earn gold by completing assigned readings.\n We then deployed Readi
+ ng Garden in three iterations of a human computer interaction courses\, in
+  two different departments\, at the University of Waterloo. Each study fea
+ tured an entire class playing the game simultaneously throughout the four-
+ month term. This talk will discuss the results of those ecologically valid
+  deployments\, as well as the ethical challenges associated with conductin
+ g studies in classrooms.  \n \n      \n
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
@@ -36,11 +36,11 @@ SUMMARY:Continuous Affect Prediction from Different Features and Modeling
 DTSTART:20170531T170000Z
 DTEND:20170531T180000Z
 DTSTAMP:20170531T170000Z
-UID:20170531_1a5499510f93c0dfa797f9dafe1f1d2b
-DESCRIPTION:Speaker: Zhengkun Shang\, David R. Cheriton School of Computer
-  ScienceTitle: "Continuous Affect Prediction from Different Features and M
- odeling Approaches in Evaluation-Power-Activity Space"\nAbstract: To come.
- .. \n\n   \n
+UID:20170531T170000Z_b6f84119e1f56c2826ab85a78076324e
+DESCRIPTION:Speaker:  Zhengkun Shang\, David R. Cheriton School of Compute
+ r Science\nTitle:   "Continuous Affect Prediction from Different Features 
+ and Modeling Approaches in Evaluation-Power-Activity Space" \n\nAbstract: 
+  To come...  \n \n   \n
 LOCATION:DC 3126
 END:VEVENT
 BEGIN:VEVENT
@@ -49,31 +49,32 @@ SUMMARY:Bidder Profiling by Acquisition and Analysis of Market Data in Wat
 DTSTART:20170602T170000Z
 DTEND:20170602T180000Z
 DTSTAMP:20170602T170000Z
-UID:20170602_ae52d0eba5b0a88cd47e28cd31376b18
-DESCRIPTION:Speaker: Milad Khaki\, David R. Cheriton School of Computer Sc
- ienceTitle: "Bidder Profiling by Acquisition and Analysis of Market Data i
- n Water Distribution Industry"\nAbstract: The project involves the analysi
- s of procurement auctions for water infrastructure maintenance projects fo
- r Cities of Niagara Falls and London. The primary concern of this proposal
-  is to generate a reliable mechanism for importing different formats of th
- e tender summaries\, provided as input data\, of the projects and unify th
- em in a database for further exploration and processing. For this part of 
- the research\, I developed a water infrastructure ontology to standardize 
- the different aspects of the knowledge available in this field\, which wou
- ld eventually help us to import the data and look for any contextual incon
- sistencies and errors and act appropriately to repair them.\nThe next part
-  of the project\, the primary focus the study\, is to analyze the historic
- al auction data to extract various valuable pieces of information from the
- m such as inflation rate and unit project prices. Also\, it is possible to
-  look into generating a profile of each recurrent bidder (contractor) and 
- establish the statistical likelihood model of their behaviour. Therefore\,
-  any future auction can be inspected and compared to these profiles and an
- y discrepancies or unexpected or highly unlikely behaviour that would rais
- e a red flag can be found for further investigation. A comprehensive list 
- of features that can act as the indicators of bidder behaviour is presente
- d in this proposal\, as well. The preliminary goal is to minimize the prob
- ability of any possible collusion (or find them if any exists) and detect 
- unusual behaviours that might exist in the procurement auctions. \n\n  \n
+UID:20170602T170000Z_2d9d07084e1e8a270411d400de72fd5a
+DESCRIPTION:Speaker:  Milad Khaki\, David R. Cheriton School of Computer S
+ cience\nTitle:   "Bidder Profiling by Acquisition and Analysis of Market D
+ ata in Water Distribution Industry" \n\nAbstract:  The project involves th
+ e analysis of procurement auctions for water infrastructure maintenance pr
+ ojects for Cities of Niagara Falls and London. The primary concern of this
+  proposal is to generate a reliable mechanism for importing different form
+ ats of the tender summaries\, provided as input data\, of the projects and
+  unify them in a database for further exploration and processing. For this
+  part of the research\, I developed a water infrastructure ontology to sta
+ ndardize the different aspects of the knowledge available in this field\, 
+ which would eventually help us to import the data and look for any context
+ ual inconsistencies and errors and act appropriately to repair them.\n The
+  next part of the project\, the primary focus the study\, is to analyze th
+ e historical auction data to extract various valuable pieces of informatio
+ n from them such as inflation rate and unit project prices. Also\, it is p
+ ossible to look into generating a profile of each recurrent bidder (contra
+ ctor) and establish the statistical likelihood model of their behaviour. T
+ herefore\, any future auction can be inspected and compared to these profi
+ les and any discrepancies or unexpected or highly unlikely behaviour that 
+ would raise a red flag can be found for further investigation. A comprehen
+ sive list of features that can act as the indicators of bidder behaviour i
+ s presented in this proposal\, as well. The preliminary goal is to minimiz
+ e the probability of any possible collusion (or find them if any exists) a
+ nd detect unusual behaviours that might exist in the procurement auctions.
+   \n \n  \n
 LOCATION:DC 3323
 END:VEVENT
 BEGIN:VEVENT
@@ -82,10 +83,10 @@ SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
 DTSTART:20170606T140000Z
 DTEND:20170606T150000Z
 DTSTAMP:20170606T140000Z
-UID:20170606_dc866e368035d7e0791ddf1f8be39049
-DESCRIPTION:Speaker: Dan Wang\, David R. Cheriton School of Computer Scien
- ceTitle: "Hierarchical Task Recognition and Planning in Smart Homes with P
- artial Observability"\n\n \n
+UID:20170606T140000Z_ed81a1e0ed063cb8902758d3cc0eb70a
+DESCRIPTION:Speaker:  Dan Wang\, David R. Cheriton School of Computer Scie
+ nce\nTitle:   "Hierarchical Task Recognition and Planning in Smart Homes w
+ ith Partial Observability" \n \n \n
 LOCATION:DC 2102
 END:VEVENT
 BEGIN:VEVENT
@@ -94,10 +95,11 @@ SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
 DTSTART:20170613T140000Z
 DTEND:20170613T150000Z
 DTSTAMP:20170613T140000Z
-UID:20170613_120809ce09f5afcfab979d83e14b7d3e
-DESCRIPTION:Speaker: Stephen Melczer\, David R. Cheriton School of Compute
- r ScienceTitle: "Analytic Combinatorics in Several Variables: Effective As
- ymptotics and Lattice Path Enumeration"\nAbstract: To come... \n\n \n
+UID:20170613T140000Z_9eab932c8d946bac91a7f9be4f4803b1
+DESCRIPTION:Speaker:  Stephen Melczer\, David R. Cheriton School of Comput
+ er Science\nTitle:   "Analytic Combinatorics in Several Variables: Effecti
+ ve Asymptotics and Lattice Path Enumeration" \n\nAbstract:  To come...  \n
+  \n \n
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
@@ -106,30 +108,30 @@ SUMMARY:ALGORAND\, A New Public Ledger -  (Distinguished Lecture Series Se
 DTSTART:20170613T143000Z
 DTEND:20170613T153000Z
 DTSTAMP:20170613T143000Z
-UID:20170613_62b09c4775f4614731112786c648f9df
-DESCRIPTION:Speaker: Silvio Micali\, MITTitle: "ALGORAND\, A New Public Le
- dger"\nAbstract: A public ledger is a tamperproof sequence of data that ca
- n be read and augmented by everyone. Shared public ledgers stand to revolu
- tionize the way a democratic society operates. They secure all kinds of tr
- aditional transactions  such as payments\, asset transfers\, titling  
- in the exact order in which they occur\, and enable totally new transactio
- ns  such as cryptocurrencies and smart contracts. They can remove interm
- ediaries and usher in a new paradigm for trust. As currently implemented\,
-  however\, public ledgers cannot achieve their enormous potential.\nAlgora
- nd is a quite alternative\, truly democratic\, and very efficient way to i
- mplement a public ledger. Unlike prior implementations based on proof of w
- ork\, it requires a negligible amount of computation\, and generates a tra
- nsaction history that will not fork with overwhelmingly high probabili
- ty. \n    \nDr. Silvio Micali has received his Laurea in Mat
- hematics from the University of Rome\, and his PhD in Computer Science fro
- m the University of California at Berkeley. Since 1983 he has been on the 
- MIT faculty.\nSilvios research interests are cryptography\, zero knowled
- ge\, pseudo-random generation\, secure protocols\, mechanism design\, and 
- distributed ledgers. \nSilvio has received the Turing Award (in computer s
- cience)\, the Gödel Prize (in theoretical computer science)\, and the RSA
-  prize (in cryptography). He is a member of the National Academy of Scienc
- es\, the National Academy of Engineering\, and the American Academy of Art
- s and Sciences. \n\n  \n
+UID:20170613T143000Z_a873e6e28a87965610d48af261e77165
+DESCRIPTION:Speaker:  Silvio Micali\, MIT\nTitle:   "ALGORAND\, A New Publ
+ ic Ledger" \n\nAbstract:  A public ledger is a tamperproof sequence of dat
+ a that can be read and augmented by everyone. Shared public ledgers stand 
+ to revolutionize the way a democratic society operates. They secure all ki
+ nds of traditional transactions  such as payments\, asset transfers\, ti
+ tling  in the exact order in which they occur\, and enable totally new t
+ ransactions  such as cryptocurrencies and smart contracts. They can remo
+ ve intermediaries and usher in a new paradigm for trust. As currently impl
+ emented\, however\, public ledgers cannot achieve their enormous potential
+ .\n Algorand is a quite alternative\, truly democratic\, and very efficien
+ t way to implement a public ledger. Unlike prior implementations based on 
+ proof of work\, it requires a negligible amount of computation\, and gener
+ ates a transaction history that will not fork with overwhelmingly high
+  probability. \n      \n Dr. Silvio Micali has received his 
+ Laurea in Mathematics from the University of Rome\, and his PhD in Compute
+ r Science from the University of California at Berkeley. Since 1983 he has
+  been on the MIT faculty.\n Silvios research interests are cryptography\
+ , zero knowledge\, pseudo-random generation\, secure protocols\, mechanism
+  design\, and distributed ledgers. \n Silvio has received the Turing Award
+  (in computer science)\, the Gödel Prize (in theoretical computer science
+ )\, and the RSA prize (in cryptography). He is a member of the National Ac
+ ademy of Sciences\, the National Academy of Engineering\, and the American
+  Academy of Arts and Sciences.  \n \n  \n
 LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
@@ -138,22 +140,23 @@ SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It -  (Cr
 DTSTART:20170616T143000Z
 DTEND:20170616T153000Z
 DTSTAMP:20170616T143000Z
-UID:20170616_287a5f616c8b6b34d8a4409192659bf0
-DESCRIPTION:Speaker: Prashant Nalini Vasudevan\, MITTitle: "Average-Case F
- ine-Grained Hardness\, And What To Do With It"\nAbstract: We present funct
- ions that are hard to compute on average for algorithms running in some fi
- xed polynomial time\, assuming widely-conjectured worst-case hardness of c
- ertain problems from the study of fine-grained complexity.\nWe discuss the
-  relevance of such average-case hardness to cryptography and present\, as 
- an illustration\, an outline of a proof-of-work protocol constructed based
-  on the hardness and certain structural properties of our functions. \nThi
- s work is joint with Marshall Ball\, Alon Rosen and Manuel Sabin.\n 
-    \nBio: Prashant Nalini Vasudevan is a student at MIT\, advised
-  by Vinod Vaikuntanathan. He is interested broadly in complexity theory an
- d cryptography\, and narrowly in the understanding the fundamentals of com
- plexity-based cryptography\, which involves questions like what sorts of f
- unctions are useful when they are hard and what generic assumptions are ne
- cessary or sufficient to construct various cryptographic objects \n\n \n
+UID:20170616T143000Z_f9c809914f707d668dc81a406d94ff6b
+DESCRIPTION:Speaker:  Prashant Nalini Vasudevan\, MIT\nTitle:   "Average-C
+ ase Fine-Grained Hardness\, And What To Do With It" \n\nAbstract:  We pres
+ ent functions that are hard to compute on average for algorithms running i
+ n some fixed polynomial time\, assuming widely-conjectured worst-case hard
+ ness of certain problems from the study of fine-grained complexity.\n We d
+ iscuss the relevance of such average-case hardness to cryptography and pre
+ sent\, as an illustration\, an outline of a proof-of-work protocol constru
+ cted based on the hardness and certain structural properties of our functi
+ ons. \n This work is joint with Marshall Ball\, Alon Rosen and Manuel Sabi
+ n.\n      \n Bio : Prashant Nalini Vasudevan is a student at
+  MIT\, advised by Vinod Vaikuntanathan. He is interested broadly in comple
+ xity theory and cryptography\, and narrowly in the understanding the funda
+ mentals of complexity-based cryptography\, which involves questions like w
+ hat sorts of functions are useful when they are hard and what generic assu
+ mptions are necessary or sufficient to construct various cryptographic obj
+ ects  \n \n \n
 LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
@@ -162,21 +165,21 @@ SUMMARY:A Biologically Constrained Model of Semantic Memory Search -  (Art
 DTSTART:20170620T150000Z
 DTEND:20170620T160000Z
 DTSTAMP:20170620T150000Z
-UID:20170620_a81534aa8d35cffd26a06a08654bfa54
-DESCRIPTION:Speaker: Ivana Kajić\, David R. Cheriton School of Computer S
- cienceTitle: "A Biologically Constrained Model of Semantic Memory Search"\
- nAbstract: The semantic fluency task has been used to understand the effec
- ts of semantic relationships on human memory search. A variety of computat
- ional models have been proposed that explain human behavioral data\, yet i
- t remains unclear how millions of spiking neurons work in unison to realiz
- e the cognitive processes involved in memory search. \nIn this talk\, I wi
- ll present a biologically constrained neural network model that performs t
- he task in a fashion similar to humans. The model reproduces experimentall
- y observed response timing effects\, as well as similarity trends within a
- nd across semantic categories derived from responses. Three different sour
- ces of the association data have been tested by embedding associations in 
- neural connections\, with free association norms providing the best match.
-  \n\n 
+UID:20170620T150000Z_dc70d190e5a32a6da3c3bbaf1e13ff51
+DESCRIPTION:Speaker:  Ivana Kajić\, David R. Cheriton School of Computer 
+ Science\nTitle:   "A Biologically Constrained Model of Semantic Memory Sea
+ rch" \n\nAbstract:  The semantic fluency task has been used to understand 
+ the effects of semantic relationships on human memory search. A variety of
+  computational models have been proposed that explain human behavioral dat
+ a\, yet it remains unclear how millions of spiking neurons work in unison 
+ to realize the cognitive processes involved in memory search. \n In this t
+ alk\, I will present a biologically constrained neural network model that 
+ performs the task in a fashion similar to humans. The model reproduces exp
+ erimentally observed response timing effects\, as well as similarity trend
+ s within and across semantic categories derived from responses. Three diff
+ erent sources of the association data have been tested by embedding associ
+ ations in neural connections\, with free association norms providing the b
+ est match.  \n \n 
 LOCATION:DC 2310
 END:VEVENT
 END:VCALENDAR

@@ -3,6 +3,7 @@ import pytz
 import pprint
 import datetime
 import hashlib
+import time
 from icalendar import Calendar, Event
 from bs4 import BeautifulSoup
 
@@ -56,7 +57,6 @@ def get_listing(dept):
                     remarks = em.next_sibling.strip()
 
             event = Event()
-            event['uid'] = utc_dt.strftime('%Y%m%d')+'_'+hashlib.md5(dd.text.encode('utf-8')).hexdigest()
             event['dtstart'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
             event['dtstamp'] = event['dtstart']
             event['dtend'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
@@ -73,7 +73,14 @@ def get_listing(dept):
             #                                  abstract,
             #                                  remarks]))
 
-            event['description'] = dd.text
+            text = dd.getText(separator=' ')
+            text = text.replace(" Title:", "\nTitle:")
+            text = text.replace(" Abstract:", "\nAbstract:")
+            text = text.replace(" Remarks:", "\nRemarks:")
+
+            event['uid'] = event['dtstart']+'_'+hashlib.md5(text.encode('utf-8')).hexdigest()
+
+            event['description'] = text
 
             yield event
         except Exception as e:

@@ -7,24 +7,24 @@ SUMMARY:Tweaking variables to make them uncorrelated -  (Seminar)
 DTSTART:20170525T200000Z
 DTEND:20170525T210000Z
 DTSTAMP:20170525T200000Z
-UID:20170525_a7ccde200ff79a7c02319f3942d88ded
-DESCRIPTION:Speaker: Paul Garthwaite\, the Open UniversityTitle: "Tweaki
- ng variables to make them uncorrelated"\nRemarks: Refreshments will be p
- rovided. \nAbstract: Interpreting the results of a statistical analysis wo
- uld be easier if all variables were uncorrelated and all data sets consist
- ed of orthogonal x-variables. Principal components is one way of obtaining
-  orthogonal/uncorrelated variables\, but the relationship between the prin
- cipal components and the original x-variables is complex. This talk propos
- es two transformations that give orthogonal/uncorrelated components with a
-  close one-to-one correspondence between the x-variables and the component
- s.\nThe transformations have a number of useful applications including:\na
-  unified approach to the identification and diagnosis of collinearities\ne
- valuating the contributions of individual variables to a Mahalanobis dista
- nce or the test statistic of a Hotelling test\nsetting prior weights for B
- ayesian model averaging\nevaluating the contributions of individual variab
- les to a multiple regression\ncalculation of an upper bound for a multivar
- iate Chebyshev inequality.\nThe talk will focus on the first three of thes
- e applications. \n\n              
+UID:20170525T200000Z_8a6ad09a2a857317e8c7a942e2065485
+DESCRIPTION:Speaker:  Paul Garthwaite\, the Open University\nTitle:   "T
+ weaking variables to make them uncorrelated" \n\nRemarks:  Refreshments 
+ will be provided.  \n\nAbstract:  Interpreting the results of a statistica
+ l analysis would be easier if all variables were uncorrelated and all data
+  sets consisted of orthogonal x-variables. Principal components is one way
+  of obtaining orthogonal/uncorrelated variables\, but the relationship bet
+ ween the principal components and the original x-variables is complex. Thi
+ s talk proposes two transformations that give orthogonal/uncorrelated comp
+ onents with a close one-to-one correspondence between the x-variables and 
+ the components.\n The transformations have a number of useful applications
+  including:\n a unified approach to the identification and diagnosis of co
+ llinearities\nevaluating the contributions of individual variables to a Ma
+ halanobis distance or the test statistic of a Hotelling test\nsetting prio
+ r weights for Bayesian model averaging\nevaluating the contributions of in
+ dividual variables to a multiple regression\ncalculation of an upper bound
+  for a multivariate Chebyshev inequality.\nThe talk will focus on the firs
+ t three of these applications.  \n \n              
 LOCATION:M3 3127
 END:VEVENT
 END:VCALENDAR

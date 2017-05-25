@@ -7,13 +7,13 @@ SUMMARY:Polynomials of graphs -  (Seminar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
-UID:20170525_3a9ada5021dbe8f6a9ea1349afc687b5
-DESCRIPTION:Speaker: Krystal Guo\, University of WaterlooTitle: "Polynomia
- ls of graphs"\nAbstract: The characteristic polynomials and matching polyn
- omials of a graph are well-known graph polynomials. We study a more genera
- l graph polynomial\, which attains both of the polynomials in special cont
- exts\, using a construction from graph embeddings. The underlying theory u
- ses Viennot's theory of heaps. \n\n  \n
+UID:20170525T183000Z_34d8e77596772abd48b319babedb6b82
+DESCRIPTION:Speaker:  Krystal Guo\, University of Waterloo\nTitle:   "Poly
+ nomials of graphs" \n\nAbstract:  The characteristic polynomials and match
+ ing polynomials of a graph are well-known graph polynomials. We study a mo
+ re general graph polynomial\, which attains both of the polynomials in spe
+ cial contexts\, using a construction from graph embeddings. The underlying
+  theory uses Viennot's theory of heaps.  \n \n  \n
 LOCATION:Math & Computer\, Room 6486
 END:VEVENT
 BEGIN:VEVENT
@@ -21,12 +21,12 @@ SUMMARY:Matroids doing algebra -  (Seminar)
 DTSTART:20170525T193000Z
 DTEND:20170525T203000Z
 DTSTAMP:20170525T193000Z
-UID:20170525_783f1cb2eb23eb594ed58ab3df1d2ad4
-DESCRIPTION:Speaker: Jim Geelen\, University of WaterlooTitle: "Matroids d
- oing algebra"\nAbstract: We describe a folklore construction for encoding 
- a Diophantine equation into a matroid and state a conjecture which\, if tr
- ue\, would give a novel way of solving Diophantine equations over the real
- s. \n\n  \n
+UID:20170525T193000Z_732fc33a8a05e907daa0db5ac2aba4d4
+DESCRIPTION:Speaker:  Jim Geelen\, University of Waterloo\nTitle:   "Matro
+ ids doing algebra" \n\nAbstract:  We describe a folklore construction for 
+ encoding a Diophantine equation into a matroid and state a conjecture whic
+ h\, if true\, would give a novel way of solving Diophantine equations over
+  the reals.  \n \n  \n
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
@@ -35,22 +35,22 @@ SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
 DTSTART:20170526T193000Z
 DTEND:20170526T203000Z
 DTSTAMP:20170526T193000Z
-UID:20170526_8e4df1ce82ca14edc08c70705ec8a947
-DESCRIPTION:Speaker: Dr. Julia Chuzhoy\, Toyota Technological Institute at
-  ChicagoTitle: "Graph Routing Problems: Approximation\, Hardness\, and Gra
- ph-Theoretic Insights"\nAbstract: In a typical routing problem\, we are gi
- ven a graph G\, and a collection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its
-  vertices\, called demand pairs\, that we would like to route. In order to
-  route a demand pair (s_i\,t_i)\, we need to choose a path connecting s_i 
- to t_i in G. Our goal is usually to route as many of the demand pairs as p
- ossible\, while keeping the congestion of the routing - the maximum load o
- n any vertex or an edge of G - as small as possible. This general framewor
- k gives rise to a number of basic and widely studied graph routing problem
- s\, that have lead to the development of a rich toolkit of algorithmic tec
- hniques\, as well as structural graph theoretic results. In this talk we w
- ill describe some of the recent developments in approximation algorithms f
- or graph routing problems\, and highlight some connections between this ar
- ea and graph theory. \n\n  \n
+UID:20170526T193000Z_1f2a40fa52afc6c6c5832912b44457f5
+DESCRIPTION:Speaker:  Dr. Julia Chuzhoy\, Toyota Technological Institute a
+ t Chicago\nTitle:   "Graph Routing Problems: Approximation\, Hardness\, an
+ d Graph-Theoretic Insights" \n\nAbstract:  In a typical routing problem\, 
+ we are given a graph G\, and a collection(s_1\,t_1)\,..\,(s_k\,t_k) of pai
+ rs of its vertices\, called demand pairs\, that we would like to route. In
+  order to route a demand pair (s_i\,t_i)\, we need to choose a path connec
+ ting s_i to t_i in G. Our goal is usually to route as many of the demand p
+ airs as possible\, while keeping the congestion of the routing - the maxim
+ um load on any vertex or an edge of G - as small as possible. This general
+  framework gives rise to a number of basic and widely studied graph routin
+ g problems\, that have lead to the development of a rich toolkit of algori
+ thmic techniques\, as well as structural graph theoretic results. In this 
+ talk we will describe some of the recent developments in approximation alg
+ orithms for graph routing problems\, and highlight some connections betwee
+ n this area and graph theory.  \n \n  \n
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -58,19 +58,19 @@ SUMMARY:Dots\, lines\, and arrows -  (Colloquium)
 DTSTART:20170531T203000Z
 DTEND:20170531T213000Z
 DTSTAMP:20170531T203000Z
-UID:20170531_dcb2377193aafa4cc5c28b4d81c8f91c
-DESCRIPTION:Speaker: Nick Rollick\, Pure Mathematics\, University of Water
- looTitle: "Dots\, lines\, and arrows"\nAbstract: In this talk\, we will su
- rvey connected-homomorphism-homogeneous graphs\, which is a fancy way of t
- alking about manipulations with dots\, lines\, and arrows.  (In the grown-
- up language of mathematicians\, that means vertices\, edges\, and graph ho
- momorphisms.)  After familiarizing ourselves with the language of connecte
- d-homomorphism-homogeneous graphs\, we will examine a gallery of graphs il
- lustrating some classification results\, started by Deborah Lockett\, and 
- which I subsequently expanded on.  For my friends in PMATH\, this should s
- erve as a gentle and entertaining introduction to the terminology of graph
-  theory.  For my friends in CO\, this is a really easy area to get into\, 
- containing some accessible open problems. \n\n \n
+UID:20170531T203000Z_3187a6fa682b795e43830113d4dbe2b7
+DESCRIPTION:Speaker:  Nick Rollick\, Pure Mathematics\, University of Wate
+ rloo\nTitle:   "Dots\, lines\, and arrows" \n\nAbstract:  In this talk\, w
+ e will survey connected-homomorphism-homogeneous graphs\, which is a fancy
+  way of talking about manipulations with dots\, lines\, and arrows.  (In t
+ he grown-up language of mathematicians\, that means vertices\, edges\, and
+  graph homomorphisms.)  After familiarizing ourselves with the language of
+  connected-homomorphism-homogeneous graphs\, we will examine a gallery of 
+ graphs illustrating some classification results\, started by Deborah Locke
+ tt\, and which I subsequently expanded on.  For my friends in PMATH\, this
+  should serve as a gentle and entertaining introduction to the terminology
+  of graph theory.  For my friends in CO\, this is a really easy area to ge
+ t into\, containing some accessible open problems.  \n \n \n
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
@@ -79,27 +79,27 @@ SUMMARY:Tight lower bounds for the complexity of multicoloring -  (Colloqu
 DTSTART:20170601T193000Z
 DTEND:20170601T203000Z
 DTSTAMP:20170601T193000Z
-UID:20170601_0d21d808ea53f33cda5bd826b45cf362
-DESCRIPTION:Speaker: Marthe Boname\, University of BordeauxTitle: "Tight l
- ower bounds for the complexity of multicoloring"\nAbstract: In the multico
- loring problem\, also known as $(a:b)$ or $b$-fold coloring\, we are given
-  a graph $G$ and a set of a colors\, and the task is to assign a subset of
-  $b$ colors to each vertex of $G$ so that adjacent vertices receive disjoi
- nt color subsets. This natural generalization of the classic coloring prob
- lem (the $b=1$ case) is equivalent to finding a homomorphism to the Kneser
-  graph with parameters a and b. It is tightly connected with the fractiona
- l chromatic number\, and has multiple applications within computer science
- .\nWe study the complexity of determining whether a graph has an $(a:b)$-c
- oloring. Nederlof showed in 2008 a $(b+1)^n*n^O(1)$-time algorithm for $(a
- :b)$-coloring. Our main result is that this is essentially optimal: there 
- is no algorithm with running time $2^o(log b)⋅n$ unless the Exponential 
- Time Hypothesis fails. The crucial ingredient in our hardness reduction is
-  the usage of detecting matrices of Lindstr| om (1965)\, which is a comb
- inatorial tool that\, to the best of our knowledge\, has not yet been used
-  for proving complexity lower bounds. This talk is also meant as an introd
- uction to the ETH.\nThis is joint work with  {\\L}ukasz Kowalik\, Micha{\\
- l}  Pilipczuk\, Arkadiusz Soca{\\l}a and Marcin Wrochna (University of War
- saw). \n\n  \n
+UID:20170601T193000Z_8dc0d651d004f8ad99ed86761b527c20
+DESCRIPTION:Speaker:  Marthe Boname\, University of Bordeaux\nTitle:   "Ti
+ ght lower bounds for the complexity of multicoloring" \n\nAbstract:  In th
+ e multicoloring problem\, also known as $(a:b)$ or $b$-fold coloring\, we 
+ are given a graph $G$ and a set of a colors\, and the task is to assign a 
+ subset of $b$ colors to each vertex of $G$ so that adjacent vertices recei
+ ve disjoint color subsets. This natural generalization of the classic colo
+ ring problem (the $b=1$ case) is equivalent to finding a homomorphism to t
+ he Kneser graph with parameters a and b. It is tightly connected with the 
+ fractional chromatic number\, and has multiple applications within compute
+ r science.\nWe study the complexity of determining whether a graph has an 
+ $(a:b)$-coloring. Nederlof showed in 2008 a $(b+1)^n*n^O(1)$-time algorith
+ m for $(a:b)$-coloring. Our main result is that this is essentially optima
+ l: there is no algorithm with running time $2^o(log b)⋅n$ unless the Exp
+ onential Time Hypothesis fails. The crucial ingredient in our hardness red
+ uction is the usage of detecting matrices of Lindstr| om (1965)\, which 
+ is a combinatorial tool that\, to the best of our knowledge\, has not yet 
+ been used for proving complexity lower bounds. This talk is also meant as 
+ an introduction to the ETH.\n This is joint work with  {\\L}ukasz Kowalik\
+ , Micha{\\l}  Pilipczuk\, Arkadiusz Soca{\\l}a and Marcin Wrochna (Univers
+ ity of Warsaw).  \n \n  \n
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
@@ -107,22 +107,22 @@ SUMMARY:Smith Normal Form and Combinatorics -  (Colloquium)
 DTSTART:20170602T193000Z
 DTEND:20170602T203000Z
 DTSTAMP:20170602T193000Z
-UID:20170602_620813ac4f886fbfa03d72165c6190d8
-DESCRIPTION:Speaker: Dr. Richard Stanley\, MITTitle: "Smith Normal Form an
- d Combinatorics"\nAbstract: Let $R$ be a commutative ring (with identity) 
- and $A$ an $n\\times n$ matrix over $R$. Suppose there exist $n\\times n$ 
- matrices $P\,Q$ invertible over $R$ for which $PAQ$ is a diagonal matrix d
- iag$(e_1\,\\dots\,e_r\,0\,\\dots\,0)$\, where $e_i$ divides $e_{i+1}$ in $
- R$. We then call $PAQ$ a \\emph{Smith normal form}(SNF) of $A$. If $R$ is 
- a PID then an SNF always exists and is unique up to multiplication by unit
- s. Moreover if $A$ is invertible then $\\det A=u\\alpha_1\\cdots \\alpha n
- $\, where $u$ is a unit\, so SNF gives a canonical factorization of $\\det
-  A$.\nWe will survey some connections between SNF and combinatorics. Topic
- s will include (1) the general theory of SNF\, (2) a close connection betw
- een SNF and chip firing in graphs\, (3) the SNF of a random matrix of inte
- gers (joint work with Yinghui Wang)\, (4) SNF of special classes of matric
- es\, including some arising in the theory of symmetric functions\, hyperpl
- ane arrangements\, and lattice paths. \n\n        
+UID:20170602T193000Z_96e1a2674fba120775554b1cdad9bd0e
+DESCRIPTION:Speaker:  Dr. Richard Stanley\, MIT\nTitle:   "Smith Normal Fo
+ rm and Combinatorics" \n\nAbstract:  Let $R$ be a commutative ring (with i
+ dentity) and $A$ an $n\\times n$ matrix over $R$. Suppose there exist $n\\
+ times n$ matrices $P\,Q$ invertible over $R$ for which $PAQ$ is a diagonal
+  matrix diag$(e_1\,\\dots\,e_r\,0\,\\dots\,0)$\, where $e_i$ divides $e_{i
+ +1}$ in $R$. We then call $PAQ$ a \\emph{Smith normal form}(SNF) of $A$. I
+ f $R$ is a PID then an SNF always exists and is unique up to multiplicatio
+ n by units. Moreover if $A$ is invertible then $\\det A=u\\alpha_1\\cdots 
+ \\alpha n$\, where $u$ is a unit\, so SNF gives a canonical factorization 
+ of $\\det A$.\n We will survey some connections between SNF and combinator
+ ics. Topics will include (1) the general theory of SNF\, (2) a close conne
+ ction between SNF and chip firing in graphs\, (3) the SNF of a random matr
+ ix of integers (joint work with Yinghui Wang)\, (4) SNF of special classes
+  of matrices\, including some arising in the theory of symmetric functions
+ \, hyperplane arrangements\, and lattice paths.  \n \n        
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 END:VCALENDAR
