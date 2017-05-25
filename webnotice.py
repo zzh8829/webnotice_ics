@@ -17,9 +17,7 @@ def get_depts():
 
 def get_listing(dept):
     bs = BeautifulSoup(requests.get(wnotice+'/list_notices_p.pl?dept='+dept+'&time_frame=year').text, 'html5lib')
-    events = []
     for dd in bs.find_all('dd'):
-        event = {}
         try:
             dt2 = dd.previous_sibling
             dt1 = dt2.previous_sibling
@@ -30,24 +28,18 @@ def get_listing(dept):
             local_dt = local_tz.localize(parsed_dt, is_dst=None)
             utc_dt = local_dt.astimezone (pytz.utc)
 
-            event['when'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
-            event['when_end'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
-            event['seq'] = utc_dt.strftime('%Y%m%d%H')
-
-            event['venue'] = dt2.find('em').text.strip()
-            event['where'] = dt1.text.split('--')[1].replace('true', '').strip()
+            venue = dt2.find('em').text.strip()
+            where = dt1.text.split('--')[1].replace('true', '').strip()
             if '--' in dt2.text:
-                event['dept'] = dt2.text.split('--')[1].strip()
+                dept = dt2.text.split('--')[1].strip()
 
+            who = None
+            title = None
+            abstract = None
+            remarks = None
             for em in dd.find_all('em'):
                 if em.text == 'Speaker:':
-                    line = em.next_sibling.strip()
-                    if 'Department' in line:
-                        event['who'] = line.rsplit(', Department')[0].strip()
-                        event['affiliation'] = 'Department ' + line.rsplit('Department')[1].strip()
-                    else:
-                        event['who'] = line.rsplit(',')[0].strip()
-                        event['affiliation'] = line.rsplit(',')[1].strip()
+                    who = em.next_sibling.strip()
                 elif em.text == 'Title:':
                     title = em.next_sibling.next_sibling.find('em').text.strip()
                     if title[:1] == '"':
@@ -55,42 +47,40 @@ def get_listing(dept):
                     if title[-1:] == '"':
                         title = title[:-1]
                     title = title.replace('$', '')
-                    event['title'] = title
                 elif em.text == 'Abstract:':
                     # XXX TODO FIXME: This will cut off at the end of first paragraph
-                    event['abstract'] = em.next_sibling.strip()
+                    abstract = em.next_sibling.strip()
                 elif em.text == 'Remarks:':
-                    event['remarks'] = em.next_sibling.strip()
+                    remarks = em.next_sibling.strip()
 
-            event['uid'] = utc_dt.strftime('%Y')+'_'+hashlib.md5((event['who']+'|'+event['title']).encode('utf-8')).hexdigest()+'.'+emailfrom
-            events.append(event)
+            event = Event()
+            event['uid'] = utc_dt.strftime('%Y%m%d')+'_'+hashlib.md5(who.encode('utf-8')).hexdigest()
+            event['dtstart'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
+            event['dtstamp'] = event['dtstart']
+            event['dtend'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
 
-            print(event['when'], event['who'])
+            event['location'] = where
+            event['summary'] = title + ' - ' + who + ' ('+ venue +')'
+
+            event['description'] = '\n'.join(filter(None,[
+                                             title,
+                                             who,
+                                             venue,
+                                             '\n',
+                                             abstract,
+                                             remarks]))
+
+            yield event
         except Exception as e:
             print(dd, e)
-    return events
 
 def dump_ics(dept, name):
-    listing = get_listing(dept)
     cal = Calendar()
     cal.add('prodid', '-//UW-Webnotice//EN')
     cal.add('version', '2.0')
     cal.add('x-wr-calname', 'UW Webnotice (%s)'%name)
-    for item in listing:
-        event = Event()
-        event['uid'] = item['uid']
-        event['dtstamp'] = item['when']
-        event['dtstart'] = item['when']
-        event['dtend'] = item['when_end']
-        event['location'] = item['where']
-        event['summary'] = item['title']+' ('+item['venue']+')'
-        event['description'] = '\n'.join(filter(None,[
-                                         item['title'],
-                                         item['who']+', '+item['affiliation'] + '\n',
-                                         item.get('remarks', ''),
-                                         item.get('abstract', '')]))
-
-        cal.add_component(event)
+    for item in get_listing(dept):
+        cal.add_component(item)
 
     f = open('webnotice/'+dept+'.ics', 'wb')
     f.write(cal.to_ical())

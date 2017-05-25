@@ -3,22 +3,22 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium
- )
+SUMMARY:From Hopf Algebras to Machine learning via Rough Paths - Terry Lyo
+ ns\, Oxford University (Colloquium)
 DTSTART:20170616T140000Z
 DTEND:20170616T150000Z
 DTSTAMP:20170616T140000Z
-UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
+UID:20170616_c6423cdf19e1a24dece31bd3a175543b
 DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry 
- Lyons\, Oxford University\n\nRough path theory aims to build an effective 
- calculus that can model the interactions between complex oscillatory (roug
- h) evolving systems. At its mathematical foundations\, it is a combination
-  of analysis blended with algebra that goes back to LC Young\, and to KT C
- hen. Key to the theory is the essential need to incorporate additional non
- -commutative structure into areas of mathematics we thought were stable. A
- t its high points\, there are the regularity structures of Martin Hairer t
- hat allow robust meaning to be given to numerous core nonlinear stochastic
-  pdes describing evolving interfaces in physics.
+ Lyons\, Oxford University\nColloquium\n\n\nRough path theory aims to build
+  an effective calculus that can model the interactions between complex osc
+ illatory (rough) evolving systems. At its mathematical foundations\, it is
+  a combination of analysis blended with algebra that goes back to LC Young
+ \, and to KT Chen. Key to the theory is the essential need to incorporate 
+ additional non-commutative structure into areas of mathematics we thought 
+ were stable. At its high points\, there are the regularity structures of M
+ artin Hairer that allow robust meaning to be given to numerous core nonlin
+ ear stochastic pdes describing evolving interfaces in physics.
 LOCATION:MC 6460
 END:VEVENT
 END:VCALENDAR

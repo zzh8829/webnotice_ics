@@ -3,275 +3,385 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:Computable Functors and Effective Interpretability (Computabil
- ity Learning Seminar)
+SUMMARY:Computable Functors and Effective Interpretability - Michael D
+ eveau\,\, Department of Pure Mathematics\, University of Waterloo (Computa
+ bility Learning Seminar)
 DTSTART:20170523T150000Z
 DTEND:20170523T160000Z
 DTSTAMP:20170523T150000Z
-UID:2017_c0d2833c87473f9504d8bb93ba698200.wnotice@math.uwaterloo.ca
+UID:20170523_fa2afed1fb70f628705c718f4574c46e
 DESCRIPTION:Computable Functors and Effective Interpretability\nMichae
- l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\n\nWe
-  introduce the notion of a computable functor and the definition of effect
- ive inter- pretability. The former is a computable analogue of a category-
- theoretic functor between ω-presentations of structures\, and the latter 
- is an effective version of model-theoretic inter- pretability. We show tha
- t effective interpretations induce computable functors\, and briefly menti
- on the converse.
+ l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\nComp
+ utability Learning Seminar\n\n\nWe introduce the notion of a computable fu
+ nctor and the definition of effective inter- pretability. The former is a 
+ computable analogue of a category-theoretic functor between ω-presentatio
+ ns of structures\, and the latter is an effective version of model-theoret
+ ic inter- pretability. We show that effective interpretations induce compu
+ table functors\, and briefly mention the converse.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Applications of the zeta function over function fields. (Stude
- nt Number Theory Seminars Seminar)
+SUMMARY:Applications of the zeta function over function fields. - Step
+ hen Wen\, Department of Pure Mathematics\, University of Waterloo (Student
+  Number Theory Seminars Seminar)
 DTSTART:20170523T153000Z
 DTEND:20170523T163000Z
 DTSTAMP:20170523T153000Z
-UID:2017_0362c5cdd46e28eee2ea80ecf61e804e.wnotice@math.uwaterloo.ca
+UID:20170523_dbbf7db0a85e14ef0bb039b43d54d836
 DESCRIPTION:Applications of the zeta function over function fields.\nS
- tephen Wen\, Department of Pure Mathematics\, University of Waterloo\n\nWe
-  provide a proof of the Prime Number Theorem over function fields. We exam
- ine and extend techniques used in a zeta function proof of the theorem to 
- other applications such as counting square- and higher power- free polynom
- ials of a given degree. If time permits\, Dirichlet Series will be in- tro
- duced with an aim towards proving the analogue of Dirichlets Theorem on pr
- imes in arithmetic progressions.
+ tephen Wen\, Department of Pure Mathematics\, University of Waterloo\nStud
+ ent Number Theory Seminars Seminar\n\n\nWe provide a proof of the Prime Nu
+ mber Theorem over function fields. We examine and extend techniques used i
+ n a zeta function proof of the theorem to other applications such as count
+ ing square- and higher power- free polynomials of a given degree. If time 
+ permits\, Dirichlet Series will be in- troduced with an aim towards provin
+ g the analogue of Dirichlets Theorem on primes in arithmetic progressions.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Spencer Complex Part 3 (Geometry Working Seminar)
+SUMMARY:The Spencer Complex Part 3 - Anthony McCormick\,\, Department 
+ of Pure Mathematics\, University of Waterloo (Geometry Working Seminar)
 DTSTART:20170523T183000Z
 DTEND:20170523T193000Z
 DTSTAMP:20170523T183000Z
-UID:2017_deac39a119eb9b748be831a2688a41a7.wnotice@math.uwaterloo.ca
+UID:20170523_86f9847f230496ecee908fa2c7ba0fae
 DESCRIPTION:The Spencer Complex Part 3\nAnthony McCormick\,\, Departme
- nt of Pure Mathematics\, University of Waterloo\n\nWe will begin our const
- ruction of resolutions of the sheaf kernel of a linear partial differentia
- l operator between vector bundles. Furthermore\, we will discuss some of t
- he connections and interpretations of these resolutions in terms of deform
- ation theory\, and outline how they can be applied to the integrability pr
- oblem for G-structures.
+ nt of Pure Mathematics\, University of Waterloo\nGeometry Working Seminar\
+ n\n\nWe will begin our construction of resolutions of the sheaf kernel of 
+ a linear partial differential operator between vector bundles. Furthermore
+ \, we will discuss some of the connections and interpretations of these re
+ solutions in terms of deformation theory\, and outline how they can be app
+ lied to the integrability problem for G-structures.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Topological and fractal properties of non-integer base expansions 
- (Seminar)
+ - Vilmos Komornik\, University of Strasbourg (Seminar)
 DTSTART:20170523T193000Z
 DTEND:20170523T203000Z
 DTSTAMP:20170523T193000Z
-UID:2017_7630f6caa6452f01b06b7a1930fe8b9b.wnotice@math.uwaterloo.ca
+UID:20170523_e6ab78d391dad5abfe9b87dace97511f
 DESCRIPTION:Topological and fractal properties of non-integer base expansi
- ons\nVilmos Komornik\, University of Strasbourg\n\nGiven a base 1\\less q\
- \le 2\, following Renyi (1957) we consider expansions of the form
+ ons\nVilmos Komornik\, University of Strasbourg\nSeminar\n\n\nGiven a base
+  1\\less q\\le 2\, following Renyi (1957) we consider expansions of the fo
+ rm
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game 
- (Human-Computer Interaction PhD Seminar)
+ - Diane Watson\, David R. Cheriton School of Computer Science (Human-Compu
+ ter Interaction PhD Seminar)
 DTSTART:20170524T140000Z
 DTEND:20170524T150000Z
 DTSTAMP:20170524T140000Z
-UID:2017_64a91a864ff85b3bc72de1097ea0d862.wnotice@math.uwaterloo.ca
+UID:20170524_761f90e16614527ad37714656eb644c8
 DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
- ame\nDiane Watson\, David R. Cheriton School of Computer Science\n\nTextbo
- oks\, as supplementary material\, are known to improve student outcomes by
-  accommodating multiple learning types and reinforcing material learned in
-  class\; however\, most students do not often complete assigned readings. 
- We created Reading Garden\, a motivational game aimed to get students to r
- ead more of the textbook. Reading Garden is a casual\, multiplayer game fo
- llowing common design patterns of many social games. For example\, it foll
- ows the free-to-play model\, where the game can always be played for free\
- , but has special advanced actions and decorations that can be purchased w
- ith gold  a special in-game currency. Players earn gold by completing as
- signed readings.
+ ame\nDiane Watson\, David R. Cheriton School of Computer Science\nHuman-Co
+ mputer Interaction PhD Seminar\n\n\nTextbooks\, as supplementary material\
+ , are known to improve student outcomes by accommodating multiple learning
+  types and reinforcing material learned in class\; however\, most students
+  do not often complete assigned readings. We created Reading Garden\, a mo
+ tivational game aimed to get students to read more of the textbook. Readin
+ g Garden is a casual\, multiplayer game following common design patterns o
+ f many social games. For example\, it follows the free-to-play model\, whe
+ re the game can always be played for free\, but has special advanced actio
+ ns and decorations that can be purchased with gold  a special in-game cu
+ rrency. Players earn gold by completing assigned readings.
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Polynomials of graphs (Seminar)
+SUMMARY:Polynomials of graphs - Krystal Guo\, University of Waterloo (Semi
+ nar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
-UID:2017_8558e91f973126d0e625234c63cebe7b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Polynomials of graphs\nKrystal Guo\, University of Waterloo\n\
- nThe characteristic polynomials and matching polynomials of a graph are we
- ll-known graph polynomials. We study a more general graph polynomial\, whi
- ch attains both of the polynomials in special contexts\, using a construct
- ion from graph embeddings. The underlying theory uses Viennot's theory of 
- heaps.
+UID:20170525_7c514d3bed2db6024134483cd9aa41a7
+DESCRIPTION:Polynomials of graphs\nKrystal Guo\, University of Waterloo\nS
+ eminar\n\n\nThe characteristic polynomials and matching polynomials of a g
+ raph are well-known graph polynomials. We study a more general graph polyn
+ omial\, which attains both of the polynomials in special contexts\, using 
+ a construction from graph embeddings. The underlying theory uses Viennot's
+  theory of heaps.
 LOCATION:Math & Computer\, Room 6486
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A new construction of compact G2 manifolds by glueing Eguchi-Han
  son spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson spac
- es (Geometry Working Seminar)
+ es - Spiro Karigiannis\, Department of Pure Mathematics\, University of 
+ Waterloo (Geometry Working Seminar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
-UID:2017_a35237d0dfac71463bb96e975c5eaeb9.wnotice@math.uwaterloo.ca
+UID:20170525_3057c491040754f00c17c7586277bb7b
 DESCRIPTION:A new construction of compact G2 manifolds by glueing Eguchi
  -Hanson spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson 
  spaces\nSpiro Karigiannis\, Department of Pure Mathematics\, University 
- of Waterloo\n\nWe move on to the second of four main steps of the construc
- tion: resolving the orbifold singularities by performing a fibre-wise blow
-  up. The important point is that there is no natural torsion-free G2 struc
- ture on this third glueing region. The natural G2 structure is not even cl
- osed. There is a natural way to correct it to be closed\, which we will di
- scuss. The third step is correcting this further to remove the leading err
- or term in the torsion\, which is the third main step.
+ of Waterloo\nGeometry Working Seminar\n\n\nWe move on to the second of fou
+ r main steps of the construction: resolving the orbifold singularities by 
+ performing a fibre-wise blow up. The important point is that there is no n
+ atural torsion-free G2 structure on this third glueing region. The natural
+  G2 structure is not even closed. There is a natural way to correct it to 
+ be closed\, which we will discuss. The third step is correcting this furth
+ er to remove the leading error term in the torsion\, which is the third ma
+ in step.
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matroids doing algebra (Seminar)
+SUMMARY:Matroids doing algebra - Jim Geelen\, University of Waterloo (Semi
+ nar)
 DTSTART:20170525T193000Z
 DTEND:20170525T203000Z
 DTSTAMP:20170525T193000Z
-UID:2017_432010d464a1634658c94ca28f230d3a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Matroids doing algebra\nJim Geelen\, University of Waterloo\n\
- nWe describe a folklore construction for encoding a Diophantine equation i
- nto a matroid and state a conjecture which\, if true\, would give a novel 
- way of solving Diophantine equations over the reals.
+UID:20170525_0cd55af58044fce8d9526c07cd2e57d4
+DESCRIPTION:Matroids doing algebra\nJim Geelen\, University of Waterloo\nS
+ eminar\n\n\nWe describe a folklore construction for encoding a Diophantine
+  equation into a matroid and state a conjecture which\, if true\, would gi
+ ve a novel way of solving Diophantine equations over the reals.
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tweaking variables to make them uncorrelated (Seminar)
+SUMMARY:Tweaking variables to make them uncorrelated - Paul Garthwaite
+ \, the Open University (Seminar)
 DTSTART:20170525T200000Z
 DTEND:20170525T210000Z
 DTSTAMP:20170525T200000Z
-UID:2017_d48d4f92e94d6018044f097530fcf1b9.wnotice@math.uwaterloo.ca
+UID:20170525_419d5ae102577eb4dd204e4cfbd9a8a7
 DESCRIPTION:Tweaking variables to make them uncorrelated\nPaul Garthwa
- ite\, the Open University\n\nRefreshments will be provided.\nInterpreting 
- the results of a statistical analysis would be easier if all variables wer
- e uncorrelated and all data sets consisted of orthogonal x-variables. Prin
- cipal components is one way of obtaining orthogonal/uncorrelated variables
- \, but the relationship between the principal components and the original 
- x-variables is complex. This talk proposes two transformations that give o
- rthogonal/uncorrelated components with a close one-to-one correspondence b
- etween the x-variables and the components.
+ ite\, the Open University\nSeminar\n\n\nInterpreting the results of a stat
+ istical analysis would be easier if all variables were uncorrelated and al
+ l data sets consisted of orthogonal x-variables. Principal components is o
+ ne way of obtaining orthogonal/uncorrelated variables\, but the relationsh
+ ip between the principal components and the original x-variables is comple
+ x. This talk proposes two transformations that give orthogonal/uncorrelate
+ d components with a close one-to-one correspondence between the x-variable
+ s and the components.\nRefreshments will be provided.
 LOCATION:M3 3127
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
- etic Insights (Seminar)
+ etic Insights - Dr. Julia Chuzhoy\, Toyota Technological Institute at Chic
+ ago (Seminar)
 DTSTART:20170526T193000Z
 DTEND:20170526T203000Z
 DTSTAMP:20170526T193000Z
-UID:2017_78ab2191b787d6390484f2b62ccc8c24.wnotice@math.uwaterloo.ca
+UID:20170526_4de7fcdf0dae0405bc3ee71ca69c5ef2
 DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
  heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
- hicago\n\nIn a typical routing problem\, we are given a graph G\, and a co
- llection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, called deman
- d pairs\, that we would like to route. In order to route a demand pair (s_
- i\,t_i)\, we need to choose a path connecting s_i to t_i in G. Our goal is
-  usually to route as many of the demand pairs as possible\, while keeping 
- the congestion of the routing - the maximum load on any vertex or an edge 
- of G - as small as possible. This general framework gives rise to a number
-  of basic and widely studied graph routing problems\, that have lead to th
- e development of a rich toolkit of algorithmic techniques\, as well as str
- uctural graph theoretic results. In this talk we will describe some of the
-  recent developments in approximation algorithms for graph routing problem
- s\, and highlight some connections between this area and graph theory.
+ hicago\nSeminar\n\n\nIn a typical routing problem\, we are given a graph G
+ \, and a collection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, c
+ alled demand pairs\, that we would like to route. In order to route a dema
+ nd pair (s_i\,t_i)\, we need to choose a path connecting s_i to t_i in G. 
+ Our goal is usually to route as many of the demand pairs as possible\, whi
+ le keeping the congestion of the routing - the maximum load on any vertex 
+ or an edge of G - as small as possible. This general framework gives rise 
+ to a number of basic and widely studied graph routing problems\, that have
+  lead to the development of a rich toolkit of algorithmic techniques\, as 
+ well as structural graph theoretic results. In this talk we will describe 
+ some of the recent developments in approximation algorithms for graph rout
+ ing problems\, and highlight some connections between this area and graph 
+ theory.
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Continuous Affect Prediction from Different Features and Modeling 
- Approaches in Evaluation-Power-Activity Space (Artificial Intelligence Lab
-  Master's Thesis Presentation)
+ Approaches in Evaluation-Power-Activity Space - Zhengkun Shang\, David R. 
+ Cheriton School of Computer Science (Artificial Intelligence Lab Master's 
+ Thesis Presentation)
 DTSTART:20170531T170000Z
 DTEND:20170531T180000Z
 DTSTAMP:20170531T170000Z
-UID:2017_d2e15359ab343b56b56ce140b3014776.wnotice@math.uwaterloo.ca
+UID:20170531_8c4f40d571ea6e21b885a80b00bd11ba
 DESCRIPTION:Continuous Affect Prediction from Different Features and Model
  ing Approaches in Evaluation-Power-Activity Space\nZhengkun Shang\, David 
- R. Cheriton School of Computer Science\n\nTo come...
+ R. Cheriton School of Computer Science\nArtificial Intelligence Lab Master
+ 's Thesis Presentation\n\n\nTo come...
 LOCATION:DC 3126
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dots\, lines\, and arrows - Nick Rollick\, Pure Mathematics\, Univ
+ ersity of Waterloo (Colloquium)
+DTSTART:20170531T203000Z
+DTEND:20170531T213000Z
+DTSTAMP:20170531T203000Z
+UID:20170531_6c5dd75b2b70cfe502f2960e56206ed2
+DESCRIPTION:Dots\, lines\, and arrows\nNick Rollick\, Pure Mathematics\, U
+ niversity of Waterloo\nColloquium\n\n\nIn this talk\, we will survey conne
+ cted-homomorphism-homogeneous graphs\, which is a fancy way of talking abo
+ ut manipulations with dots\, lines\, and arrows.  (In the grown-up languag
+ e of mathematicians\, that means vertices\, edges\, and graph homomorphism
+ s.)  After familiarizing ourselves with the language of connected-homomorp
+ hism-homogeneous graphs\, we will examine a gallery of graphs illustrating
+  some classification results\, started by Deborah Lockett\, and which I su
+ bsequently expanded on.  For my friends in PMATH\, this should serve as a 
+ gentle and entertaining introduction to the terminology of graph theory.  
+ For my friends in CO\, this is a really easy area to get into\, containing
+  some accessible open problems.
+LOCATION:Math & Computer\, Room 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tight lower bounds for the complexity of multicoloring - Marthe Bo
+ name\, University of Bordeaux (Colloquium)
+DTSTART:20170601T193000Z
+DTEND:20170601T203000Z
+DTSTAMP:20170601T193000Z
+UID:20170601_62eb84ea4953cb2730236c8b7680456f
+DESCRIPTION:Tight lower bounds for the complexity of multicoloring\nMarthe
+  Boname\, University of Bordeaux\nColloquium\n\n\nIn the multicoloring pro
+ blem\, also known as $(a:b)$ or $b$-fold coloring\, we are given a graph $
+ G$ and a set of a colors\, and the task is to assign a subset of $b$ color
+ s to each vertex of $G$ so that adjacent vertices receive disjoint color s
+ ubsets. This natural generalization of the classic coloring problem (the $
+ b=1$ case) is equivalent to finding a homomorphism to the Kneser graph wit
+ h parameters a and b. It is tightly connected with the fractional chromati
+ c number\, and has multiple applications within computer science.\nWe stud
+ y the complexity of determining whether a graph has an $(a:b)$-coloring. N
+ ederlof showed in 2008 a $(b+1)^n*n^O(1)$-time algorithm for $(a:b)$-color
+ ing. Our main result is that this is essentially optimal: there is no algo
+ rithm with running time $2^o(log b)⋅n$ unless the Exponential Time Hypot
+ hesis fails. The crucial ingredient in our hardness reduction is the usage
+  of detecting matrices of Lindstr| om (1965)\, which is a combinatorial 
+ tool that\, to the best of our knowledge\, has not yet been used for provi
+ ng complexity lower bounds. This talk is also meant as an introduction to 
+ the ETH.
+LOCATION:Math & Computer\, Room 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bidder Profiling by Acquisition and Analysis of Market Data in Wat
+ er Distribution Industry - Milad Khaki\, David R. Cheriton School of Compu
+ ter Science (Artificial Intelligence Lab PhD Seminar)
+DTSTART:20170602T170000Z
+DTEND:20170602T180000Z
+DTSTAMP:20170602T170000Z
+UID:20170602_b54927873d21572f5f1f4a9e59519208
+DESCRIPTION:Bidder Profiling by Acquisition and Analysis of Market Data in
+  Water Distribution Industry\nMilad Khaki\, David R. Cheriton School of Co
+ mputer Science\nArtificial Intelligence Lab PhD Seminar\n\n\nThe project i
+ nvolves the analysis of procurement auctions for water infrastructure main
+ tenance projects for Cities of Niagara Falls and London. The primary conce
+ rn of this proposal is to generate a reliable mechanism for importing diff
+ erent formats of the tender summaries\, provided as input data\, of the pr
+ ojects and unify them in a database for further exploration and processing
+ . For this part of the research\, I developed a water infrastructure ontol
+ ogy to standardize the different aspects of the knowledge available in thi
+ s field\, which would eventually help us to import the data and look for a
+ ny contextual inconsistencies and errors and act appropriately to repair t
+ hem.
+LOCATION:DC 3323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith Normal Form and Combinatorics - Dr. Richard Stanley\, MIT (C
+ olloquium)
+DTSTART:20170602T193000Z
+DTEND:20170602T203000Z
+DTSTAMP:20170602T193000Z
+UID:20170602_d6eab0a6ba280bcef98df03c0aba898a
+DESCRIPTION:Smith Normal Form and Combinatorics\nDr. Richard Stanley\, MIT
+ \nColloquium\n\n\nLet $R$ be a commutative ring (with identity) and $A$ an
+  $n\\times n$ matrix over $R$. Suppose there exist $n\\times n$ matrices $
+ P\,Q$ invertible over $R$ for which $PAQ$ is a diagonal matrix diag$(e_1\,
+ \\dots\,e_r\,0\,\\dots\,0)$\, where $e_i$ divides $e_{i+1}$ in $R$. We the
+ n call $PAQ$ a \\emph{Smith normal form}(SNF) of $A$. If $R$ is a PID then
+  an SNF always exists and is unique up to multiplication by units. Moreove
+ r if $A$ is invertible then $\\det A=u\\alpha_1\\cdots \\alpha n$\, where 
+ $u$ is a unit\, so SNF gives a canonical factorization of $\\det A$.
+LOCATION:Math & Computer\, Room 5501
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
- tial Observability (Master's Thesis Presentation)
+ tial Observability - Dan Wang\, David R. Cheriton School of Computer Scien
+ ce (Master's Thesis Presentation)
 DTSTART:20170606T140000Z
 DTEND:20170606T150000Z
 DTSTAMP:20170606T140000Z
-UID:2017_57cd53e80cf64d65466e79f4d96b694b.wnotice@math.uwaterloo.ca
+UID:20170606_09e776cad468af670d9aa932c736af2c
 DESCRIPTION:Hierarchical Task Recognition and Planning in Smart Homes with
   Partial Observability\nDan Wang\, David R. Cheriton School of Computer Sc
- ience\n
+ ience\nMaster's Thesis Presentation\n\n
 LOCATION:DC 2102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
-  and Lattice Path Enumeration (Symbolic Computation Group PhD Defence)
+  and Lattice Path Enumeration - Stephen Melczer\, David R. Cheriton School
+  of Computer Science (Symbolic Computation Group PhD Defence)
 DTSTART:20170613T140000Z
 DTEND:20170613T150000Z
 DTSTAMP:20170613T140000Z
-UID:2017_d02522bd0f11207e3a48bf954602aba9.wnotice@math.uwaterloo.ca
+UID:20170613_f13fa61b5a9b1a31ce23f42980223493
 DESCRIPTION:Analytic Combinatorics in Several Variables: Effective Asympto
  tics and Lattice Path Enumeration\nStephen Melczer\, David R. Cheriton Sch
- ool of Computer Science\n\nTo come...
+ ool of Computer Science\nSymbolic Computation Group PhD Defence\n\n\nTo co
+ me...
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALGORAND\, A New Public Ledger (Distinguished Lecture Series Semin
- ar)
+SUMMARY:ALGORAND\, A New Public Ledger - Silvio Micali\, MIT (Distinguishe
+ d Lecture Series Seminar)
 DTSTART:20170613T143000Z
 DTEND:20170613T153000Z
 DTSTAMP:20170613T143000Z
-UID:2017_6032531de8399b10098e69fe141c0feb.wnotice@math.uwaterloo.ca
-DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\n\nA publi
- c ledger is a tamperproof sequence of data that can be read and augmented 
- by everyone. Shared public ledgers stand to revolutionize the way a democr
- atic society operates. They secure all kinds of traditional transactions 
-  such as payments\, asset transfers\, titling  in the exact order in w
- hich they occur\, and enable totally new transactions  such as cryptocur
- rencies and smart contracts. They can remove intermediaries and usher in a
-  new paradigm for trust. As currently implemented\, however\, public ledge
- rs cannot achieve their enormous potential.
+UID:20170613_c2674b1840717f56928c1b39317137b3
+DESCRIPTION:ALGORAND\, A New Public Ledger\nSilvio Micali\, MIT\nDistingui
+ shed Lecture Series Seminar\n\n\nA public ledger is a tamperproof sequence
+  of data that can be read and augmented by everyone. Shared public ledgers
+  stand to revolutionize the way a democratic society operates. They secure
+  all kinds of traditional transactions  such as payments\, asset transfe
+ rs\, titling  in the exact order in which they occur\, and enable totall
+ y new transactions  such as cryptocurrencies and smart contracts. They c
+ an remove intermediaries and usher in a new paradigm for trust. As current
+ ly implemented\, however\, public ledgers cannot achieve their enormous po
+ tential.
 LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium
- )
+SUMMARY:From Hopf Algebras to Machine learning via Rough Paths - Terry Lyo
+ ns\, Oxford University (Colloquium)
 DTSTART:20170616T140000Z
 DTEND:20170616T150000Z
 DTSTAMP:20170616T140000Z
-UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
+UID:20170616_c6423cdf19e1a24dece31bd3a175543b
 DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry 
- Lyons\, Oxford University\n\nRough path theory aims to build an effective 
- calculus that can model the interactions between complex oscillatory (roug
- h) evolving systems. At its mathematical foundations\, it is a combination
-  of analysis blended with algebra that goes back to LC Young\, and to KT C
- hen. Key to the theory is the essential need to incorporate additional non
- -commutative structure into areas of mathematics we thought were stable. A
- t its high points\, there are the regularity structures of Martin Hairer t
- hat allow robust meaning to be given to numerous core nonlinear stochastic
-  pdes describing evolving interfaces in physics.
+ Lyons\, Oxford University\nColloquium\n\n\nRough path theory aims to build
+  an effective calculus that can model the interactions between complex osc
+ illatory (rough) evolving systems. At its mathematical foundations\, it is
+  a combination of analysis blended with algebra that goes back to LC Young
+ \, and to KT Chen. Key to the theory is the essential need to incorporate 
+ additional non-commutative structure into areas of mathematics we thought 
+ were stable. At its high points\, there are the regularity structures of M
+ artin Hairer that allow robust meaning to be given to numerous core nonlin
+ ear stochastic pdes describing evolving interfaces in physics.
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It (Crypt
- ography\, Security\, and Privacy (CrySP) Group Seminar)
+SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It - Pras
+ hant Nalini Vasudevan\, MIT (Cryptography\, Security\, and Privacy (CrySP)
+  Group Seminar)
 DTSTART:20170616T143000Z
 DTEND:20170616T153000Z
 DTSTAMP:20170616T143000Z
-UID:2017_423f48310ef5d2058ea4f1d0f48b778f.wnotice@math.uwaterloo.ca
+UID:20170616_8b8f26d23fd116545dc792fb8193a696
 DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
- rashant Nalini Vasudevan\, MIT\n\nWe present functions that are hard to co
- mpute on average for algorithms running in some fixed polynomial time\, as
- suming widely-conjectured worst-case hardness of certain problems from the
-  study of fine-grained complexity.
+ rashant Nalini Vasudevan\, MIT\nCryptography\, Security\, and Privacy (Cry
+ SP) Group Seminar\n\n\nWe present functions that are hard to compute on av
+ erage for algorithms running in some fixed polynomial time\, assuming wide
+ ly-conjectured worst-case hardness of certain problems from the study of f
+ ine-grained complexity.
 LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Biologically Constrained Model of Semantic Memory Search (Artifi
- cial Intelligence Lab PhD Seminar)
+SUMMARY:A Biologically Constrained Model of Semantic Memory Search - Ivana
+  Kajić\, David R. Cheriton School of Computer Science (Artificial Intelli
+ gence Lab PhD Seminar)
 DTSTART:20170620T150000Z
 DTEND:20170620T160000Z
 DTSTAMP:20170620T150000Z
-UID:2017_3096b7c44248430de469c410325e02e0.wnotice@math.uwaterloo.ca
+UID:20170620_149cc03868992a6d70716edc01d54edb
 DESCRIPTION:A Biologically Constrained Model of Semantic Memory Search\nIv
- ana Kajić\, David R. Cheriton School of Computer Science\n\nThe semantic 
- fluency task has been used to understand the effects of semantic relations
- hips on human memory search. A variety of computational models have been p
- roposed that explain human behavioral data\, yet it remains unclear how mi
- llions of spiking neurons work in unison to realize the cognitive processe
- s involved in memory search.
+ ana Kajić\, David R. Cheriton School of Computer Science\nArtificial Inte
+ lligence Lab PhD Seminar\n\n\nThe semantic fluency task has been used to u
+ nderstand the effects of semantic relationships on human memory search. A 
+ variety of computational models have been proposed that explain human beha
+ vioral data\, yet it remains unclear how millions of spiking neurons work 
+ in unison to realize the cognitive processes involved in memory search.
 LOCATION:DC 2310
 END:VEVENT
 END:VCALENDAR
