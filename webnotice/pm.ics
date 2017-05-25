@@ -3,87 +3,95 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Computable Functors and Effective Interpretability - pm (Compu
- tability Learning Seminar)
+SUMMARY:Computable Functors and Effective Interpretability -  (Computa
+ bility Learning Seminar)
 DTSTART:20170523T150000Z
 DTEND:20170523T160000Z
 DTSTAMP:20170523T150000Z
-UID:20170523_fa2afed1fb70f628705c718f4574c46e
-DESCRIPTION:Computable Functors and Effective Interpretability\nMichae
- l Deveau\,\, Department of Pure Mathematics\, University of Waterloo\npm\n
- Computability Learning Seminar\n\n\nWe introduce the notion of a computabl
- e functor and the definition of effective inter- pretability. The former i
- s a computable analogue of a category-theoretic functor between ω-present
- ations of structures\, and the latter is an effective version of model-the
- oretic inter- pretability. We show that effective interpretations induce c
- omputable functors\, and briefly mention the converse.
+UID:20170523_da9c1bbc21ba3e3a037371052265bd16
+DESCRIPTION:Speaker: Michael Deveau\,\, Department of Pure Mathematics\, U
+ niversity of WaterlooTitle: "Computable Functors and Effective Interpret
+ ability"\nAbstract: We introduce the notion of a computable functor and 
+ the definition of effective inter- pretability. The former is a computable
+  analogue of a category-theoretic functor between ω-presentations of stru
+ ctures\, and the latter is an effective version of model-theoretic inter- 
+ pretability. We show that effective interpretations induce computable func
+ tors\, and briefly mention the converse. \n\n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Applications of the zeta function over function fields. - pm (
- Student Number Theory Seminars Seminar)
+SUMMARY:Applications of the zeta function over function fields. -  (St
+ udent Number Theory Seminars Seminar)
 DTSTART:20170523T153000Z
 DTEND:20170523T163000Z
 DTSTAMP:20170523T153000Z
-UID:20170523_dbbf7db0a85e14ef0bb039b43d54d836
-DESCRIPTION:Applications of the zeta function over function fields.\nS
- tephen Wen\, Department of Pure Mathematics\, University of Waterloo\npm\n
- Student Number Theory Seminars Seminar\n\n\nWe provide a proof of the Prim
- e Number Theorem over function fields. We examine and extend techniques us
- ed in a zeta function proof of the theorem to other applications such as c
- ounting square- and higher power- free polynomials of a given degree. If t
- ime permits\, Dirichlet Series will be in- troduced with an aim towards pr
- oving the analogue of Dirichlets Theorem on primes in arithmetic progressi
- ons.
+UID:20170523_e0232fb84349104fbcbf6a6b74e66e5f
+DESCRIPTION:Speaker: Stephen Wen\, Department of Pure Mathematics\, Univer
+ sity of WaterlooTitle: "Applications of the zeta function over function 
+ fields."\nAbstract: We provide a proof of the Prime Number Theorem over 
+ function fields. We examine and extend techniques used in a zeta function 
+ proof of the theorem to other applications such as counting square- and hi
+ gher power- free polynomials of a given degree. If time permits\, Dirichle
+ t Series will be in- troduced with an aim towards proving the analogue of 
+ Dirichlets Theorem on primes in arithmetic progressions. \n\n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Spencer Complex Part 3 - pm (Geometry Working Seminar)
+SUMMARY:The Spencer Complex Part 3 -  (Geometry Working Seminar)
 DTSTART:20170523T183000Z
 DTEND:20170523T193000Z
 DTSTAMP:20170523T183000Z
-UID:20170523_86f9847f230496ecee908fa2c7ba0fae
-DESCRIPTION:The Spencer Complex Part 3\nAnthony McCormick\,\, Departme
- nt of Pure Mathematics\, University of Waterloo\npm\nGeometry Working Semi
- nar\n\n\nWe will begin our construction of resolutions of the sheaf kernel
-  of a linear partial differential operator between vector bundles. Further
- more\, we will discuss some of the connections and interpretations of thes
- e resolutions in terms of deformation theory\, and outline how they can be
-  applied to the integrability problem for G-structures.
+UID:20170523_6f361ba2a1eb5f47a97bafbb274b4f6d
+DESCRIPTION:Speaker: Anthony McCormick\,\, Department of Pure Mathematics\
+ , University of WaterlooTitle: "The Spencer Complex Part 3"\nAbstract:
+  We will begin our construction of resolutions of the sheaf kernel of a li
+ near partial differential operator between vector bundles. Furthermore\, w
+ e will discuss some of the connections and interpretations of these resolu
+ tions in terms of deformation theory\, and outline how they can be applied
+  to the integrability problem for G-structures. \n\n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Topological and fractal properties of non-integer base expansions 
- - pm (Seminar)
+ -  (Seminar)
 DTSTART:20170523T193000Z
 DTEND:20170523T203000Z
 DTSTAMP:20170523T193000Z
-UID:20170523_e6ab78d391dad5abfe9b87dace97511f
-DESCRIPTION:Topological and fractal properties of non-integer base expansi
- ons\nVilmos Komornik\, University of Strasbourg\npm\nSeminar\n\n\nGiven a 
- base 1\\less q\\le 2\, following Renyi (1957) we consider expansions of th
- e form
+UID:20170523_ece0615d0c8217b6a92aa4710eced327
+DESCRIPTION:Speaker: Vilmos Komornik\, University of StrasbourgTitle: "Top
+ ological and fractal properties of non-integer base expansions"\nAbstract:
+  Given a base 1\\less q\\le 2\, following Renyi (1957) we consider expansi
+ ons of the form\nx=\\sum_{i=1}^{\\infty}\\frac{c_i}{q^i}\nwith digits $c_i
+ $ belonging to $\\{0\,1\\}$.\nIn case $q=2$ of the familiar binary expansi
+ ons every $x\\in [0\,1]$ has an expansion\, and this is unique except the 
+ dyadic rational numbers that have two expansions. \nThe case $1We determin
+ e the values of $q$ for which $U_q$ is closed or even a Cantor set. \nThes
+ e values have unexpected number-theoretical properties.\nMoreover\, we det
+ ermine the Hausdorff dimension of the sets $U_q$.\nIt turns out to depend 
+ on $q$ in a quite intricate way.\nOur survey is mostly based on joint rese
+ arch with P. Erd{\\H o}s\, I. Jo\\'o\, P. Loreti\, M. de Vries\, D. Kong a
+ nd W. Li. \n\n   \n
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A new construction of compact G2 manifolds by glueing Eguchi-Han
  son spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson spac
- es - pm (Geometry Working Seminar)
+ es -  (Geometry Working Seminar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
-UID:20170525_3057c491040754f00c17c7586277bb7b
-DESCRIPTION:A new construction of compact G2 manifolds by glueing Eguchi
- -Hanson spaces\, Part III: Fibrewise blow-up by a family of Eguchi-Hanson 
- spaces\nSpiro Karigiannis\, Department of Pure Mathematics\, University 
- of Waterloo\npm\nGeometry Working Seminar\n\n\nWe move on to the second of
-  four main steps of the construction: resolving the orbifold singularities
-  by performing a fibre-wise blow up. The important point is that there is 
- no natural torsion-free G2 structure on this third glueing region. The nat
- ural G2 structure is not even closed. There is a natural way to correct it
-  to be closed\, which we will discuss. The third step is correcting this f
- urther to remove the leading error term in the torsion\, which is the thir
- d main step.
+UID:20170525_95828f0d29c86889281dcbefd2f9414a
+DESCRIPTION:Speaker: Spiro Karigiannis\, Department of Pure Mathematics\, 
+ University of WaterlooTitle: "A new construction of compact G2 manifolds
+  by glueing Eguchi-Hanson spaces\, Part III: Fibrewise blow-up by a family
+  of Eguchi-Hanson spaces"\nAbstract: We move on to the second of four ma
+ in steps of the construction: resolving the orbifold singularities by perf
+ orming a fibre-wise blow up. The important point is that there is no natur
+ al torsion-free G2 structure on this third glueing region. The natural G2 
+ structure is not even closed. There is a natural way to correct it to be c
+ losed\, which we will discuss. The third step is correcting this further t
+ o remove the leading error term in the torsion\, which is the third main s
+ tep. \n\n                
 LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR

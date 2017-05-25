@@ -3,20 +3,28 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
 BEGIN:VEVENT
-SUMMARY:Tweaking variables to make them uncorrelated - stats (Seminar)
+SUMMARY:Tweaking variables to make them uncorrelated -  (Seminar)
 DTSTART:20170525T200000Z
 DTEND:20170525T210000Z
 DTSTAMP:20170525T200000Z
-UID:20170525_419d5ae102577eb4dd204e4cfbd9a8a7
-DESCRIPTION:Tweaking variables to make them uncorrelated\nPaul Garthwa
- ite\, the Open University\nstats\nSeminar\n\n\nInterpreting the results of
-  a statistical analysis would be easier if all variables were uncorrelated
-  and all data sets consisted of orthogonal x-variables. Principal componen
- ts is one way of obtaining orthogonal/uncorrelated variables\, but the rel
- ationship between the principal components and the original x-variables is
-  complex. This talk proposes two transformations that give orthogonal/unco
- rrelated components with a close one-to-one correspondence between the x-v
- ariables and the components.\nRefreshments will be provided.
+UID:20170525_a7ccde200ff79a7c02319f3942d88ded
+DESCRIPTION:Speaker: Paul Garthwaite\, the Open UniversityTitle: "Tweaki
+ ng variables to make them uncorrelated"\nRemarks: Refreshments will be p
+ rovided. \nAbstract: Interpreting the results of a statistical analysis wo
+ uld be easier if all variables were uncorrelated and all data sets consist
+ ed of orthogonal x-variables. Principal components is one way of obtaining
+  orthogonal/uncorrelated variables\, but the relationship between the prin
+ cipal components and the original x-variables is complex. This talk propos
+ es two transformations that give orthogonal/uncorrelated components with a
+  close one-to-one correspondence between the x-variables and the component
+ s.\nThe transformations have a number of useful applications including:\na
+  unified approach to the identification and diagnosis of collinearities\ne
+ valuating the contributions of individual variables to a Mahalanobis dista
+ nce or the test statistic of a Hotelling test\nsetting prior weights for B
+ ayesian model averaging\nevaluating the contributions of individual variab
+ les to a multiple regression\ncalculation of an upper bound for a multivar
+ iate Chebyshev inequality.\nThe talk will focus on the first three of thes
+ e applications. \n\n              
 LOCATION:M3 3127
 END:VEVENT
 END:VCALENDAR

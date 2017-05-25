@@ -32,6 +32,8 @@ def get_listing(dept):
             where = dt1.text.split('--')[1].replace('true', '').strip()
             if '--' in dt2.text:
                 dept = dt2.text.split('--')[1].strip()
+            else:
+                dept = ""
 
             who = None
             title = None
@@ -54,7 +56,7 @@ def get_listing(dept):
                     remarks = em.next_sibling.strip()
 
             event = Event()
-            event['uid'] = utc_dt.strftime('%Y%m%d')+'_'+hashlib.md5(who.encode('utf-8')).hexdigest()
+            event['uid'] = utc_dt.strftime('%Y%m%d')+'_'+hashlib.md5(dd.text.encode('utf-8')).hexdigest()
             event['dtstart'] = utc_dt.strftime('%Y%m%dT%H%M00Z')
             event['dtstamp'] = event['dtstart']
             event['dtend'] = (utc_dt + datetime.timedelta(hours=1)).strftime('%Y%m%dT%H%M00Z')
@@ -62,14 +64,16 @@ def get_listing(dept):
             event['location'] = where
             event['summary'] = title + ' - ' + dept + ' ('+ venue +')'
 
-            event['description'] = '\n'.join(filter(None,[
-                                             title,
-                                             who,
-                                             dept,
-                                             venue,
-                                             '\n',
-                                             abstract,
-                                             remarks]))
+            # event['description'] = '\n'.join(filter(None,[
+            #                                  title,
+            #                                  who,
+            #                                  dept,
+            #                                  venue,
+            #                                  '\n',
+            #                                  abstract,
+            #                                  remarks]))
+
+            event['description'] = dd.text
 
             yield event
         except Exception as e:

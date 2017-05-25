@@ -3,118 +3,126 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Polynomials of graphs - cando (Seminar)
+SUMMARY:Polynomials of graphs -  (Seminar)
 DTSTART:20170525T183000Z
 DTEND:20170525T193000Z
 DTSTAMP:20170525T183000Z
-UID:20170525_7c514d3bed2db6024134483cd9aa41a7
-DESCRIPTION:Polynomials of graphs\nKrystal Guo\, University of Waterloo\nc
- ando\nSeminar\n\n\nThe characteristic polynomials and matching polynomials
-  of a graph are well-known graph polynomials. We study a more general grap
- h polynomial\, which attains both of the polynomials in special contexts\,
-  using a construction from graph embeddings. The underlying theory uses Vi
- ennot's theory of heaps.
+UID:20170525_3a9ada5021dbe8f6a9ea1349afc687b5
+DESCRIPTION:Speaker: Krystal Guo\, University of WaterlooTitle: "Polynomia
+ ls of graphs"\nAbstract: The characteristic polynomials and matching polyn
+ omials of a graph are well-known graph polynomials. We study a more genera
+ l graph polynomial\, which attains both of the polynomials in special cont
+ exts\, using a construction from graph embeddings. The underlying theory u
+ ses Viennot's theory of heaps. \n\n  \n
 LOCATION:Math & Computer\, Room 6486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matroids doing algebra - cando (Seminar)
+SUMMARY:Matroids doing algebra -  (Seminar)
 DTSTART:20170525T193000Z
 DTEND:20170525T203000Z
 DTSTAMP:20170525T193000Z
-UID:20170525_0cd55af58044fce8d9526c07cd2e57d4
-DESCRIPTION:Matroids doing algebra\nJim Geelen\, University of Waterloo\nc
- ando\nSeminar\n\n\nWe describe a folklore construction for encoding a Diop
- hantine equation into a matroid and state a conjecture which\, if true\, w
- ould give a novel way of solving Diophantine equations over the reals.
+UID:20170525_783f1cb2eb23eb594ed58ab3df1d2ad4
+DESCRIPTION:Speaker: Jim Geelen\, University of WaterlooTitle: "Matroids d
+ oing algebra"\nAbstract: We describe a folklore construction for encoding 
+ a Diophantine equation into a matroid and state a conjecture which\, if tr
+ ue\, would give a novel way of solving Diophantine equations over the real
+ s. \n\n  \n
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
- etic Insights - cando (Seminar)
+ etic Insights -  (Seminar)
 DTSTART:20170526T193000Z
 DTEND:20170526T203000Z
 DTSTAMP:20170526T193000Z
-UID:20170526_4de7fcdf0dae0405bc3ee71ca69c5ef2
-DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
- heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
- hicago\ncando\nSeminar\n\n\nIn a typical routing problem\, we are given a 
- graph G\, and a collection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its verti
- ces\, called demand pairs\, that we would like to route. In order to route
-  a demand pair (s_i\,t_i)\, we need to choose a path connecting s_i to t_i
-  in G. Our goal is usually to route as many of the demand pairs as possibl
- e\, while keeping the congestion of the routing - the maximum load on any 
- vertex or an edge of G - as small as possible. This general framework give
- s rise to a number of basic and widely studied graph routing problems\, th
- at have lead to the development of a rich toolkit of algorithmic technique
- s\, as well as structural graph theoretic results. In this talk we will de
- scribe some of the recent developments in approximation algorithms for gra
- ph routing problems\, and highlight some connections between this area and
-  graph theory.
+UID:20170526_8e4df1ce82ca14edc08c70705ec8a947
+DESCRIPTION:Speaker: Dr. Julia Chuzhoy\, Toyota Technological Institute at
+  ChicagoTitle: "Graph Routing Problems: Approximation\, Hardness\, and Gra
+ ph-Theoretic Insights"\nAbstract: In a typical routing problem\, we are gi
+ ven a graph G\, and a collection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its
+  vertices\, called demand pairs\, that we would like to route. In order to
+  route a demand pair (s_i\,t_i)\, we need to choose a path connecting s_i 
+ to t_i in G. Our goal is usually to route as many of the demand pairs as p
+ ossible\, while keeping the congestion of the routing - the maximum load o
+ n any vertex or an edge of G - as small as possible. This general framewor
+ k gives rise to a number of basic and widely studied graph routing problem
+ s\, that have lead to the development of a rich toolkit of algorithmic tec
+ hniques\, as well as structural graph theoretic results. In this talk we w
+ ill describe some of the recent developments in approximation algorithms f
+ or graph routing problems\, and highlight some connections between this ar
+ ea and graph theory. \n\n  \n
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dots\, lines\, and arrows - cando (Colloquium)
+SUMMARY:Dots\, lines\, and arrows -  (Colloquium)
 DTSTART:20170531T203000Z
 DTEND:20170531T213000Z
 DTSTAMP:20170531T203000Z
-UID:20170531_6c5dd75b2b70cfe502f2960e56206ed2
-DESCRIPTION:Dots\, lines\, and arrows\nNick Rollick\, Pure Mathematics\, U
- niversity of Waterloo\ncando\nColloquium\n\n\nIn this talk\, we will surve
- y connected-homomorphism-homogeneous graphs\, which is a fancy way of talk
- ing about manipulations with dots\, lines\, and arrows.  (In the grown-up 
- language of mathematicians\, that means vertices\, edges\, and graph homom
- orphisms.)  After familiarizing ourselves with the language of connected-h
- omomorphism-homogeneous graphs\, we will examine a gallery of graphs illus
- trating some classification results\, started by Deborah Lockett\, and whi
- ch I subsequently expanded on.  For my friends in PMATH\, this should serv
- e as a gentle and entertaining introduction to the terminology of graph th
- eory.  For my friends in CO\, this is a really easy area to get into\, con
- taining some accessible open problems.
+UID:20170531_dcb2377193aafa4cc5c28b4d81c8f91c
+DESCRIPTION:Speaker: Nick Rollick\, Pure Mathematics\, University of Water
+ looTitle: "Dots\, lines\, and arrows"\nAbstract: In this talk\, we will su
+ rvey connected-homomorphism-homogeneous graphs\, which is a fancy way of t
+ alking about manipulations with dots\, lines\, and arrows.  (In the grown-
+ up language of mathematicians\, that means vertices\, edges\, and graph ho
+ momorphisms.)  After familiarizing ourselves with the language of connecte
+ d-homomorphism-homogeneous graphs\, we will examine a gallery of graphs il
+ lustrating some classification results\, started by Deborah Lockett\, and 
+ which I subsequently expanded on.  For my friends in PMATH\, this should s
+ erve as a gentle and entertaining introduction to the terminology of graph
+  theory.  For my friends in CO\, this is a really easy area to get into\, 
+ containing some accessible open problems. \n\n \n
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tight lower bounds for the complexity of multicoloring - cando (Co
- lloquium)
+SUMMARY:Tight lower bounds for the complexity of multicoloring -  (Colloqu
+ ium)
 DTSTART:20170601T193000Z
 DTEND:20170601T203000Z
 DTSTAMP:20170601T193000Z
-UID:20170601_62eb84ea4953cb2730236c8b7680456f
-DESCRIPTION:Tight lower bounds for the complexity of multicoloring\nMarthe
-  Boname\, University of Bordeaux\ncando\nColloquium\n\n\nIn the multicolor
- ing problem\, also known as $(a:b)$ or $b$-fold coloring\, we are given a 
- graph $G$ and a set of a colors\, and the task is to assign a subset of $b
- $ colors to each vertex of $G$ so that adjacent vertices receive disjoint 
- color subsets. This natural generalization of the classic coloring problem
-  (the $b=1$ case) is equivalent to finding a homomorphism to the Kneser gr
- aph with parameters a and b. It is tightly connected with the fractional c
- hromatic number\, and has multiple applications within computer science.\n
- We study the complexity of determining whether a graph has an $(a:b)$-colo
- ring. Nederlof showed in 2008 a $(b+1)^n*n^O(1)$-time algorithm for $(a:b)
- $-coloring. Our main result is that this is essentially optimal: there is 
- no algorithm with running time $2^o(log b)⋅n$ unless the Exponential Tim
- e Hypothesis fails. The crucial ingredient in our hardness reduction is th
- e usage of detecting matrices of Lindstr| om (1965)\, which is a combina
- torial tool that\, to the best of our knowledge\, has not yet been used fo
- r proving complexity lower bounds. This talk is also meant as an introduct
- ion to the ETH.
+UID:20170601_0d21d808ea53f33cda5bd826b45cf362
+DESCRIPTION:Speaker: Marthe Boname\, University of BordeauxTitle: "Tight l
+ ower bounds for the complexity of multicoloring"\nAbstract: In the multico
+ loring problem\, also known as $(a:b)$ or $b$-fold coloring\, we are given
+  a graph $G$ and a set of a colors\, and the task is to assign a subset of
+  $b$ colors to each vertex of $G$ so that adjacent vertices receive disjoi
+ nt color subsets. This natural generalization of the classic coloring prob
+ lem (the $b=1$ case) is equivalent to finding a homomorphism to the Kneser
+  graph with parameters a and b. It is tightly connected with the fractiona
+ l chromatic number\, and has multiple applications within computer science
+ .\nWe study the complexity of determining whether a graph has an $(a:b)$-c
+ oloring. Nederlof showed in 2008 a $(b+1)^n*n^O(1)$-time algorithm for $(a
+ :b)$-coloring. Our main result is that this is essentially optimal: there 
+ is no algorithm with running time $2^o(log b)⋅n$ unless the Exponential 
+ Time Hypothesis fails. The crucial ingredient in our hardness reduction is
+  the usage of detecting matrices of Lindstr| om (1965)\, which is a comb
+ inatorial tool that\, to the best of our knowledge\, has not yet been used
+  for proving complexity lower bounds. This talk is also meant as an introd
+ uction to the ETH.\nThis is joint work with  {\\L}ukasz Kowalik\, Micha{\\
+ l}  Pilipczuk\, Arkadiusz Soca{\\l}a and Marcin Wrochna (University of War
+ saw). \n\n  \n
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Smith Normal Form and Combinatorics - cando (Colloquium)
+SUMMARY:Smith Normal Form and Combinatorics -  (Colloquium)
 DTSTART:20170602T193000Z
 DTEND:20170602T203000Z
 DTSTAMP:20170602T193000Z
-UID:20170602_d6eab0a6ba280bcef98df03c0aba898a
-DESCRIPTION:Smith Normal Form and Combinatorics\nDr. Richard Stanley\, MIT
- \ncando\nColloquium\n\n\nLet $R$ be a commutative ring (with identity) and
-  $A$ an $n\\times n$ matrix over $R$. Suppose there exist $n\\times n$ mat
- rices $P\,Q$ invertible over $R$ for which $PAQ$ is a diagonal matrix diag
- $(e_1\,\\dots\,e_r\,0\,\\dots\,0)$\, where $e_i$ divides $e_{i+1}$ in $R$.
-  We then call $PAQ$ a \\emph{Smith normal form}(SNF) of $A$. If $R$ is a P
- ID then an SNF always exists and is unique up to multiplication by units. 
- Moreover if $A$ is invertible then $\\det A=u\\alpha_1\\cdots \\alpha n$\,
-  where $u$ is a unit\, so SNF gives a canonical factorization of $\\det A$
- .
+UID:20170602_620813ac4f886fbfa03d72165c6190d8
+DESCRIPTION:Speaker: Dr. Richard Stanley\, MITTitle: "Smith Normal Form an
+ d Combinatorics"\nAbstract: Let $R$ be a commutative ring (with identity) 
+ and $A$ an $n\\times n$ matrix over $R$. Suppose there exist $n\\times n$ 
+ matrices $P\,Q$ invertible over $R$ for which $PAQ$ is a diagonal matrix d
+ iag$(e_1\,\\dots\,e_r\,0\,\\dots\,0)$\, where $e_i$ divides $e_{i+1}$ in $
+ R$. We then call $PAQ$ a \\emph{Smith normal form}(SNF) of $A$. If $R$ is 
+ a PID then an SNF always exists and is unique up to multiplication by unit
+ s. Moreover if $A$ is invertible then $\\det A=u\\alpha_1\\cdots \\alpha n
+ $\, where $u$ is a unit\, so SNF gives a canonical factorization of $\\det
+  A$.\nWe will survey some connections between SNF and combinatorics. Topic
+ s will include (1) the general theory of SNF\, (2) a close connection betw
+ een SNF and chip firing in graphs\, (3) the SNF of a random matrix of inte
+ gers (joint work with Yinghui Wang)\, (4) SNF of special classes of matric
+ es\, including some arising in the theory of symmetric functions\, hyperpl
+ ane arrangements\, and lattice paths. \n\n        
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 END:VCALENDAR
