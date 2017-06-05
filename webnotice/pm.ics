@@ -4,114 +4,134 @@ PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
 SUMMARY:Artin's conjecture on primitive roots and function field analogues
-  (Seminar)
+  -  (Seminar)
 DTSTART:20170605T140000Z
 DTEND:20170605T150000Z
 DTSTAMP:20170605T140000Z
-UID:2017_dacee3d2b54367abb0053b85918317ee.wnotice@math.uwaterloo.ca
-DESCRIPTION:Artin's conjecture on primitive roots and function field analo
- gues\nDavid Tweedle\, The University of the West Indies\n\nRecall Artin's 
- primitive root conjecture\, which states that if\n\\(a\\) is not \\(-1\\) 
- or a square then the reduction of \\(a\\) modulo \\(p\\)\ngenerates the mu
- ltiplicative group of the integers modulo \\(p\\) for\ninfinitely many pri
- mes \\(p\\).  We will examine the similarities and\ndifferences between Ar
- tin's conjecture and some natural analogues for\nelliptic curves and funct
- ion fields.
+UID:20170605T140000Z_cf31e503c3cea4a6f1dea93d66891e5d
+DESCRIPTION:Speaker:  David Tweedle\, The University of the West Indies\nT
+ itle:   "Artin's conjecture on primitive roots and function field analogue
+ s" \n\nAbstract:  Recall Artin's primitive root conjecture\, which states 
+ that if\n\\(a\\) is not \\(-1\\) or a square then the reduction of \\(a\\)
+  modulo \\(p\\)\ngenerates the multiplicative group of the integers modulo
+  \\(p\\) for\ninfinitely many primes \\(p\\).  We will examine the similar
+ ities and\ndifferences between Artin's conjecture and some natural analogu
+ es for\nelliptic curves and function fields.  \n \n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Small sets in dense pairs (Logic Seminar Seminar)
+SUMMARY:Small sets in dense pairs -  (Logic Seminar Seminar)
 DTSTART:20170605T173000Z
 DTEND:20170605T183000Z
 DTSTAMP:20170605T173000Z
-UID:2017_a4927510bf5bac1616c496a07f7f159a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Small sets in dense pairs\nPantelis Eleftheriou\, University o
- f Konstanz\n\nLet (M\, P) be an expansion of an o-minimal structure M by a
- \ndense subset P of M\, such that three tameness conditions hold. We prove
- \nthat the induced structure on P by M eliminates imaginaries. As a\ncorol
- lary\, we obtain that every small set X definable in M can be\ndefinably e
- mbedded into some P^n\, uniformly in parameters. We then verify\nthe tamen
- ess conditions in three examples: dense pairs\, expansions of M by\na dens
- e independent set\, and expansions by a dense divisible\nmultiplicative gr
- oup with the Mann property.
+UID:20170605T173000Z_5bf341de2ec796d6e4902ea894175040
+DESCRIPTION:Speaker:  Pantelis Eleftheriou\, University of Konstanz\nTitle
+ :   "Small sets in dense pairs" \n\nAbstract:  Let (M\, P) be an expansion
+  of an o-minimal structure M by a\ndense subset P of M\, such that three t
+ ameness conditions hold. We prove\nthat the induced structure on P by M el
+ iminates imaginaries. As a\ncorollary\, we obtain that every small set X d
+ efinable in M can be\ndefinably embedded into some P^n\, uniformly in para
+ meters. We then verify\nthe tameness conditions in three examples: dense p
+ airs\, expansions of M by\na dense independent set\, and expansions by a d
+ ense divisible\nmultiplicative group with the Mann property.  \n \n  \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricci Flow and Renormalization (Seminar)
+SUMMARY:Ricci Flow and Renormalization -  (Seminar)
 DTSTART:20170606T183000Z
 DTEND:20170606T193000Z
 DTSTAMP:20170606T183000Z
-UID:2017_bf39b3efab84d621518f7448a3e52341.wnotice@math.uwaterloo.ca
-DESCRIPTION:Ricci Flow and Renormalization\nAnthony McCormick\, Department
-  of Pure Mathematics\, University of Waterloo\n\nMany of us have heard tha
- t there is some sort of relationship between Ricci flow and renormalizatio
- n group flow in QFT. The goal of this talk/discussion will be to try and u
- nderstand this relationship.
+UID:20170606T183000Z_0f1720da9cea4c80b76d5c4817f2f1d4
+DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "Ricci Flow and Renormalization" \n\nAbs
+ tract:  Many of us have heard that there is some sort of relationship betw
+ een Ricci flow and renormalization group flow in QFT. The goal of this tal
+ k/discussion will be to try and understand this relationship.  \n \n \n
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Effective Bi-interpretability -- Part 2 (Seminar)
+SUMMARY:Effective Bi-interpretability -- Part 2 -  (Seminar)
 DTSTART:20170606T193000Z
 DTEND:20170606T203000Z
 DTSTAMP:20170606T193000Z
-UID:2017_ec99b206a86feb16f198349a8b4e82ff.wnotice@math.uwaterloo.ca
-DESCRIPTION:Effective Bi-interpretability -- Part 2\nMichael Deveau\, Depa
- rtment of Pure Mathematics\, University of Waterloo\n\nWe continue explori
- ng the properties of effective bi-interpretability introduced last time. W
- e shall see that two structures being effectively bi-interpetable requires
-  that they have very similar properties in terms of many of the notions di
- scussed thus far.
+UID:20170606T193000Z_e4fd4a94fd1335ca7214491f0709187b
+DESCRIPTION:Speaker:  Michael Deveau\, Department of Pure Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Effective Bi-interpretability -- Part 2" \
+ n\nAbstract:  We continue exploring the properties of effective bi-interpr
+ etability introduced last time. We shall see that two structures being eff
+ ectively bi-interpetable requires that they have very similar properties i
+ n terms of many of the notions discussed thus far.  \n \n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Contributions to the Theory of Radicals for Noncommutative Rings (
- PhD Defence)
+SUMMARY:Contributions to the Theory of Radicals for Noncommutative Rings -
+   (PhD Defence)
 DTSTART:20170607T143000Z
 DTEND:20170607T153000Z
 DTSTAMP:20170607T143000Z
-UID:2017_e14603dc998c01eb5b10e79498dca03b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Contributions to the Theory of Radicals for Noncommutative Rin
- gs\nBlake Madill\, Department of Pure Mathematics\, University of Waterloo
- \n\nWe consider several radical classes of noncommutative rings. In partic
- ular\, we provide new results regarding the radical theory of semigroup-gr
- aded rings\, monomial algebras\, and Ore extensions of derivation type.
+UID:20170607T143000Z_f1b1da45cc50763ee8e701a3523945ec
+DESCRIPTION:Speaker:  Blake Madill\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Contributions to the Theory of Radicals for 
+ Noncommutative Rings" \n\nAbstract:  We consider several radical classes o
+ f noncommutative rings. In particular\, we provide new results regarding t
+ he radical theory of semigroup-graded rings\, monomial algebras\, and Ore 
+ extensions of derivation type. \n In Chapter 2 it is shown that every ring
+  graded by a torsion free nilpotent group has a homogeneous upper nilradic
+ al. Moreover\, we show that a ring graded by unique-product semigroup will
+  be semiprime only when it has no nonzero nilpotent homogeneous ideals. Th
+ is provides a graded-analogue of the classical result that says a ring is 
+ semiprime if and only if it has no nonzero nilpotent ideals. \n In Chapter
+  3\, the class of iterative algebras are introduced. Iterative algebras se
+ rve as an interesting class of monomial algebras where ring theoretical in
+ formation may be determined from combinatorial information of an associate
+ d right-infinite word. We use these monomial algebras to construct an exam
+ ple of a prime\, semiprimitive\, graded-nilpotent algebra of Gelfand-Kiril
+ lov dimension 2 which is finitely generated as a Lie algebra. \n In Chapte
+ r 4\, the Jacobson radical of Ore extensions of derivation type is discuss
+ ed. We show that if $R$ is a locally nilpotent ring which satisfies a poly
+ nomial identity then any Ore extension of $R$ of derivation type will also
+  be locally nilpotent. Finally\, we show that the Jacobson radical of any 
+ Ore extension of derivation type of a polynomial identity ring will have a
+  nil coefficient ring.  \n \n \n
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scheming with my associates (Seminar)
+SUMMARY:Scheming with my associates -  (Seminar)
 DTSTART:20170608T183000Z
 DTEND:20170608T193000Z
 DTSTAMP:20170608T183000Z
-UID:2017_fe7f6f3ff45586a62d65421e817e58a4.wnotice@math.uwaterloo.ca
-DESCRIPTION:Scheming with my associates\nNickolas Rollick\, Department of 
- Pure Mathematics\, University of Waterloo\n\nBy now\, we have seen a bewil
- dering number of adjectives that might be attached to a scheme\, some of w
- hich are topological in nature\, some of which are algebraic in nature\, a
- nd some of which refer to all the structural properties of the scheme at o
- nce.  To get our bearings\, we will start by recalling all the important a
- djectives discussed so far and categorize them.  Then\, we move to the top
- ic of associated points\, first looking at them in the context of finitely
-  generated modules over a Noetherian ring.  Time permitting\, we will disc
- uss associated points of locally Noetherian schemes as well and see how th
- ey can be used to define rational functions on such schemes.
+UID:20170608T183000Z_7a70e6405c4d191b5a8686bb04ca54eb
+DESCRIPTION:Speaker:  Nickolas Rollick\, Department of Pure Mathematics\, 
+ University of Waterloo\nTitle:   "Scheming with my associates" \n\nAbstrac
+ t:  By now\, we have seen a bewildering number of adjectives that might be
+  attached to a scheme\, some of which are topological in nature\, some of 
+ which are algebraic in nature\, and some of which refer to all the structu
+ ral properties of the scheme at once.  To get our bearings\, we will start
+  by recalling all the important adjectives discussed so far and categorize
+  them.  Then\, we move to the topic of associated points\, first looking a
+ t them in the context of finitely generated modules over a Noetherian ring
+ .  Time permitting\, we will discuss associated points of locally Noetheri
+ an schemes as well and see how they can be used to define rational functio
+ ns on such schemes.  \n \n  \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grad Student Colloquium: Physics for Mathematicians (Seminar)
+SUMMARY:Grad Student Colloquium: Physics for Mathematicians -  (Seminar)
 DTSTART:20170608T200000Z
 DTEND:20170608T210000Z
 DTSTAMP:20170608T200000Z
-UID:2017_42651f6f660830545088c7d58144e67e.wnotice@math.uwaterloo.ca
-DESCRIPTION:Grad Student Colloquium: Physics for Mathematicians\nAnthony M
- cCormick\, Department of Pure Mathematics\, University of Waterloo\n\nWhat
-  is Newton really saying when he writes $F=ma$? We know the $a$ stands for
-  acceleration but the acceleration of what? The $F$ is supposed to be the 
- total force acting on the system but what precisely is meant by "force"? W
- hat is a "mechanical system"? What does Newton mean by an "inertial refere
- nce frame"? What is space? Time? I'll attempt to answer these questions in
-  a way satisfactory for mathematicians. Furthermore\, if time permits\, I'
- ll try to explain some of the ideas behind modern physics and how mathemat
- icians can extract mathematically relevant ideas from physics talks.
+UID:20170608T200000Z_0c6f20d044f9c0c482ce7ca09870a66b
+DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "Grad Student Colloquium: Physics for Ma
+ thematicians" \n\nAbstract:  What is Newton really saying when he writes $
+ F=ma$? We know the $a$ stands for acceleration but the acceleration of wha
+ t? The $F$ is supposed to be the total force acting on the system but what
+  precisely is meant by "force"? What is a "mechanical system"? What does N
+ ewton mean by an "inertial reference frame"? What is space? Time? I'll att
+ empt to answer these questions in a way satisfactory for mathematicians. F
+ urthermore\, if time permits\, I'll try to explain some of the ideas behin
+ d modern physics and how mathematicians can extract mathematically relevan
+ t ideas from physics talks.  \n \n             
 LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR

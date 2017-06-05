@@ -4,50 +4,55 @@ PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
 SUMMARY:Infinitly many excluded minors for frame matroids and for lifted-g
- raphic matroids (Seminar)
+ raphic matroids -  (Seminar)
 DTSTART:20170608T193000Z
 DTEND:20170608T203000Z
 DTSTAMP:20170608T193000Z
-UID:2017_d7ac001c722304d4b4c75f249186f75c.wnotice@math.uwaterloo.ca
-DESCRIPTION:Infinitly many excluded minors for frame matroids and for lift
- ed-graphic matroids\nRong Chen\, Center for Discrete Mathematics\n\nIn thi
- s talk\, I will present infinite sequences of excluded minors for both the
-  class of lifted-graphic matroids and the class of frame matroids. This is
-  joint work with Jim Geelen.
+UID:20170608T193000Z_8ae87f9c00196682f49ec6c5f33a55a5
+DESCRIPTION:Speaker:  Rong Chen\, Center for Discrete Mathematics\, Fuzhou
+  University\nTitle:   "Infinitly many excluded minors for frame matroids a
+ nd for lifted-graphic matroids" \n\nAbstract:  In this talk\, I will prese
+ nt infinite sequences of excluded minors for both the class of lifted-grap
+ hic matroids and the class of frame matroids. This is joint work with Jim 
+ Geelen.  \n \n    \n
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
+ )
 DTSTART:20170609T193000Z
 DTEND:20170609T203000Z
 DTSTAMP:20170609T193000Z
-UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
- hung Graham\, University of California\n\nWe consider a coloring game on g
- raphs as an example to illustrate the effectiveness of the semigroup spect
- ral method for determining the spectrum of the directed graphs which arise
-  as the state graphs associated with the game. Originating from the study 
- of the so-called Tsetlin library random walks and the like\, this  method 
- can be used to  analyze dynamic processes such as  voting and ranking\, pr
- ovided the random processes satisfy certain "memoryless" conditions (corre
- sponding to left-regular-band semigroups).
+UID:20170609T193000Z_8abff9064d3a9e019862cd0ac6b66749
+DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
+ le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
+  We consider a coloring game on graphs as an example to illustrate the eff
+ ectiveness of the semigroup spectral method for determining the spectrum o
+ f the directed graphs which arise as the state graphs associated with the 
+ game. Originating from the study of the so-called Tsetlin library random w
+ alks and the like\, this  method can be used to  analyze dynamic processes
+  such as  voting and ranking\, provided the random processes satisfy certa
+ in "memoryless" conditions (corresponding to left-regular-band semigroups)
+ .  \n \n \n
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
+ )
 DTSTART:20170609T193000Z
 DTEND:20170609T203000Z
 DTSTAMP:20170609T193000Z
-UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
- hung Graham\, University of California\n\nWe consider a coloring game on g
- raphs as an example to illustrate the effectiveness of the semigroup spect
- ral method for determining the spectrum of the directed graphs which arise
-  as the state graphs associated with the game. Originating from the study 
- of the so-called Tsetlin library random walks and the like\, this  method 
- can be used to  analyze dynamic processes such as  voting and ranking\, pr
- ovided the random processes satisfy certain "memoryless" conditions (corre
- sponding to left-regular-band semigroups).
+UID:20170609T193000Z_e0ff7ddd4be410b6d76fc2e749f9d2a1
+DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
+ le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
+  We consider a coloring game on graphs as an example to illustrate the eff
+ ectiveness of the semigroup spectral method for determining the spectrum o
+ f the directed graphs which arise as the state graphs associated with the 
+ game. Originating from the study of the so-called Tsetlin library random w
+ alks and the like\, this  method can be used to  analyze dynamic processes
+  such as  voting and ranking\, provided the random processes satisfy certa
+ in "memoryless" conditions (corresponding to left-regular-band semigroups)
+ .  \n \n         
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 END:VCALENDAR

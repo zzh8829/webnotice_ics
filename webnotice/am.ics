@@ -3,22 +3,31 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths (Colloquium
- )
+SUMMARY:From Hopf Algebras to Machine learning via Rough Paths -  (Colloqu
+ ium)
 DTSTART:20170616T140000Z
 DTEND:20170616T150000Z
 DTSTAMP:20170616T140000Z
-UID:2017_eafa3be378b1279483c405a48b761ec3.wnotice@math.uwaterloo.ca
-DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry 
- Lyons\, Oxford University\n\nRough path theory aims to build an effective 
- calculus that can model the interactions between complex oscillatory (roug
- h) evolving systems. At its mathematical foundations\, it is a combination
-  of analysis blended with algebra that goes back to LC Young\, and to KT C
- hen. Key to the theory is the essential need to incorporate additional non
- -commutative structure into areas of mathematics we thought were stable. A
- t its high points\, there are the regularity structures of Martin Hairer t
- hat allow robust meaning to be given to numerous core nonlinear stochastic
-  pdes describing evolving interfaces in physics.
+UID:20170616T140000Z_23162f84baf41bb7fd97ff08c04126e9
+DESCRIPTION:Speaker:  Terry Lyons\, Oxford University\nTitle:   "From Hopf
+  Algebras to Machine learning via Rough Paths" \n\nAbstract:  Rough path t
+ heory aims to build an effective calculus that can model the interactions 
+ between complex oscillatory (rough) evolving systems. At its mathematical 
+ foundations\, it is a combination of analysis blended with algebra that go
+ es back to LC Young\, and to KT Chen. Key to the theory is the essential n
+ eed to incorporate additional non-commutative structure into areas of math
+ ematics we thought were stable. At its high points\, there are the regular
+ ity structures of Martin Hairer that allow robust meaning to be given to n
+ umerous core nonlinear stochastic pdes describing evolving interfaces in p
+ hysics.\n Classic results\, by Clark\, Cameron and Dickinson\, demonstrate
+  that a nonlinear approach to the data is essential.  Rough path theory li
+ ves up to this challenge and can be viewed as providing fundamentally more
+  efficient ways of approximately describing complex data\; approaches that
+ \, after penetrating the basic ideas\, are computationally tractable and l
+ ead to new scalable ways to regress\, classify\, and learn functional rela
+ tionships from data. One non-mathematical application that is already stri
+ king is the use of signatures on a daily basis in the online recognition o
+ f Chinese Handwriting on mobile phones.  \n \n      
 LOCATION:DC 1302
 END:VEVENT
 END:VCALENDAR
