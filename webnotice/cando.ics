@@ -3,84 +3,51 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
- )
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr.
-  David Wagner\, University of Waterloo\n\nThe Heilmann-Lieb Theorem on mat
- ching polynomials gives detailed information about the location of zeros o
- f the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of
-  $k$-edge matchings of a graph $G$.  It has a stronger multivariate versio
- n. I will describe a general method which produces theorems of this type\,
-  with the set of matchings of $G$ replaced by the set of $(f\,g)$-factors 
- of $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\
- emph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\d
- eg(H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is 
- the case $f\\equiv 0$ and $g\\equiv 1$.)
-LOCATION:Math & Computer\, Room 6486
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some connectivity results for 2-polymatroids (Seminar)
-DTSTART:20170518T193000Z
-DTEND:20170518T203000Z
-DTSTAMP:20170518T193000Z
-UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley\, Lo
- uisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$
- \, let $r(X)$ be the number of vertices incident with some edge in $X$.  F
- rom the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one 
- can detemine $G$ up to isolated vertices and one can recognize matchings i
- n $G$. The cycle matroid in $G$ does not allow the determination of either
-  of these things. Loosely speaking\, a $2$-polymatroid is like a matroid e
- xcept that individual elements can have rank $2$ instead of just $0$ or $1
- $. In joint work with Charles Semple and Geoff Whittle\, the speaker has b
- een seeking connectivity results for $2$-polymatroids that resemble corres
- ponding results for matroids.
+SUMMARY:Infinitly many excluded minors for frame matroids and for lifted-g
+ raphic matroids (Seminar)
+DTSTART:20170608T193000Z
+DTEND:20170608T203000Z
+DTSTAMP:20170608T193000Z
+UID:2017_d7ac001c722304d4b4c75f249186f75c.wnotice@math.uwaterloo.ca
+DESCRIPTION:Infinitly many excluded minors for frame matroids and for lift
+ ed-graphic matroids\nRong Chen\, Center for Discrete Mathematics\n\nIn thi
+ s talk\, I will present infinite sequences of excluded minors for both the
+  class of lifted-graphic matroids and the class of frame matroids. This is
+  joint work with Jim Geelen.
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Mathematical Contributions of W.T. Tutte (Colloquium)
-DTSTART:20170519T193000Z
-DTEND:20170519T203000Z
-DTSTAMP:20170519T193000Z
-UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
- , Louisiana State University\n\n"If a theorem about graphs can be expresse
- d in terms of edges and circuits only it probably exemplifies a more gener
- al theorem about matroids". Bill Tutte wrote these words in a commentary o
- n his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write 
- that a "belief in this general principle" led him to seek a matroid genera
- lization of his 1961 theorem that distinguishes the special role that whee
- ls play among 3-connected graphs. Because of the impossibility of doing ju
- stice to all of Bill's mathematical contributions in a single colloquium\,
-  this talk will concentrate on those contributions that lie on the interfa
- ce between graph theory and matroid theory.
+SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+DTSTART:20170609T193000Z
+DTEND:20170609T203000Z
+DTSTAMP:20170609T193000Z
+UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
+ hung Graham\, University of California\n\nWe consider a coloring game on g
+ raphs as an example to illustrate the effectiveness of the semigroup spect
+ ral method for determining the spectrum of the directed graphs which arise
+  as the state graphs associated with the game. Originating from the study 
+ of the so-called Tsetlin library random walks and the like\, this  method 
+ can be used to  analyze dynamic processes such as  voting and ranking\, pr
+ ovided the random processes satisfy certain "memoryless" conditions (corre
+ sponding to left-regular-band semigroups).
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
- etic Insights (Seminar)
-DTSTART:20170526T193000Z
-DTEND:20170526T203000Z
-DTSTAMP:20170526T193000Z
-UID:2017_78ab2191b787d6390484f2b62ccc8c24.wnotice@math.uwaterloo.ca
-DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
- heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
- hicago\n\nIn a typical routing problem\, we are given a graph G\, and a co
- llection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, called deman
- d pairs\, that we would like to route. In order to route a demand pair (s_
- i\,t_i)\, we need to choose a path connecting s_i to t_i in G. Our goal is
-  usually to route as many of the demand pairs as possible\, while keeping 
- the congestion of the routing - the maximum load on any vertex or an edge 
- of G - as small as possible. This general framework gives rise to a number
-  of basic and widely studied graph routing problems\, that have lead to th
- e development of a rich toolkit of algorithmic techniques\, as well as str
- uctural graph theoretic results. In this talk we will describe some of the
-  recent developments in approximation algorithms for graph routing problem
- s\, and highlight some connections between this area and graph theory.
+SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+DTSTART:20170609T193000Z
+DTEND:20170609T203000Z
+DTSTAMP:20170609T193000Z
+UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
+ hung Graham\, University of California\n\nWe consider a coloring game on g
+ raphs as an example to illustrate the effectiveness of the semigroup spect
+ ral method for determining the spectrum of the directed graphs which arise
+  as the state graphs associated with the game. Originating from the study 
+ of the so-called Tsetlin library random walks and the like\, this  method 
+ can be used to  analyze dynamic processes such as  voting and ranking\, pr
+ ovided the random processes satisfy certain "memoryless" conditions (corre
+ sponding to left-regular-band semigroups).
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 END:VCALENDAR

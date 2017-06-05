@@ -2,4 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
+BEGIN:VEVENT
+SUMMARY:Risk Measures in a Quantile Regression Credibility Framework (Semi
+ nar)
+DTSTART:20170619T200000Z
+DTEND:20170619T210000Z
+DTSTAMP:20170619T200000Z
+UID:2017_522bc7e7d398e642f60495990162843e.wnotice@math.uwaterloo.ca
+DESCRIPTION:Risk Measures in a Quantile Regression Credibility Framework\n
+ Georgios Pitselis\, University of Piraeus\n\nRefreshments will be provided
+ .\nHere\, we extend the idea of embedding the classical credibility model 
+ into risk measures\, as was presented by Pitselis (2016)\, to the idea of 
+ embedding regression credibility into risk measures. The resulting credibl
+ e regression risk measures capture the risk of individual insurer's contra
+ ct (in finance\, the individual asset return portfolio) as well as the por
+ tfolio risk consisting of several similar but not identical contracts (in 
+ finance\, several similar portfolios of asset returns)\,  which are groupe
+ d together to share the risk. In insurance\, credibility plays a special r
+ ole of spreading the risk. In financial terminology\, credibility plays a 
+ special role of diversification of risk. For each model\, regression credi
+ bility models are established  and  the robustness of these models is inve
+ stigated. Applications to Fama/French financial portfolio data are also pr
+ esented.
+LOCATION:M3 3127
+END:VEVENT
 END:VCALENDAR

@@ -3,256 +3,226 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:The Hales-Jewett Theorem (Seminar)
-DTSTART:20170515T140000Z
-DTEND:20170515T150000Z
-DTSTAMP:20170515T140000Z
-UID:2017_3d49bf5605cb263a82d382e463a1f07c.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Hales-Jewett Theorem\nShouzhen Gu\, Department of Pure Mat
- hematics\, University of Waterloo\n\nWe give a proof of Schur's Theorem\, 
- which states that if the\nintegers from 1 to $N$ are coloured using $r$ co
- lours\, then for\nsufficiently large $N$\, there will be a monochromatic s
- olution to $x+y=z$.\nThen\, we present the Hales-Jewett Theorem on the exi
- stence of\nmonochromatic combinatorial lines in the integer points of a hy
- percube of\nhigh enough dimension. As a corollary\, we can find monochroma
- tic\narithmetic progressions of any given length in the integers from 1 to
-  $N$\nfor large enough $N$\, which demonstrates van der Waerden's Theorem.
+SUMMARY:Artin's conjecture on primitive roots and function field analogues
+  (Seminar)
+DTSTART:20170605T140000Z
+DTEND:20170605T150000Z
+DTSTAMP:20170605T140000Z
+UID:2017_dacee3d2b54367abb0053b85918317ee.wnotice@math.uwaterloo.ca
+DESCRIPTION:Artin's conjecture on primitive roots and function field analo
+ gues\nDavid Tweedle\, The University of the West Indies\n\nRecall Artin's 
+ primitive root conjecture\, which states that if\n\\(a\\) is not \\(-1\\) 
+ or a square then the reduction of \\(a\\) modulo \\(p\\)\ngenerates the mu
+ ltiplicative group of the integers modulo \\(p\\) for\ninfinitely many pri
+ mes \\(p\\).  We will examine the similarities and\ndifferences between Ar
+ tin's conjecture and some natural analogues for\nelliptic curves and funct
+ ion fields.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Energy Losses and Radiation in Interaction of Relativistic Charged
-  Particles with Layered Nano-structures (Comprehensive Exam)
-DTSTART:20170516T170000Z
-DTEND:20170516T180000Z
-DTSTAMP:20170516T170000Z
-UID:2017_e221c2b01290af576881709bcc8f8d8f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Energy Losses and Radiation in Interaction of Relativistic Cha
- rged Particles with Layered Nano-structures\nKamran Akbari\, Department of
-  Applied Mathematics\n\nThe study of the interaction of relativistic charg
- ed particles with matter at the nano-scale is important since it is at the
-  core of many problems in Electromagnetic Theory\, Condensed Matter Physic
- s\, Nano-science and Technology\, Mathematical Physics\, Electrical Engine
- ering\, and Material Science. One of the most import configurations for su
- ch interactions arises in the context of electron-energy-loss spectroscopy
-  (EELS) of nano-meter sized specimens within transmission electron microsc
- ope.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faizrahmanov-Kalimullin Theorem (Seminar)
-DTSTART:20170516T193000Z
-DTEND:20170516T203000Z
-DTSTAMP:20170516T193000Z
-UID:2017_341de20f1661b2be0311275929b17c0a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Faizrahmanov-Kalimullin Theorem\nMohammad Mahmoud\, Department
-  of Pure Mathematics\, University of Waterloo\n\nThis week we finish the p
- roof of Faizrahmanov-Kalimullin Theorem which says that there is a structu
- re whose degree spectra is all the non-computable degrees\, but unlike the
-  Slaman-Wehner structure\, there is no uniform computable way that gives u
- s a copy of the structure from any non-computable set.
+SUMMARY:Small sets in dense pairs (Logic Seminar Seminar)
+DTSTART:20170605T173000Z
+DTEND:20170605T183000Z
+DTSTAMP:20170605T173000Z
+UID:2017_a4927510bf5bac1616c496a07f7f159a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Small sets in dense pairs\nPantelis Eleftheriou\, University o
+ f Konstanz\n\nLet (M\, P) be an expansion of an o-minimal structure M by a
+ \ndense subset P of M\, such that three tameness conditions hold. We prove
+ \nthat the induced structure on P by M eliminates imaginaries. As a\ncorol
+ lary\, we obtain that every small set X definable in M can be\ndefinably e
+ mbedded into some P^n\, uniformly in parameters. We then verify\nthe tamen
+ ess conditions in three examples: dense pairs\, expansions of M by\na dens
+ e independent set\, and expansions by a dense divisible\nmultiplicative gr
+ oup with the Mann property.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genome Matrices and the Median Problem (Algorithms and Complexity 
- Group Seminar)
-DTSTART:20170517T173000Z
-DTEND:20170517T183000Z
-DTSTAMP:20170517T173000Z
-UID:2017_02f363c6a4b0b0c683fb7d1fe84885cb.wnotice@math.uwaterloo.ca
-DESCRIPTION:Genome Matrices and the Median Problem\nJoao Meidanis\, Univer
- sity of Campinas\n\nThe genome median problem is an important problem in p
- hylogenetic reconstruction under rearrangement models. It can be stated as
-  follows: Given three genomes\, find a fourth that minimizes the sum of th
- e pairwise rearrangement distances between it and the three input genomes.
-LOCATION:DC 1304
+SUMMARY:Hierarchical Task Recognition and Planning in Smart Homes with Par
+ tial Observability (Master's Thesis Presentation)
+DTSTART:20170606T140000Z
+DTEND:20170606T150000Z
+DTSTAMP:20170606T140000Z
+UID:2017_57cd53e80cf64d65466e79f4d96b694b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Hierarchical Task Recognition and Planning in Smart Homes with
+  Partial Observability\nDan Wang\, David R. Cheriton School of Computer Sc
+ ience\n
+LOCATION:DC 2102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A gentle overview of some quantum algebras\, quantum groups\, and 
- their prime and primitive ideals (Seminar)
-DTSTART:20170517T193000Z
-DTEND:20170517T203000Z
-DTSTAMP:20170517T193000Z
-UID:2017_2082a8b3fa73260a9867de37710fadd3.wnotice@math.uwaterloo.ca
-DESCRIPTION:A gentle overview of some quantum algebras\, quantum groups\, 
- and their prime and primitive ideals\nBrendan Nolan\, University of Kent\n
- \nI will introduce some examples of quantum algebras and quantum groups\, 
- outlining some behaviour which they share with their classical counterpart
- s. I will discuss the Goodearl--Letzter stratification of quantum algebras
-  with respect to the actions of algebraic tori\, which gives deep insights
-  into the prime and primitive spectra of various quantum algebras.
+SUMMARY:Ricci Flow and Renormalization (Seminar)
+DTSTART:20170606T183000Z
+DTEND:20170606T193000Z
+DTSTAMP:20170606T183000Z
+UID:2017_bf39b3efab84d621518f7448a3e52341.wnotice@math.uwaterloo.ca
+DESCRIPTION:Ricci Flow and Renormalization\nAnthony McCormick\, Department
+  of Pure Mathematics\, University of Waterloo\n\nMany of us have heard tha
+ t there is some sort of relationship between Ricci flow and renormalizatio
+ n group flow in QFT. The goal of this talk/discussion will be to try and u
+ nderstand this relationship.
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effective Bi-interpretability -- Part 2 (Seminar)
+DTSTART:20170606T193000Z
+DTEND:20170606T203000Z
+DTSTAMP:20170606T193000Z
+UID:2017_ec99b206a86feb16f198349a8b4e82ff.wnotice@math.uwaterloo.ca
+DESCRIPTION:Effective Bi-interpretability -- Part 2\nMichael Deveau\, Depa
+ rtment of Pure Mathematics\, University of Waterloo\n\nWe continue explori
+ ng the properties of effective bi-interpretability introduced last time. W
+ e shall see that two structures being effectively bi-interpetable requires
+  that they have very similar properties in terms of many of the notions di
+ scussed thus far.
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contributions to the Theory of Radicals for Noncommutative Rings (
+ PhD Defence)
+DTSTART:20170607T143000Z
+DTEND:20170607T153000Z
+DTSTAMP:20170607T143000Z
+UID:2017_e14603dc998c01eb5b10e79498dca03b.wnotice@math.uwaterloo.ca
+DESCRIPTION:Contributions to the Theory of Radicals for Noncommutative Rin
+ gs\nBlake Madill\, Department of Pure Mathematics\, University of Waterloo
+ \n\nWe consider several radical classes of noncommutative rings. In partic
+ ular\, we provide new results regarding the radical theory of semigroup-gr
+ aded rings\, monomial algebras\, and Ore extensions of derivation type.
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brun's Sieve (Seminar)
-DTSTART:20170517T210000Z
-DTEND:20170517T220000Z
-DTSTAMP:20170517T210000Z
-UID:2017_1bc8a16e28198a4ff5b93a131c9877aa.wnotice@math.uwaterloo.ca
-DESCRIPTION:Brun's Sieve\nErtan Elma\, Department of Pure Mathematics\, Un
- iversity of Waterloo\n\nFirst\, we will have a look at Brun's Main Theorem
-  (section  \n6.2 of the book An Introduction to Sieve Methods and Their  \
- nApplications\, by R. Murty\, C. Cojojaru) and then prove that there are  
- \ninfinitely many natural numbers n such that n and n+2 have at most 7  \n
- prime factors.
+SUMMARY:Scheming with my associates (Seminar)
+DTSTART:20170608T183000Z
+DTEND:20170608T193000Z
+DTSTAMP:20170608T183000Z
+UID:2017_fe7f6f3ff45586a62d65421e817e58a4.wnotice@math.uwaterloo.ca
+DESCRIPTION:Scheming with my associates\nNickolas Rollick\, Department of 
+ Pure Mathematics\, University of Waterloo\n\nBy now\, we have seen a bewil
+ dering number of adjectives that might be attached to a scheme\, some of w
+ hich are topological in nature\, some of which are algebraic in nature\, a
+ nd some of which refer to all the structural properties of the scheme at o
+ nce.  To get our bearings\, we will start by recalling all the important a
+ djectives discussed so far and categorize them.  Then\, we move to the top
+ ic of associated points\, first looking at them in the context of finitely
+  generated modules over a Noetherian ring.  Time permitting\, we will disc
+ uss associated points of locally Noetherian schemes as well and see how th
+ ey can be used to define rational functions on such schemes.
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On the Theory and Application of Early Warning Signals for Critica
- l Transitions (Comprehensive Exam)
-DTSTART:20170518T140000Z
-DTEND:20170518T150000Z
-DTSTAMP:20170518T140000Z
-UID:2017_b54e6d122f51357aa80aeb5a883ddf75.wnotice@math.uwaterloo.ca
-DESCRIPTION:On the Theory and Application of Early Warning Signals for Cri
- tical Transitions\nTom Bury\, Department of Applied Mathematics\n\nAbrupt 
- and often irreversible transitions can be observed in a wide variety of sy
- stems including ecological communities\, complex disease and social networ
- ks. These so-called 'critical transitions' can be brought on by a gradual 
- change in external conditions that quietly reduce the resilience of a syst
- em. Despite their seemingly unpredictable nature\, generic early warning s
- ignals have been proposed which\, once verified for a particular system\, 
- could provide the means for mitigating or even preventing unwanted transit
- ions. However\, in higher dimensions\, the typical early warning signals c
- an become amplified\, muted\, or even reversed\, due to the intricate vari
- able interactions in the approach to the transition. In addition\, these m
- ore complex systems can exhibit a wider variety of transitions to their si
- mplified counterparts. This thesis aims to pin down the mechanisms that ca
- use these particular alterations in early warning signals\, which may then
-  work in our favour by helping us characterise the transition being approa
- ched. Working alongside models in the social\, ecological and biological s
- ciences\, we hope to contribute the the challenging task of detecting near
- by critical transitions in these fields.
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Affine-local properties (Seminar)
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_6cef8d03b79f80a07befe50c52d01f0f.wnotice@math.uwaterloo.ca
-DESCRIPTION:Affine-local properties\nDiana Castaneda Santos\, Department o
- f Pure Mathematics\, University of Waterloo\n\nWe will continue working on
-  Section 5.3  of Ravi Vail's  \nnotes. Last time we discussed about the af
- fine communication lemma.  \nNow\, we will use it to define properties on 
- schemes that can be  \nverified locally on its affine pieces. Properties s
- uch as being  \nNoetherian\, being reduced or being of finite type over a 
- ring $A$\, can  \nbe verified in this way. Finally we will define affine a
- nd projective  \nvarieties over a field $k$ and show examples of these.
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Counting spanning subgraphs subject to degree constraints (Seminar
- )
-DTSTART:20170518T183000Z
-DTEND:20170518T193000Z
-DTSTAMP:20170518T183000Z
-UID:2017_0651a1448c5ff83aa2418ddd2b317d9a.wnotice@math.uwaterloo.ca
-DESCRIPTION:Counting spanning subgraphs subject to degree constraints\nDr.
-  David Wagner\, University of Waterloo\n\nThe Heilmann-Lieb Theorem on mat
- ching polynomials gives detailed information about the location of zeros o
- f the polynomial $\\sum_k m_k(G) x^k$\, in which $m_k(G)$ is the number of
-  $k$-edge matchings of a graph $G$.  It has a stronger multivariate versio
- n. I will describe a general method which produces theorems of this type\,
-  with the set of matchings of $G$ replaced by the set of $(f\,g)$-factors 
- of $G$:\\ for any two functions $f\,g:V(G)\\rightarrow\\mathbb{N}$\, an \\
- emph{$(f\,g)$-factor} $H$ is a spanning subgraph such that $f(v) \\leq \\d
- eg(H\,v) \\leq g(v)$ for all $v\\in V(G)$.  (The Heilmann-Lieb Theorem is 
- the case $f\\equiv 0$ and $g\\equiv 1$.)
-LOCATION:Math & Computer\, Room 6486
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some connectivity results for 2-polymatroids (Seminar)
-DTSTART:20170518T193000Z
-DTEND:20170518T203000Z
-DTSTAMP:20170518T193000Z
-UID:2017_f1144eb04ed67278c0ee395386f4ec0b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Some connectivity results for 2-polymatroids\nJames Oxley\, Lo
- uisiana State University\n\nFor a graph $G$ and each subset  $X$ of $E(G)$
- \, let $r(X)$ be the number of vertices incident with some edge in $X$.  F
- rom the pair $(E(G)\,r)$\, which is an example of a $2$-polymatroid\, one 
- can detemine $G$ up to isolated vertices and one can recognize matchings i
- n $G$. The cycle matroid in $G$ does not allow the determination of either
-  of these things. Loosely speaking\, a $2$-polymatroid is like a matroid e
- xcept that individual elements can have rank $2$ instead of just $0$ or $1
- $. In joint work with Charles Semple and Geoff Whittle\, the speaker has b
- een seeking connectivity results for $2$-polymatroids that resemble corres
- ponding results for matroids.
+SUMMARY:Infinitly many excluded minors for frame matroids and for lifted-g
+ raphic matroids (Seminar)
+DTSTART:20170608T193000Z
+DTEND:20170608T203000Z
+DTSTAMP:20170608T193000Z
+UID:2017_d7ac001c722304d4b4c75f249186f75c.wnotice@math.uwaterloo.ca
+DESCRIPTION:Infinitly many excluded minors for frame matroids and for lift
+ ed-graphic matroids\nRong Chen\, Center for Discrete Mathematics\n\nIn thi
+ s talk\, I will present infinite sequences of excluded minors for both the
+  class of lifted-graphic matroids and the class of frame matroids. This is
+  joint work with Jim Geelen.
 LOCATION:Math & Computer\, Room 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Mathematical Contributions of W.T. Tutte (Colloquium)
-DTSTART:20170519T193000Z
-DTEND:20170519T203000Z
-DTSTAMP:20170519T193000Z
-UID:2017_4cb8de10bde1076cb7d94f268f72b4c0.wnotice@math.uwaterloo.ca
-DESCRIPTION:The Mathematical Contributions of W.T. Tutte\nDr. James Oxley\
- , Louisiana State University\n\n"If a theorem about graphs can be expresse
- d in terms of edges and circuits only it probably exemplifies a more gener
- al theorem about matroids". Bill Tutte wrote these words in a commentary o
- n his 1966 paper 'Connectivity in matroids'. Indeed\, he went on to write 
- that a "belief in this general principle" led him to seek a matroid genera
- lization of his 1961 theorem that distinguishes the special role that whee
- ls play among 3-connected graphs. Because of the impossibility of doing ju
- stice to all of Bill's mathematical contributions in a single colloquium\,
-  this talk will concentrate on those contributions that lie on the interfa
- ce between graph theory and matroid theory.
+SUMMARY:Grad Student Colloquium: Physics for Mathematicians (Seminar)
+DTSTART:20170608T200000Z
+DTEND:20170608T210000Z
+DTSTAMP:20170608T200000Z
+UID:2017_42651f6f660830545088c7d58144e67e.wnotice@math.uwaterloo.ca
+DESCRIPTION:Grad Student Colloquium: Physics for Mathematicians\nAnthony M
+ cCormick\, Department of Pure Mathematics\, University of Waterloo\n\nWhat
+  is Newton really saying when he writes $F=ma$? We know the $a$ stands for
+  acceleration but the acceleration of what? The $F$ is supposed to be the 
+ total force acting on the system but what precisely is meant by "force"? W
+ hat is a "mechanical system"? What does Newton mean by an "inertial refere
+ nce frame"? What is space? Time? I'll attempt to answer these questions in
+  a way satisfactory for mathematicians. Furthermore\, if time permits\, I'
+ ll try to explain some of the ideas behind modern physics and how mathemat
+ icians can extract mathematically relevant ideas from physics talks.
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adding Mutation to Dependent Object Types (Programming Languages L
+ ab PhD Seminar)
+DTSTART:20170609T150000Z
+DTEND:20170609T160000Z
+DTSTAMP:20170609T150000Z
+UID:2017_403dbb0999de87b0744f6fd95a3e0700.wnotice@math.uwaterloo.ca
+DESCRIPTION:Adding Mutation to Dependent Object Types\nMarianna Rapoport\,
+  David R. Cheriton School of Computer Science\n\nThe Dependent Object Type
+ s (DOT) calculus aims to model the essence of Scala\, with a focus on abst
+ ract type members\, path-dependent types\, and subtyping. Other Scala feat
+ ures could be defined by translation to DOT. Mutation is a fundamental fea
+ ture of Scala currently missing in DOT. Mutation in DOT is needed not only
+  to model effectful computation and mutation in Scala programs\, but even 
+ to precisely specify how Scala initializes immutable variables and fields 
+ (vals).
+LOCATION:DC 3126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Managing Sensor Data Streams: Lessons Learned from the WeBike Proj
+ ect (ISS4E Seminar)
+DTSTART:20170609T170000Z
+DTEND:20170609T180000Z
+DTSTAMP:20170609T170000Z
+UID:2017_f428dcad8f3a088c809cef4d340b0b08.wnotice@math.uwaterloo.ca
+DESCRIPTION:Managing Sensor Data Streams: Lessons Learned from the WeBike 
+ Project\nChristian Gorenflo\, David R. Cheriton School of Computer Science
+ \n\nField studies comprising sensor networks pose a multitude of challenge
+ s. Robust hardware needs to endure outdoor environments and should change 
+ as little as possible during the run of the study because of difficult mai
+ ntenance and upgradability. Vast amounts of data generated by the sensor n
+ etwork need to be transferred and preprocessed for easier analysis on a hi
+ gh-performance system. Depending on the type of data an adequate data mana
+ gement platform must be chosen. Lastly\, the software on the edge of the n
+ etwork must be updateable over the air to combat data quality issues and e
+ xtending sensing capabilities.
+LOCATION:DC 1331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+DTSTART:20170609T193000Z
+DTEND:20170609T203000Z
+DTSTAMP:20170609T193000Z
+UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
+ hung Graham\, University of California\n\nWe consider a coloring game on g
+ raphs as an example to illustrate the effectiveness of the semigroup spect
+ ral method for determining the spectrum of the directed graphs which arise
+  as the state graphs associated with the game. Originating from the study 
+ of the so-called Tsetlin library random walks and the like\, this  method 
+ can be used to  analyze dynamic processes such as  voting and ranking\, pr
+ ovided the random processes satisfy certain "memoryless" conditions (corre
+ sponding to left-regular-band semigroups).
 LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Topological and fractal properties of non-integer base expansions 
- (Seminar)
-DTSTART:20170523T193000Z
-DTEND:20170523T203000Z
-DTSTAMP:20170523T193000Z
-UID:2017_7630f6caa6452f01b06b7a1930fe8b9b.wnotice@math.uwaterloo.ca
-DESCRIPTION:Topological and fractal properties of non-integer base expansi
- ons\nVilmos Komornik\, University of Strasbourg\n\nGiven a base 1\\less q\
- \le 2\, following Renyi (1957) we consider expansions of the form
-LOCATION:MC 5417
+SUMMARY:Semigroup spectral methods and graph coloring games (Colloquium)
+DTSTART:20170609T193000Z
+DTEND:20170609T203000Z
+DTSTAMP:20170609T193000Z
+UID:2017_3176f31d30e504d972b313a0d3557a1a.wnotice@math.uwaterloo.ca
+DESCRIPTION:Semigroup spectral methods and graph coloring games\nDr. Fan C
+ hung Graham\, University of California\n\nWe consider a coloring game on g
+ raphs as an example to illustrate the effectiveness of the semigroup spect
+ ral method for determining the spectrum of the directed graphs which arise
+  as the state graphs associated with the game. Originating from the study 
+ of the so-called Tsetlin library random walks and the like\, this  method 
+ can be used to  analyze dynamic processes such as  voting and ranking\, pr
+ ovided the random processes satisfy certain "memoryless" conditions (corre
+ sponding to left-regular-band semigroups).
+LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reading Garden: A Case Study of an In-Classroom Motivational Game 
- (Human-Computer Interaction PhD Seminar)
-DTSTART:20170524T140000Z
-DTEND:20170524T150000Z
-DTSTAMP:20170524T140000Z
-UID:2017_64a91a864ff85b3bc72de1097ea0d862.wnotice@math.uwaterloo.ca
-DESCRIPTION:Reading Garden: A Case Study of an In-Classroom Motivational G
- ame\nDiane Watson\, David R. Cheriton School of Computer Science\n\nTextbo
- oks\, as supplementary material\, are known to improve student outcomes by
-  accommodating multiple learning types and reinforcing material learned in
-  class\; however\, most students do not often complete assigned readings. 
- We created Reading Garden\, a motivational game aimed to get students to r
- ead more of the textbook. Reading Garden is a casual\, multiplayer game fo
- llowing common design patterns of many social games. For example\, it foll
- ows the free-to-play model\, where the game can always be played for free\
- , but has special advanced actions and decorations that can be purchased w
- ith gold  a special in-game currency. Players earn gold by completing as
- signed readings.
+SUMMARY:Analytic Combinatorics in Several Variables: Effective Asymptotics
+  and Lattice Path Enumeration (Symbolic Computation Group PhD Defence)
+DTSTART:20170613T140000Z
+DTEND:20170613T150000Z
+DTSTAMP:20170613T140000Z
+UID:2017_d02522bd0f11207e3a48bf954602aba9.wnotice@math.uwaterloo.ca
+DESCRIPTION:Analytic Combinatorics in Several Variables: Effective Asympto
+ tics and Lattice Path Enumeration\nStephen Melczer\, David R. Cheriton Sch
+ ool of Computer Science\n\nTo come...
 LOCATION:DC 2310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Graph Routing Problems: Approximation\, Hardness\, and Graph-Theor
- etic Insights (Seminar)
-DTSTART:20170526T193000Z
-DTEND:20170526T203000Z
-DTSTAMP:20170526T193000Z
-UID:2017_78ab2191b787d6390484f2b62ccc8c24.wnotice@math.uwaterloo.ca
-DESCRIPTION:Graph Routing Problems: Approximation\, Hardness\, and Graph-T
- heoretic Insights\nDr. Julia Chuzhoy\, Toyota Technological Institute at C
- hicago\n\nIn a typical routing problem\, we are given a graph G\, and a co
- llection(s_1\,t_1)\,..\,(s_k\,t_k) of pairs of its vertices\, called deman
- d pairs\, that we would like to route. In order to route a demand pair (s_
- i\,t_i)\, we need to choose a path connecting s_i to t_i in G. Our goal is
-  usually to route as many of the demand pairs as possible\, while keeping 
- the congestion of the routing - the maximum load on any vertex or an edge 
- of G - as small as possible. This general framework gives rise to a number
-  of basic and widely studied graph routing problems\, that have lead to th
- e development of a rich toolkit of algorithmic techniques\, as well as str
- uctural graph theoretic results. In this talk we will describe some of the
-  recent developments in approximation algorithms for graph routing problem
- s\, and highlight some connections between this area and graph theory.
-LOCATION:Math & Computer\, Room 5501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALGORAND\, A New Public Ledger (Distinguished Lecture Series Semin
@@ -289,7 +259,7 @@ DESCRIPTION:From Hopf Algebras to Machine learning via Rough Paths\nTerry
  t its high points\, there are the regularity structures of Martin Hairer t
  hat allow robust meaning to be given to numerous core nonlinear stochastic
   pdes describing evolving interfaces in physics.
-LOCATION:MC 6460
+LOCATION:DC 1302
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Average-Case Fine-Grained Hardness\, And What To Do With It (Crypt
@@ -306,6 +276,30 @@ DESCRIPTION:Average-Case Fine-Grained Hardness\, And What To Do With It\nP
 LOCATION:DC 2568
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Risk Measures in a Quantile Regression Credibility Framework (Semi
+ nar)
+DTSTART:20170619T200000Z
+DTEND:20170619T210000Z
+DTSTAMP:20170619T200000Z
+UID:2017_522bc7e7d398e642f60495990162843e.wnotice@math.uwaterloo.ca
+DESCRIPTION:Risk Measures in a Quantile Regression Credibility Framework\n
+ Georgios Pitselis\, University of Piraeus\n\nRefreshments will be provided
+ .\nHere\, we extend the idea of embedding the classical credibility model 
+ into risk measures\, as was presented by Pitselis (2016)\, to the idea of 
+ embedding regression credibility into risk measures. The resulting credibl
+ e regression risk measures capture the risk of individual insurer's contra
+ ct (in finance\, the individual asset return portfolio) as well as the por
+ tfolio risk consisting of several similar but not identical contracts (in 
+ finance\, several similar portfolios of asset returns)\,  which are groupe
+ d together to share the risk. In insurance\, credibility plays a special r
+ ole of spreading the risk. In financial terminology\, credibility plays a 
+ special role of diversification of risk. For each model\, regression credi
+ bility models are established  and  the robustness of these models is inve
+ stigated. Applications to Fama/French financial portfolio data are also pr
+ esented.
+LOCATION:M3 3127
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Biologically Constrained Model of Semantic Memory Search (Artifi
  cial Intelligence Lab PhD Seminar)
 DTSTART:20170620T150000Z
@@ -320,5 +314,25 @@ DESCRIPTION:A Biologically Constrained Model of Semantic Memory Search\nIv
  llions of spiking neurons work in unison to realize the cognitive processe
  s involved in memory search.
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settling the Query Complexity of Non-adaptive Junta Testing (Algor
+ ithms and Complexity Group Seminar)
+DTSTART:20170628T173000Z
+DTEND:20170628T183000Z
+DTSTAMP:20170628T173000Z
+UID:2017_8df7d7ac227ae6d9973ee7cea82039d7.wnotice@math.uwaterloo.ca
+DESCRIPTION:Settling the Query Complexity of Non-adaptive Junta Testing\nE
+ rik Waingarten\, Columbia University\n\nIn this talk\, I will show that an
+ y non-adaptive algorithm that tests whether an unknown Boolean function f:
+ {0\,1}^n→{0\,1} is a k-junta or ϵ-far from every k-junta must make Ω
+ (k^(3/2)/ϵ) many queries. This result is essentially optimal given Blais'
+ s non-adaptive junta tester\, which makes O(k^(3/2))/ϵ queries and show
+ s that adaptivity enables polynomial savings in query complexity for junta
+  testing. At a very high level\, the proof proceeds by reducing the non-ad
+ aptive junta testing of a new class of random Boolean functions to a probl
+ em of distinguishing two binomial distributions with a specific kind of no
+ isy query.
+LOCATION:DC 1304
 END:VEVENT
 END:VCALENDAR
