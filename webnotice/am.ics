@@ -3,31 +3,67 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths -  (Colloqu
- ium)
-DTSTART:20170616T140000Z
-DTEND:20170616T150000Z
-DTSTAMP:20170616T140000Z
-UID:20170616T140000Z_23162f84baf41bb7fd97ff08c04126e9
-DESCRIPTION:Speaker:  Terry Lyons\, Oxford University\nTitle:   "From Hopf
-  Algebras to Machine learning via Rough Paths" \n\nAbstract:  Rough path t
- heory aims to build an effective calculus that can model the interactions 
- between complex oscillatory (rough) evolving systems. At its mathematical 
- foundations\, it is a combination of analysis blended with algebra that go
- es back to LC Young\, and to KT Chen. Key to the theory is the essential n
- eed to incorporate additional non-commutative structure into areas of math
- ematics we thought were stable. At its high points\, there are the regular
- ity structures of Martin Hairer that allow robust meaning to be given to n
- umerous core nonlinear stochastic pdes describing evolving interfaces in p
- hysics.\n Classic results\, by Clark\, Cameron and Dickinson\, demonstrate
-  that a nonlinear approach to the data is essential.  Rough path theory li
- ves up to this challenge and can be viewed as providing fundamentally more
-  efficient ways of approximately describing complex data\; approaches that
- \, after penetrating the basic ideas\, are computationally tractable and l
- ead to new scalable ways to regress\, classify\, and learn functional rela
- tionships from data. One non-mathematical application that is already stri
- king is the use of signatures on a daily basis in the online recognition o
- f Chinese Handwriting on mobile phones.  \n \n      
-LOCATION:DC 1302
+SUMMARY:A Simple Example of Dimension Reduction -  (PhD Seminar)
+DTSTART:20170713T143000Z
+DTEND:20170713T153000Z
+DTSTAMP:20170713T143000Z
+UID:20170713T143000Z_c4c46f79bd194219ae2c04cc03f073c7
+DESCRIPTION:Speaker:  Justin Shaw\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "A Simple Example of Dimension Reduction" \
+ n\nAbstract:  We are overwhelmed with information\, but raw data by itself
+  is generally not helpful.  We need a way to make sense of information by 
+ determining which part of it is the most important for a given application
+ .  There are numerous mathematical methods which can be used to extract fe
+ atures from a dataset.  In this talk we will use wavelet and empirical ort
+ hogonal function (EOF) methods to examine in situ measurements from Honeoy
+ e Lake in upstate New York.   These two methods identify features on diffe
+ rent timescales.  We will then show how EOFs can be used to represent the 
+ original data by a simple reduced order model.  This model\, while having 
+ half the dimension of the original data\, retains enough information to ac
+ curately construct the time series for the Wedderburn number and the Schmi
+ dt Stability Index with a small RMS error.   The more general problem\, al
+ ong with possible directions for future work\, will then be discussed.  \n
+  \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Perturbative Methods in Spectral Geometry -  (PhD Defence)
+DTSTART:20170721T140000Z
+DTEND:20170721T150000Z
+DTSTAMP:20170721T140000Z
+UID:20170721T140000Z_8bddc625ff921efc5cbcedd02674069c
+DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\, 
+ University of Waterloo\nTitle:   "On Perturbative Methods in Spectral Geom
+ etry" \n\nAbstract:  The goal of spectral geometry is to establish how muc
+ h information about the geometry of compact Riemannian manifolds is contai
+ ned in the spectra of natural differential operators\, especially Laplacia
+ ns\, defined on them. Ideally\, one would like to be able to recover the R
+ iemannian manifold\, up to isometry\, from the spectra of one or several s
+ uch operators. This would be a very powerful result\, as it would introduc
+ e an invariant way to describe the shape of Riemannian manifolds. The cons
+ equences of such a result would range from practical applications to shape
+  recognition to theoretical insights into quantum gravity.\n However\, the
+  most general form of such statements is known to be false. There is a num
+ ber of known counterexamples\, that is isospectral but not isometric manif
+ olds. Indeed\, there are even techniques to construct such counterexamples
+ . Nonetheless\, it is believed that almost all Riemannian manifolds can be
+  identified by their spectra. In other words\, the counterexamples are exp
+ ected to be exceedingly rare special cases. This has been shown to be the 
+ case in some restricted classes of manifolds. The proof in the general cas
+ e has remained elusive.\n The main goal of this thesis is to move towards 
+ such a proof by studying the structure of isospectral sets of metrics. The
+  main tool we use for this purpose is perturbation theory\, a method ubiqu
+ itous in physics\, but strangely underused in spectral geometry. Consequen
+ tly\, a secondary goal of this work is to demonstrate the usefulness of pe
+ rturbation theory to the study of spectral geometry. We begin by a numeric
+ al exploration of spectral geometry in a perturbative regime. Then\, we sh
+ ow that sets of isospectral conformally equivalent metrics on boundaryless
+  manifolds of dimension two contain no convex subsets. This is an entirely
+  new type of result in spectral geometry. We argue that it could lead to a
+  proof of the rarity of counterexamples to the program of identifying shap
+ es by their spectra.\n The thesis also includes reviews of the fundamental
+ s of the spectral theory of Laplace-type operators\, of major results in s
+ pectral geometry and of perturbation theory.  \n \n        
+LOCATION:MC 6460
 END:VEVENT
 END:VCALENDAR

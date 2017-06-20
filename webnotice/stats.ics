@@ -8,7 +8,7 @@ SUMMARY:Risk Measures in a Quantile Regression Credibility Framework -  (S
 DTSTART:20170619T200000Z
 DTEND:20170619T210000Z
 DTSTAMP:20170619T200000Z
-UID:20170619T200000Z_aaafcf9224d5639964b60109f261d20a
+UID:20170619T200000Z_b4dd0b185ac760d5ee00de76fa21bd07
 DESCRIPTION:Speaker:  Georgios Pitselis\, University of Piraeus\nTitle:   
  "Risk Measures in a Quantile Regression Credibility Framework" \n\nRemarks
  :  Refreshments will be provided.  \n\nAbstract:  Here\, we extend the ide
@@ -23,7 +23,8 @@ DESCRIPTION:Speaker:  Georgios Pitselis\, University of Piraeus\nTitle:
  In financial terminology\, credibility plays a special role of diversifica
  tion of risk. For each model\, regression credibility models are establish
  ed  and  the robustness of these models is investigated. Applications to F
- ama/French financial portfolio data are also presented.  \n \n   
+ ama/French financial portfolio data are also presented.  \n \n            
+        
 LOCATION:M3 3127
 END:VEVENT
 END:VCALENDAR

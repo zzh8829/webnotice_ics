@@ -3,56 +3,95 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Infinitly many excluded minors for frame matroids and for lifted-g
- raphic matroids -  (Seminar)
-DTSTART:20170608T193000Z
-DTEND:20170608T203000Z
-DTSTAMP:20170608T193000Z
-UID:20170608T193000Z_8ae87f9c00196682f49ec6c5f33a55a5
-DESCRIPTION:Speaker:  Rong Chen\, Center for Discrete Mathematics\, Fuzhou
-  University\nTitle:   "Infinitly many excluded minors for frame matroids a
- nd for lifted-graphic matroids" \n\nAbstract:  In this talk\, I will prese
- nt infinite sequences of excluded minors for both the class of lifted-grap
- hic matroids and the class of frame matroids. This is joint work with Jim 
- Geelen.  \n \n    \n
-LOCATION:Math & Computer\, Room 5417
+SUMMARY:Chromatic number of triangle-free graphs -  (Matroid Theory Semina
+ r Seminar)
+DTSTART:20170621T193000Z
+DTEND:20170621T203000Z
+DTSTAMP:20170621T193000Z
+UID:20170621T193000Z_3a8a94334b35111b4222584ee7d0c792
+DESCRIPTION:Speaker:  Zdenek Dvorak\, Charles University\nTitle:   "Chroma
+ tic number of triangle-free graphs" \n\nAbstract:  While there exist trian
+ gle-free graphs of arbitrarily large chromatic number\, in some contexts i
+ t is possible to obtain better bounds on the chromatic number when triangl
+ es are forbidden.  For example\, graphs of maximum degree Delta can\nhave 
+ chromatic number up to Delta+1\, but triangle-free graphs of maximum degre
+ e Delta have chromatic number O(Delta/log Delta).  In contrast\, there exi
+ st d-degenerate triangle-free graphs that are not d-colorable (but all d-d
+ egenerate graphs are (d+1)-colorable)\, showing that in this context\nforb
+ idding triangles does not help.\n In a joint work with Ken-ichi Kawarabaya
+ shi\, we recently proved that triangle-free graphs of tree-width t are cei
+ l((t+3)/2)-colorable\, and this bound is tight.  In addition to this resul
+ t\, I will outline connections to (non)approximability of chromatic number
+  in proper minor-closed classes\, and\npropose further related problems.  
+ \n \n   \n
+LOCATION:MC5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
- )
-DTSTART:20170609T193000Z
-DTEND:20170609T203000Z
-DTSTAMP:20170609T193000Z
-UID:20170609T193000Z_8abff9064d3a9e019862cd0ac6b66749
-DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
- le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
-  We consider a coloring game on graphs as an example to illustrate the eff
- ectiveness of the semigroup spectral method for determining the spectrum o
- f the directed graphs which arise as the state graphs associated with the 
- game. Originating from the study of the so-called Tsetlin library random w
- alks and the like\, this  method can be used to  analyze dynamic processes
-  such as  voting and ranking\, provided the random processes satisfy certa
- in "memoryless" conditions (corresponding to left-regular-band semigroups)
- .  \n \n \n
-LOCATION:Math & Computer\, Room 5501
+SUMMARY:Max-sum diversity via convex programming and local search -  (Tutt
+ e Colloquium Seminar)
+DTSTART:20170623T193000Z
+DTEND:20170623T203000Z
+DTSTAMP:20170623T193000Z
+UID:20170623T193000Z_71e3e267e04ef0549bd9a8c026d46769
+DESCRIPTION:Speaker:  Friedrich Eisenbrand\, École Polytechnique Fédéra
+ le de Lausanne EPFL\nTitle:   "Max-sum diversity via convex programming an
+ d local search" \n\nAbstract:  Diversity maximization is an important conc
+ ept in information retrieval\, computational geometry and operations resea
+ rch. Usually\, it is a variant of the following problem: Given a ground se
+ t\, constraints\, and a function f(⋅) that measures diversity of a subse
+ t\, the task is to select a feasible subset S such that f(S) is maximized.
+  The sum-dispersion function f(S) is the sum of the pairwise distances in 
+ S\, is in this context a prominent diversification measure. The correspond
+ ing diversity maximization is the max-sum or sum-sum diversification. Alre
+ ady for one cardinality constraint\, max-sum diversification cannot be app
+ roximated better than by a factor of 1/2 if the distances are metric.  We 
+ present a PTAS for the max-sum diversification problem for distances d(⋅
+ \,⋅) of negative type for various constraint settings\, including matroi
+ d constraints and matroid intersection constraints. Distances of negative 
+ type are\, for example\, metric distances stemming from the §¤2 and §¤
+ 1 norm\, as well as the cosine or spherical\, or Jaccard distance which ar
+ e popular similarity metrics in web and image search. \n Joint work with A
+ lfonso Cevallos and Rico Zenklusen  \n \n     \n
+LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
- )
-DTSTART:20170609T193000Z
-DTEND:20170609T203000Z
-DTSTAMP:20170609T193000Z
-UID:20170609T193000Z_e0ff7ddd4be410b6d76fc2e749f9d2a1
-DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
- le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
-  We consider a coloring game on graphs as an example to illustrate the eff
- ectiveness of the semigroup spectral method for determining the spectrum o
- f the directed graphs which arise as the state graphs associated with the 
- game. Originating from the study of the so-called Tsetlin library random w
- alks and the like\, this  method can be used to  analyze dynamic processes
-  such as  voting and ranking\, provided the random processes satisfy certa
- in "memoryless" conditions (corresponding to left-regular-band semigroups)
- .  \n \n         
-LOCATION:Math & Computer\, Room 5501
+SUMMARY:Coloring graphs with forbidden induced subgraphs -  (Tutte Colloqu
+ ium Colloquium)
+DTSTART:20170721T193000Z
+DTEND:20170721T203000Z
+DTSTAMP:20170721T193000Z
+UID:20170721T193000Z_4dbe74de4d57b7c13b23a91ed0be1807
+DESCRIPTION:Speaker:  Dr. Maria Chudnovsky\, Princeton University\nTitle: 
+   "Coloring graphs with forbidden induced subgraphs" \n\nAbstract:  The pr
+ oblem of testing if a graph can be colored with a given number k of colors
+  in NP-complete for every k > 2. But what if we have more information abou
+ t the input graph\, namely that some xed graph H is not present in it as 
+ an induced subgraph? It is known that the problem remains NP-complete even
+  for k = 3\, unless H is the disjoint union of paths. We consider the foll
+ owing two questions:\n 1) For which graphs H is there a polynomial time al
+ gorithm to 3-color (or in general k-color) an H-free graph?\n 2) For which
+  graphs H are there nitely many 4-critical H-free graphs?\n This talk wil
+ l survey recent progress on these questions\, an in particular give a comp
+ lete answer to the second one.  \n \n      \n
+LOCATION:QNC 0101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man Who Knew Infinity: the Movie\, the Man\, and the Mathemat
+ ics -  (Colloquium)
+DTSTART:20170818T193000Z
+DTEND:20170818T203000Z
+DTSTAMP:20170818T193000Z
+UID:20170818T193000Z_7f607b4fb03580b6f03a9ae2d39171a4
+DESCRIPTION:Speaker:  Dr. George E. Andrews\, The Pennsylvania State Unive
+ rsity\nTitle:   "The Man Who Knew Infinity: the Movie\, the Man\, and the
+  Mathematics" \n\nAbstract:  In the spring of 2016\, the motion picture\, 
+ The Man Who Knew Innity\, was released. It is now available on DVD. The m
+ ovie tells the life story of the Indian genius\, Ramanujan. In this talk\,
+  I hope to start with the trailer from the movie. Then I shall provide som
+ e discussion of Ramanujan's life. I plan to provide a glimpse of his mathe
+ matics contained in the celebrated Lost Notebook. I hope to conclude with 
+ some discussion of how computer algebra illuminates our study of the many 
+ challenges left by Ramanujan.  \n \n 
+LOCATION:Math & Computer\, Room 5510
 END:VEVENT
 END:VCALENDAR

@@ -3,135 +3,64 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Artin's conjecture on primitive roots and function field analogues
-  -  (Seminar)
-DTSTART:20170605T140000Z
-DTEND:20170605T150000Z
-DTSTAMP:20170605T140000Z
-UID:20170605T140000Z_cf31e503c3cea4a6f1dea93d66891e5d
-DESCRIPTION:Speaker:  David Tweedle\, The University of the West Indies\nT
- itle:   "Artin's conjecture on primitive roots and function field analogue
- s" \n\nAbstract:  Recall Artin's primitive root conjecture\, which states 
- that if\n\\(a\\) is not \\(-1\\) or a square then the reduction of \\(a\\)
-  modulo \\(p\\)\ngenerates the multiplicative group of the integers modulo
-  \\(p\\) for\ninfinitely many primes \\(p\\).  We will examine the similar
- ities and\ndifferences between Artin's conjecture and some natural analogu
- es for\nelliptic curves and function fields.  \n \n \n
+SUMMARY:Applications of the Riemann-Roch Theorem -  (Seminar)
+DTSTART:20170619T140000Z
+DTEND:20170619T150000Z
+DTSTAMP:20170619T140000Z
+UID:20170619T140000Z_d53a7778fbf938b98c8a1ee66eb7dc80
+DESCRIPTION:Speaker:  Letian Chen\, University of Waterloo\nTitle:   "Appl
+ ications of the Riemann-Roch Theorem" \n\nAbstract:  We will continue from
+  last time and state the Riemann-Roch\ntheorem after recalling some key de
+ finitions and results. We will then use\nthe Riemann-Roch theorem to give 
+ a characterization of function fields of\ngenus 0 and show the finiteness 
+ of the class group.  \n \n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Small sets in dense pairs -  (Logic Seminar Seminar)
-DTSTART:20170605T173000Z
-DTEND:20170605T183000Z
-DTSTAMP:20170605T173000Z
-UID:20170605T173000Z_5bf341de2ec796d6e4902ea894175040
-DESCRIPTION:Speaker:  Pantelis Eleftheriou\, University of Konstanz\nTitle
- :   "Small sets in dense pairs" \n\nAbstract:  Let (M\, P) be an expansion
-  of an o-minimal structure M by a\ndense subset P of M\, such that three t
- ameness conditions hold. We prove\nthat the induced structure on P by M el
- iminates imaginaries. As a\ncorollary\, we obtain that every small set X d
- efinable in M can be\ndefinably embedded into some P^n\, uniformly in para
- meters. We then verify\nthe tameness conditions in three examples: dense p
- airs\, expansions of M by\na dense independent set\, and expansions by a d
- ense divisible\nmultiplicative group with the Mann property.  \n \n  \n
+SUMMARY:The liftable mapping class group -  (PhD Defence)
+DTSTART:20170619T183000Z
+DTEND:20170619T193000Z
+DTSTAMP:20170619T183000Z
+UID:20170619T183000Z_4f81678cd824485e31048cc487a2910e
+DESCRIPTION:Speaker:  Tyrone Ghaswala\, Department of Pure Mathematics\, U
+ niversity of Waterloo\nTitle:   "The liftable mapping class group" \n\nAbs
+ tract:  This thesis studies a subgroup of the mapping class group related 
+ to a covering space\, called the liftable mapping class group.  This thesi
+ s covers the following results.  A classification of cyclic branched cover
+ s of the sphere with the property that the liftable mapping class group co
+ incides with the entire mapping class group.  Group presentations for the 
+ liftable mapping class group corresponding to a family of cyclic branched 
+ covers of the sphere called the balanced superelliptic covers\, and a fami
+ ly of cyclic branched covers of the torus.  A characterisation of the lift
+ able mapping class group for surfaces with boundary.  \n \n   \n
+LOCATION:MC 2009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effective bi-interpretability and Graphs II -  (Seminar)
+DTSTART:20170620T193000Z
+DTEND:20170620T203000Z
+DTSTAMP:20170620T193000Z
+UID:20170620T193000Z_e24e41f3162f5cfd3ae08e1170f8f354
+DESCRIPTION:Speaker:  Jonny Stephenson\, Department of Pure Mathematics\, 
+ University of Waterloo\nTitle:   "Effective bi-interpretability and Graphs
+  II" \n\nAbstract:  Last time we saw that every structure is effectively b
+ i-interpretable with a structure over a simple language consisting of a un
+ ary predicate U and a symmetric binary predicate E. This week\, we will sh
+ ow that any structure over this language is effectively bi-interpretable w
+ ith a graph. This will complete the proof that every structure is effectiv
+ ely bi-interpretable with a graph.  \n \n  \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricci Flow and Renormalization -  (Seminar)
-DTSTART:20170606T183000Z
-DTEND:20170606T193000Z
-DTSTAMP:20170606T183000Z
-UID:20170606T183000Z_0f1720da9cea4c80b76d5c4817f2f1d4
-DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
-  University of Waterloo\nTitle:   "Ricci Flow and Renormalization" \n\nAbs
- tract:  Many of us have heard that there is some sort of relationship betw
- een Ricci flow and renormalization group flow in QFT. The goal of this tal
- k/discussion will be to try and understand this relationship.  \n \n \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Effective Bi-interpretability -- Part 2 -  (Seminar)
-DTSTART:20170606T193000Z
-DTEND:20170606T203000Z
-DTSTAMP:20170606T193000Z
-UID:20170606T193000Z_e4fd4a94fd1335ca7214491f0709187b
-DESCRIPTION:Speaker:  Michael Deveau\, Department of Pure Mathematics\, Un
- iversity of Waterloo\nTitle:   "Effective Bi-interpretability -- Part 2" \
- n\nAbstract:  We continue exploring the properties of effective bi-interpr
- etability introduced last time. We shall see that two structures being eff
- ectively bi-interpetable requires that they have very similar properties i
- n terms of many of the notions discussed thus far.  \n \n \n
+SUMMARY:Selberg's Sieve II -  (Seminar)
+DTSTART:20170621T210000Z
+DTEND:20170621T220000Z
+DTSTAMP:20170621T210000Z
+UID:20170621T210000Z_ac6007954473736ea1e5e945b8f731f2
+DESCRIPTION:Speaker:  Ertan Elma\, Department of Pure Mathematics\, Univer
+ sity of Waterloo\nTitle:   "Selberg's Sieve II" \n\nAbstract:  We will fin
+ ish the proof of the main theorem of Selberg's  \nsieve and prove the Brun
+ -Titchmarsh theorem as an application.  \n \n               
 LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contributions to the Theory of Radicals for Noncommutative Rings -
-   (PhD Defence)
-DTSTART:20170607T143000Z
-DTEND:20170607T153000Z
-DTSTAMP:20170607T143000Z
-UID:20170607T143000Z_f1b1da45cc50763ee8e701a3523945ec
-DESCRIPTION:Speaker:  Blake Madill\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Contributions to the Theory of Radicals for 
- Noncommutative Rings" \n\nAbstract:  We consider several radical classes o
- f noncommutative rings. In particular\, we provide new results regarding t
- he radical theory of semigroup-graded rings\, monomial algebras\, and Ore 
- extensions of derivation type. \n In Chapter 2 it is shown that every ring
-  graded by a torsion free nilpotent group has a homogeneous upper nilradic
- al. Moreover\, we show that a ring graded by unique-product semigroup will
-  be semiprime only when it has no nonzero nilpotent homogeneous ideals. Th
- is provides a graded-analogue of the classical result that says a ring is 
- semiprime if and only if it has no nonzero nilpotent ideals. \n In Chapter
-  3\, the class of iterative algebras are introduced. Iterative algebras se
- rve as an interesting class of monomial algebras where ring theoretical in
- formation may be determined from combinatorial information of an associate
- d right-infinite word. We use these monomial algebras to construct an exam
- ple of a prime\, semiprimitive\, graded-nilpotent algebra of Gelfand-Kiril
- lov dimension 2 which is finitely generated as a Lie algebra. \n In Chapte
- r 4\, the Jacobson radical of Ore extensions of derivation type is discuss
- ed. We show that if $R$ is a locally nilpotent ring which satisfies a poly
- nomial identity then any Ore extension of $R$ of derivation type will also
-  be locally nilpotent. Finally\, we show that the Jacobson radical of any 
- Ore extension of derivation type of a polynomial identity ring will have a
-  nil coefficient ring.  \n \n \n
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scheming with my associates -  (Seminar)
-DTSTART:20170608T183000Z
-DTEND:20170608T193000Z
-DTSTAMP:20170608T183000Z
-UID:20170608T183000Z_7a70e6405c4d191b5a8686bb04ca54eb
-DESCRIPTION:Speaker:  Nickolas Rollick\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "Scheming with my associates" \n\nAbstrac
- t:  By now\, we have seen a bewildering number of adjectives that might be
-  attached to a scheme\, some of which are topological in nature\, some of 
- which are algebraic in nature\, and some of which refer to all the structu
- ral properties of the scheme at once.  To get our bearings\, we will start
-  by recalling all the important adjectives discussed so far and categorize
-  them.  Then\, we move to the topic of associated points\, first looking a
- t them in the context of finitely generated modules over a Noetherian ring
- .  Time permitting\, we will discuss associated points of locally Noetheri
- an schemes as well and see how they can be used to define rational functio
- ns on such schemes.  \n \n  \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grad Student Colloquium: Physics for Mathematicians -  (Seminar)
-DTSTART:20170608T200000Z
-DTEND:20170608T210000Z
-DTSTAMP:20170608T200000Z
-UID:20170608T200000Z_0c6f20d044f9c0c482ce7ca09870a66b
-DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
-  University of Waterloo\nTitle:   "Grad Student Colloquium: Physics for Ma
- thematicians" \n\nAbstract:  What is Newton really saying when he writes $
- F=ma$? We know the $a$ stands for acceleration but the acceleration of wha
- t? The $F$ is supposed to be the total force acting on the system but what
-  precisely is meant by "force"? What is a "mechanical system"? What does N
- ewton mean by an "inertial reference frame"? What is space? Time? I'll att
- empt to answer these questions in a way satisfactory for mathematicians. F
- urthermore\, if time permits\, I'll try to explain some of the ideas behin
- d modern physics and how mathematicians can extract mathematically relevan
- t ideas from physics talks.  \n \n             
-LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR
