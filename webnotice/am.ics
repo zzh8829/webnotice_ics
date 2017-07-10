@@ -7,7 +7,7 @@ SUMMARY:A Simple Example of Dimension Reduction -  (PhD Seminar)
 DTSTART:20170713T143000Z
 DTEND:20170713T153000Z
 DTSTAMP:20170713T143000Z
-UID:20170713T143000Z_c4c46f79bd194219ae2c04cc03f073c7
+UID:20170713T143000Z_9a6c287ab5313cb8f3deab020d7c790b
 DESCRIPTION:Speaker:  Justin Shaw\, Department of Applied Mathematics\, Un
  iversity of Waterloo\nTitle:   "A Simple Example of Dimension Reduction" \
  n\nAbstract:  We are overwhelmed with information\, but raw data by itself
@@ -23,7 +23,52 @@ DESCRIPTION:Speaker:  Justin Shaw\, Department of Applied Mathematics\, Un
  curately construct the time series for the Wedderburn number and the Schmi
  dt Stability Index with a small RMS error.   The more general problem\, al
  ong with possible directions for future work\, will then be discussed.  \n
-  \n \n
+  \n   \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A modelling investigation into the impacts of the convective param
+ eterization on the tropical circulation -  (Master's Thesis Presentation)
+DTSTART:20170719T140000Z
+DTEND:20170719T150000Z
+DTSTAMP:20170719T140000Z
+UID:20170719T140000Z_d7de12d2a656dda5160bc4c394a798c0
+DESCRIPTION:Speaker:  Shawn Corvec\, Department of Applied Mathematics\, U
+ niversity of Waterloo\nTitle:   "A modelling investigation into the impact
+ s of the convective parameterization on the tropical circulation" \n\nAbst
+ ract:  Many studies have shown that the tropical circulations (Walker and 
+ Hadley circulations) will weaken in a warmer world. This is sometimes attr
+ ibuted to changes in the tropical mean water cycling rate (driven by conve
+ ctive mass flux)\, which does not increase as fast as boundary layer water
+  vapour in the tropics. However\, this theory is only valid for the large 
+ scale upward convective mass flux in the tropics\, not necessarily to the 
+ local circulations\, which are not as energetically constrained. Here\, we
+  show that there is also a potential regime in which this argument does no
+ t hold by simply changing the convective scheme in a climate model. This r
+ egime is one in which the tropical mean convective mass flux can actually 
+ increase with warming\, provided the precipitation efficiency decreases si
+ gnificantly. Our work supports the theory that the uniform tropical mean s
+ tatic stability increase is the physical driver of the weakening of the tr
+ opical circulations with climate change\, which is mainly driven by the tr
+ opical mean SST increase\, regardless of the change in strength of convect
+ ive mass flux. The local changes in tropospheric diabatic heating from hea
+ ting are shown to influence the magnitude of the weakening of the Walker c
+ irculation.\n We find that the precipitation efficiency decreases in an in
+ creased sea surface temperature AMIP-type experiment using the CAM4 AGCM w
+ ith an alternate convective scheme using a unique mass flux closure\, lead
+ ing to a plausible scenario where tropical mean convective mass flux may i
+ ncrease\, while the large-scale tropical circulations still weaken. While 
+ large-scale upward motion and convective mass flux are closely correlated 
+ spatially\, the nature of this relationship can change in a warmer world i
+ f the precipitation efficiency changes. A decrease in precipitation effici
+ ency can allow for increased upward convective mass flux\, but the same tr
+ opospheric heating rate response\, as the increased rate of condensational
+  heating is offset by increased evaporational cooling. A decrease in preci
+ pitation efficiency leads to a lower heating rate per unit of upward mass 
+ flux due to a compensating increase in evaporation. The large tropical mea
+ n evaporation response seen with this scheme allows for stronger tropical 
+ mean convective updrafts\, especially of the shallow variety\, to balance 
+ where the evaporational cooling response is maximized.  \n \n \n
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +76,7 @@ SUMMARY:On Perturbative Methods in Spectral Geometry -  (PhD Defence)
 DTSTART:20170721T140000Z
 DTEND:20170721T150000Z
 DTSTAMP:20170721T140000Z
-UID:20170721T140000Z_8bddc625ff921efc5cbcedd02674069c
+UID:20170721T140000Z_b82f34ac044f9000b5059218b454a899
 DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\, 
  University of Waterloo\nTitle:   "On Perturbative Methods in Spectral Geom
  etry" \n\nAbstract:  The goal of spectral geometry is to establish how muc
@@ -63,7 +108,122 @@ DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\,
   proof of the rarity of counterexamples to the program of identifying shap
  es by their spectra.\n The thesis also includes reviews of the fundamental
  s of the spectral theory of Laplace-type operators\, of major results in s
- pectral geometry and of perturbation theory.  \n \n        
+ pectral geometry and of perturbation theory.  \n \n        \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persistent Oscillations in the Aplysia bag cell network -  (PhD De
+ fence)
+DTSTART:20170803T140000Z
+DTEND:20170803T150000Z
+DTSTAMP:20170803T140000Z
+UID:20170803T140000Z_e4af1546a9d49e1a816f45240e15b9ee
+DESCRIPTION:Speaker:  Keegan Keplinger\, Department of Applied Mathematics
+ \, University of     Waterloo\nTitle:   "Persistent Oscillations in the Ap
+ lysia bag cell network" \n\nAbstract:  The Aplysia bag cell neuron serves 
+ as an ideal model for dynamical switching in persistent neural systems. Pe
+ rsistent neural systems can exhibit long-term responses to stimulus\, \nof
+ ten switching from the traditional excitable\, steady-state dynamics to a 
+ period of re- \npeated spiking or bursting. In Aplysia\, such behavior\, k
+ nown as the afterdischarge\, is exhibited by the bag cell neuron and regul
+ ated by second messenger calcium dynamics. \nA model is constructed based 
+ on experimental data that includes many qualitative fea- \ntures of the Ap
+ lysia bag cell electrophysiology\, including use-dependence\, non-selectiv
+ e cation channels\, calcium persistence\, all of which contribute to after
+ discharge dynamics. Several methods are used to fit experimental data and 
+ construct the model\, including hand tuning\, parameter forcing\, genetic 
+ algorithms\, and continuation analysis in an effort to overcome degeneracy
+ \, sensitivity\, and other barriers to complex model construction. Once th
+ e neuron model is established\, a diffusively-coupled network model is con
+ structed to simulate the electrical coupling observed in bag cell clusters
+  in nature. A simple two-neuron network reproduces some experimental resul
+ ts and larger networks are considered. Little is known about the topology 
+ of Aplysia bag cell neurons. The final chapter of this thesis explores dif
+ ferent topologies in a 100-neuron network\, exploring how the coupling con
+ stant\, topology\, and size of the network affects the networks ability 
+ to synchronize.  \n \n  \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impulsive Control of Dynamical Networks -  (PhD Defence)
+DTSTART:20170810T140000Z
+DTEND:20170810T150000Z
+DTSTAMP:20170810T140000Z
+UID:20170810T140000Z_3b40acf77ebd08ff302fe2be2d8de937
+DESCRIPTION:Speaker:  Kexue Zhang\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Impulsive Control of Dynamical Networks" \
+ n\nAbstract:  Dynamical networks (DNs) consist of a large set of interconn
+ ected nodes with each node being a fundamental unit with detailed contents
+ . A great number of natural and man-made networks such as social networks\
+ , food networks\, neural networks\, the Work Wide Web\, elec-trical power 
+ grid\, etc.\, can be effectively modeled by DNs. The main focus of the pre
+ sent thesis is on delay-dependent impulsive control of DNs. To study the i
+ mpulsive control problem of DNs\, we ﬁrstly construct stability results 
+ for general nonlinear time-delay systems with de-layed impulses by using t
+ he method of Lyapunov functionals and Razumikhin technique.\nSecondly\, we
+  study the consensus problem of multi-agent systems with both ﬁxed and s
+ witching topologies. A hybrid consensus protocol is proposed to take into 
+ consideration of continuous-time communications among agents and delayed i
+ nstant information exchanges on a sequence of discrete times. Then\, a nov
+ el hybrid consensus protocol with dynamically changing interaction topolog
+ ies is designed to take the time-delay into account in both the continuous
+ -time communication among agents and the instant information exchange at d
+ is-crete moments. We also study the consensus problem of networked multi-a
+ gent systems. Dis-tributed delays are considered in both the agent dynamic
+ s and the proposed impulsive consen-sus protocols.\nLastly\, stabilization
+  and synchronization problems of DNs under pinning impulsive control are s
+ tudied. A pinning algorithm is incorporated with the impulsive control met
+ hod. We pro-pose a delay-dependent pinning impulsive controller to investi
+ gate the synchronization of lin-ear delay-free DNs on time scales. Then\, 
+ we apply the pinning impulsive controller proposed for the delay-free netw
+ orks to stabilize time-delay DNs. Results show that the delay-dependent pi
+ nning impulsive controller can successfully stabilize and synchronize DNs 
+ with/without time-delay. Moreover\, we design a type of pinning impulsive 
+ controllers that relies only on the network states at history moments (not
+  on the states at each impulsive instant). Sufﬁ-cient conditions on stab
+ ilization of time-delay networks are obtained\, and results show that the 
+ proposed pinning impulsive controller can effectively stabilize the networ
+ k even though only time-delay states are available to the pinning controll
+ er at each impulsive instant. We fur-ther consider the pinning impulsive c
+ ontrollers with both discrete and distributed time-delay effects to synchr
+ onize the drive and response systems modeled by globally Lipshitz time-del
+ ay systems. As an extension study of pinning impulsive control approach\, 
+ we investigate the synchronization problem of systems and networks governe
+ d by PDEs.  \n \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clustering Behavior in Networks with Time Delayed\, Global\, Circu
+ lant Coupling -  (PhD Defence)
+DTSTART:20170814T143000Z
+DTEND:20170814T153000Z
+DTSTAMP:20170814T143000Z
+UID:20170814T143000Z_cb6a163f18836abed0fc7a9f3bc58861
+DESCRIPTION:Speaker:  Zhen Wang\, Department of Applied Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Clustering Behavior in Networks with Time De
+ layed\, Global\, Circulant Coupling" \n\nAbstract:  Networks of coupled os
+ cillators arise in a variety of areas. Clustering is a type of oscillatory
+  network behavior where elements of a network segregate into groups. Eleme
+ nts within a group oscillate synchronously\, while elements in different g
+ roups oscillate with a fixed phase difference. In this thesis\, we study n
+ etworks of N identical oscillators with time delayed\, global circulant co
+ upling with two approaches.\n We first use the theory of weakly coupled os
+ cillators to reduce the system \nof delay differential equations to a phas
+ e model where the time delay \nenters as a phase shift.  We use the phase 
+ model to determine\nmodel independent existence and stability results for 
+ symmetric \ncluster solutions. We show that the presence of the time delay
+  can lead to the coexistence of multiple stable clustering solutions.\n We
+  then perform stability and bifurcation analysis to the original system of
+  delay differential equations with symmetry. We first study the existence 
+ of Hopf bifurcations induced by coupling time delay\, and then use symmetr
+ ic Hopf bifurcation theory to determine how these bifurcations lead to dif
+ ferent patterns of symmetric cluster oscillations. We apply our results to
+  two specific examples: a network of FitzHugh-Nagumo neurons with diffusiv
+ e coupling and a network of Morris-Lecar neurons with synaptic coupling. I
+ n the case studies\, we show how time delays in the coupling between neuro
+ ns can give rise to switching between different stable cluster solutions\,
+  coexistence of multiple stable cluster solutions and solutions with multi
+ ple frequencies.  \n \n   
 LOCATION:MC 6460
 END:VEVENT
 END:VCALENDAR

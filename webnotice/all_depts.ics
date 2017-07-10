@@ -3,262 +3,99 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:Applications of the Riemann-Roch Theorem - Pure Mathematics (Semin
- ar)
-DTSTART:20170619T140000Z
-DTEND:20170619T150000Z
-DTSTAMP:20170619T140000Z
-UID:20170619T140000Z_d53a7778fbf938b98c8a1ee66eb7dc80
-DESCRIPTION:Speaker:  Letian Chen\, University of Waterloo\nTitle:   "Appl
- ications of the Riemann-Roch Theorem" \n\nAbstract:  We will continue from
-  last time and state the Riemann-Roch\ntheorem after recalling some key de
- finitions and results. We will then use\nthe Riemann-Roch theorem to give 
- a characterization of function fields of\ngenus 0 and show the finiteness 
- of the class group.  \n \n \n
+SUMMARY:Roth's Theorem - Pure Mathematics (Seminar)
+DTSTART:20170710T140000Z
+DTEND:20170710T150000Z
+DTSTAMP:20170710T140000Z
+UID:20170710T140000Z_987b4e4cfffafbf111cf4490b9ac0fab
+DESCRIPTION:Speaker:  Shouzhen Gu\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "Roth's Theorem" \n\nAbstract:  Roth's Theorem
+  states that any subset of the integers with\npositive density will contai
+ n three numbers in an arithmetic progression.\nWe will give a proof of Rot
+ h's Theorem using Fourier analysis. Then\, we\nwill discuss an analogous r
+ esult in the context of polynomial rings over\nfinite fields that can be p
+ roved using the same technique.  \n \n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The liftable mapping class group - Pure Mathematics (PhD Defence)
-DTSTART:20170619T183000Z
-DTEND:20170619T193000Z
-DTSTAMP:20170619T183000Z
-UID:20170619T183000Z_b898cbdb825ae68cf827ddaf47792f22
-DESCRIPTION:Speaker:  Tyrone Ghaswala\, Department of Pure Mathematics\, U
- niversity of Waterloo\nTitle:   "The liftable mapping class group" \n\nAbs
- tract:  This thesis studies a subgroup of the mapping class group related 
- to a covering space\, called the liftable mapping class group.  This thesi
- s covers the following results.  A classification of cyclic branched cover
- s of the sphere with the property that the liftable mapping class group co
- incides with the entire mapping class group.  Group presentations for the 
- liftable mapping class group corresponding to a family of cyclic branched 
- covers of the sphere called the balanced superelliptic covers\, and a fami
- ly of cyclic branched covers of the torus.  A characterisation of the lift
- able mapping class group for surfaces with boundary.  \n \n \n
-LOCATION:MC 2009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Risk Measures in a Quantile Regression Credibility Framework - Sta
- tistics & Actuarial Science (Seminar)
-DTSTART:20170619T200000Z
-DTEND:20170619T210000Z
-DTSTAMP:20170619T200000Z
-UID:20170619T200000Z_0c8dcc39b873ff24129a0304b290bdc8
-DESCRIPTION:Speaker:  Georgios Pitselis\, University of Piraeus\nTitle:   
- "Risk Measures in a Quantile Regression Credibility Framework" \n\nRemarks
- :  Refreshments will be provided.  \n\nAbstract:  Here\, we extend the ide
- a of embedding the classical credibility model into risk measures\, as was
-  presented by Pitselis (2016)\, to the idea of embedding regression credib
- ility into risk measures. The resulting credible regression risk measures 
- capture the risk of individual insurer's contract (in finance\, the indivi
- dual asset return portfolio) as well as the portfolio risk consisting of s
- everal similar but not identical contracts (in finance\, several similar p
- ortfolios of asset returns)\,  which are grouped together to share the ris
- k. In insurance\, credibility plays a special role of spreading the risk. 
- In financial terminology\, credibility plays a special role of diversifica
- tion of risk. For each model\, regression credibility models are establish
- ed  and  the robustness of these models is investigated. Applications to F
- ama/French financial portfolio data are also presented.  \n \n \n
+SUMMARY:Causal Inference by Compression - Statistics & Actuarial Science (
+ Seminar)
+DTSTART:20170711T143000Z
+DTEND:20170711T153000Z
+DTSTAMP:20170711T143000Z
+UID:20170711T143000Z_0ed9bc8f7715ad80e0428b54057250f3
+DESCRIPTION:Speaker:  Jilles Vreeken\, Max Planck Institute for Informatic
+ s and Saarland University\nTitle:   "Causal Inference by Compression" \n\n
+ Remarks:  Refreshments will be provided  \n\nAbstract:  Determining cause 
+ from effect is perhaps the most fundamental problem in science. We are int
+ erested in inferring the most likely direction between two random variable
+ s X and Y given only observational data over their joint distribution. Tha
+ t is\, we want to identify whether X causes Y \, whether Y causes X\, or w
+ hether they are merely correlated. Traditional methods\, that rely on cond
+ itional independence tests\, cannot decide between the Markov equivalent c
+ lasses of X -> Y and Y -> X. We hence take a different approach\, based on
+  information theory.\n In particular\, we base our approach on the algorit
+ hmic Markov condition\, that states that if X causes Y \, the factorizatio
+ n of the joint distribution P(X\, Y) in the causal direction has a simpler
+  description---in terms of Kolmogorov complexity---than that in the anti-c
+ ausal direction. That is\, if X -> Y \, K(P(X)) + K(P(Y | X)) < K(P(Y)) + 
+ K(P(X | Y)). Loosely speaking\, we identify the most likely causal directi
+ on as the one in which we can best compress the data. As any physical proc
+ ess can be modelled by a Turing machine\, this ideal score can detect any 
+ causal dependence that can be explained by a physical process. However\, K
+ olmogorov complexity is not computable\, so we need practical instantiatio
+ ns of this ideal. We do so using the Minimum Description Length (MDL) prin
+ ciple\, which provides a statistically well-founded approximation of Kolmo
+ gorov complexity.\n In this talk I will discuss three techniques\, one for
+  pairs of univariate numeric variabes\, one for univariate discrete variab
+ les\, and one for multivariate mixed type variables\, and show that these 
+ perform very well in practice---and\, hopefully convince you that this inf
+ ormation theoretic approach to causal inference is not just interesting\, 
+ but also promising.  \n \n \n
 LOCATION:M3 3127
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Biologically Constrained Model of Semantic Memory Search - Compu
- ter Science (Artificial Intelligence Lab PhD Seminar)
-DTSTART:20170620T150000Z
-DTEND:20170620T160000Z
-DTSTAMP:20170620T150000Z
-UID:20170620T150000Z_b199489a5aca68f49df40100366f96c7
-DESCRIPTION:Speaker:  Ivana Kajić\, David R. Cheriton School of Computer 
- Science\nTitle:   "A Biologically Constrained Model of Semantic Memory Sea
- rch" \n\nAbstract:  The semantic fluency task has been used to understand 
- the effects of semantic relationships on human memory search. A variety of
-  computational models have been proposed that explain human behavioral dat
- a\, yet it remains unclear how millions of spiking neurons work in unison 
- to realize the cognitive processes involved in memory search. \n In this t
- alk\, I will present a biologically constrained neural network model that 
- performs the task in a fashion similar to humans. The model reproduces exp
- erimentally observed response timing effects\, as well as similarity trend
- s within and across semantic categories derived from responses. Three diff
- erent sources of the association data have been tested by embedding associ
- ations in neural connections\, with free association norms providing the b
- est match.  \n \n \n
-LOCATION:DC 2310
+SUMMARY:Finite Element Exterior Calculus\, Part 2 - Pure Mathematics (Semi
+ nar)
+DTSTART:20170711T160000Z
+DTEND:20170711T170000Z
+DTSTAMP:20170711T160000Z
+UID:20170711T160000Z_e4134ce207a69fe357ccb5542cb338f8
+DESCRIPTION:Speaker:  Adam Morgan\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Finite Element Exterior Calculus\, Part 2"
+  \n\nAbstract:  We will continue the theoretical developments from part 1\
+ , defining precisely how we intend to "discretely replicate" de Rham compl
+ exes. Following this\, we will set up our notation for triangulations and 
+ define Lagrange elements.  \n \n \n
+LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Effective bi-interpretability and Graphs II - Pure Mathematics (Se
- minar)
-DTSTART:20170620T193000Z
-DTEND:20170620T203000Z
-DTSTAMP:20170620T193000Z
-UID:20170620T193000Z_9cba50399aca50219538343de86b1811
-DESCRIPTION:Speaker:  Jonny Stephenson\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "Effective bi-interpretability and Graphs
-  II" \n\nAbstract:  Last time we saw that every structure is effectively b
- i-interpretable with a structure over a simple language consisting of a un
- ary predicate U and a symmetric binary predicate E. This week\, we will sh
- ow that any structure over this language is effectively bi-interpretable w
- ith a graph. This will complete the proof that every structure is effectiv
- ely bi-interpretable with a graph.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chromatic number of triangle-free graphs - Combinatorics and Optim
- ization (Matroid Theory Seminar Seminar)
-DTSTART:20170621T193000Z
-DTEND:20170621T203000Z
-DTSTAMP:20170621T193000Z
-UID:20170621T193000Z_c07adceade6153d498d25695e85d9095
-DESCRIPTION:Speaker:  Zdenek Dvorak\, Charles University\nTitle:   "Chroma
- tic number of triangle-free graphs" \n\nAbstract:  While there exist trian
- gle-free graphs of arbitrarily large chromatic number\, in some contexts i
- t is possible to obtain better bounds on the chromatic number when triangl
- es are forbidden.  For example\, graphs of maximum degree Delta can\nhave 
- chromatic number up to Delta+1\, but triangle-free graphs of maximum degre
- e Delta have chromatic number O(Delta/log Delta).  In contrast\, there exi
- st d-degenerate triangle-free graphs that are not d-colorable (but all d-d
- egenerate graphs are (d+1)-colorable)\, showing that in this context\nforb
- idding triangles does not help.\n In a joint work with Ken-ichi Kawarabaya
- shi\, we recently proved that triangle-free graphs of tree-width t are cei
- l((t+3)/2)-colorable\, and this bound is tight.  In addition to this resul
- t\, I will outline connections to (non)approximability of chromatic number
-  in proper minor-closed classes\, and\npropose further related problems.  
- \n \n \n
-LOCATION:MC5501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selberg's Sieve II - Pure Mathematics (Seminar)
-DTSTART:20170621T210000Z
-DTEND:20170621T220000Z
-DTSTAMP:20170621T210000Z
-UID:20170621T210000Z_d4430f793a2ca17dd9ae8f5fa42f72da
-DESCRIPTION:Speaker:  Ertan Elma\, Department of Pure Mathematics\, Univer
- sity of Waterloo\nTitle:   "Selberg's Sieve II" \n\nAbstract:  We will fin
- ish the proof of the main theorem of Selberg's  \nsieve and prove the Brun
- -Titchmarsh theorem as an application.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Efficient Discrete Optimization for Binary Energies with Applicati
- ons to Image Segmentation - Computer Science (Seminar)
-DTSTART:20170622T143000Z
-DTEND:20170622T153000Z
-DTSTAMP:20170622T143000Z
-UID:20170622T143000Z_7ad2ad07a69ba2358444699b1ccd416f
-DESCRIPTION:Speaker:  Olga Veksler\, Computer Science Department\, Western
-  University\nTitle:   "Efficient Discrete Optimization for Binary Energies
-  with Applications to Image Segmentation" \n\nRemarks:  Please note: This 
- is a SACA seminar.  \n\nAbstract:  Discrete optimization is a successful a
- pproach for numerous computer vision applications. The state of the art in
-  several fundamental vision tasks  such as stereo correspondence\, image
-  segmentation\, image stitching\, etc.  has been moved forward significa
- ntly due to the development of effective energy minimization techniques. A
-  particularly useful class of energies comes from Markov Random Field (MRF
- ) or Conditional Random Field (CRF) models. Even with the recent revolutio
- n in the field due to deep convolutional neural networks (CNNs)\, CRF and 
- MRF models are still highly relevant. CNNs\, although excellent at learnin
- g image features\, do not model pixel dependencies and can produce results
-  with noisy isolated regions. MRF/CRF models\, on the other hand\,  are ex
- cellent at obtaining  spatially coherent results. Therefore many CNN  mode
- ls whose goal is pixel-precise image labeling use CRFs for refining the ac
- curacy.\n The major difficulty of energy minimization framework is its hig
- h computational cost\, as many energies arising in practice are NP-hard to
-  minimize. In this talk\, I will present several efficient methods for min
- imization of binary energies. Binary energies are an essential class to ha
- ndle\, as optimization of general energies can be reduced to the binary ca
- se. We have developed efficient algorithms for binary nonsubmodular energi
- es that are based on two different frameworks: Trust Region (TR) and Auxil
- iary Functions (AUX). The methods that we have developed significantly out
- perform the previously known state of the art on many applications. For ap
- plications such as image segmentation with convex shape prior and with cur
- vature regularization\, previously available methods fail completely\, whi
- le our methods achieve accurate results. \n      \n Bio : Ol
- ga Veksler received her BS degree summa cum laude with honours in mathemat
- ics and computer science from New York University in 1995\, and an MSc and
-  PhD degrees from the Computer Science Department\, Cornell University in 
- 1999. She was a postdoctoral research associate at NEC Research Institute.
-  She is currently a full professor in the Computer Science Department at W
- estern University. \n Her broad research interests are in computer vision.
-  In particular\, she is interested in energy minimization methods\, graph 
- algorithms\, stereo correspondence\, motion\, and segmentation. She was a 
- co-organizer of IEEE Computer Society Workshop on Perceptual Organization 
- in Computer Vision (POCV) in 2008. She is a member of the organizing commi
- ttee of ICERM (Brown University) Semester Program on Computer Vision\, 201
- 9. She has served multiple times as an area chair for CVPR and ICCV. She i
- s an associate editor for the  International Journal of Computer Vision  (
- JCV) and  Computer Vision and Image Understanding  (CVIU). She is a recipi
- ent of the Early Researcher Award (ERA) from the Canadian Ministry of Rese
- arch and Innovation\, the NSERC Discovery Accelerator Supplement (DAS) Awa
- rd\, and a "Test-of-Time Award" at the International Conference on Compute
- r Vision (ICCV 2011).  \n \n \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Max-sum diversity via convex programming and local search - Combin
- atorics and Optimization (Tutte Colloquium Seminar)
-DTSTART:20170623T193000Z
-DTEND:20170623T203000Z
-DTSTAMP:20170623T193000Z
-UID:20170623T193000Z_386309678e7c72d535f1bbb451a7d482
-DESCRIPTION:Speaker:  Friedrich Eisenbrand\, École Polytechnique Fédéra
- le de Lausanne EPFL\nTitle:   "Max-sum diversity via convex programming an
- d local search" \n\nAbstract:  Diversity maximization is an important conc
- ept in information retrieval\, computational geometry and operations resea
- rch. Usually\, it is a variant of the following problem: Given a ground se
- t\, constraints\, and a function f(⋅) that measures diversity of a subse
- t\, the task is to select a feasible subset S such that f(S) is maximized.
-  The sum-dispersion function f(S) is the sum of the pairwise distances in 
- S\, is in this context a prominent diversification measure. The correspond
- ing diversity maximization is the max-sum or sum-sum diversification. Alre
- ady for one cardinality constraint\, max-sum diversification cannot be app
- roximated better than by a factor of 1/2 if the distances are metric.  We 
- present a PTAS for the max-sum diversification problem for distances d(⋅
- \,⋅) of negative type for various constraint settings\, including matroi
- d constraints and matroid intersection constraints. Distances of negative 
- type are\, for example\, metric distances stemming from the §¤2 and §¤
- 1 norm\, as well as the cosine or spherical\, or Jaccard distance which ar
- e popular similarity metrics in web and image search. \n Joint work with A
- lfonso Cevallos and Rico Zenklusen  \n \n \n
-LOCATION:MC 5501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Settling the Query Complexity of Non-adaptive Junta Testing - Comp
- uter Science (Algorithms and Complexity Group Seminar)
-DTSTART:20170628T173000Z
-DTEND:20170628T183000Z
-DTSTAMP:20170628T173000Z
-UID:20170628T173000Z_67d26019fd7a8c7487165748409df990
-DESCRIPTION:Speaker:  Erik Waingarten\, Columbia University\nTitle:   "Set
- tling the Query Complexity of Non-adaptive Junta Testing" \n\nAbstract:  I
- n this talk\, I will show that any non-adaptive algorithm that tests wheth
- er an unknown Boolean function f:{0\,1}^n→{0\,1} is a k-junta or ϵ-far 
- from every k-junta must make Ω(k^(3/2)/ϵ) many queries. This result is
-  essentially optimal given Blais's non-adaptive junta tester\, which makes
-  O(k^(3/2))/ϵ queries and shows that adaptivity enables polynomial savi
- ngs in query complexity for junta testing. At a very high level\, the proo
- f proceeds by reducing the non-adaptive junta testing of a new class of ra
- ndom Boolean functions to a problem of distinguishing two binomial distrib
- utions with a specific kind of noisy query. \n This is joint work with Xi 
- Chen\, Rocco Servedio\, Li-Yang Tan\, and Jinyu Xie.  \n \n \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ETR\, or the Real Logic of Drawing Graphs - Computer Science (Algo
- rithms and Complexity Group Seminar)
-DTSTART:20170629T150000Z
-DTEND:20170629T160000Z
-DTSTAMP:20170629T150000Z
-UID:20170629T150000Z_0e617db97f6513d597a078db9785c9e9
-DESCRIPTION:Speaker:  Marcus Schaefer\, DePaul University\, Chicago\nTitle
- :   "ETR\, or the Real Logic of Drawing Graphs" \n\nAbstract:  What is har
- der to compute: The crossing number\, or the rectilinear crossing number o
- f a graph? We know that the two numbers are different\, but maybe computin
- g them has the same complexity? It turns out that the two problems differ 
- significantly in complexity\, one is NP-complete\, the other is complete f
- or the existential theory of the reals (ETR)\, due to an old result of Bie
- nstocks. \n Recently\, the visibility graph recognition problem\, and th
- e art gallery problem have been shown ETR-complete. In this talk we survey
-  the existential theory of the reals\, and the role it has (and can) play 
- in graph drawing.  \n \n \n
-LOCATION:DC 1304
+SUMMARY:Sample-efficient Learning of Mixtures - Computer Science (Artifici
+ al Intelligence Lab PhD Seminar)
+DTSTART:20170712T160000Z
+DTEND:20170712T170000Z
+DTSTAMP:20170712T160000Z
+UID:20170712T160000Z_dfcff46b3e32b1b2abb849565f28c53d
+DESCRIPTION:Speaker:  Hassan Ashtiani\, David R. Cheriton School of Comput
+ er Science\nTitle:   "Sample-efficient Learning of Mixtures" \n\nAbstract:
+   We consider PAC learning of probability distributions (a.k.a. density es
+ timation)\, where we are given an i.i.d. sample generated from an unknown 
+ target distribution\, and want to output a distribution that is close to t
+ he target in total variation distance. Let F be an arbitrary class of prob
+ ability distributions\, and let F^k denote the class of k-mixtures of elem
+ ents of F. Assuming the existence of a method for learning F in the realiz
+ able setting\, we provide a method for learning F^k in the agnostic settin
+ g. Furthermore\, roughly speaking\, we show that the sample complexity inc
+ reases at most by a factor of {k}/{\\epsilon^2}. \n We provide two applica
+ tions of our main result. First\, we show that the class of mixtures of k 
+ axis-aligned Gaussians in d-dimensional Euclidean space is PAC-learnable i
+ n the agnostic setting with sample complexity O({kd}/{\\epsilon ^ 4}) whic
+ h is tight in k and d. Second\, we show that the class of mixtures of k Ga
+ ussians is PAC-learnable in the agnostic setting with sample complexity O(
+ {kd^2}/{\\epsilon ^ 4})\, which improves the previous known bounds in its 
+ dependence on k and d. \n This is joint work with Abbas Mehrabian and Shai
+  Ben-David.  \n \n \n
+LOCATION:DC 3317
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Simple Example of Dimension Reduction - Applied Mathematics (PhD
@@ -283,6 +120,116 @@ DESCRIPTION:Speaker:  Justin Shaw\, Department of Applied Mathematics\, Un
  dt Stability Index with a small RMS error.   The more general problem\, al
  ong with possible directions for future work\, will then be discussed.  \n
   \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-Semilattices: Residual Properties and Applications to Constraint
+  Satisfaction Problems - Pure Mathematics (PhD Defence)
+DTSTART:20170713T173000Z
+DTEND:20170713T183000Z
+DTSTAMP:20170713T173000Z
+UID:20170713T173000Z_d091dec177a70d0de49adacceb34bb30
+DESCRIPTION:Speaker:  Ian Payne\, Department of Pure Mathematics\, Univers
+ ity of Waterloo\nTitle:   "2-Semilattices: Residual Properties and Applica
+ tions to Constraint Satisfaction Problems" \n\nAbstract:  Semilattices are
+  algebras known to have an important connection to partially ordered sets.
+  In particular\, if a partially ordered set $(A\,\\leq)$ has greatest lowe
+ r bounds\, a semilattice $(A\;\\wedge)$ can be associated to the order whe
+ re $a\\wedge b$ is the greatest lower bound of $a$ and $b$. In this thesis
+ \, we study a class of algebras known as $2$-semilattices\, which is a gen
+ eralization of the class of semilattices. Similar to the correspondence be
+ tween partial orders and semilattices\, there is a correspondence between 
+ certain digraphs and $2$-semilattices. That is\, to every $2$-semilattice\
+ , there is an associated digraph which holds information about the $2$-sem
+ ilattice. Making frequent use of this correspondence\, we explore the clas
+ s of $2$-semilattices from three perspectives: (i) Tame Congruence Theory\
+ , (ii) the "residual character" of the class of $2$-semilattices\, and (ii
+ i)\, the constraint satisfaction problem.\n Tame Congruence Theory\, devel
+ oped by Hobby and McKenzie\, is a structure theory on finite algebras driv
+ en by understanding prime congruence quotients of finite algebras. The the
+ ory assigns to each such quotient a type from {\\bf 1} to {\\bf 5}. We sho
+ w that types {\\bf 3}\, {\\bf 4}\, and {\\bf 5} can occur in the class of 
+ $2$-semilattices\, but type {\\bf 4} can not occur in a finite simple $2$-
+ semilattice.\n Classes of algebras contain "irreducible" members which hol
+ d information about the class. Specifically\, the size of the irreducible 
+ members has been of interest to many authors. We show for certain subclass
+ es of the class of $2$-semilattices that there is no cardinal bound on the
+  size of the irreducible members in that subclass.\n The "fixed template c
+ onstraint satisfaction problem" can be identified with the decision proble
+ m hom$(\\mathbb{A})$ where $\\mathbb{A}$ is a fixed finite relational stru
+ cture. The input to hom$(\\mathbb{A})$ is a finite structure $\\mathbb{B}$
+  similar to $\\mathbb{A}$. The question asked is "does there exist a homom
+ orphism from $\\mathbb{B}$ to $\\mathbb{A}$?" Feder and Vardi conjectured 
+ that for fixed $\\mathbb{A}$\, this decision problem is either {\\bf NP}-c
+ omplete or solvable in polynomial time. Bulatov confirmed this conjecture 
+ in the case that $\\mathbb{A}$ is invariant under a $2$-semilattice operat
+ ion. We extend this result.  \n \n \n
+LOCATION:M3 3103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entropy Compression and the Lovasz Local Lemma - Combinatorics and
+  Optimization (Tutte Colloquium Colloquium)
+DTSTART:20170714T193000Z
+DTEND:20170714T203000Z
+DTSTAMP:20170714T193000Z
+UID:20170714T193000Z_a2682cb4d436a9e973f358bfe1a1865c
+DESCRIPTION:Speaker:  Mike Molloy\, University of Toronto\nTitle:   "Entro
+ py Compression and the Lovasz Local Lemma" \n\nAbstract:  The Lovasz Local
+  Lemma\, a cornerstone of the probabilistic method\, is a powerful and wid
+ ely used proof technique. In 2009\, Moser introduced a technique called en
+ tropy compression to provide efficient algorithms which construct objects 
+ that the Local Lemma guarantees to exist. Recently\, entropy compression h
+ as been used to develop more powerful versions of the Local Lemma which pr
+ ovide existence proofs in settings where the original Local Lemma does not
+  apply. I will illustrate this technique with applications to graph colour
+ ing: (a) colouring triangle-free graphs\, and (b) frugal colouring\, where
+  no colour can appear too many times in any neighbourhood.  \n \n \n
+LOCATION:MC5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A modelling investigation into the impacts of the convective param
+ eterization on the tropical circulation - Applied Mathematics (Master's Th
+ esis Presentation)
+DTSTART:20170719T140000Z
+DTEND:20170719T150000Z
+DTSTAMP:20170719T140000Z
+UID:20170719T140000Z_d7de12d2a656dda5160bc4c394a798c0
+DESCRIPTION:Speaker:  Shawn Corvec\, Department of Applied Mathematics\, U
+ niversity of Waterloo\nTitle:   "A modelling investigation into the impact
+ s of the convective parameterization on the tropical circulation" \n\nAbst
+ ract:  Many studies have shown that the tropical circulations (Walker and 
+ Hadley circulations) will weaken in a warmer world. This is sometimes attr
+ ibuted to changes in the tropical mean water cycling rate (driven by conve
+ ctive mass flux)\, which does not increase as fast as boundary layer water
+  vapour in the tropics. However\, this theory is only valid for the large 
+ scale upward convective mass flux in the tropics\, not necessarily to the 
+ local circulations\, which are not as energetically constrained. Here\, we
+  show that there is also a potential regime in which this argument does no
+ t hold by simply changing the convective scheme in a climate model. This r
+ egime is one in which the tropical mean convective mass flux can actually 
+ increase with warming\, provided the precipitation efficiency decreases si
+ gnificantly. Our work supports the theory that the uniform tropical mean s
+ tatic stability increase is the physical driver of the weakening of the tr
+ opical circulations with climate change\, which is mainly driven by the tr
+ opical mean SST increase\, regardless of the change in strength of convect
+ ive mass flux. The local changes in tropospheric diabatic heating from hea
+ ting are shown to influence the magnitude of the weakening of the Walker c
+ irculation.\n We find that the precipitation efficiency decreases in an in
+ creased sea surface temperature AMIP-type experiment using the CAM4 AGCM w
+ ith an alternate convective scheme using a unique mass flux closure\, lead
+ ing to a plausible scenario where tropical mean convective mass flux may i
+ ncrease\, while the large-scale tropical circulations still weaken. While 
+ large-scale upward motion and convective mass flux are closely correlated 
+ spatially\, the nature of this relationship can change in a warmer world i
+ f the precipitation efficiency changes. A decrease in precipitation effici
+ ency can allow for increased upward convective mass flux\, but the same tr
+ opospheric heating rate response\, as the increased rate of condensational
+  heating is offset by increased evaporational cooling. A decrease in preci
+ pitation efficiency leads to a lower heating rate per unit of upward mass 
+ flux due to a compensating increase in evaporation. The large tropical mea
+ n evaporation response seen with this scheme allows for stronger tropical 
+ mean convective updrafts\, especially of the shallow variety\, to balance 
+ where the evaporational cooling response is maximized.  \n \n \n
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -327,6 +274,31 @@ DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\,
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deep Active Learning for Dialogue Generation - Computer Science (A
+ rtificial Intelligence Lab PhD Seminar)
+DTSTART:20170721T150000Z
+DTEND:20170721T160000Z
+DTSTAMP:20170721T150000Z
+UID:20170721T150000Z_97450dc8291ac193193c346296ab50ab
+DESCRIPTION:Speaker:  Nabiha Asghar\, David R. Cheriton School of Computer
+  Science\nTitle:   "Deep Active Learning for Dialogue Generation" \n\nAbst
+ ract:  We propose an online\, end-to-end\, neural generative conversationa
+ l model for open-domain dialogue. It is trained using a unique combination
+  of offline two-phase supervised learning and online human-in-the-loop act
+ ive learning. While most existing research proposes offline supervision or
+  hand-crafted reward functions for online reinforcement\, we devise a nove
+ l interactive learning mechanism based on hamming-diverse beam search for 
+ response generation and one-character user-feedback at each step. Experime
+ nts show that our model inherently promotes the generation of semantically
+  relevant and interesting responses\, and can be used to train agents with
+  customized personas\, moods and conversational styles. \n Published as a
+  short paper in the Proceedings of the 6th Joint Conference on Lexical and
+  Computational Semantics (*SEM)\, 2017.\n This work was done in Collaborat
+ ion with Xin Jiang\, Hang Li from Huawei Noah's Ark in Hong Kong and Pasca
+ l Poupart.   \n \n \n
+LOCATION:DC 2306C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coloring graphs with forbidden induced subgraphs - Combinatorics a
  nd Optimization (Tutte Colloquium Colloquium)
 DTSTART:20170721T193000Z
@@ -353,11 +325,68 @@ SUMMARY:Restricted String Representations - Computer Science (Algorithms a
 DTSTART:20170724T133000Z
 DTEND:20170724T143000Z
 DTSTAMP:20170724T133000Z
-UID:20170724T133000Z_76ec3bcaf1a73d9678c1f784f648e8d7
+UID:20170724T133000Z_b7040ee9133a30ff0a2340ea37702191
 DESCRIPTION:Speaker:  Martin Derka\, David. R. Cheriton School of Computer
-  Science\nTitle:   "Restricted String Representations" \n\nAbstract:  To c
- ome...  \n \n \n
+  Science\nTitle:   "Restricted String Representations" \n\nAbstract:  A st
+ ring representation of a graph assigns to every vertex a curve in the plan
+ e so that two curves intersect if and only if the represented vertices are
+  adjacent. This work investigates string representations of graphs with an
+  emphasis on the shapes of curves and the way they  intersect. We strength
+ en some previously known results and show that every planar graph has stri
+ ng representations where every curve consists of axis-parallel line segmen
+ ts with at most two bends (those are the so-called  $B_2$-VPG representati
+ ons) and simultaneously two curves intersect each other at most once (thos
+ e are the so-called 1-string representations). Thus\, planar graphs are $B
+ _2$-VPG $1$-string graphs.  \n We further show that with some restrictions
+  on the shapes of the curves\, string representations can be used to produ
+ ce approximation algorithms for several hard problems. The $B_2$-VPG repre
+ sentations of planar graphs satisfy these restrictions. We attempt to furt
+ her restrict the number of bends in VPG representations for subclasses of 
+ planar graphs\, and investigate $B_1$-VPG representations. \n We propose  
+ new classes of string representations for planar graphs that we call "orde
+ r-preserving.'' Order-preservation is an interesting property that relates
+  the string representation to the planar embedding of the graph\, and we b
+ elieve that it might prove useful when constructing string representations
+ . Finally\, we extend our investigation of string representations to strin
+ g representations that require some curves to intersect multiple times. We
+  show that there are outer-string graphs that require an exponential numbe
+ r of crossings in their outer-string representations. Our construction als
+ o proves that 1-planar graphs\, i.e.\, graphs that are no longer planar\, 
+ yet fairly close to planar graphs\, may have string representations\, but 
+ they are not always 1-string.  \n \n \n
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Security Sustainable - Computer Science (Cryptography\, Sec
+ urity\, and Privacy (CrySP) Group Seminar)
+DTSTART:20170726T183000Z
+DTEND:20170726T193000Z
+DTSTAMP:20170726T183000Z
+UID:20170726T183000Z_b7b7d7cdbbcf7e0cc2f24434eaf61d39
+DESCRIPTION:Speaker:  Ross Anderson\, University of Cambridge\nTitle:   "M
+ aking Security Sustainable" \n\nRemarks:  CrySP Speaker Series on Privacy 
+  \n\nAbstract:  Until recently we built two types of thing: things like ph
+ ones and laptops that we connect to the Internet\, upgrade once a month an
+ d throw away after three years\, and things like cars that we don't connec
+ t to the Internet\, don't upgrade and which last for thirty. \n Recruiting
+  durable goods to the Internet of Things will bring many interesting chall
+ enges not just for safety and privacy but around tools\, standards\, maint
+ enance\, liability and business models. If Google finds it too hard to pat
+ ch more than a few versions of Android\, how will a car maker patch a hund
+ red old models? What about the component suppliers\, who sell to many make
+ rs? And who will pay for it all? \n This coming storm will engage the econ
+ omics of security and dependability\, and will also provide many new urgen
+ t and challenging technical research problems. It will also change securit
+ y as a discipline\, as safety engineering and security engineering become 
+ intertwined.\n      \n Bio : Ross Anderson is Professor of S
+ ecurity Engineering at Cambridge University. He was one of the founders of
+  the discipline of security economics\, and leads the Cambridge Cybercrime
+  Centre. He was a pioneer of prepayment electricity metering\, peer-to-pee
+ r systems\, hardware tamper-resistance\, steganography and API security. H
+ e is a Fellow of the Royal Society and the Royal Academy of Engineering\, 
+ as well as being a winner of the Lovelace Medal  the UK's top award in c
+ omputing.  \n \n \n
+LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scalable and Holistic Qualitative Data Cleaning - Computer Science
@@ -460,6 +489,39 @@ DESCRIPTION:Speaker:  Areej Alhothali\, David R. Cheriton School of Comput
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Persistent Oscillations in the Aplysia bag cell network - Applied 
+ Mathematics (PhD Defence)
+DTSTART:20170803T140000Z
+DTEND:20170803T150000Z
+DTSTAMP:20170803T140000Z
+UID:20170803T140000Z_5f1197cb0563a339ed8df8a929cc7e81
+DESCRIPTION:Speaker:  Keegan Keplinger\, Department of Applied Mathematics
+ \, University of     Waterloo\nTitle:   "Persistent Oscillations in the Ap
+ lysia bag cell network" \n\nAbstract:  The Aplysia bag cell neuron serves 
+ as an ideal model for dynamical switching in persistent neural systems. Pe
+ rsistent neural systems can exhibit long-term responses to stimulus\, \nof
+ ten switching from the traditional excitable\, steady-state dynamics to a 
+ period of re- \npeated spiking or bursting. In Aplysia\, such behavior\, k
+ nown as the afterdischarge\, is exhibited by the bag cell neuron and regul
+ ated by second messenger calcium dynamics. \nA model is constructed based 
+ on experimental data that includes many qualitative fea- \ntures of the Ap
+ lysia bag cell electrophysiology\, including use-dependence\, non-selectiv
+ e cation channels\, calcium persistence\, all of which contribute to after
+ discharge dynamics. Several methods are used to fit experimental data and 
+ construct the model\, including hand tuning\, parameter forcing\, genetic 
+ algorithms\, and continuation analysis in an effort to overcome degeneracy
+ \, sensitivity\, and other barriers to complex model construction. Once th
+ e neuron model is established\, a diffusively-coupled network model is con
+ structed to simulate the electrical coupling observed in bag cell clusters
+  in nature. A simple two-neuron network reproduces some experimental resul
+ ts and larger networks are considered. Little is known about the topology 
+ of Aplysia bag cell neurons. The final chapter of this thesis explores dif
+ ferent topologies in a 100-neuron network\, exploring how the coupling con
+ stant\, topology\, and size of the network affects the networks ability 
+ to synchronize.  \n \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Smith Normal Form over Local Rings and Related Problems - Computer
   Science (Symbolic Computation Group PhD Defence)
 DTSTART:20170810T133000Z
@@ -498,6 +560,139 @@ DESCRIPTION:Speaker:  Mustafa Elsheikh\, David R. Cheriton School of Compu
  lications of numerical algorithms for computing eigenvalues to computing t
  he invariant factors of symbolic matrices.  \n \n \n
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impulsive Control of Dynamical Networks - Applied Mathematics (PhD
+  Defence)
+DTSTART:20170810T140000Z
+DTEND:20170810T150000Z
+DTSTAMP:20170810T140000Z
+UID:20170810T140000Z_3b40acf77ebd08ff302fe2be2d8de937
+DESCRIPTION:Speaker:  Kexue Zhang\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Impulsive Control of Dynamical Networks" \
+ n\nAbstract:  Dynamical networks (DNs) consist of a large set of interconn
+ ected nodes with each node being a fundamental unit with detailed contents
+ . A great number of natural and man-made networks such as social networks\
+ , food networks\, neural networks\, the Work Wide Web\, elec-trical power 
+ grid\, etc.\, can be effectively modeled by DNs. The main focus of the pre
+ sent thesis is on delay-dependent impulsive control of DNs. To study the i
+ mpulsive control problem of DNs\, we ﬁrstly construct stability results 
+ for general nonlinear time-delay systems with de-layed impulses by using t
+ he method of Lyapunov functionals and Razumikhin technique.\nSecondly\, we
+  study the consensus problem of multi-agent systems with both ﬁxed and s
+ witching topologies. A hybrid consensus protocol is proposed to take into 
+ consideration of continuous-time communications among agents and delayed i
+ nstant information exchanges on a sequence of discrete times. Then\, a nov
+ el hybrid consensus protocol with dynamically changing interaction topolog
+ ies is designed to take the time-delay into account in both the continuous
+ -time communication among agents and the instant information exchange at d
+ is-crete moments. We also study the consensus problem of networked multi-a
+ gent systems. Dis-tributed delays are considered in both the agent dynamic
+ s and the proposed impulsive consen-sus protocols.\nLastly\, stabilization
+  and synchronization problems of DNs under pinning impulsive control are s
+ tudied. A pinning algorithm is incorporated with the impulsive control met
+ hod. We pro-pose a delay-dependent pinning impulsive controller to investi
+ gate the synchronization of lin-ear delay-free DNs on time scales. Then\, 
+ we apply the pinning impulsive controller proposed for the delay-free netw
+ orks to stabilize time-delay DNs. Results show that the delay-dependent pi
+ nning impulsive controller can successfully stabilize and synchronize DNs 
+ with/without time-delay. Moreover\, we design a type of pinning impulsive 
+ controllers that relies only on the network states at history moments (not
+  on the states at each impulsive instant). Sufﬁ-cient conditions on stab
+ ilization of time-delay networks are obtained\, and results show that the 
+ proposed pinning impulsive controller can effectively stabilize the networ
+ k even though only time-delay states are available to the pinning controll
+ er at each impulsive instant. We fur-ther consider the pinning impulsive c
+ ontrollers with both discrete and distributed time-delay effects to synchr
+ onize the drive and response systems modeled by globally Lipshitz time-del
+ ay systems. As an extension study of pinning impulsive control approach\, 
+ we investigate the synchronization problem of systems and networks governe
+ d by PDEs.  \n \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clustering Behavior in Networks with Time Delayed\, Global\, Circu
+ lant Coupling - Applied Mathematics (PhD Defence)
+DTSTART:20170814T143000Z
+DTEND:20170814T153000Z
+DTSTAMP:20170814T143000Z
+UID:20170814T143000Z_636ea51f502077aabe31c93259fd0630
+DESCRIPTION:Speaker:  Zhen Wang\, Department of Applied Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Clustering Behavior in Networks with Time De
+ layed\, Global\, Circulant Coupling" \n\nAbstract:  Networks of coupled os
+ cillators arise in a variety of areas. Clustering is a type of oscillatory
+  network behavior where elements of a network segregate into groups. Eleme
+ nts within a group oscillate synchronously\, while elements in different g
+ roups oscillate with a fixed phase difference. In this thesis\, we study n
+ etworks of N identical oscillators with time delayed\, global circulant co
+ upling with two approaches.\n We first use the theory of weakly coupled os
+ cillators to reduce the system \nof delay differential equations to a phas
+ e model where the time delay \nenters as a phase shift.  We use the phase 
+ model to determine\nmodel independent existence and stability results for 
+ symmetric \ncluster solutions. We show that the presence of the time delay
+  can lead to the coexistence of multiple stable clustering solutions.\n We
+  then perform stability and bifurcation analysis to the original system of
+  delay differential equations with symmetry. We first study the existence 
+ of Hopf bifurcations induced by coupling time delay\, and then use symmetr
+ ic Hopf bifurcation theory to determine how these bifurcations lead to dif
+ ferent patterns of symmetric cluster oscillations. We apply our results to
+  two specific examples: a network of FitzHugh-Nagumo neurons with diffusiv
+ e coupling and a network of Morris-Lecar neurons with synaptic coupling. I
+ n the case studies\, we show how time delays in the coupling between neuro
+ ns can give rise to switching between different stable cluster solutions\,
+  coexistence of multiple stable cluster solutions and solutions with multi
+ ple frequencies.  \n \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geographically Distributed Database Management at the Cloud's Edge
+  - Computer Science (Database Systems Group PhD Defence)
+DTSTART:20170814T170000Z
+DTEND:20170814T180000Z
+DTSTAMP:20170814T170000Z
+UID:20170814T170000Z_ee83cd523ab01e39fea671068641ba40
+DESCRIPTION:Speaker:  Cătălin-Alexandru Avram\, David R. Cheriton School
+  of Computer Science\nTitle:   "Geographically Distributed Database Manage
+ ment at the Cloud's Edge" \n\nAbstract:  Request latency resulting from th
+ e geographic separation between clients and remote application servers is 
+ a challenge for cloud-hosted web and mobile applications. Numerous studies
+  have shown the importance of low latency to the end user experience. Smal
+ l response time increases on the order of a few hundred milliseconds direc
+ tly translate to reduced user satisfaction and loss of revenue that persis
+ t even after a low latency environment is restored. One way to address thi
+ s challenge in geo-distributed settings is to push all or part of the appl
+ ication\, along with the data it requires\, to the edge of the cloud  cl
+ oser to application clients. My thesis explores the idea of taking advanta
+ ge of clients' proximity to the edge of the network in order to reduce req
+ uest latencies.\n SpearDB is a prototype replicated distributed database s
+ ystem that operates in a star network topology\, with a core site and a la
+ rge number of edge sites that are close to clients. Clients access the nea
+ rest edge\, which holds replicas of locally relevant portions of the datab
+ ase. SpearDB's edge sites coordinate through the core to provide a global 
+ transactional consistency guarantee (parallel snapshot isolation or PSI)\,
+  while handling as much work locally as possible. SpearDB provides full ge
+ neral purpose transactional semantics with ACID guarantees. Experiments sh
+ ow that SpearDB is effective at reducing workload latencies for applicatio
+ ns whose access patterns are geographically localizable. Many applications
+  fit this criteria: bulletin boards (e.g.\, Craigslist\, Kijiji)\, local c
+ ommerce or services (e.g.\, Groupon\, Uber)\, booking and ticketing (e.g.\
+ , OpenTable\, StubHub)\, location-based services (mapping\, directions\, a
+ ugmented reality)\, local news outlets and client-centric services (e-mail
+ \, rss feeds\, gaming). SpearDB introduces protocols for executing applica
+ tion transactions in a geo-distributed setting under strong consistency gu
+ arantees. These protocols automatically hide the complexity as well as muc
+ h of the latency introduced by geo-distribution from applications.\n The e
+ ffectiveness of SpearDB depends on the placement of primary and secondary 
+ replicas at core and edge sites. The secondary replica placement problem i
+ s shown to be NP-hard. Several algorithms for automatic data partitioning 
+ and replication are presented to provide approximate solutions. These algo
+ rithms work in a geo-distributed core-edge setting under partial replicati
+ on. Their goal is to bring data closer to clients in order to lower reques
+ t latencies. Experimental comparisons of the resulting placements' latency
+  impact show good results. Surprisingly\, however\, the placements produce
+ d by the simplest of the proposed algorithms are comparable in quality to 
+ those produced by more complex approaches.  \n \n \n
+LOCATION:DC 2314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Man Who Knew Infinity: the Movie\, the Man\, and the Mathemat

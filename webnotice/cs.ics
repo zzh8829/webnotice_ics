@@ -3,123 +3,57 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
-SUMMARY:A Biologically Constrained Model of Semantic Memory Search -  (Art
- ificial Intelligence Lab PhD Seminar)
-DTSTART:20170620T150000Z
-DTEND:20170620T160000Z
-DTSTAMP:20170620T150000Z
-UID:20170620T150000Z_0693b03729c519a8ad7864cd0de30209
-DESCRIPTION:Speaker:  Ivana Kajić\, David R. Cheriton School of Computer 
- Science\nTitle:   "A Biologically Constrained Model of Semantic Memory Sea
- rch" \n\nAbstract:  The semantic fluency task has been used to understand 
- the effects of semantic relationships on human memory search. A variety of
-  computational models have been proposed that explain human behavioral dat
- a\, yet it remains unclear how millions of spiking neurons work in unison 
- to realize the cognitive processes involved in memory search. \n In this t
- alk\, I will present a biologically constrained neural network model that 
- performs the task in a fashion similar to humans. The model reproduces exp
- erimentally observed response timing effects\, as well as similarity trend
- s within and across semantic categories derived from responses. Three diff
- erent sources of the association data have been tested by embedding associ
- ations in neural connections\, with free association norms providing the b
- est match.  \n \n    \n
-LOCATION:DC 2310
+SUMMARY:Sample-efficient Learning of Mixtures -  (Artificial Intelligence 
+ Lab PhD Seminar)
+DTSTART:20170712T160000Z
+DTEND:20170712T170000Z
+DTSTAMP:20170712T160000Z
+UID:20170712T160000Z_d244d8442e7e69d8823bfdc0db351b4e
+DESCRIPTION:Speaker:  Hassan Ashtiani\, David R. Cheriton School of Comput
+ er Science\nTitle:   "Sample-efficient Learning of Mixtures" \n\nAbstract:
+   We consider PAC learning of probability distributions (a.k.a. density es
+ timation)\, where we are given an i.i.d. sample generated from an unknown 
+ target distribution\, and want to output a distribution that is close to t
+ he target in total variation distance. Let F be an arbitrary class of prob
+ ability distributions\, and let F^k denote the class of k-mixtures of elem
+ ents of F. Assuming the existence of a method for learning F in the realiz
+ able setting\, we provide a method for learning F^k in the agnostic settin
+ g. Furthermore\, roughly speaking\, we show that the sample complexity inc
+ reases at most by a factor of {k}/{\\epsilon^2}. \n We provide two applica
+ tions of our main result. First\, we show that the class of mixtures of k 
+ axis-aligned Gaussians in d-dimensional Euclidean space is PAC-learnable i
+ n the agnostic setting with sample complexity O({kd}/{\\epsilon ^ 4}) whic
+ h is tight in k and d. Second\, we show that the class of mixtures of k Ga
+ ussians is PAC-learnable in the agnostic setting with sample complexity O(
+ {kd^2}/{\\epsilon ^ 4})\, which improves the previous known bounds in its 
+ dependence on k and d. \n This is joint work with Abbas Mehrabian and Shai
+  Ben-David.  \n \n      \n
+LOCATION:DC 3317
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Efficient Discrete Optimization for Binary Energies with Applicati
- ons to Image Segmentation -  (Seminar)
-DTSTART:20170622T143000Z
-DTEND:20170622T153000Z
-DTSTAMP:20170622T143000Z
-UID:20170622T143000Z_bb77075253878d811432fb4c7bf6588f
-DESCRIPTION:Speaker:  Olga Veksler\, Computer Science Department\, Western
-  University\nTitle:   "Efficient Discrete Optimization for Binary Energies
-  with Applications to Image Segmentation" \n\nRemarks:  Please note: This 
- is a SACA seminar.  \n\nAbstract:  Discrete optimization is a successful a
- pproach for numerous computer vision applications. The state of the art in
-  several fundamental vision tasks  such as stereo correspondence\, image
-  segmentation\, image stitching\, etc.  has been moved forward significa
- ntly due to the development of effective energy minimization techniques. A
-  particularly useful class of energies comes from Markov Random Field (MRF
- ) or Conditional Random Field (CRF) models. Even with the recent revolutio
- n in the field due to deep convolutional neural networks (CNNs)\, CRF and 
- MRF models are still highly relevant. CNNs\, although excellent at learnin
- g image features\, do not model pixel dependencies and can produce results
-  with noisy isolated regions. MRF/CRF models\, on the other hand\,  are ex
- cellent at obtaining  spatially coherent results. Therefore many CNN  mode
- ls whose goal is pixel-precise image labeling use CRFs for refining the ac
- curacy.\n The major difficulty of energy minimization framework is its hig
- h computational cost\, as many energies arising in practice are NP-hard to
-  minimize. In this talk\, I will present several efficient methods for min
- imization of binary energies. Binary energies are an essential class to ha
- ndle\, as optimization of general energies can be reduced to the binary ca
- se. We have developed efficient algorithms for binary nonsubmodular energi
- es that are based on two different frameworks: Trust Region (TR) and Auxil
- iary Functions (AUX). The methods that we have developed significantly out
- perform the previously known state of the art on many applications. For ap
- plications such as image segmentation with convex shape prior and with cur
- vature regularization\, previously available methods fail completely\, whi
- le our methods achieve accurate results. \n      \n Bio : Ol
- ga Veksler received her BS degree summa cum laude with honours in mathemat
- ics and computer science from New York University in 1995\, and an MSc and
-  PhD degrees from the Computer Science Department\, Cornell University in 
- 1999. She was a postdoctoral research associate at NEC Research Institute.
-  She is currently a full professor in the Computer Science Department at W
- estern University. \n Her broad research interests are in computer vision.
-  In particular\, she is interested in energy minimization methods\, graph 
- algorithms\, stereo correspondence\, motion\, and segmentation. She was a 
- co-organizer of IEEE Computer Society Workshop on Perceptual Organization 
- in Computer Vision (POCV) in 2008. She is a member of the organizing commi
- ttee of ICERM (Brown University) Semester Program on Computer Vision\, 201
- 9. She has served multiple times as an area chair for CVPR and ICCV. She i
- s an associate editor for the  International Journal of Computer Vision  (
- JCV) and  Computer Vision and Image Understanding  (CVIU). She is a recipi
- ent of the Early Researcher Award (ERA) from the Canadian Ministry of Rese
- arch and Innovation\, the NSERC Discovery Accelerator Supplement (DAS) Awa
- rd\, and a "Test-of-Time Award" at the International Conference on Compute
- r Vision (ICCV 2011).  \n \n   \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Settling the Query Complexity of Non-adaptive Junta Testing -  (Al
- gorithms and Complexity Group Seminar)
-DTSTART:20170628T173000Z
-DTEND:20170628T183000Z
-DTSTAMP:20170628T173000Z
-UID:20170628T173000Z_67d26019fd7a8c7487165748409df990
-DESCRIPTION:Speaker:  Erik Waingarten\, Columbia University\nTitle:   "Set
- tling the Query Complexity of Non-adaptive Junta Testing" \n\nAbstract:  I
- n this talk\, I will show that any non-adaptive algorithm that tests wheth
- er an unknown Boolean function f:{0\,1}^n→{0\,1} is a k-junta or ϵ-far 
- from every k-junta must make Ω(k^(3/2)/ϵ) many queries. This result is
-  essentially optimal given Blais's non-adaptive junta tester\, which makes
-  O(k^(3/2))/ϵ queries and shows that adaptivity enables polynomial savi
- ngs in query complexity for junta testing. At a very high level\, the proo
- f proceeds by reducing the non-adaptive junta testing of a new class of ra
- ndom Boolean functions to a problem of distinguishing two binomial distrib
- utions with a specific kind of noisy query. \n This is joint work with Xi 
- Chen\, Rocco Servedio\, Li-Yang Tan\, and Jinyu Xie.  \n \n \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ETR\, or the Real Logic of Drawing Graphs -  (Algorithms and Compl
- exity Group Seminar)
-DTSTART:20170629T150000Z
-DTEND:20170629T160000Z
-DTSTAMP:20170629T150000Z
-UID:20170629T150000Z_87d78790c03f38c8f48d1541b090b93a
-DESCRIPTION:Speaker:  Marcus Schaefer\, DePaul University\, Chicago\nTitle
- :   "ETR\, or the Real Logic of Drawing Graphs" \n\nAbstract:  What is har
- der to compute: The crossing number\, or the rectilinear crossing number o
- f a graph? We know that the two numbers are different\, but maybe computin
- g them has the same complexity? It turns out that the two problems differ 
- significantly in complexity\, one is NP-complete\, the other is complete f
- or the existential theory of the reals (ETR)\, due to an old result of Bie
- nstocks. \n Recently\, the visibility graph recognition problem\, and th
- e art gallery problem have been shown ETR-complete. In this talk we survey
-  the existential theory of the reals\, and the role it has (and can) play 
- in graph drawing.  \n \n    \n
-LOCATION:DC 1304
+SUMMARY:Deep Active Learning for Dialogue Generation -  (Artificial Intell
+ igence Lab PhD Seminar)
+DTSTART:20170721T150000Z
+DTEND:20170721T160000Z
+DTSTAMP:20170721T150000Z
+UID:20170721T150000Z_4ff6237bd199710df7bcc619a25d5f00
+DESCRIPTION:Speaker:  Nabiha Asghar\, David R. Cheriton School of Computer
+  Science\nTitle:   "Deep Active Learning for Dialogue Generation" \n\nAbst
+ ract:  We propose an online\, end-to-end\, neural generative conversationa
+ l model for open-domain dialogue. It is trained using a unique combination
+  of offline two-phase supervised learning and online human-in-the-loop act
+ ive learning. While most existing research proposes offline supervision or
+  hand-crafted reward functions for online reinforcement\, we devise a nove
+ l interactive learning mechanism based on hamming-diverse beam search for 
+ response generation and one-character user-feedback at each step. Experime
+ nts show that our model inherently promotes the generation of semantically
+  relevant and interesting responses\, and can be used to train agents with
+  customized personas\, moods and conversational styles. \n Published as a
+  short paper in the Proceedings of the 6th Joint Conference on Lexical and
+  Computational Semantics (*SEM)\, 2017.\n This work was done in Collaborat
+ ion with Xin Jiang\, Hang Li from Huawei Noah's Ark in Hong Kong and Pasca
+ l Poupart.   \n \n  \n
+LOCATION:DC 2306C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restricted String Representations -  (Algorithms and Complexity Gr
@@ -127,11 +61,68 @@ SUMMARY:Restricted String Representations -  (Algorithms and Complexity Gr
 DTSTART:20170724T133000Z
 DTEND:20170724T143000Z
 DTSTAMP:20170724T133000Z
-UID:20170724T133000Z_76ec3bcaf1a73d9678c1f784f648e8d7
+UID:20170724T133000Z_b7040ee9133a30ff0a2340ea37702191
 DESCRIPTION:Speaker:  Martin Derka\, David. R. Cheriton School of Computer
-  Science\nTitle:   "Restricted String Representations" \n\nAbstract:  To c
- ome...  \n \n \n
+  Science\nTitle:   "Restricted String Representations" \n\nAbstract:  A st
+ ring representation of a graph assigns to every vertex a curve in the plan
+ e so that two curves intersect if and only if the represented vertices are
+  adjacent. This work investigates string representations of graphs with an
+  emphasis on the shapes of curves and the way they  intersect. We strength
+ en some previously known results and show that every planar graph has stri
+ ng representations where every curve consists of axis-parallel line segmen
+ ts with at most two bends (those are the so-called  $B_2$-VPG representati
+ ons) and simultaneously two curves intersect each other at most once (thos
+ e are the so-called 1-string representations). Thus\, planar graphs are $B
+ _2$-VPG $1$-string graphs.  \n We further show that with some restrictions
+  on the shapes of the curves\, string representations can be used to produ
+ ce approximation algorithms for several hard problems. The $B_2$-VPG repre
+ sentations of planar graphs satisfy these restrictions. We attempt to furt
+ her restrict the number of bends in VPG representations for subclasses of 
+ planar graphs\, and investigate $B_1$-VPG representations. \n We propose  
+ new classes of string representations for planar graphs that we call "orde
+ r-preserving.'' Order-preservation is an interesting property that relates
+  the string representation to the planar embedding of the graph\, and we b
+ elieve that it might prove useful when constructing string representations
+ . Finally\, we extend our investigation of string representations to strin
+ g representations that require some curves to intersect multiple times. We
+  show that there are outer-string graphs that require an exponential numbe
+ r of crossings in their outer-string representations. Our construction als
+ o proves that 1-planar graphs\, i.e.\, graphs that are no longer planar\, 
+ yet fairly close to planar graphs\, may have string representations\, but 
+ they are not always 1-string.  \n \n \n
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Security Sustainable -  (Cryptography\, Security\, and Priv
+ acy (CrySP) Group Seminar)
+DTSTART:20170726T183000Z
+DTEND:20170726T193000Z
+DTSTAMP:20170726T183000Z
+UID:20170726T183000Z_b7b7d7cdbbcf7e0cc2f24434eaf61d39
+DESCRIPTION:Speaker:  Ross Anderson\, University of Cambridge\nTitle:   "M
+ aking Security Sustainable" \n\nRemarks:  CrySP Speaker Series on Privacy 
+  \n\nAbstract:  Until recently we built two types of thing: things like ph
+ ones and laptops that we connect to the Internet\, upgrade once a month an
+ d throw away after three years\, and things like cars that we don't connec
+ t to the Internet\, don't upgrade and which last for thirty. \n Recruiting
+  durable goods to the Internet of Things will bring many interesting chall
+ enges not just for safety and privacy but around tools\, standards\, maint
+ enance\, liability and business models. If Google finds it too hard to pat
+ ch more than a few versions of Android\, how will a car maker patch a hund
+ red old models? What about the component suppliers\, who sell to many make
+ rs? And who will pay for it all? \n This coming storm will engage the econ
+ omics of security and dependability\, and will also provide many new urgen
+ t and challenging technical research problems. It will also change securit
+ y as a discipline\, as safety engineering and security engineering become 
+ intertwined.\n      \n Bio : Ross Anderson is Professor of S
+ ecurity Engineering at Cambridge University. He was one of the founders of
+  the discipline of security economics\, and leads the Cambridge Cybercrime
+  Centre. He was a pioneer of prepayment electricity metering\, peer-to-pee
+ r systems\, hardware tamper-resistance\, steganography and API security. H
+ e is a Fellow of the Royal Society and the Royal Academy of Engineering\, 
+ as well as being a winner of the Lovelace Medal  the UK's top award in c
+ omputing.  \n \n \n
+LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scalable and Holistic Qualitative Data Cleaning -  (Database Syste
@@ -196,7 +187,7 @@ SUMMARY:A Socio-mathematical and Structured-based Approach to Model Sentim
 DTSTART:20170801T170000Z
 DTEND:20170801T180000Z
 DTSTAMP:20170801T170000Z
-UID:20170801T170000Z_879f43810dde9f094ac7de8b72632c57
+UID:20170801T170000Z_1c7335f438b80f35e8bf72cdaba477c5
 DESCRIPTION:Speaker:  Areej Alhothali\, David R. Cheriton School of Comput
  er Science\nTitle:   "A Socio-mathematical and Structured-based Approach t
  o Model Sentiment Dynamics in Event-based Text" \n\nAbstract:  Natural lan
@@ -230,7 +221,7 @@ DESCRIPTION:Speaker:  Areej Alhothali\, David R. Cheriton School of Comput
  and a hand-crafted corpus. \n The results demonstrate that\, despite the c
  hallenging structure of the sentences\, there was a reasonable agreement b
  etween the estimated emotions and behaviours and their corresponding groun
- d truths.  \n \n \n
+ d truths.  \n \n  \n
 LOCATION:DC 2310
 END:VEVENT
 BEGIN:VEVENT
@@ -239,7 +230,7 @@ SUMMARY:Smith Normal Form over Local Rings and Related Problems -  (Symbol
 DTSTART:20170810T133000Z
 DTEND:20170810T143000Z
 DTSTAMP:20170810T133000Z
-UID:20170810T133000Z_7ac4e3de8082e8a2b97a528382c1e699
+UID:20170810T133000Z_69dc354f2a074782ff764221b7a47db2
 DESCRIPTION:Speaker:  Mustafa Elsheikh\, David R. Cheriton School of Compu
  ter Science\nTitle:   "Smith Normal Form over Local Rings and Related Prob
  lems" \n\nAbstract:  Smith normal form is a diagonalization of matrices wi
@@ -270,7 +261,57 @@ DESCRIPTION:Speaker:  Mustafa Elsheikh\, David R. Cheriton School of Compu
  cus on the properties of the Smith normal form decomposition. We relate th
  e invariant factors to eigenvalues. Our ultimate goal is to extend the app
  lications of numerical algorithms for computing eigenvalues to computing t
- he invariant factors of symbolic matrices.  \n \n  
+ he invariant factors of symbolic matrices.  \n \n   \n
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geographically Distributed Database Management at the Cloud's Edge
+  -  (Database Systems Group PhD Defence)
+DTSTART:20170814T170000Z
+DTEND:20170814T180000Z
+DTSTAMP:20170814T170000Z
+UID:20170814T170000Z_43952cbdb58329ffeaa605ffe169d1a7
+DESCRIPTION:Speaker:  Cătălin-Alexandru Avram\, David R. Cheriton School
+  of Computer Science\nTitle:   "Geographically Distributed Database Manage
+ ment at the Cloud's Edge" \n\nAbstract:  Request latency resulting from th
+ e geographic separation between clients and remote application servers is 
+ a challenge for cloud-hosted web and mobile applications. Numerous studies
+  have shown the importance of low latency to the end user experience. Smal
+ l response time increases on the order of a few hundred milliseconds direc
+ tly translate to reduced user satisfaction and loss of revenue that persis
+ t even after a low latency environment is restored. One way to address thi
+ s challenge in geo-distributed settings is to push all or part of the appl
+ ication\, along with the data it requires\, to the edge of the cloud  cl
+ oser to application clients. My thesis explores the idea of taking advanta
+ ge of clients' proximity to the edge of the network in order to reduce req
+ uest latencies.\n SpearDB is a prototype replicated distributed database s
+ ystem that operates in a star network topology\, with a core site and a la
+ rge number of edge sites that are close to clients. Clients access the nea
+ rest edge\, which holds replicas of locally relevant portions of the datab
+ ase. SpearDB's edge sites coordinate through the core to provide a global 
+ transactional consistency guarantee (parallel snapshot isolation or PSI)\,
+  while handling as much work locally as possible. SpearDB provides full ge
+ neral purpose transactional semantics with ACID guarantees. Experiments sh
+ ow that SpearDB is effective at reducing workload latencies for applicatio
+ ns whose access patterns are geographically localizable. Many applications
+  fit this criteria: bulletin boards (e.g.\, Craigslist\, Kijiji)\, local c
+ ommerce or services (e.g.\, Groupon\, Uber)\, booking and ticketing (e.g.\
+ , OpenTable\, StubHub)\, location-based services (mapping\, directions\, a
+ ugmented reality)\, local news outlets and client-centric services (e-mail
+ \, rss feeds\, gaming). SpearDB introduces protocols for executing applica
+ tion transactions in a geo-distributed setting under strong consistency gu
+ arantees. These protocols automatically hide the complexity as well as muc
+ h of the latency introduced by geo-distribution from applications.\n The e
+ ffectiveness of SpearDB depends on the placement of primary and secondary 
+ replicas at core and edge sites. The secondary replica placement problem i
+ s shown to be NP-hard. Several algorithms for automatic data partitioning 
+ and replication are presented to provide approximate solutions. These algo
+ rithms work in a geo-distributed core-edge setting under partial replicati
+ on. Their goal is to bring data closer to clients in order to lower reques
+ t latencies. Experimental comparisons of the resulting placements' latency
+  impact show good results. Surprisingly\, however\, the placements produce
+ d by the simplest of the proposed algorithms are comparable in quality to 
+ those produced by more complex approaches.  \n \n  
+LOCATION:DC 2314
 END:VEVENT
 END:VCALENDAR

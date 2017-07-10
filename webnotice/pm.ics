@@ -3,64 +3,76 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Applications of the Riemann-Roch Theorem -  (Seminar)
-DTSTART:20170619T140000Z
-DTEND:20170619T150000Z
-DTSTAMP:20170619T140000Z
-UID:20170619T140000Z_d53a7778fbf938b98c8a1ee66eb7dc80
-DESCRIPTION:Speaker:  Letian Chen\, University of Waterloo\nTitle:   "Appl
- ications of the Riemann-Roch Theorem" \n\nAbstract:  We will continue from
-  last time and state the Riemann-Roch\ntheorem after recalling some key de
- finitions and results. We will then use\nthe Riemann-Roch theorem to give 
- a characterization of function fields of\ngenus 0 and show the finiteness 
- of the class group.  \n \n \n
+SUMMARY:Roth's Theorem -  (Seminar)
+DTSTART:20170710T140000Z
+DTEND:20170710T150000Z
+DTSTAMP:20170710T140000Z
+UID:20170710T140000Z_8b27cb9d078e6c07d955a5ea28172425
+DESCRIPTION:Speaker:  Shouzhen Gu\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "Roth's Theorem" \n\nAbstract:  Roth's Theorem
+  states that any subset of the integers with\npositive density will contai
+ n three numbers in an arithmetic progression.\nWe will give a proof of Rot
+ h's Theorem using Fourier analysis. Then\, we\nwill discuss an analogous r
+ esult in the context of polynomial rings over\nfinite fields that can be p
+ roved using the same technique.  \n \n  \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The liftable mapping class group -  (PhD Defence)
-DTSTART:20170619T183000Z
-DTEND:20170619T193000Z
-DTSTAMP:20170619T183000Z
-UID:20170619T183000Z_4f81678cd824485e31048cc487a2910e
-DESCRIPTION:Speaker:  Tyrone Ghaswala\, Department of Pure Mathematics\, U
- niversity of Waterloo\nTitle:   "The liftable mapping class group" \n\nAbs
- tract:  This thesis studies a subgroup of the mapping class group related 
- to a covering space\, called the liftable mapping class group.  This thesi
- s covers the following results.  A classification of cyclic branched cover
- s of the sphere with the property that the liftable mapping class group co
- incides with the entire mapping class group.  Group presentations for the 
- liftable mapping class group corresponding to a family of cyclic branched 
- covers of the sphere called the balanced superelliptic covers\, and a fami
- ly of cyclic branched covers of the torus.  A characterisation of the lift
- able mapping class group for surfaces with boundary.  \n \n   \n
-LOCATION:MC 2009
+SUMMARY:Finite Element Exterior Calculus\, Part 2 -  (Seminar)
+DTSTART:20170711T160000Z
+DTEND:20170711T170000Z
+DTSTAMP:20170711T160000Z
+UID:20170711T160000Z_822289e5fad300cdacb69d7c8f5291e3
+DESCRIPTION:Speaker:  Adam Morgan\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Finite Element Exterior Calculus\, Part 2"
+  \n\nAbstract:  We will continue the theoretical developments from part 1\
+ , defining precisely how we intend to "discretely replicate" de Rham compl
+ exes. Following this\, we will set up our notation for triangulations and 
+ define Lagrange elements.  \n \n   \n
+LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Effective bi-interpretability and Graphs II -  (Seminar)
-DTSTART:20170620T193000Z
-DTEND:20170620T203000Z
-DTSTAMP:20170620T193000Z
-UID:20170620T193000Z_e24e41f3162f5cfd3ae08e1170f8f354
-DESCRIPTION:Speaker:  Jonny Stephenson\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "Effective bi-interpretability and Graphs
-  II" \n\nAbstract:  Last time we saw that every structure is effectively b
- i-interpretable with a structure over a simple language consisting of a un
- ary predicate U and a symmetric binary predicate E. This week\, we will sh
- ow that any structure over this language is effectively bi-interpretable w
- ith a graph. This will complete the proof that every structure is effectiv
- ely bi-interpretable with a graph.  \n \n  \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selberg's Sieve II -  (Seminar)
-DTSTART:20170621T210000Z
-DTEND:20170621T220000Z
-DTSTAMP:20170621T210000Z
-UID:20170621T210000Z_ac6007954473736ea1e5e945b8f731f2
-DESCRIPTION:Speaker:  Ertan Elma\, Department of Pure Mathematics\, Univer
- sity of Waterloo\nTitle:   "Selberg's Sieve II" \n\nAbstract:  We will fin
- ish the proof of the main theorem of Selberg's  \nsieve and prove the Brun
- -Titchmarsh theorem as an application.  \n \n               
-LOCATION:MC 5403
+SUMMARY:2-Semilattices: Residual Properties and Applications to Constraint
+  Satisfaction Problems -  (PhD Defence)
+DTSTART:20170713T173000Z
+DTEND:20170713T183000Z
+DTSTAMP:20170713T173000Z
+UID:20170713T173000Z_39bbd3fc73d1a369e499245e48f5c7d0
+DESCRIPTION:Speaker:  Ian Payne\, Department of Pure Mathematics\, Univers
+ ity of Waterloo\nTitle:   "2-Semilattices: Residual Properties and Applica
+ tions to Constraint Satisfaction Problems" \n\nAbstract:  Semilattices are
+  algebras known to have an important connection to partially ordered sets.
+  In particular\, if a partially ordered set $(A\,\\leq)$ has greatest lowe
+ r bounds\, a semilattice $(A\;\\wedge)$ can be associated to the order whe
+ re $a\\wedge b$ is the greatest lower bound of $a$ and $b$. In this thesis
+ \, we study a class of algebras known as $2$-semilattices\, which is a gen
+ eralization of the class of semilattices. Similar to the correspondence be
+ tween partial orders and semilattices\, there is a correspondence between 
+ certain digraphs and $2$-semilattices. That is\, to every $2$-semilattice\
+ , there is an associated digraph which holds information about the $2$-sem
+ ilattice. Making frequent use of this correspondence\, we explore the clas
+ s of $2$-semilattices from three perspectives: (i) Tame Congruence Theory\
+ , (ii) the "residual character" of the class of $2$-semilattices\, and (ii
+ i)\, the constraint satisfaction problem.\n Tame Congruence Theory\, devel
+ oped by Hobby and McKenzie\, is a structure theory on finite algebras driv
+ en by understanding prime congruence quotients of finite algebras. The the
+ ory assigns to each such quotient a type from {\\bf 1} to {\\bf 5}. We sho
+ w that types {\\bf 3}\, {\\bf 4}\, and {\\bf 5} can occur in the class of 
+ $2$-semilattices\, but type {\\bf 4} can not occur in a finite simple $2$-
+ semilattice.\n Classes of algebras contain "irreducible" members which hol
+ d information about the class. Specifically\, the size of the irreducible 
+ members has been of interest to many authors. We show for certain subclass
+ es of the class of $2$-semilattices that there is no cardinal bound on the
+  size of the irreducible members in that subclass.\n The "fixed template c
+ onstraint satisfaction problem" can be identified with the decision proble
+ m hom$(\\mathbb{A})$ where $\\mathbb{A}$ is a fixed finite relational stru
+ cture. The input to hom$(\\mathbb{A})$ is a finite structure $\\mathbb{B}$
+  similar to $\\mathbb{A}$. The question asked is "does there exist a homom
+ orphism from $\\mathbb{B}$ to $\\mathbb{A}$?" Feder and Vardi conjectured 
+ that for fixed $\\mathbb{A}$\, this decision problem is either {\\bf NP}-c
+ omplete or solvable in polynomial time. Bulatov confirmed this conjecture 
+ in the case that $\\mathbb{A}$ is invariant under a $2$-semilattice operat
+ ion. We extend this result.  \n \n                 
+LOCATION:M3 3103
 END:VEVENT
 END:VCALENDAR
