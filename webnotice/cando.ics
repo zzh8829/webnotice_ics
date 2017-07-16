@@ -3,32 +3,12 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Entropy Compression and the Lovasz Local Lemma -  (Tutte Colloquiu
- m Colloquium)
-DTSTART:20170714T193000Z
-DTEND:20170714T203000Z
-DTSTAMP:20170714T193000Z
-UID:20170714T193000Z_3ce39e85040ed311f322ca76d382762d
-DESCRIPTION:Speaker:  Mike Molloy\, University of Toronto\nTitle:   "Entro
- py Compression and the Lovasz Local Lemma" \n\nAbstract:  The Lovasz Local
-  Lemma\, a cornerstone of the probabilistic method\, is a powerful and wid
- ely used proof technique. In 2009\, Moser introduced a technique called en
- tropy compression to provide efficient algorithms which construct objects 
- that the Local Lemma guarantees to exist. Recently\, entropy compression h
- as been used to develop more powerful versions of the Local Lemma which pr
- ovide existence proofs in settings where the original Local Lemma does not
-  apply. I will illustrate this technique with applications to graph colour
- ing: (a) colouring triangle-free graphs\, and (b) frugal colouring\, where
-  no colour can appear too many times in any neighbourhood.  \n \n    \n
-LOCATION:MC5501
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coloring graphs with forbidden induced subgraphs -  (Tutte Colloqu
  ium Colloquium)
 DTSTART:20170721T193000Z
 DTEND:20170721T203000Z
 DTSTAMP:20170721T193000Z
-UID:20170721T193000Z_3c2335658203d36333594245015c700e
+UID:20170721T193000Z_a5af2d2dc0f5b8c98458107a0dbb01fd
 DESCRIPTION:Speaker:  Dr. Maria Chudnovsky\, Princeton University\nTitle: 
    "Coloring graphs with forbidden induced subgraphs" \n\nAbstract:  The pr
  oblem of testing if a graph can be colored with a given number k of colors
@@ -40,7 +20,7 @@ DESCRIPTION:Speaker:  Dr. Maria Chudnovsky\, Princeton University\nTitle:
  gorithm to 3-color (or in general k-color) an H-free graph?\n 2) For which
   graphs H are there nitely many 4-critical H-free graphs?\n This talk wil
  l survey recent progress on these questions\, an in particular give a comp
- lete answer to the second one.  \n \n           \n
+ lete answer to the second one.  \n \n              \n
 LOCATION:QNC 0101
 END:VEVENT
 BEGIN:VEVENT

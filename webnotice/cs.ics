@@ -3,32 +3,27 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
-SUMMARY:Sample-efficient Learning of Mixtures -  (Artificial Intelligence 
- Lab PhD Seminar)
-DTSTART:20170712T160000Z
-DTEND:20170712T170000Z
-DTSTAMP:20170712T160000Z
-UID:20170712T160000Z_d244d8442e7e69d8823bfdc0db351b4e
-DESCRIPTION:Speaker:  Hassan Ashtiani\, David R. Cheriton School of Comput
- er Science\nTitle:   "Sample-efficient Learning of Mixtures" \n\nAbstract:
-   We consider PAC learning of probability distributions (a.k.a. density es
- timation)\, where we are given an i.i.d. sample generated from an unknown 
- target distribution\, and want to output a distribution that is close to t
- he target in total variation distance. Let F be an arbitrary class of prob
- ability distributions\, and let F^k denote the class of k-mixtures of elem
- ents of F. Assuming the existence of a method for learning F in the realiz
- able setting\, we provide a method for learning F^k in the agnostic settin
- g. Furthermore\, roughly speaking\, we show that the sample complexity inc
- reases at most by a factor of {k}/{\\epsilon^2}. \n We provide two applica
- tions of our main result. First\, we show that the class of mixtures of k 
- axis-aligned Gaussians in d-dimensional Euclidean space is PAC-learnable i
- n the agnostic setting with sample complexity O({kd}/{\\epsilon ^ 4}) whic
- h is tight in k and d. Second\, we show that the class of mixtures of k Ga
- ussians is PAC-learnable in the agnostic setting with sample complexity O(
- {kd^2}/{\\epsilon ^ 4})\, which improves the previous known bounds in its 
- dependence on k and d. \n This is joint work with Abbas Mehrabian and Shai
-  Ben-David.  \n \n      \n
-LOCATION:DC 3317
+SUMMARY:Nonphotorealistic Rendering of Stereoscopic 3D Media -  (Computer 
+ Graphics Research Group PhD Seminar)
+DTSTART:20170719T200000Z
+DTEND:20170719T210000Z
+DTSTAMP:20170719T200000Z
+UID:20170719T200000Z_de51fcfce5ad7f16791acb4656bf9d44
+DESCRIPTION:Speaker:  Lesley Istead\, David R. Cheriton School of Computer
+  Science\nTitle:   "Nonphotorealistic Rendering of Stereoscopic 3D Media" 
+ \n\nAbstract:  We present a method for stylizing stereoscopic 3D images th
+ at guarantees consistency between the left and right views. Our method dec
+ omposes the left and right views of an input image into discretized dispar
+ ity layers and merges the corresponding layers from the left and right vie
+ ws into a single layer where stylization takes place. We then construct ne
+ w stylized left and right views by compositing portions of the stylized la
+ yers. Because the left and right views come from the same source layers\, 
+ our method eliminates common artifacts that cause viewer discomfort. We al
+ so present a stereoscopic 3D painterly rendering algorithm tailored to our
+  layer-based approach. This method uses disparity information to assist in
+  stroke creation so that strokes follow surface geometry without ignoring 
+ painted surface patterns.  \n \n     \n
+LOCATION:DC 2314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Active Learning for Dialogue Generation -  (Artificial Intell
@@ -36,7 +31,7 @@ SUMMARY:Deep Active Learning for Dialogue Generation -  (Artificial Intell
 DTSTART:20170721T150000Z
 DTEND:20170721T160000Z
 DTSTAMP:20170721T150000Z
-UID:20170721T150000Z_4ff6237bd199710df7bcc619a25d5f00
+UID:20170721T150000Z_2c85119eb42ba97eae064f06c71a2255
 DESCRIPTION:Speaker:  Nabiha Asghar\, David R. Cheriton School of Computer
   Science\nTitle:   "Deep Active Learning for Dialogue Generation" \n\nAbst
  ract:  We propose an online\, end-to-end\, neural generative conversationa
@@ -52,7 +47,7 @@ DESCRIPTION:Speaker:  Nabiha Asghar\, David R. Cheriton School of Computer
   short paper in the Proceedings of the 6th Joint Conference on Lexical and
   Computational Semantics (*SEM)\, 2017.\n This work was done in Collaborat
  ion with Xin Jiang\, Hang Li from Huawei Noah's Ark in Hong Kong and Pasca
- l Poupart.   \n \n  \n
+ l Poupart.   \n \n   \n
 LOCATION:DC 2306C
 END:VEVENT
 BEGIN:VEVENT
@@ -91,6 +86,113 @@ DESCRIPTION:Speaker:  Martin Derka\, David. R. Cheriton School of Computer
  yet fairly close to planar graphs\, may have string representations\, but 
  they are not always 1-string.  \n \n \n
 LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incom
+ pressible Free Surface Flow -  (Computer Graphics Research Group PhD Semin
+ ar)
+DTSTART:20170725T170000Z
+DTEND:20170725T180000Z
+DTSTAMP:20170725T170000Z
+UID:20170725T170000Z_f427efcc4e6f104647eacf8dacf4935d
+DESCRIPTION:Speaker:  Ryan Goldade\, David R. Cheriton School of Computer 
+ Science\nTitle:   "Constraint Bubbles: Adding Efficient Zero-Density Bubbl
+ es to Incompressible Free Surface Flow" \n\nAbstract:  Liquid simulations 
+ for computer animation often avoid simulating the air phase to reduce comp
+ utational costs and ensure good conditioning of the linear systems require
+ d to enforce incompressibility. However\, this free surface assumption lea
+ ds to an inability to realistically treat bubbles: submerged gaps in the l
+ iquid are interpreted as empty voids that immediately collapse. To address
+  this shortcoming\, I will present an efficient\, practical\, and conceptu
+ ally simple approach to augment free surface flows with negligible density
+  bubbles. Our method adds a new constraint to each disconnected air region
+  that guarantees zero net flux across its entire surface\, and requires ne
+ ither simulating both phases nor reformulating into stream function variab
+ les. Implementation of the method requires only minor modifications to the
+  pressure solve of a standard grid-based fluid solver\, and yields linear 
+ systems that remain sparse and symmetric positive definite. \n In our eval
+ uations\, solving the modified pressure projection system took no more tha
+ n 10% longer than the corresponding free surface solve. We demonstrate the
+  methods effectiveness and flexibility by incorporating it into commerci
+ al fluid animation software and using it to generate a variety of dynamic 
+ bubble scenarios showcasing glugging effects\, viscous and inviscid bubble
+ s\, interactions with irregularly-shaped and moving solid boundaries\, and
+  surface tension effects.  \n \n \n
+LOCATION:DC 2310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Naive Bayes Data Complexity and Characterization of Optima of the 
+  Unsupervised Expected Likelihood -  (Artificial Intelligence Lab Master's
+  Thesis Presentation)
+DTSTART:20170726T140000Z
+DTEND:20170726T150000Z
+DTSTAMP:20170726T140000Z
+UID:20170726T140000Z_bafff3de8ce02552610c8a8926ba1074
+DESCRIPTION:Speaker:  Ali Wytsma\, David R. Cheriton School of Computer Sc
+ ience\nTitle:   "Naive Bayes Data Complexity and Characterization of Optim
+ a of the  Unsupervised Expected Likelihood" \n\nAbstract:  The naive Bayes
+  model is a simple model that has been used for many decades\, often as a 
+ baseline\, for both supervised and unsupervised learning. With a latent cl
+ ass variable it is one of the simplest latent variable models\, and is oft
+ en used for clustering. The estimation of its parameters by maximum likeli
+ hood (e.g.\, gradient ascent\, expectation maximization) is subject to loc
+ al optima since the objective is non-concave. However\, the conditions und
+ er which global optimality can be guaranteed are currently unknown.  \n I 
+ provide a first characterization of the optima of the naive Bayes model. F
+ or problems with up to three features\, I describe comprehensive condition
+ s that ensure global optimality. For more than three features\, I show tha
+ t all stationary points exhibit marginal distributions with respect to the
+  features that match those of the training data. In a second line of work\
+ , I consider the naive Bayes model with an observed class variable\, which
+  is often used for classification. Well-known results provide some upper b
+ ounds on the sample complexity for agnostic PAC learning\, however exact b
+ ounds are unknown. These bounds would show exactly how much data is needed
+  for model training.  I detail the framework for determining an exact tigh
+ t bound on sample complexity\, and prove some of the sub-theorems that thi
+ s framework rests on. I also provide some insight into the nature of the d
+ istributions that are hardest to model within specified accuracy parameter
+ s.  \n \n \n
+LOCATION:DC 2306C (AI lab)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animating Coupling Between Inviscid Free-Surface Liquids and Elast
+ ic Deformable Bodies -  (Computer Graphics Research Group Master's Thesis 
+ Presentation)
+DTSTART:20170726T170000Z
+DTEND:20170726T180000Z
+DTSTAMP:20170726T170000Z
+UID:20170726T170000Z_b5f55a1a82bd8fb13d3d991a92319f3d
+DESCRIPTION:Speaker:  Omar Zarifi\, David R. Cheriton School of Computer S
+ cience\nTitle:   "Animating Coupling Between Inviscid Free-Surface Liquids
+  and Elastic Deformable Bodies" \n\nAbstract:  Driven by demand for high-f
+ idelity computer-generated imagery\, physics-based animation has become an
+  exciting frontier of research in computer science. Simulations of fluids 
+ and their interactions with other objects in the environment have particul
+ arly enjoyed much attention and investigation. Consequently\, effective te
+ chniques have been developed to efficiently simulate two-way coupling betw
+ een fluids and rigid bodies\, allowing for convincing animation of\, for i
+ nstance\, ships on the ocean. On the other hand\, accurately capturing int
+ eractions between fluids and deformable solids has proven to be much more 
+ elusive. In particular\, satisfaction of boundary conditions poses a signi
+ ficant difficulty\, as the straightforward voxelized treatment suffers fro
+ m visible grid artefacts\, whereas use of a conforming mesh greatly increa
+ ses the computational overhead of a simulation.\n We investigate the probl
+ em of animating two-way coupling effects between free-surface liquids and 
+ linearly elastic solids. Aside from presenting simulation techniques for s
+ uch liquids and solids separately\, we introduce a new approach to simulat
+ ing their interactions that exhibits several notable advantages over previ
+ ous techniques. By fully incorporating the dynamics of the solid into pres
+ sure projection\, we simultaneously handle fluid incompressibility and sol
+ id elasticity and damping. Thanks to this strong coupling\, our method doe
+ s not suffer from instability\, even in very taxing scenarios. Furthermore
+ \, use of a cut-cell discretization methodology allows us to accurately ap
+ ply proper free-slip boundary conditions at the exact solid-fluid interfac
+ e. Consequently\, our method is capable of correctly simulating inviscid t
+ angential flow\, devoid of grid artefacts or artificial sticking. Lastly\,
+  we present an efficient algebraic transformation to convert the indefinit
+ e coupled pressure projection system into positive-definite form.  \n \n \
+ n
+LOCATION:DC 2314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Making Security Sustainable -  (Cryptography\, Security\, and Priv

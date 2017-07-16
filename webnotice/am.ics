@@ -3,36 +3,12 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:A Simple Example of Dimension Reduction -  (PhD Seminar)
-DTSTART:20170713T143000Z
-DTEND:20170713T153000Z
-DTSTAMP:20170713T143000Z
-UID:20170713T143000Z_9a6c287ab5313cb8f3deab020d7c790b
-DESCRIPTION:Speaker:  Justin Shaw\, Department of Applied Mathematics\, Un
- iversity of Waterloo\nTitle:   "A Simple Example of Dimension Reduction" \
- n\nAbstract:  We are overwhelmed with information\, but raw data by itself
-  is generally not helpful.  We need a way to make sense of information by 
- determining which part of it is the most important for a given application
- .  There are numerous mathematical methods which can be used to extract fe
- atures from a dataset.  In this talk we will use wavelet and empirical ort
- hogonal function (EOF) methods to examine in situ measurements from Honeoy
- e Lake in upstate New York.   These two methods identify features on diffe
- rent timescales.  We will then show how EOFs can be used to represent the 
- original data by a simple reduced order model.  This model\, while having 
- half the dimension of the original data\, retains enough information to ac
- curately construct the time series for the Wedderburn number and the Schmi
- dt Stability Index with a small RMS error.   The more general problem\, al
- ong with possible directions for future work\, will then be discussed.  \n
-  \n   \n
-LOCATION:MC 6460
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A modelling investigation into the impacts of the convective param
  eterization on the tropical circulation -  (Master's Thesis Presentation)
 DTSTART:20170719T140000Z
 DTEND:20170719T150000Z
 DTSTAMP:20170719T140000Z
-UID:20170719T140000Z_d7de12d2a656dda5160bc4c394a798c0
+UID:20170719T140000Z_5b8dfbeed2086156bfc3f4a3fa1d0c85
 DESCRIPTION:Speaker:  Shawn Corvec\, Department of Applied Mathematics\, U
  niversity of Waterloo\nTitle:   "A modelling investigation into the impact
  s of the convective parameterization on the tropical circulation" \n\nAbst
@@ -68,7 +44,7 @@ DESCRIPTION:Speaker:  Shawn Corvec\, Department of Applied Mathematics\, U
  flux due to a compensating increase in evaporation. The large tropical mea
  n evaporation response seen with this scheme allows for stronger tropical 
  mean convective updrafts\, especially of the shallow variety\, to balance 
- where the evaporational cooling response is maximized.  \n \n \n
+ where the evaporational cooling response is maximized.  \n \n     \n
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT
@@ -76,7 +52,7 @@ SUMMARY:On Perturbative Methods in Spectral Geometry -  (PhD Defence)
 DTSTART:20170721T140000Z
 DTEND:20170721T150000Z
 DTSTAMP:20170721T140000Z
-UID:20170721T140000Z_b82f34ac044f9000b5059218b454a899
+UID:20170721T140000Z_fc1179bae68b9b7ac79539ff63b61e5a
 DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\, 
  University of Waterloo\nTitle:   "On Perturbative Methods in Spectral Geom
  etry" \n\nAbstract:  The goal of spectral geometry is to establish how muc
@@ -108,7 +84,7 @@ DESCRIPTION:Speaker:  Mikhai Panine\, Department of Applied Mathematics\,
   proof of the rarity of counterexamples to the program of identifying shap
  es by their spectra.\n The thesis also includes reviews of the fundamental
  s of the spectral theory of Laplace-type operators\, of major results in s
- pectral geometry and of perturbation theory.  \n \n        \n
+ pectral geometry and of perturbation theory.  \n \n            \n
 LOCATION:MC 6460
 END:VEVENT
 BEGIN:VEVENT

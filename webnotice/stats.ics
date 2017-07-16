@@ -2,40 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
-BEGIN:VEVENT
-SUMMARY:Causal Inference by Compression -  (Seminar)
-DTSTART:20170711T143000Z
-DTEND:20170711T153000Z
-DTSTAMP:20170711T143000Z
-UID:20170711T143000Z_258d85435b42dc8dc8231cf0632ab7c0
-DESCRIPTION:Speaker:  Jilles Vreeken\, Max Planck Institute for Informatic
- s and Saarland University\nTitle:   "Causal Inference by Compression" \n\n
- Remarks:  Refreshments will be provided  \n\nAbstract:  Determining cause 
- from effect is perhaps the most fundamental problem in science. We are int
- erested in inferring the most likely direction between two random variable
- s X and Y given only observational data over their joint distribution. Tha
- t is\, we want to identify whether X causes Y \, whether Y causes X\, or w
- hether they are merely correlated. Traditional methods\, that rely on cond
- itional independence tests\, cannot decide between the Markov equivalent c
- lasses of X -> Y and Y -> X. We hence take a different approach\, based on
-  information theory.\n In particular\, we base our approach on the algorit
- hmic Markov condition\, that states that if X causes Y \, the factorizatio
- n of the joint distribution P(X\, Y) in the causal direction has a simpler
-  description---in terms of Kolmogorov complexity---than that in the anti-c
- ausal direction. That is\, if X -> Y \, K(P(X)) + K(P(Y | X)) < K(P(Y)) + 
- K(P(X | Y)). Loosely speaking\, we identify the most likely causal directi
- on as the one in which we can best compress the data. As any physical proc
- ess can be modelled by a Turing machine\, this ideal score can detect any 
- causal dependence that can be explained by a physical process. However\, K
- olmogorov complexity is not computable\, so we need practical instantiatio
- ns of this ideal. We do so using the Minimum Description Length (MDL) prin
- ciple\, which provides a statistically well-founded approximation of Kolmo
- gorov complexity.\n In this talk I will discuss three techniques\, one for
-  pairs of univariate numeric variabes\, one for univariate discrete variab
- les\, and one for multivariate mixed type variables\, and show that these 
- perform very well in practice---and\, hopefully convince you that this inf
- ormation theoretic approach to causal inference is not just interesting\, 
- but also promising.  \n \n                     
-LOCATION:M3 3127
-END:VEVENT
 END:VCALENDAR

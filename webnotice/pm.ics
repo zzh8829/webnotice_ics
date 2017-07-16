@@ -3,76 +3,128 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Roth's Theorem -  (Seminar)
-DTSTART:20170710T140000Z
-DTEND:20170710T150000Z
-DTSTAMP:20170710T140000Z
-UID:20170710T140000Z_8b27cb9d078e6c07d955a5ea28172425
-DESCRIPTION:Speaker:  Shouzhen Gu\, Department of Pure Mathematics\, Unive
- rsity of Waterloo\nTitle:   "Roth's Theorem" \n\nAbstract:  Roth's Theorem
-  states that any subset of the integers with\npositive density will contai
- n three numbers in an arithmetic progression.\nWe will give a proof of Rot
- h's Theorem using Fourier analysis. Then\, we\nwill discuss an analogous r
- esult in the context of polynomial rings over\nfinite fields that can be p
- roved using the same technique.  \n \n  \n
+SUMMARY:An analog of Sarkozy's theorem on squares in difference sets -  (S
+ eminar)
+DTSTART:20170717T140000Z
+DTEND:20170717T150000Z
+DTSTAMP:20170717T140000Z
+UID:20170717T140000Z_a8cb56b57ba5f418c45a7b48495331a7
+DESCRIPTION:Speaker:  Stephen Wen\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "An analog of Sarkozy's theorem on squares in 
+ difference sets" \n\nAbstract:  We will follow a paper by Yu-Ru Liu and Th
+ ai Hoang\nLe in which we examine the difference sets of subsets of\n$\\mat
+ hbb{F}_q[t]$. We will find a sufficient condition on the density of a\nsub
+ set $A$ in the set of polynomials of degree strictly less than $N$\,\ndeno
+ ted $\\mathbb{G}_N$\, so that $A-A$ must contain a perfect square. We\nwil
+ l do this by bounding the density of sets $A$ such that $A-A$ has no\nperf
+ ect square. We will use the polynomial Hardy-Littlewood circle method\nalo
+ ng with density increment technology developed by Pintz\, Steiger\, and\nS
+ zemeredi.  \n \n \n
 LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finite Element Exterior Calculus\, Part 2 -  (Seminar)
-DTSTART:20170711T160000Z
-DTEND:20170711T170000Z
-DTSTAMP:20170711T160000Z
-UID:20170711T160000Z_822289e5fad300cdacb69d7c8f5291e3
-DESCRIPTION:Speaker:  Adam Morgan\, Department of Applied Mathematics\, Un
- iversity of Waterloo\nTitle:   "Finite Element Exterior Calculus\, Part 2"
-  \n\nAbstract:  We will continue the theoretical developments from part 1\
- , defining precisely how we intend to "discretely replicate" de Rham compl
- exes. Following this\, we will set up our notation for triangulations and 
- define Lagrange elements.  \n \n   \n
+SUMMARY:Techniques in operator algebras: Classification\, dilations and   
+ non-commutative boundaries -  (PhD Defence)
+DTSTART:20170717T173000Z
+DTEND:20170717T183000Z
+DTSTAMP:20170717T173000Z
+UID:20170717T173000Z_31b7d38170ca0ecf1ba1a7727d109b1e
+DESCRIPTION:Speaker:  Adam Dor On\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "Techniques in operator algebras: Classificati
+ on\, dilations and   non-commutative boundaries" \n\nAbstract:  In this ta
+ lk we will see various techniques in operator  \nalgebras and operator sys
+ tems. We begin with classification of  \nnon-self-adjoint and self-adjoint
+  operator algebras constructed from  \ncertain Markov chains. We then tran
+ sition to the study of  \nnon-commutative boundaries in the sense of Arves
+ on\, and use them to  \nget interesting dilation results for families of o
+ perators associated  \nto directed graphs. Finally\, we discuss connection
+ s between operator  \nsystems\, matrix convex sets and dilation theory\, a
+ nd use them to  \nobtain scaled inclusion results for matrix convex sets. 
+  \n \n \n
+LOCATION:MC 2009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computable Categoricity -  (Seminar)
+DTSTART:20170718T193000Z
+DTEND:20170718T203000Z
+DTSTAMP:20170718T193000Z
+UID:20170718T193000Z_e07969700f620dc728498e822aa9a7cd
+DESCRIPTION:Speaker:  Matthew Harrison-Trainor\, Department of Pure Mathem
+ atics\, University of Waterloo\nTitle:   "Computable Categoricity" \n\nAbs
+ tract:  We will continue our discussion of computable categoricity by char
+ acterizing it for structures with some amount of decidability\, and then s
+ eparating it from relative computable categoricity.  \n \n   \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Years in Thirty Minutes -  (PhD Defence)
+DTSTART:20170720T133000Z
+DTEND:20170720T143000Z
+DTSTAMP:20170720T133000Z
+UID:20170720T133000Z_9101b5c856bf14d19733ee8f9e5d9bb7
+DESCRIPTION:Speaker:  Jaspar Wiart\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Four Years in Thirty Minutes" \n\nAbstract: 
+  In my four years at UW I completed two research projects. For the first p
+ roject I computed the C*-envelopes of a family of isometric semicrossed pr
+ oducts arising from number theory. In the second I characterized the Jacob
+ son radical of certain semicrossed products of simple unital C*-algebras w
+ ith sufficiently nice semigroups. In this talk I will briefly summarize wh
+ at I did in reverse chronological order.  \n \n \n
+LOCATION:MC 2009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Categorizing schemes in the wild -  (Seminar)
+DTSTART:20170720T183000Z
+DTEND:20170720T193000Z
+DTSTAMP:20170720T183000Z
+UID:20170720T183000Z_e81869dbc4352933d80dccddf406a3a1
+DESCRIPTION:Speaker:  Nickolas Rollick\, Department of Pure Mathematics\, 
+ University of Waterloo\nTitle:   "Categorizing schemes in the wild" \n\nAb
+ stract:  Last time\, we laid the groundwork necessary to make sense of the
+  category of schemes.  This week\, we get a feel for this category via som
+ e examples and structural facts.  In particular\, we will learn what the f
+ inal object is\, construct non-trivial morphisms from a one-point scheme t
+ o itself\, and look at the seemingly odd notion of scheme-valued points of
+  a scheme.  It's truly a wild world these schemes live in...  \n \n \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodstein sequences and the Hydra game -  (Seminar)
+DTSTART:20170720T200000Z
+DTEND:20170720T210000Z
+DTSTAMP:20170720T200000Z
+UID:20170720T200000Z_ea59b941e8972d244e6a8928d4758df2
+DESCRIPTION:Speaker:  Brandon Doherty\, Department of Pure Mathematics\, U
+ niversity of Waterloo\nTitle:   "Goodstein sequences and the Hydra game" \
+ n\nAbstract:  G\\"odel's incompleteness theorem proves the existence of ce
+ rtain statements about the natural numbers that can be neither proven nor 
+ disproven using basic first-order arithmetic. The kinds of statements cons
+ tructed in the standard proof of the incompleteness theorem\, however\, ar
+ e extremely technical\, and not very interesting in and of themselves. \n 
+ This raises the question: are there any natural\, interesting statements a
+ bout the natural numbers that are neither provable or disprovable in first
+ -order arithmetic? In 1982\, Kirby and Paris provided examples of easily u
+ nderstandable theorems which are true\, and can be stated in the language 
+ of first-order arithmetic\, but cannot be proven. One of these states that
+  every one of a class of sequences known as Goodstein sequences\, which in
+ itially grow extremely quickly\, eventually decays to zero and terminates.
+  The other states that a graph-theoretic game involving rooted trees\, kno
+ wn as the Hydra game\, eventually terminates regardless of the player's st
+ rategy.  \n \n   \n
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2-Semilattices: Residual Properties and Applications to Constraint
-  Satisfaction Problems -  (PhD Defence)
-DTSTART:20170713T173000Z
-DTEND:20170713T183000Z
-DTSTAMP:20170713T173000Z
-UID:20170713T173000Z_39bbd3fc73d1a369e499245e48f5c7d0
-DESCRIPTION:Speaker:  Ian Payne\, Department of Pure Mathematics\, Univers
- ity of Waterloo\nTitle:   "2-Semilattices: Residual Properties and Applica
- tions to Constraint Satisfaction Problems" \n\nAbstract:  Semilattices are
-  algebras known to have an important connection to partially ordered sets.
-  In particular\, if a partially ordered set $(A\,\\leq)$ has greatest lowe
- r bounds\, a semilattice $(A\;\\wedge)$ can be associated to the order whe
- re $a\\wedge b$ is the greatest lower bound of $a$ and $b$. In this thesis
- \, we study a class of algebras known as $2$-semilattices\, which is a gen
- eralization of the class of semilattices. Similar to the correspondence be
- tween partial orders and semilattices\, there is a correspondence between 
- certain digraphs and $2$-semilattices. That is\, to every $2$-semilattice\
- , there is an associated digraph which holds information about the $2$-sem
- ilattice. Making frequent use of this correspondence\, we explore the clas
- s of $2$-semilattices from three perspectives: (i) Tame Congruence Theory\
- , (ii) the "residual character" of the class of $2$-semilattices\, and (ii
- i)\, the constraint satisfaction problem.\n Tame Congruence Theory\, devel
- oped by Hobby and McKenzie\, is a structure theory on finite algebras driv
- en by understanding prime congruence quotients of finite algebras. The the
- ory assigns to each such quotient a type from {\\bf 1} to {\\bf 5}. We sho
- w that types {\\bf 3}\, {\\bf 4}\, and {\\bf 5} can occur in the class of 
- $2$-semilattices\, but type {\\bf 4} can not occur in a finite simple $2$-
- semilattice.\n Classes of algebras contain "irreducible" members which hol
- d information about the class. Specifically\, the size of the irreducible 
- members has been of interest to many authors. We show for certain subclass
- es of the class of $2$-semilattices that there is no cardinal bound on the
-  size of the irreducible members in that subclass.\n The "fixed template c
- onstraint satisfaction problem" can be identified with the decision proble
- m hom$(\\mathbb{A})$ where $\\mathbb{A}$ is a fixed finite relational stru
- cture. The input to hom$(\\mathbb{A})$ is a finite structure $\\mathbb{B}$
-  similar to $\\mathbb{A}$. The question asked is "does there exist a homom
- orphism from $\\mathbb{B}$ to $\\mathbb{A}$?" Feder and Vardi conjectured 
- that for fixed $\\mathbb{A}$\, this decision problem is either {\\bf NP}-c
- omplete or solvable in polynomial time. Bulatov confirmed this conjecture 
- in the case that $\\mathbb{A}$ is invariant under a $2$-semilattice operat
- ion. We extend this result.  \n \n                 
-LOCATION:M3 3103
+SUMMARY:Finite Element Exterior Calculus\, Part 3 -  (Seminar)
+DTSTART:20170721T180000Z
+DTEND:20170721T190000Z
+DTSTAMP:20170721T180000Z
+UID:20170721T180000Z_8d7baf339bc63dd618306d53b38ba894
+DESCRIPTION:Speaker:  Adam Morgan\, Department of Applied Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Finite Element Exterior Calculus\, Part 3"
+  \n\nAbstract:  We will finish covering the concepts intended for the prev
+ ious week's lecture\, introducing discretizations of de Rham complexes and
+  some rudimentary definitions in finite element analysis.  \n \n          
+       
+LOCATION:MC 5417
 END:VEVENT
 END:VCALENDAR
