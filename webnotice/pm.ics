@@ -3,135 +3,158 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Artin's conjecture on primitive roots and function field analogues
-  -  (Seminar)
-DTSTART:20170605T140000Z
-DTEND:20170605T150000Z
-DTSTAMP:20170605T140000Z
-UID:20170605T140000Z_cf31e503c3cea4a6f1dea93d66891e5d
-DESCRIPTION:Speaker:  David Tweedle\, The University of the West Indies\nT
- itle:   "Artin's conjecture on primitive roots and function field analogue
- s" \n\nAbstract:  Recall Artin's primitive root conjecture\, which states 
- that if\n\\(a\\) is not \\(-1\\) or a square then the reduction of \\(a\\)
-  modulo \\(p\\)\ngenerates the multiplicative group of the integers modulo
-  \\(p\\) for\ninfinitely many primes \\(p\\).  We will examine the similar
- ities and\ndifferences between Artin's conjecture and some natural analogu
- es for\nelliptic curves and function fields.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small sets in dense pairs -  (Logic Seminar Seminar)
-DTSTART:20170605T173000Z
-DTEND:20170605T183000Z
-DTSTAMP:20170605T173000Z
-UID:20170605T173000Z_5bf341de2ec796d6e4902ea894175040
-DESCRIPTION:Speaker:  Pantelis Eleftheriou\, University of Konstanz\nTitle
- :   "Small sets in dense pairs" \n\nAbstract:  Let (M\, P) be an expansion
-  of an o-minimal structure M by a\ndense subset P of M\, such that three t
- ameness conditions hold. We prove\nthat the induced structure on P by M el
- iminates imaginaries. As a\ncorollary\, we obtain that every small set X d
- efinable in M can be\ndefinably embedded into some P^n\, uniformly in para
- meters. We then verify\nthe tameness conditions in three examples: dense p
- airs\, expansions of M by\na dense independent set\, and expansions by a d
- ense divisible\nmultiplicative group with the Mann property.  \n \n  \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ricci Flow and Renormalization -  (Seminar)
-DTSTART:20170606T183000Z
-DTEND:20170606T193000Z
-DTSTAMP:20170606T183000Z
-UID:20170606T183000Z_0f1720da9cea4c80b76d5c4817f2f1d4
-DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
-  University of Waterloo\nTitle:   "Ricci Flow and Renormalization" \n\nAbs
- tract:  Many of us have heard that there is some sort of relationship betw
- een Ricci flow and renormalization group flow in QFT. The goal of this tal
- k/discussion will be to try and understand this relationship.  \n \n \n
+SUMMARY:Problems on sofic and hyperlinear groups -  (Seminar)
+DTSTART:20180129T163000Z
+DTEND:20180129T173000Z
+DTSTAMP:20180129T163000Z
+UID:20180129T163000Z_e2cc66b615f1c4534acf14cbf94fea35
+DESCRIPTION:Speaker:  Ehsaan Hossain\, Department of Pure Mathematics\, Un
+ iversity of Waterloo\nTitle:   "Problems on sofic and hyperlinear groups" 
+ \n\nAbstract:  A sofic group is one that can be locally approximated by fi
+ nite groups\; it is equivalent to embed into a "metric ultraproduct'' of f
+ inite groups. A hyperlinear group is the same thing except with unitary ma
+ trix groups instead of finite ones. So every sofic group is hyperlinear\, 
+ but it is still standing whether these classes are the same. In fact nobod
+ y knows even one example of a group that is not sofic or hyperlinear!\n So
+ fic/hyperlinear groups are amongst the largest classes of groups for which
+  various famous problems have been verified: Connes's embedding problem\, 
+ Gottschalk surjunctivity\, and Kaplansky's group rings problems\, amongst 
+ others --- so the problems in soficity can give solutions for even some of
+  the biggest conjectures in other subjects. I'll learn about these and let
+  you know what I find\, and as the semester progresses\, let's try to get 
+ our hands dirty with these groups and see what the field is like.  \n \n  
+  \n
 LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Effective Bi-interpretability -- Part 2 -  (Seminar)
-DTSTART:20170606T193000Z
-DTEND:20170606T203000Z
-DTSTAMP:20170606T193000Z
-UID:20170606T193000Z_e4fd4a94fd1335ca7214491f0709187b
-DESCRIPTION:Speaker:  Michael Deveau\, Department of Pure Mathematics\, Un
- iversity of Waterloo\nTitle:   "Effective Bi-interpretability -- Part 2" \
- n\nAbstract:  We continue exploring the properties of effective bi-interpr
- etability introduced last time. We shall see that two structures being eff
- ectively bi-interpetable requires that they have very similar properties i
- n terms of many of the notions discussed thus far.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contributions to the Theory of Radicals for Noncommutative Rings -
-   (PhD Defence)
-DTSTART:20170607T143000Z
-DTEND:20170607T153000Z
-DTSTAMP:20170607T143000Z
-UID:20170607T143000Z_f1b1da45cc50763ee8e701a3523945ec
-DESCRIPTION:Speaker:  Blake Madill\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Contributions to the Theory of Radicals for 
- Noncommutative Rings" \n\nAbstract:  We consider several radical classes o
- f noncommutative rings. In particular\, we provide new results regarding t
- he radical theory of semigroup-graded rings\, monomial algebras\, and Ore 
- extensions of derivation type. \n In Chapter 2 it is shown that every ring
-  graded by a torsion free nilpotent group has a homogeneous upper nilradic
- al. Moreover\, we show that a ring graded by unique-product semigroup will
-  be semiprime only when it has no nonzero nilpotent homogeneous ideals. Th
- is provides a graded-analogue of the classical result that says a ring is 
- semiprime if and only if it has no nonzero nilpotent ideals. \n In Chapter
-  3\, the class of iterative algebras are introduced. Iterative algebras se
- rve as an interesting class of monomial algebras where ring theoretical in
- formation may be determined from combinatorial information of an associate
- d right-infinite word. We use these monomial algebras to construct an exam
- ple of a prime\, semiprimitive\, graded-nilpotent algebra of Gelfand-Kiril
- lov dimension 2 which is finitely generated as a Lie algebra. \n In Chapte
- r 4\, the Jacobson radical of Ore extensions of derivation type is discuss
- ed. We show that if $R$ is a locally nilpotent ring which satisfies a poly
- nomial identity then any Ore extension of $R$ of derivation type will also
-  be locally nilpotent. Finally\, we show that the Jacobson radical of any 
- Ore extension of derivation type of a polynomial identity ring will have a
-  nil coefficient ring.  \n \n \n
+SUMMARY:Finiteness conditions of schemes -  (Seminar)
+DTSTART:20180130T200000Z
+DTEND:20180130T210000Z
+DTSTAMP:20180130T200000Z
+UID:20180130T200000Z_8e632918a870cd38729377e5df4842fe
+DESCRIPTION:Speaker:  Brett Nasserden\, Department of Pure Mathematics\, U
+ niversity of Waterloo\nTitle:   "Finiteness conditions of schemes" \n\nAbs
+ tract:  To better understand the category of schemes I will explore finite
+ ness properties that the morphisms between schemes may possess. In particu
+ lar\, affine\, integral\, and other finite type conditions will be examine
+ d. The lecture should be accessible to anyone with a basic understanding o
+ f scheme theory.  \n \n      \n
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scheming with my associates -  (Seminar)
-DTSTART:20170608T183000Z
-DTEND:20170608T193000Z
-DTSTAMP:20170608T183000Z
-UID:20170608T183000Z_7a70e6405c4d191b5a8686bb04ca54eb
-DESCRIPTION:Speaker:  Nickolas Rollick\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "Scheming with my associates" \n\nAbstrac
- t:  By now\, we have seen a bewildering number of adjectives that might be
-  attached to a scheme\, some of which are topological in nature\, some of 
- which are algebraic in nature\, and some of which refer to all the structu
- ral properties of the scheme at once.  To get our bearings\, we will start
-  by recalling all the important adjectives discussed so far and categorize
-  them.  Then\, we move to the topic of associated points\, first looking a
- t them in the context of finitely generated modules over a Noetherian ring
- .  Time permitting\, we will discuss associated points of locally Noetheri
- an schemes as well and see how they can be used to define rational functio
- ns on such schemes.  \n \n  \n
-LOCATION:MC 5403
+SUMMARY:Holomorphy of L-functions and its applications -  (Number Theory S
+ eminar Seminar)
+DTSTART:20180201T183000Z
+DTEND:20180201T193000Z
+DTSTAMP:20180201T183000Z
+UID:20180201T183000Z_db6ce1a325a24d8a07476aa93189916e
+DESCRIPTION:Speaker:  Peng-Jie Wong\, University of Lethbridge\nTitle:   "
+ Holomorphy of L-functions and its applications" \n\nAbstract:  The analyti
+ c properties of L-functions have been one of the \ncentral topics in numbe
+ r theory as they have a deep connection \nwith the distribution of primes.
+  For example\, the Riemann zeta \nfunction led to a proof of the celebrate
+ d prime number theorem. In \ngeneral\, for any number field\, there are pr
+ imes and L-functions of \nsimilar nature. In this talk\, we shall discuss 
+ the holomorphy of \nsuch L-functions and its applications to the distribut
+ ions of the \nassociated primes.  \n \n \n
+LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grad Student Colloquium: Physics for Mathematicians -  (Seminar)
-DTSTART:20170608T200000Z
-DTEND:20170608T210000Z
-DTSTAMP:20170608T200000Z
-UID:20170608T200000Z_0c6f20d044f9c0c482ce7ca09870a66b
-DESCRIPTION:Speaker:  Anthony McCormick\, Department of Pure Mathematics\,
-  University of Waterloo\nTitle:   "Grad Student Colloquium: Physics for Ma
- thematicians" \n\nAbstract:  What is Newton really saying when he writes $
- F=ma$? We know the $a$ stands for acceleration but the acceleration of wha
- t? The $F$ is supposed to be the total force acting on the system but what
-  precisely is meant by "force"? What is a "mechanical system"? What does N
- ewton mean by an "inertial reference frame"? What is space? Time? I'll att
- empt to answer these questions in a way satisfactory for mathematicians. F
- urthermore\, if time permits\, I'll try to explain some of the ideas behin
- d modern physics and how mathematicians can extract mathematically relevan
- t ideas from physics talks.  \n \n             
+SUMMARY:The Hyperreals (Infinitesimals and the transfer principle) -  (Sem
+ inar)
+DTSTART:20180201T210000Z
+DTEND:20180201T220000Z
+DTSTAMP:20180201T210000Z
+UID:20180201T210000Z_03a135d223167410bf5cd2be6e205f32
+DESCRIPTION:Speaker:  Justin Laverdure\, Department of Pure Mathematics\, 
+ University of Waterloo\nTitle:   "The Hyperreals (Infinitesimals and the t
+ ransfer principle)" \n\nAbstract:  Intuitive discussions about calculus am
+ ong those 'uninitiated' into proper analysis often involve discussions abo
+ ut "infinitely small" quantities. Foundations of calculus\, of course\, fr
+ ame these as limiting processes\, but can an actual concept of an infinite
+ simal number be recovered and worked with directly? Turns out the answer i
+ s "yes": we may enlarge the real line in such a way that there are infinit
+ esimal quantities\, those strictly greater than zero but less than every 1
+ /n. \n In fact\, the real numbers and the hyperreal numbers are closely re
+ lated: facts about one can be translated to facts about the other. Thus\, 
+ understanding the real line helps us to understand the hyperreal line\, an
+ d interestingly\, the converse as well. In particular\, certain proofs in 
+ analysis admit simpler proofs\, once the techniques of "non-standard analy
+ sis" have been introduced.  \n \n  \n
+LOCATION:MC 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultraproducts and congruence distributive varieties - Part 1 -  (U
+ niversal Algebra Seminar)
+DTSTART:20180202T190000Z
+DTEND:20180202T200000Z
+DTSTAMP:20180202T190000Z
+UID:20180202T190000Z_4b39bfc688f26e479ea13e14001a819d
+DESCRIPTION:Speaker:  Nasir Sohail\, Wilfrid Laurier University\nTitle:   
+ "Ultraproducts and congruence distributive varieties - Part 1" \n\nAbstrac
+ t:  I shall go from (direct) product to ultraproduct using a particular co
+ ngruence. The ultraproduct of a finite set of finite algebras will be cons
+ idered as a special case.  \n \n \n
 LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Complexity and Capacity Bounds for Operator Systems and Quantum Ch
+ annels -  (Analysis Seminar Seminar)
+DTSTART:20180202T193000Z
+DTEND:20180202T203000Z
+DTSTAMP:20180202T193000Z
+UID:20180202T193000Z_b248bf0d619979105609d9b0575171ff
+DESCRIPTION:Speaker:  Vern Paulsen\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Complexity and Capacity Bounds for Operator 
+ Systems and Quantum Channels" \n\nAbstract:  This is based on joint work w
+ ith R. Levine and I. Todorov.   \n  Shannon introduced the concept of the 
+ one-shot zero-error capacity of a classical channel and proved that each s
+ uch channel had a graph affiliated with it so that the one-shot zero-error
+  capacity was the independence number of the graph.  The zero-error capaci
+ ty is then obtained by taking the k-th root of the strong product of the g
+ raph with itself k times and taking the supremum over k.  Shannon admitted
+ ly couldnt compute this value for many graphs\, but then Lovasz introduc
+ ed his theta function of a graph as a computable upper bound. The Lovasz t
+ heta bound is still the best known bound for this capacity.\n Dean\, Sever
+ ini\, and Winter studied Shannons ideas for quantum channels and proved 
+ that each quantum channel has affiliated with it an operator system such t
+ hat the one-shot zero-error capacity of the channel is the "independence n
+ umber of the operator system. They then argued that the analogue of Shan
+ nons capacity is to take the k-th root of the independence number of the
+  tensor product of the operator system with itself k times and take the su
+ premum over k.  They then introduced the analogue of the Lovasz theta func
+ tion for an operator system.\n In this talk we will review these ideas and
+  then introduce our new idea of the "complexity" of an operator system and
+  show that this gives another bound on the zero-error capacity of the quan
+ tum channel.  We will present several different linear algebraic character
+ izations of complexity. We will then show that there are some operator sys
+ tems and quantum channels for which our complexity based bound is better t
+ han the Lovasz bound.  \n \n \n
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Fibered Morphism and Definite Determinantal Representations -
+   (Geometry & Topology Seminar Seminar)
+DTSTART:20180202T193000Z
+DTEND:20180202T203000Z
+DTSTAMP:20180202T193000Z
+UID:20180202T193000Z_cd1f38b6fffd9708bad303bfc7fd4684
+DESCRIPTION:Speaker:  Eli Shamovich\, Department of Pure Mathematics\, Uni
+ versity of Waterloo\nTitle:   "Real Fibered Morphism and Definite Determin
+ antal Representations" \n\nAbstract:  Stable and hyperbolic polynomials ar
+ ose in the study of differential equations. These polynomials give rise to
+  real projective hypersurfaces with interesting convexity properties. Thes
+ e convexity properties are used both in pure and applied mathematics (Kadi
+ son-Singer and optimization for example). A good way to certify hyperbolic
+ ity is to produce a definite determinant representation. Unfortunately\, t
+ his is not always possible. In this talk I will present a generalization o
+ f the hyperbolic property to morphisms between real projective varieties. 
+ I will also discuss the notion of determinant representation and definite 
+ Ulrich sheaves and show how the two notions relate. Time permitting\, I wi
+ ll describe an algorithm to construct definite Ulrich sheaves on hyperboli
+ c curves using theta functions with certain special characteristics on the
+  normalization.\n This talk is based on joint works with V. Vinnikov and M
+ . Kummer.  \n \n      
+LOCATION:MC 5403
 END:VEVENT
 END:VCALENDAR

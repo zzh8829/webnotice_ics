@@ -3,56 +3,95 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Infinitly many excluded minors for frame matroids and for lifted-g
- raphic matroids -  (Seminar)
-DTSTART:20170608T193000Z
-DTEND:20170608T203000Z
-DTSTAMP:20170608T193000Z
-UID:20170608T193000Z_8ae87f9c00196682f49ec6c5f33a55a5
-DESCRIPTION:Speaker:  Rong Chen\, Center for Discrete Mathematics\, Fuzhou
-  University\nTitle:   "Infinitly many excluded minors for frame matroids a
- nd for lifted-graphic matroids" \n\nAbstract:  In this talk\, I will prese
- nt infinite sequences of excluded minors for both the class of lifted-grap
- hic matroids and the class of frame matroids. This is joint work with Jim 
- Geelen.  \n \n    \n
-LOCATION:Math & Computer\, Room 5417
+SUMMARY:The Douglas-Rachford splitting algorithm for inconsistent minimiza
+ tion problems -  (Special Seminar)
+DTSTART:20180129T143000Z
+DTEND:20180129T153000Z
+DTSTAMP:20180129T143000Z
+UID:20180129T143000Z_6c9ac56f45c9308ceadb4791e3203b1b
+DESCRIPTION:Speaker:  Walaa Moursi\, Stanford University\nTitle:   "The Do
+ uglas-Rachford splitting algorithm for inconsistent minimization problems"
+  \n\nAbstract:  The Douglas--Rachford (DR) method is one of the most \npop
+ ular splitting methods in optimization.\nThe method was first introduced i
+ n 1956 to numerically solve certain types of heat equations. \nIn their se
+ minal work Lions (a Fields' medalist) and Mercier extended the algorithm t
+ o find a zero \nof the sum of two\, not necessarily linear and possibly se
+ t-valued\, maximally monotone operators in possibly infinite-dimensional H
+ ilbert spaces.\nNowadays\, the method is a very popular splitting techniqu
+ e for finding a minimizer of the sum of two convex functions\, more genera
+ lly a zero of the sum of two maximally monotone operators.\nNonetheless\, 
+ the behaviour of the algorithm remains mysterious in the general inconsist
+ ent case\, i.e.\, when the sum problem has no zeros\, which corresponds to
+  the absence of minimizers. However\, more than a decade ago\, it was show
+ n that in the (possibly inconsistent) convex feasibility setting\, the so-
+ called shadow sequence remains bounded and its weak cluster points solve a
+  best approximation problem. In this talk\, we advance the understanding o
+ f the inconsistent case significantly by presenting a complete proof of th
+ e full weak convergence in the convex feasibility setting. We also provide
+  strong and linear rates of convergence in special cases.  \n \n        \n
+LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
- )
-DTSTART:20170609T193000Z
-DTEND:20170609T203000Z
-DTSTAMP:20170609T193000Z
-UID:20170609T193000Z_8abff9064d3a9e019862cd0ac6b66749
-DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
- le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
-  We consider a coloring game on graphs as an example to illustrate the eff
- ectiveness of the semigroup spectral method for determining the spectrum o
- f the directed graphs which arise as the state graphs associated with the 
- game. Originating from the study of the so-called Tsetlin library random w
- alks and the like\, this  method can be used to  analyze dynamic processes
-  such as  voting and ranking\, provided the random processes satisfy certa
- in "memoryless" conditions (corresponding to left-regular-band semigroups)
- .  \n \n \n
-LOCATION:Math & Computer\, Room 5501
+SUMMARY:Robust counterpart approximations of scalar chance constraints -  
+ (Continuous Optimization Seminar)
+DTSTART:20180131T210000Z
+DTEND:20180131T220000Z
+DTSTAMP:20180131T210000Z
+UID:20180131T210000Z_0f0988a4c20bac1c5ab598909cd06abf
+DESCRIPTION:Speaker:  Reading Group\, University of Waterloo\nTitle:   "Ro
+ bust counterpart approximations of scalar chance constraints" \n\nAbstract
+ :  We will cover section 2.1\, section 2.2 and part of section 2.3 of the 
+ book Robust Optimization by Ben-Tal et al. Given a non-deterministic linea
+ r inequality and its uncertainty set\, there is a chance that coefficients
+  of the non-deterministic linear inequality can be determined outside of t
+ he uncertainty set with a very small probability. We will introduce basic 
+ notions of chance constraints\, its difficulties as well as its strengths.
+   \n \n  \n
+LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semigroup spectral methods and graph coloring games -  (Colloquium
- )
-DTSTART:20170609T193000Z
-DTEND:20170609T203000Z
-DTSTAMP:20170609T193000Z
-UID:20170609T193000Z_e0ff7ddd4be410b6d76fc2e749f9d2a1
-DESCRIPTION:Speaker:  Dr. Fan Chung Graham\, University of California\nTit
- le:   "Semigroup spectral methods and graph coloring games" \n\nAbstract: 
-  We consider a coloring game on graphs as an example to illustrate the eff
- ectiveness of the semigroup spectral method for determining the spectrum o
- f the directed graphs which arise as the state graphs associated with the 
- game. Originating from the study of the so-called Tsetlin library random w
- alks and the like\, this  method can be used to  analyze dynamic processes
-  such as  voting and ranking\, provided the random processes satisfy certa
- in "memoryless" conditions (corresponding to left-regular-band semigroups)
- .  \n \n         
-LOCATION:Math & Computer\, Room 5501
+SUMMARY:On Pretty Good State Transfer\, Entanglement\, and Spin Chains -  
+ (Algebraic Graph Theory Seminar)
+DTSTART:20180201T183000Z
+DTEND:20180201T193000Z
+DTSTAMP:20180201T183000Z
+UID:20180201T183000Z_4157113c47cda6bd6c40d346cb6be30e
+DESCRIPTION:Speaker:  Christopher van Bommel\, University of Waterloo\nTit
+ le:   "On Pretty Good State Transfer\, Entanglement\, and Spin Chains" \n\
+ nAbstract:  We discuss the Vieira and Rigolin paper Almost perfect trans
+ port of an entangled two-qubit state through a spin chain\, which consid
+ ers slight modifications to a spin chain (I.e. path) that allows a maximal
+ ly entangled two-qubit state to be almost perfectly transferred from one e
+ nd to the other.  \n \n   \n
+LOCATION:MC 6486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polynomial systems: Graphical structure\, Geometry\, and Applicati
+ ons -  (Special Seminar)
+DTSTART:20180202T143000Z
+DTEND:20180202T153000Z
+DTSTAMP:20180202T143000Z
+UID:20180202T143000Z_52dc508a5f0575f5fe787a24d5dcd92e
+DESCRIPTION:Speaker:  Diego Cifuentes\, MIT\nTitle:   "Polynomial systems:
+  Graphical structure\, Geometry\, and Applications" \n\nAbstract:  Various
+  problems in areas such as robotics\, power systems\, computer vision\, cr
+ yptography\, and chemical reaction networks\, can be modeled by systems of
+  polynomial equations\, and in many cases the resulting systems have a sim
+ ple sparsity structure. In the  first part of this talk we represent this 
+ sparsity structure with a graph\, and study the algorithmic and complexity
+  consequences of this graphical abstraction. In particular\, we derive nov
+ el algorithms to solve polynomial systems. These methods outperform existi
+ ng techniques by orders of magnitude in certain applications from algebrai
+ c statistics and vector addition systems.\n The second part of this talk f
+ ocuses on the problem of minimizing a polynomial function subject to polyn
+ omial equality constraints. This problem captures many important applicati
+ ons\, including Max-Cut\, tensor low rank approximation\, the triangulatio
+ n problem\, and rotation synchronization. Although these problems are nonc
+ onvex\, tractable semidefinite programming (SDP) relaxations have been pro
+ posed. We show novel guarantees on the quality of this relaxations. In par
+ ticular\, we prove that estimation problems such as camera triangulation\,
+  rank one tensor approximation and rotation synchronization can be solved 
+ exactly by SDP relaxations in the low noise regime.  \n \n         
+LOCATION:MC 5501
 END:VEVENT
 END:VCALENDAR

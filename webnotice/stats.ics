@@ -3,27 +3,31 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
 BEGIN:VEVENT
-SUMMARY:Risk Measures in a Quantile Regression Credibility Framework -  (S
- eminar)
-DTSTART:20170619T200000Z
-DTEND:20170619T210000Z
-DTSTAMP:20170619T200000Z
-UID:20170619T200000Z_aaafcf9224d5639964b60109f261d20a
-DESCRIPTION:Speaker:  Georgios Pitselis\, University of Piraeus\nTitle:   
- "Risk Measures in a Quantile Regression Credibility Framework" \n\nRemarks
- :  Refreshments will be provided.  \n\nAbstract:  Here\, we extend the ide
- a of embedding the classical credibility model into risk measures\, as was
-  presented by Pitselis (2016)\, to the idea of embedding regression credib
- ility into risk measures. The resulting credible regression risk measures 
- capture the risk of individual insurer's contract (in finance\, the indivi
- dual asset return portfolio) as well as the portfolio risk consisting of s
- everal similar but not identical contracts (in finance\, several similar p
- ortfolios of asset returns)\,  which are grouped together to share the ris
- k. In insurance\, credibility plays a special role of spreading the risk. 
- In financial terminology\, credibility plays a special role of diversifica
- tion of risk. For each model\, regression credibility models are establish
- ed  and  the robustness of these models is investigated. Applications to F
- ama/French financial portfolio data are also presented.  \n \n   
-LOCATION:M3 3127
+SUMMARY:Modern Classification with Big Data -  (Seminar)
+DTSTART:20180131T153000Z
+DTEND:20180131T163000Z
+DTSTAMP:20180131T153000Z
+UID:20180131T153000Z_145849aac908f5d1e20f55d9ad0f8dbe
+DESCRIPTION:Speaker:  Boxiang Wang\, University of Minnesota\nTitle:   "Mo
+ dern Classification with Big Data" \n\nRemarks:  Refreshments will be prov
+ ided.  \n\nAbstract:  Rapid advances in information technologies have ushe
+ red in the era of "big data" and revolutionized the scientific research. B
+ ig data creates golden opportunities but has also arisen unprecedented cha
+ llenges due to the massive size and complex structure of the data. Among m
+ any tasks in statistics and machine learning\, classification has diverse 
+ applications\, ranging from improving daily life to reaching the new front
+ iers of science and engineering. This talk will discuss the envisions of b
+ roader approaches to modern classification methodologies\, as well as comp
+ utational considerations to cope with the big data challenges. I will pres
+ ent a modern classification method named data-driven generalized distance-
+ weighted discrimination. A fast algorithm with an emphasis on computationa
+ l efficiency for big data will be introduced. Our method is formulated in 
+ a reproducing kernel Hilbert space\, and learning theory of the Bayes risk
+  consistency will be developed. In addition\, I will use extensive benchma
+ rk data applications to demonstrate that the prediction accuracy of our me
+ thod is highly competitive with state-of-the-art classification methods in
+ cluding support vector machine\, random forest\, gradient boosting\, and d
+ eep neural network.  \n \n                
+LOCATION:M3-3127
 END:VEVENT
 END:VCALENDAR

@@ -3,31 +3,32 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
 BEGIN:VEVENT
-SUMMARY:From Hopf Algebras to Machine learning via Rough Paths -  (Colloqu
- ium)
-DTSTART:20170616T140000Z
-DTEND:20170616T150000Z
-DTSTAMP:20170616T140000Z
-UID:20170616T140000Z_23162f84baf41bb7fd97ff08c04126e9
-DESCRIPTION:Speaker:  Terry Lyons\, Oxford University\nTitle:   "From Hopf
-  Algebras to Machine learning via Rough Paths" \n\nAbstract:  Rough path t
- heory aims to build an effective calculus that can model the interactions 
- between complex oscillatory (rough) evolving systems. At its mathematical 
- foundations\, it is a combination of analysis blended with algebra that go
- es back to LC Young\, and to KT Chen. Key to the theory is the essential n
- eed to incorporate additional non-commutative structure into areas of math
- ematics we thought were stable. At its high points\, there are the regular
- ity structures of Martin Hairer that allow robust meaning to be given to n
- umerous core nonlinear stochastic pdes describing evolving interfaces in p
- hysics.\n Classic results\, by Clark\, Cameron and Dickinson\, demonstrate
-  that a nonlinear approach to the data is essential.  Rough path theory li
- ves up to this challenge and can be viewed as providing fundamentally more
-  efficient ways of approximately describing complex data\; approaches that
- \, after penetrating the basic ideas\, are computationally tractable and l
- ead to new scalable ways to regress\, classify\, and learn functional rela
- tionships from data. One non-mathematical application that is already stri
- king is the use of signatures on a daily basis in the online recognition o
- f Chinese Handwriting on mobile phones.  \n \n      
-LOCATION:DC 1302
+SUMMARY:Numerical modeling approaches for examining water flow under ice s
+ heets. -  (Seminar)
+DTSTART:20180208T203000Z
+DTEND:20180208T213000Z
+DTSTAMP:20180208T203000Z
+UID:20180208T203000Z_0f7ba0ec15cef0bff6058c8cbf944dba
+DESCRIPTION:Speaker:  Christine Dow\, Department of Geography & Environmen
+ tal Management\, University of Waterloo\nTitle:   "Numerical modeling appr
+ oaches for examining water flow under ice sheets." \n\nAbstract:  The pres
+ ence of water at the bed of the Antarctic ice sheets is known to be a firs
+ t order control on the speed of the overlying ice. In many regions\, distr
+ ibution and flux of this water is complicated by multi-year storage in sub
+ glacial lake basins. With more lakes and pockets of stored water being ide
+ ntified every year from satellite surface altimetry measurements and radio
+ -echo sounding\, it is apparent that constraining the impact of this water
+  is an important step for determining the drivers of Antarctic ice dynamic
+ s.\n Using a numerical modeling approach\, I examine the controls on subgl
+ acial Antarctic lake growth and drainage within ice streams. I also assess
+  whether the drainage of these lakes has an impact on the dynamics of the 
+ ice stream. The methods to achieve this utilize GlaDS\, a 2-D finite eleme
+ nt subglacial hydrology model\, which incorporates development of a coexis
+ ting distributed and efficient drainage system. The model is applied both 
+ to a synthetic system and to Recovery Ice Stream in the East Antarctic wit
+ h bed topography determined from mass conservation inversion techniques. T
+ he model outputs of lake growth and drainage are compared with satellite s
+ urface altimetry measurements.  \n \n   
+LOCATION:MC 5417
 END:VEVENT
 END:VCALENDAR

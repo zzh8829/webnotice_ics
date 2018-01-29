@@ -84,7 +84,7 @@ def get_listing(dept):
 
             yield event
         except Exception as e:
-            print(dd, e)
+            print('#ERROR:', dd, e)
 
 def dump_ics(dept, name):
     cal = Calendar()

@@ -2,4 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Faculty of Mathematics)
+BEGIN:VEVENT
+SUMMARY:Polar Projects - Conceptualizing and rendering arctic spaces -  (B
+ ridges Lecture Lecture)
+DTSTART:20180201T003000Z
+DTEND:20180201T013000Z
+DTSTAMP:20180201T003000Z
+UID:20180201T003000Z_782a12ae1e0ae232a1e06de264859610
+DESCRIPTION:Speaker:  Roxandra Moraru and P. Whitney Lackenbauer\, Departm
+ ent of Pure Mathematics\n  and  St. Jerome's University\nTitle:   "Polar P
+ rojects - Conceptualizing and rendering arctic spaces" \n\nRemarks:  Compl
+ imentary tickets and parking with refreshments following the lecture. Regi
+ ster at: https://ticketfi.com/event/1991/bridges-lecture-series-morarulack
+ enbauer-jan-3118  \n\nAbstract:  The first Bridges lecture in 2018 will ex
+ plore how humans have sought to make the Arctic legible (to borrow the phr
+ ase of James C. Scott)\, from pre-contact Inuit understandings of space an
+ d time\, through the practices and instruments of European maritime explor
+ ers\, through the introduction of aviation and the refinement of Arctic ai
+ r navigation\, to the age of satellites. By bringing history\, geography\,
+  and geometry into dialogue\, Professors Moraru and Lackenbauer will discu
+ ss how humans have measured\, defined\, and characterised space and time\,
+  and how mathematics continues to explain what is possible  and what is 
+ not.  \n \n             
+LOCATION:Vanstone Lecture Hall\, St. Jerome's University Academic Centre
+END:VEVENT
 END:VCALENDAR
