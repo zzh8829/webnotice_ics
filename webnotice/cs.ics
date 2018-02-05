@@ -3,84 +3,45 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computer Science)
 BEGIN:VEVENT
-SUMMARY:From SAT to Stochastic SAT -  (Artificial Intelligence Lab Seminar
- )
-DTSTART:20180129T180000Z
-DTEND:20180129T190000Z
-DTSTAMP:20180129T180000Z
-UID:20180129T180000Z_32c2ab1d6828b12a1d64ecf035d6723b
-DESCRIPTION:Speaker:  Ricardo Salmon\, David R. Cheriton School of Compute
- r Science\nTitle:   "From SAT to Stochastic SAT" \n\nAbstract:  Stochastic
-  satisfiability (SSAT) problems are an extension of SAT problems that is P
- SPACE-complete and in the same complexity class as quantified Boolean form
- ula (QBF) and partially observable Markov decision processes (POMDPs).\n W
- e show how to extend techniques from SAT into a stochastic solver called P
- rime\, that solves probabilistic inference and POMDP problems. Similar to 
- SAT and other NP-hard problems\, where a lot of research has been invested
- \, we hope to encourage further research into SSAT. The results show that 
- our solver is able to tackle large problems and is very competitive.  \n \
- n \n
-LOCATION:DC 2306C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Low-Cost Maps in Computer Science and Data Analysis -  (Algorithms
-  and Complexity Group Seminar)
-DTSTART:20180130T153000Z
-DTEND:20180130T163000Z
-DTSTAMP:20180130T153000Z
-UID:20180130T153000Z_05f1c0b05e04d51d2812fce0947ecb68
-DESCRIPTION:Speaker:  Amir Nayyeri\, Oregon State University\nTitle:   "Lo
- w-Cost Maps in Computer Science and Data Analysis" \n\nAbstract:  The gene
- ral mathematical problem of computing low-cost maps between two metric spa
- ces is prevalent in many applications\, including registration in medical 
- image processing\, function detection in protein modeling\, reconstructing
-  evolutionary trees in phylogenomics\, finding recurrent patterns in data 
- analysis\, and finding simple representations of data in visualization. Ma
- ny instances of the general problem are provably hard\, so we have a dicho
- tomy. On one hand\, we have general algorithms with theoretical worst-case
-  guarantees that are prohibitively slow in practice\, and on the other we 
- have faster heuristics engineered for specific applications\, but lacking 
- guarantees. In dichotomy is opportunity  we use parameterized complexity
-  to create a finer understanding of the complexity of computing low-cost m
- aps between metric spaces based on their geometric and topological propert
- ies. We specifically target new algorithms with better performance guarant
- ees\, in particular\, for cases of practical interest.\n In this talk\, I 
- focus on two instances of low-cost maps: embeddings with low multiplicativ
- e distortion\, and homeomorphisms with low Frechet length. Specifically\, 
- I present new results on embedding into tree-like metrics\, and computing 
- the Frechet distance between surfaces.\n      \n Bio : Amir 
- Nayyeri works on algorithm design. Specifically\, he is interested in fund
- amental algorithmic problems about geometric and topological structures su
- ch as metric spaces\, graphs\, or simplicial complexes that are inspired b
- y applications in computer science and data analysis.  \n Amir is currentl
- y an assistant professor at Oregon State University. He received his PhD f
- rom University of Illinois at Urbana Champaign\, advised by Jeff Erickson.
-  Before joining OSU\, he was a postdoctoral fellow at Carnegie Mellon Univ
- ersity.  \n \n   \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Basic Learning Problem that is Independent of the Set Theory ZFC
-  Axioms -  (Algorithms and Complexity Group Seminar)
-DTSTART:20180131T193000Z
-DTEND:20180131T203000Z
-DTSTAMP:20180131T193000Z
-UID:20180131T193000Z_8ed4e3b9c94d5c04192135c6aebdafea
-DESCRIPTION:Speaker:  Shai Ben-David\, David R. Cheriton School of Compute
- r Science\nTitle:   "A Basic Learning Problem that is Independent of the S
- et Theory ZFC Axioms" \n\nAbstract:  We consider the Expectation Maximizat
- ion (EMX) problem that captures many well-studied learning problems. We st
- udy the interaction between the statistical sample complexity of a class o
- f functions and its combinatorial structure. Surprisingly\, we show that t
- he EMX learnability\, as well as the learning rates of some basic class of
-  functions F\, depend on the cardinality of the continuum in the model of 
- set theory one "lives in" and is therefore  independent of the set theory 
- ZFC axioms (that are widely accepted as a formalization of the notion of a
-  mathematical proof).\n This result implies that there exist no finitery
-  combinatorial parameter that characterizes EMX learnability in a way si
- milar to the VC-dimension characterization of binary valued classification
-  problems.\n The talk is based on joint work with Pavel Hrube\, Shay Mor
- an\, Amir Shpilka and Amir Yehudayoff.  \n \n          \n
+SUMMARY:Making Performance Engineering More Accessible to Software Develop
+ ers -  (Software Engineering Research Group Seminar)
+DTSTART:20180206T153000Z
+DTEND:20180206T163000Z
+DTSTAMP:20180206T153000Z
+UID:20180206T153000Z_87f1f603c9daff4c35c47462d20726d3
+DESCRIPTION:Speaker:  Cor-Paul Bezemer\, Postdoctoral research fellow\, So
+ ftware Analysis and Intelligence Lab\, Queen's University\nTitle:   "Makin
+ g Performance Engineering More Accessible to Software Developers" \n\nAbst
+ ract:  Performance is extremely important for software systems. For exampl
+ e\, a one-second slowdown of the checkout process would cost Amazon $1.6 b
+ illion per year. Despite the importance of performance\, all too often it 
+ is considered as the last step in product delivery\, and it is often done 
+ by operators and system engineers instead of with actual developers. Howev
+ er\, many performance-related decisions\, such as those about the configur
+ ation and monitoring of a software system\, would benefit tremendously fro
+ m the input of software developers. Unfortunately\, many developers are no
+ t sufficiently trained to tackle performance challenges in practice.\n In 
+ my presentation\, I will discuss why performance engineering and software 
+ development should go hand in hand. First\, I highlight examples of perfor
+ mance challenges based on several longitudinal studies that we conducted o
+ n the Linux kernel and the Steam gaming platform. Then\, I present two exa
+ mples of how we can make performance engineering more accessible to develo
+ pers. In the first example\, I show how performance analytics can help opt
+ imize performance-related configuration options. In the second example\, I
+  show how performance analytics can help one make informed decisions about
+  the tradeoffs between the amount of information that is being logged in a
+  software system and its field performance.\n      \n Bio : 
+ Cor-Paul Bezemer currently works as a postdoctoral research fellow in the 
+ Software Analysis and Intelligence Lab (SAIL) at Queen's University in Kin
+ gston\, Canada. His research interests cover a wide variety of software en
+ gineering and performance engineering-related topics. His work has been pu
+ blished at premier software engineering venues such as the ESEC-FSE\, ICSM
+ E and ICPE conferences and the  TSE  and  EMSE  journals. He is one of the
+  vice-chairs of the SPEC research group on DevOps Performance. Before movi
+ ng to Canada\, he studied at Delft University of Technology in the Netherl
+ ands\, where he received his BSc (2007)\, MSc (2009) and PhD (2014) degree
+  in Computer Science. \n More about Cor-Paul can be found on  his website:
+  .  \n \n  \n
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +50,7 @@ SUMMARY:CSIS Bulk Data Collection and National Security Surveillance -  (C
 DTSTART:20180206T190000Z
 DTEND:20180206T200000Z
 DTSTAMP:20180206T190000Z
-UID:20180206T190000Z_6d2ad687ab2f0243bd3945b54ea0d546
+UID:20180206T190000Z_20e893fb450a1aed30e48c589574fe32
 DESCRIPTION:Speaker:  Micheal Vonn\, BC Civil Liberties Association\nTitle
  :   "CSIS Bulk Data Collection and National Security Surveillance" \n\nAbs
  tract:  Canadians arguably have a much better idea about what kinds of mas
@@ -125,7 +86,7 @@ DESCRIPTION:Speaker:  Micheal Vonn\, BC Civil Liberties Association\nTitle
  rator on Big Data Surveillance\, a multi-year research projected lead by Q
  ueens University. She is an Advisory Board Member of Ryerson University's 
  Centre for Free Expression and an Advisory Board Member of Privacy Interna
- tional.  \n \n \n
+ tional.  \n \n    \n
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
@@ -152,6 +113,68 @@ DESCRIPTION:Speaker:  Josef Tkadlec\, PhD candidate\, Institute of Science
  esults concerning graphs for which the fixation probability tends to 1 as 
  the number of vertices tends to infinity.  \n \n  \n
 LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Identifying Cache-based Side Channels in Production Software -  (S
+ oftware Engineering Research Group Seminar)
+DTSTART:20180208T163000Z
+DTEND:20180208T173000Z
+DTSTAMP:20180208T163000Z
+UID:20180208T163000Z_4b1d1ef4a170aeeebffed2d614e1cdb9
+DESCRIPTION:Speaker:  Shuai Wang\, College of Information Sciences and Tec
+ hnology\, Pennsylvania State University\nTitle:   "Identifying Cache-based
+  Side Channels in Production Software" \n\nAbstract:  Side-channel attacks
+  recover secret information by analyzing the physical implementation of cr
+ yptosystems based on non-functional computational characteristics\, e.g. t
+ ime\, power\, and acoustic. Among all well-known side channels\, cache-bas
+ ed side channels are notoriously severe\, leading to practical attacks aga
+ inst certain implementations of theoretically secure crypto algorithms\, s
+ uch as RSA\, ElGamal and AES. Such attacks target the hierarchical design 
+ of the modern computer memory system\, where different memory access patte
+ rns of a program can bring observable cache status difference.\n In this t
+ alk\, Shuai Wang will present novel techniques to help software developers
+  identify potential vulnerabilities that can lead to cache-based side chan
+ nel attacks. The technique leverages constraint solving to detect potentia
+ l cache access differences at each program point. He will also describe tw
+ o approaches\, which leverage symbolic execution and abstract interpretati
+ on to deliver scalable detection of side channels. The proposed techniques
+  have been implemented into two practical tools\, and both tools have disc
+ overed a large number of known and unknown side-channel vulnerabilities fr
+ om real-world cryptosystems. He will conclude by discussing opportunities 
+ he is excited to explore in the future\, including supporting the detectio
+ n of new side-channel threats\, eliminating side-channel vulnerabilities f
+ rom existing software\, and providing new infrastructures for side-channel
+  detection on x86 and IoT platforms.\n      \n Bio : Shuai W
+ ang is a Ph.D. candidate in the College of Information Sciences and Techno
+ logy\, Pennsylvania State University. He is advised by Dinghao Wu. Shuai W
+ ang is broadly interested in computer security and specializes in software
+  security. The overall goal of his research is to enable building more sec
+ ure software systems.\n In addition to publications at top-tier venues for
+  Computer Security and Software Engineering\, his work has also achieved n
+ otable impacts. For example\, his binary reverse engineering work has been
+  adopted and enhanced by two teams among the seven finalists in the 2016 D
+ ARPA Cyber Grand Challenge (CGC) competition.  \n \n     \n
+LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From SAT to Stochastic SAT -  (Artificial Intelligence Lab Seminar
+ )
+DTSTART:20180213T210000Z
+DTEND:20180213T220000Z
+DTSTAMP:20180213T210000Z
+UID:20180213T210000Z_32c2ab1d6828b12a1d64ecf035d6723b
+DESCRIPTION:Speaker:  Ricardo Salmon\, David R. Cheriton School of Compute
+ r Science\nTitle:   "From SAT to Stochastic SAT" \n\nAbstract:  Stochastic
+  satisfiability (SSAT) problems are an extension of SAT problems that is P
+ SPACE-complete and in the same complexity class as quantified Boolean form
+ ula (QBF) and partially observable Markov decision processes (POMDPs).\n W
+ e show how to extend techniques from SAT into a stochastic solver called P
+ rime\, that solves probabilistic inference and POMDP problems. Similar to 
+ SAT and other NP-hard problems\, where a lot of research has been invested
+ \, we hope to encourage further research into SSAT. The results show that 
+ our solver is able to tackle large problems and is very competitive.  \n \
+ n \n
+LOCATION:DC 2306C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faster Approximate  Diameter and Distance Oracles in Planar Graphs

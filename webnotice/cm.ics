@@ -2,4 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Computational Mathematics)
+BEGIN:VEVENT
+SUMMARY:Simulating fluid flows with large and small scales without having 
+ to pay (too much) for it -  (Colloquium)
+DTSTART:20180206T210000Z
+DTEND:20180206T220000Z
+DTSTAMP:20180206T210000Z
+UID:20180206T210000Z_e44a43a3b1871e5a955aeee3c60cc491
+DESCRIPTION:Speaker:  Dr. Jean-Christophe Nave\, Department of Mathematics
+  and Statistics\, McGill University\nTitle:   "Simulating fluid flows with
+  large and small scales without having to pay (too much) for it" \n\nRemar
+ ks:  Refreshments served at 3:45pm in MC 6460  \n\nAbstract:  There are tw
+ o fundamental numerical challenges associated with solving fluid flow prob
+ lems involving multiple fluids/components/phases/scales: (1) solving PDEs 
+ with discontinuous coefficients and interface conditions\, (2) evolving in
+  time the geometry (e.g.\, a density\, a concentration\, the interface bet
+ ween air and water ) \nIn this talk I will present high-order numerical 
+ techniques to solve these problems on a regular Cartesian grid. First\, I 
+ will introduce the Correction Function Method (CFM) framework and will app
+ ly it to solve a canonical problem: Poisson's equation with interface jump
+  discontinuities. Second\, I will introduce the Gradient-Augmented Level S
+ et Method (GALSM) and will apply it to the problem of evolving interfaces 
+ separating the various fluid domains.\nThroughout this talk I will illustr
+ ate our approach with simulations of physical systems. I will end by showi
+ ng a surprising extension of the methods developed to solve with arbitrary
+  resolution the incompressible Euler equations.  \n \n            
+LOCATION:MC 6460
+END:VEVENT
 END:VCALENDAR

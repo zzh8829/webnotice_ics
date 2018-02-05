@@ -3,386 +3,164 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (All Departments)
 BEGIN:VEVENT
-SUMMARY:The Douglas-Rachford splitting algorithm for inconsistent minimiza
- tion problems - Combinatorics and Optimization (Special Seminar)
-DTSTART:20180129T143000Z
-DTEND:20180129T153000Z
-DTSTAMP:20180129T143000Z
-UID:20180129T143000Z_68c936b8007b4aeed9217485add2b12a
-DESCRIPTION:Speaker:  Walaa Moursi\, Stanford University\nTitle:   "The Do
- uglas-Rachford splitting algorithm for inconsistent minimization problems"
-  \n\nAbstract:  The Douglas--Rachford (DR) method is one of the most \npop
- ular splitting methods in optimization.\nThe method was first introduced i
- n 1956 to numerically solve certain types of heat equations. \nIn their se
- minal work Lions (a Fields' medalist) and Mercier extended the algorithm t
- o find a zero \nof the sum of two\, not necessarily linear and possibly se
- t-valued\, maximally monotone operators in possibly infinite-dimensional H
- ilbert spaces.\nNowadays\, the method is a very popular splitting techniqu
- e for finding a minimizer of the sum of two convex functions\, more genera
- lly a zero of the sum of two maximally monotone operators.\nNonetheless\, 
- the behaviour of the algorithm remains mysterious in the general inconsist
- ent case\, i.e.\, when the sum problem has no zeros\, which corresponds to
-  the absence of minimizers. However\, more than a decade ago\, it was show
- n that in the (possibly inconsistent) convex feasibility setting\, the so-
- called shadow sequence remains bounded and its weak cluster points solve a
-  best approximation problem. In this talk\, we advance the understanding o
- f the inconsistent case significantly by presenting a complete proof of th
- e full weak convergence in the convex feasibility setting. We also provide
-  strong and linear rates of convergence in special cases.  \n \n \n
-LOCATION:MC 5417
+SUMMARY:Algorithms and complexity for quantum advantage - Combinatorics an
+ d Optimization (Special Seminar)
+DTSTART:20180205T143000Z
+DTEND:20180205T153000Z
+DTSTAMP:20180205T143000Z
+UID:20180205T143000Z_af6c7f510ef4e3cee1e47e82f15795a8
+DESCRIPTION:Speaker:  David Gosset\, IBM - T.J. Watson Research Center\nTi
+ tle:   "Algorithms and complexity for quantum advantage" \n\nAbstract:  Th
+ ere is strong evidence that a sufficiently large fault-tolerant quantum co
+ mputer would solve certain computational problems exponentially faster tha
+ n any classical computer. How can quantum algorithms and complexity theory
+  help guide the way forward in our current era of small and noisy quantum 
+ computers?\n A quantum computer without error correction will likely be li
+ mited to implementing short depth quantum circuits.  In the first part of 
+ the talk I will describe a linear algebra problem which is solved by a con
+ stant-depth quantum circuit but provably cannot be solved by any classical
+  circuit of less than logarithmic depth. This constitutes an unconditional
+  separation between constant depth quantum circuits and their classical co
+ unterparts.\n Classical simulation algorithms can be used to verify small 
+ quantum computers and to help demarcate the classically easy and hard regi
+ mes. In the second part of the talk I will describe a classical algorithm 
+ that can be used to simulate quantum circuits over the Clifford+T gate set
+  with mildly exponential scaling in the number of T gates.\n Finally\, I w
+ ill discuss how quantum computer science is intimately linked with our und
+ erstanding of physical systems and the complexity of simulating them. I wi
+ ll describe how a universal quantum computer is equivalent in computationa
+ l power to a quantum many-body system consisting of indistinguishable part
+ icles which move and interact on the vertices of a graph.  \n \n \n
+LOCATION:QNC 0101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Problems on sofic and hyperlinear groups - Pure Mathematics (Semin
- ar)
-DTSTART:20180129T163000Z
-DTEND:20180129T173000Z
-DTSTAMP:20180129T163000Z
-UID:20180129T163000Z_aaeb00d20b6a47327fb64f1ab020aee0
-DESCRIPTION:Speaker:  Ehsaan Hossain\, Department of Pure Mathematics\, Un
- iversity of Waterloo\nTitle:   "Problems on sofic and hyperlinear groups" 
- \n\nAbstract:  A sofic group is one that can be locally approximated by fi
- nite groups\; it is equivalent to embed into a "metric ultraproduct'' of f
- inite groups. A hyperlinear group is the same thing except with unitary ma
- trix groups instead of finite ones. So every sofic group is hyperlinear\, 
- but it is still standing whether these classes are the same. In fact nobod
- y knows even one example of a group that is not sofic or hyperlinear!\n So
- fic/hyperlinear groups are amongst the largest classes of groups for which
-  various famous problems have been verified: Connes's embedding problem\, 
- Gottschalk surjunctivity\, and Kaplansky's group rings problems\, amongst 
- others --- so the problems in soficity can give solutions for even some of
-  the biggest conjectures in other subjects. I'll learn about these and let
-  you know what I find\, and as the semester progresses\, let's try to get 
- our hands dirty with these groups and see what the field is like.  \n \n \
- n
-LOCATION:MC 5479
+SUMMARY:Ultraproducts and some loose ends - Pure Mathematics (Seminar)
+DTSTART:20180205T173000Z
+DTEND:20180205T183000Z
+DTSTAMP:20180205T173000Z
+UID:20180205T173000Z_e3b6982d01d7ca07c04a133f6c3d6345
+DESCRIPTION:Speaker:  John Sawatzky\, Department of Pure Mathematics\, Uni
+ versity of Waterloo\nTitle:   "Ultraproducts and some loose ends" \n\nAbst
+ ract:  We'll complete the metric ultraproduct construction\, and show that
+  a sofic group embeds in an ultraproduct of symmetric groups equipped with
+  the Hamming distance. If possible we'll tie up some of the loose ends fro
+ m last time\, e.g. the dependence on that constant $r$\, and residually fi
+ nite groups.  \n \n \n
+LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:From SAT to Stochastic SAT - Computer Science (Artificial Intellig
- ence Lab Seminar)
-DTSTART:20180129T180000Z
-DTEND:20180129T190000Z
-DTSTAMP:20180129T180000Z
-UID:20180129T180000Z_32c2ab1d6828b12a1d64ecf035d6723b
-DESCRIPTION:Speaker:  Ricardo Salmon\, David R. Cheriton School of Compute
- r Science\nTitle:   "From SAT to Stochastic SAT" \n\nAbstract:  Stochastic
-  satisfiability (SSAT) problems are an extension of SAT problems that is P
- SPACE-complete and in the same complexity class as quantified Boolean form
- ula (QBF) and partially observable Markov decision processes (POMDPs).\n W
- e show how to extend techniques from SAT into a stochastic solver called P
- rime\, that solves probabilistic inference and POMDP problems. Similar to 
- SAT and other NP-hard problems\, where a lot of research has been invested
- \, we hope to encourage further research into SSAT. The results show that 
- our solver is able to tackle large problems and is very competitive.  \n \
- n \n
-LOCATION:DC 2306C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Low-Cost Maps in Computer Science and Data Analysis - Computer Sci
- ence (Algorithms and Complexity Group Seminar)
-DTSTART:20180130T153000Z
-DTEND:20180130T163000Z
-DTSTAMP:20180130T153000Z
-UID:20180130T153000Z_ab2003a18898dddeea2c649079934dfa
-DESCRIPTION:Speaker:  Amir Nayyeri\, Oregon State University\nTitle:   "Lo
- w-Cost Maps in Computer Science and Data Analysis" \n\nAbstract:  The gene
- ral mathematical problem of computing low-cost maps between two metric spa
- ces is prevalent in many applications\, including registration in medical 
- image processing\, function detection in protein modeling\, reconstructing
-  evolutionary trees in phylogenomics\, finding recurrent patterns in data 
- analysis\, and finding simple representations of data in visualization. Ma
- ny instances of the general problem are provably hard\, so we have a dicho
- tomy. On one hand\, we have general algorithms with theoretical worst-case
-  guarantees that are prohibitively slow in practice\, and on the other we 
- have faster heuristics engineered for specific applications\, but lacking 
- guarantees. In dichotomy is opportunity  we use parameterized complexity
-  to create a finer understanding of the complexity of computing low-cost m
- aps between metric spaces based on their geometric and topological propert
- ies. We specifically target new algorithms with better performance guarant
- ees\, in particular\, for cases of practical interest.\n In this talk\, I 
- focus on two instances of low-cost maps: embeddings with low multiplicativ
- e distortion\, and homeomorphisms with low Frechet length. Specifically\, 
- I present new results on embedding into tree-like metrics\, and computing 
- the Frechet distance between surfaces.\n      \n Bio : Amir 
- Nayyeri works on algorithm design. Specifically\, he is interested in fund
- amental algorithmic problems about geometric and topological structures su
- ch as metric spaces\, graphs\, or simplicial complexes that are inspired b
- y applications in computer science and data analysis.  \n Amir is currentl
- y an assistant professor at Oregon State University. He received his PhD f
- rom University of Illinois at Urbana Champaign\, advised by Jeff Erickson.
-  Before joining OSU\, he was a postdoctoral fellow at Carnegie Mellon Univ
- ersity.  \n \n \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finiteness conditions of schemes - Pure Mathematics (Seminar)
-DTSTART:20180130T200000Z
-DTEND:20180130T210000Z
-DTSTAMP:20180130T200000Z
-UID:20180130T200000Z_e89ecdcc2c8c5ffff500b7bd0e9181dd
-DESCRIPTION:Speaker:  Brett Nasserden\, Department of Pure Mathematics\, U
- niversity of Waterloo\nTitle:   "Finiteness conditions of schemes" \n\nAbs
- tract:  To better understand the category of schemes I will explore finite
- ness properties that the morphisms between schemes may possess. In particu
- lar\, affine\, integral\, and other finite type conditions will be examine
- d. The lecture should be accessible to anyone with a basic understanding o
- f scheme theory.  \n \n \n
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Modern Classification with Big Data - Statistics & Actuarial Scien
- ce (Seminar)
-DTSTART:20180131T153000Z
-DTEND:20180131T163000Z
-DTSTAMP:20180131T153000Z
-UID:20180131T153000Z_4241f53a0bbf81da4f21b667c221d030
-DESCRIPTION:Speaker:  Boxiang Wang\, University of Minnesota\nTitle:   "Mo
- dern Classification with Big Data" \n\nRemarks:  Refreshments will be prov
- ided.  \n\nAbstract:  Rapid advances in information technologies have ushe
- red in the era of "big data" and revolutionized the scientific research. B
- ig data creates golden opportunities but has also arisen unprecedented cha
- llenges due to the massive size and complex structure of the data. Among m
- any tasks in statistics and machine learning\, classification has diverse 
- applications\, ranging from improving daily life to reaching the new front
- iers of science and engineering. This talk will discuss the envisions of b
- roader approaches to modern classification methodologies\, as well as comp
- utational considerations to cope with the big data challenges. I will pres
- ent a modern classification method named data-driven generalized distance-
- weighted discrimination. A fast algorithm with an emphasis on computationa
- l efficiency for big data will be introduced. Our method is formulated in 
- a reproducing kernel Hilbert space\, and learning theory of the Bayes risk
-  consistency will be developed. In addition\, I will use extensive benchma
- rk data applications to demonstrate that the prediction accuracy of our me
- thod is highly competitive with state-of-the-art classification methods in
- cluding support vector machine\, random forest\, gradient boosting\, and d
- eep neural network.  \n \n \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Basic Learning Problem that is Independent of the Set Theory ZFC
-  Axioms - Computer Science (Algorithms and Complexity Group Seminar)
-DTSTART:20180131T193000Z
-DTEND:20180131T203000Z
-DTSTAMP:20180131T193000Z
-UID:20180131T193000Z_bc9a53c038b02c7f339d65e1d36ca0d6
-DESCRIPTION:Speaker:  Shai Ben-David\, David R. Cheriton School of Compute
- r Science\nTitle:   "A Basic Learning Problem that is Independent of the S
- et Theory ZFC Axioms" \n\nAbstract:  We consider the Expectation Maximizat
- ion (EMX) problem that captures many well-studied learning problems. We st
- udy the interaction between the statistical sample complexity of a class o
- f functions and its combinatorial structure. Surprisingly\, we show that t
- he EMX learnability\, as well as the learning rates of some basic class of
-  functions F\, depend on the cardinality of the continuum in the model of 
- set theory one "lives in" and is therefore  independent of the set theory 
- ZFC axioms (that are widely accepted as a formalization of the notion of a
-  mathematical proof).\n This result implies that there exist no finitery
-  combinatorial parameter that characterizes EMX learnability in a way si
- milar to the VC-dimension characterization of binary valued classification
-  problems.\n The talk is based on joint work with Pavel Hrube\, Shay Mor
- an\, Amir Shpilka and Amir Yehudayoff.  \n \n \n
-LOCATION:DC 1304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robust counterpart approximations of scalar chance constraints - C
- ombinatorics and Optimization (Continuous Optimization Seminar)
-DTSTART:20180131T210000Z
-DTEND:20180131T220000Z
-DTSTAMP:20180131T210000Z
-UID:20180131T210000Z_fd384066258537685686c82a54c9b1bc
-DESCRIPTION:Speaker:  Reading Group\, University of Waterloo\nTitle:   "Ro
- bust counterpart approximations of scalar chance constraints" \n\nAbstract
- :  We will cover section 2.1\, section 2.2 and part of section 2.3 of the 
- book Robust Optimization by Ben-Tal et al. Given a non-deterministic linea
- r inequality and its uncertainty set\, there is a chance that coefficients
-  of the non-deterministic linear inequality can be determined outside of t
- he uncertainty set with a very small probability. We will introduce basic 
- notions of chance constraints\, its difficulties as well as its strengths.
-   \n \n \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polar Projects - Conceptualizing and rendering arctic spaces - Fac
- ulty of Mathematics (Bridges Lecture Lecture)
-DTSTART:20180201T003000Z
-DTEND:20180201T013000Z
-DTSTAMP:20180201T003000Z
-UID:20180201T003000Z_29d2d08800968653cdd5e80ed2e8bcc2
-DESCRIPTION:Speaker:  Roxandra Moraru and P. Whitney Lackenbauer\, Departm
- ent of Pure Mathematics\n  and  St. Jerome's University\nTitle:   "Polar P
- rojects - Conceptualizing and rendering arctic spaces" \n\nRemarks:  Compl
- imentary tickets and parking with refreshments following the lecture. Regi
- ster at: https://ticketfi.com/event/1991/bridges-lecture-series-morarulack
- enbauer-jan-3118  \n\nAbstract:  The first Bridges lecture in 2018 will ex
- plore how humans have sought to make the Arctic legible (to borrow the phr
- ase of James C. Scott)\, from pre-contact Inuit understandings of space an
- d time\, through the practices and instruments of European maritime explor
- ers\, through the introduction of aviation and the refinement of Arctic ai
- r navigation\, to the age of satellites. By bringing history\, geography\,
-  and geometry into dialogue\, Professors Moraru and Lackenbauer will discu
- ss how humans have measured\, defined\, and characterised space and time\,
-  and how mathematics continues to explain what is possible  and what is 
- not.  \n \n \n
-LOCATION:Vanstone Lecture Hall\, St. Jerome's University Academic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On Pretty Good State Transfer\, Entanglement\, and Spin Chains - C
- ombinatorics and Optimization (Algebraic Graph Theory Seminar)
-DTSTART:20180201T183000Z
-DTEND:20180201T193000Z
-DTSTAMP:20180201T183000Z
-UID:20180201T183000Z_cf528000d7ff1bc32e41fe5f45d76f69
-DESCRIPTION:Speaker:  Christopher van Bommel\, University of Waterloo\nTit
- le:   "On Pretty Good State Transfer\, Entanglement\, and Spin Chains" \n\
- nAbstract:  We discuss the Vieira and Rigolin paper Almost perfect trans
- port of an entangled two-qubit state through a spin chain\, which consid
- ers slight modifications to a spin chain (I.e. path) that allows a maximal
- ly entangled two-qubit state to be almost perfectly transferred from one e
- nd to the other.  \n \n \n
+SUMMARY:ALBANIS: A brief overview of Lattice-Based NIST Submissions - Comb
+ inatorics and Optimization (Cryptography Seminar)
+DTSTART:20180205T180000Z
+DTEND:20180205T190000Z
+DTSTAMP:20180205T180000Z
+UID:20180205T180000Z_01ddbd7a95f29bea1353ad665d9e91f3
+DESCRIPTION:Speaker:  Luis Ruiz\, University of Waterloo\nTitle:   "ALBANI
+ S: A brief overview of Lattice-Based NIST Submissions" \n\nAbstract:  Now 
+ that the NIST competition is in the first round of the review process\, it
+  is our turn to take a look at the submissions (at least\, briefly). In th
+ is session we will talk about the ones in the lattice-based category.  \n 
+ \n \n
 LOCATION:MC 6486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holomorphy of L-functions and its applications - Pure Mathematics 
- (Number Theory Seminar Seminar)
-DTSTART:20180201T183000Z
-DTEND:20180201T193000Z
-DTSTAMP:20180201T183000Z
-UID:20180201T183000Z_db6ce1a325a24d8a07476aa93189916e
-DESCRIPTION:Speaker:  Peng-Jie Wong\, University of Lethbridge\nTitle:   "
- Holomorphy of L-functions and its applications" \n\nAbstract:  The analyti
- c properties of L-functions have been one of the \ncentral topics in numbe
- r theory as they have a deep connection \nwith the distribution of primes.
-  For example\, the Riemann zeta \nfunction led to a proof of the celebrate
- d prime number theorem. In \ngeneral\, for any number field\, there are pr
- imes and L-functions of \nsimilar nature. In this talk\, we shall discuss 
- the holomorphy of \nsuch L-functions and its applications to the distribut
- ions of the \nassociated primes.  \n \n \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hyperreals (Infinitesimals and the transfer principle) - Pure 
- Mathematics (Seminar)
-DTSTART:20180201T210000Z
-DTEND:20180201T220000Z
-DTSTAMP:20180201T210000Z
-UID:20180201T210000Z_ce31019199308c79a6aa127e0364a7e5
-DESCRIPTION:Speaker:  Justin Laverdure\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "The Hyperreals (Infinitesimals and the t
- ransfer principle)" \n\nAbstract:  Intuitive discussions about calculus am
- ong those 'uninitiated' into proper analysis often involve discussions abo
- ut "infinitely small" quantities. Foundations of calculus\, of course\, fr
- ame these as limiting processes\, but can an actual concept of an infinite
- simal number be recovered and worked with directly? Turns out the answer i
- s "yes": we may enlarge the real line in such a way that there are infinit
- esimal quantities\, those strictly greater than zero but less than every 1
- /n. \n In fact\, the real numbers and the hyperreal numbers are closely re
- lated: facts about one can be translated to facts about the other. Thus\, 
- understanding the real line helps us to understand the hyperreal line\, an
- d interestingly\, the converse as well. In particular\, certain proofs in 
- analysis admit simpler proofs\, once the techniques of "non-standard analy
- sis" have been introduced.  \n \n \n
+SUMMARY:Integrability and non-integrability in pentagram maps - Pure Mathe
+ matics (Colloquium)
+DTSTART:20180205T210000Z
+DTEND:20180205T220000Z
+DTSTAMP:20180205T210000Z
+UID:20180205T210000Z_6dcbeb1fe22bff62ffb6652afe2d2a8c
+DESCRIPTION:Speaker:  Boris Khesin\, University of Toronto\nTitle:   "Inte
+ grability and non-integrability in pentagram maps" \n\nRemarks:  Refreshme
+ nts will be served in MC 5403 at 3:30pm.  \n\nAbstract:  We define pentagr
+ am maps on polygons in any dimension\, which extend R. Schwartz's definiti
+ on of the 2D pentagram map. Many of those maps turn out to be discrete int
+ egrable dynamical systems\, while the corresponding continuous limits of s
+ uch maps coincide with equations of the KdV hierarchy\, generalizing the B
+ oussinesq equation in 2D. We discuss their geometry\, Lax forms\, and inte
+ rrelations between recent pentagram generalizations. This is a joint work 
+ with F. Soloviev.  \n \n \n
 LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Polynomial systems: Graphical structure\, Geometry\, and Applicati
- ons - Combinatorics and Optimization (Special Seminar)
-DTSTART:20180202T143000Z
-DTEND:20180202T153000Z
-DTSTAMP:20180202T143000Z
-UID:20180202T143000Z_0628cbb2855616559d7e633acc6cbae8
-DESCRIPTION:Speaker:  Diego Cifuentes\, MIT\nTitle:   "Polynomial systems:
-  Graphical structure\, Geometry\, and Applications" \n\nAbstract:  Various
-  problems in areas such as robotics\, power systems\, computer vision\, cr
- yptography\, and chemical reaction networks\, can be modeled by systems of
-  polynomial equations\, and in many cases the resulting systems have a sim
- ple sparsity structure. In the  first part of this talk we represent this 
- sparsity structure with a graph\, and study the algorithmic and complexity
-  consequences of this graphical abstraction. In particular\, we derive nov
- el algorithms to solve polynomial systems. These methods outperform existi
- ng techniques by orders of magnitude in certain applications from algebrai
- c statistics and vector addition systems.\n The second part of this talk f
- ocuses on the problem of minimizing a polynomial function subject to polyn
- omial equality constraints. This problem captures many important applicati
- ons\, including Max-Cut\, tensor low rank approximation\, the triangulatio
- n problem\, and rotation synchronization. Although these problems are nonc
- onvex\, tractable semidefinite programming (SDP) relaxations have been pro
- posed. We show novel guarantees on the quality of this relaxations. In par
- ticular\, we prove that estimation problems such as camera triangulation\,
-  rank one tensor approximation and rotation synchronization can be solved 
- exactly by SDP relaxations in the low noise regime.  \n \n \n
-LOCATION:MC 5501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ultraproducts and congruence distributive varieties - Part 1 - Pur
- e Mathematics (Universal Algebra Seminar)
-DTSTART:20180202T190000Z
-DTEND:20180202T200000Z
-DTSTAMP:20180202T190000Z
-UID:20180202T190000Z_4b39bfc688f26e479ea13e14001a819d
-DESCRIPTION:Speaker:  Nasir Sohail\, Wilfrid Laurier University\nTitle:   
- "Ultraproducts and congruence distributive varieties - Part 1" \n\nAbstrac
- t:  I shall go from (direct) product to ultraproduct using a particular co
- ngruence. The ultraproduct of a finite set of finite algebras will be cons
- idered as a special case.  \n \n \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Complexity and Capacity Bounds for Operator Systems and Quantum Ch
- annels - Pure Mathematics (Analysis Seminar Seminar)
-DTSTART:20180202T193000Z
-DTEND:20180202T203000Z
-DTSTAMP:20180202T193000Z
-UID:20180202T193000Z_b248bf0d619979105609d9b0575171ff
-DESCRIPTION:Speaker:  Vern Paulsen\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Complexity and Capacity Bounds for Operator 
- Systems and Quantum Channels" \n\nAbstract:  This is based on joint work w
- ith R. Levine and I. Todorov.   \n  Shannon introduced the concept of the 
- one-shot zero-error capacity of a classical channel and proved that each s
- uch channel had a graph affiliated with it so that the one-shot zero-error
-  capacity was the independence number of the graph.  The zero-error capaci
- ty is then obtained by taking the k-th root of the strong product of the g
- raph with itself k times and taking the supremum over k.  Shannon admitted
- ly couldnt compute this value for many graphs\, but then Lovasz introduc
- ed his theta function of a graph as a computable upper bound. The Lovasz t
- heta bound is still the best known bound for this capacity.\n Dean\, Sever
- ini\, and Winter studied Shannons ideas for quantum channels and proved 
- that each quantum channel has affiliated with it an operator system such t
- hat the one-shot zero-error capacity of the channel is the "independence n
- umber of the operator system. They then argued that the analogue of Shan
- nons capacity is to take the k-th root of the independence number of the
-  tensor product of the operator system with itself k times and take the su
- premum over k.  They then introduced the analogue of the Lovasz theta func
- tion for an operator system.\n In this talk we will review these ideas and
-  then introduce our new idea of the "complexity" of an operator system and
-  show that this gives another bound on the zero-error capacity of the quan
- tum channel.  We will present several different linear algebraic character
- izations of complexity. We will then show that there are some operator sys
- tems and quantum channels for which our complexity based bound is better t
- han the Lovasz bound.  \n \n \n
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Fibered Morphism and Definite Determinantal Representations -
-  Pure Mathematics (Geometry & Topology Seminar Seminar)
-DTSTART:20180202T193000Z
-DTEND:20180202T203000Z
-DTSTAMP:20180202T193000Z
-UID:20180202T193000Z_e78a233e7755f05ec010b75956716d70
-DESCRIPTION:Speaker:  Eli Shamovich\, Department of Pure Mathematics\, Uni
- versity of Waterloo\nTitle:   "Real Fibered Morphism and Definite Determin
- antal Representations" \n\nAbstract:  Stable and hyperbolic polynomials ar
- ose in the study of differential equations. These polynomials give rise to
-  real projective hypersurfaces with interesting convexity properties. Thes
- e convexity properties are used both in pure and applied mathematics (Kadi
- son-Singer and optimization for example). A good way to certify hyperbolic
- ity is to produce a definite determinant representation. Unfortunately\, t
- his is not always possible. In this talk I will present a generalization o
- f the hyperbolic property to morphisms between real projective varieties. 
- I will also discuss the notion of determinant representation and definite 
- Ulrich sheaves and show how the two notions relate. Time permitting\, I wi
- ll describe an algorithm to construct definite Ulrich sheaves on hyperboli
- c curves using theta functions with certain special characteristics on the
-  normalization.\n This talk is based on joint works with V. Vinnikov and M
- . Kummer.  \n \n \n
+SUMMARY:More on GL_q(2) and SL_q(2) - Pure Mathematics (Algebra Learning S
+ eminar Seminar)
+DTSTART:20180206T150000Z
+DTEND:20180206T160000Z
+DTSTAMP:20180206T150000Z
+UID:20180206T150000Z_d06c441b9a752d3a2ca08305141771de
+DESCRIPTION:Speaker:  Chris Schafhauser\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "More on $GL_q(2)$ and $SL_q(2)$" \n\nAb
+ stract:  Last week Hongdi constructed the Hopf algebra structure on $GL_q(
+ 2)$ and $SL_q(2)$.  I will discuss the natural coaction of these objects o
+ n the quantum plane $k_q(2)$.  \n \n \n
 LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Performance Engineering More Accessible to Software Develop
+ ers - Computer Science (Software Engineering Research Group Seminar)
+DTSTART:20180206T153000Z
+DTEND:20180206T163000Z
+DTSTAMP:20180206T153000Z
+UID:20180206T153000Z_eca48b254a049c92255eb36fdd2e6293
+DESCRIPTION:Speaker:  Cor-Paul Bezemer\, Postdoctoral research fellow\, So
+ ftware Analysis and Intelligence Lab\, Queen's University\nTitle:   "Makin
+ g Performance Engineering More Accessible to Software Developers" \n\nAbst
+ ract:  Performance is extremely important for software systems. For exampl
+ e\, a one-second slowdown of the checkout process would cost Amazon $1.6 b
+ illion per year. Despite the importance of performance\, all too often it 
+ is considered as the last step in product delivery\, and it is often done 
+ by operators and system engineers instead of with actual developers. Howev
+ er\, many performance-related decisions\, such as those about the configur
+ ation and monitoring of a software system\, would benefit tremendously fro
+ m the input of software developers. Unfortunately\, many developers are no
+ t sufficiently trained to tackle performance challenges in practice.\n In 
+ my presentation\, I will discuss why performance engineering and software 
+ development should go hand in hand. First\, I highlight examples of perfor
+ mance challenges based on several longitudinal studies that we conducted o
+ n the Linux kernel and the Steam gaming platform. Then\, I present two exa
+ mples of how we can make performance engineering more accessible to develo
+ pers. In the first example\, I show how performance analytics can help opt
+ imize performance-related configuration options. In the second example\, I
+  show how performance analytics can help one make informed decisions about
+  the tradeoffs between the amount of information that is being logged in a
+  software system and its field performance.\n      \n Bio : 
+ Cor-Paul Bezemer currently works as a postdoctoral research fellow in the 
+ Software Analysis and Intelligence Lab (SAIL) at Queen's University in Kin
+ gston\, Canada. His research interests cover a wide variety of software en
+ gineering and performance engineering-related topics. His work has been pu
+ blished at premier software engineering venues such as the ESEC-FSE\, ICSM
+ E and ICPE conferences and the  TSE  and  EMSE  journals. He is one of the
+  vice-chairs of the SPEC research group on DevOps Performance. Before movi
+ ng to Canada\, he studied at Delft University of Technology in the Netherl
+ ands\, where he received his BSc (2007)\, MSc (2009) and PhD (2014) degree
+  in Computer Science. \n More about Cor-Paul can be found on  his website:
+  .  \n \n \n
+LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waring's theorem for binary k'th powers and palindromes - Pure Mat
+ hematics (Number Theory Seminar Seminar)
+DTSTART:20180206T183000Z
+DTEND:20180206T193000Z
+DTSTAMP:20180206T183000Z
+UID:20180206T183000Z_46a3cec54f2253582c5acae1b2e19d8d
+DESCRIPTION:Speaker:  Jeffrey Shallit\, David R. Cheriton School of Comput
+ er Science\, University of Waterloo\nTitle:   "Waring's theorem for binary
+  k'th powers and palindromes" \n\nAbstract:  Recently there has been some 
+ interest in analogues of Waring's theorem for other kinds of sets analogou
+ s to powers of integers.  For example\, Banks proved that every natural nu
+ mber is the sum of at most 49 numbers whose base-10 expansion is a palindr
+ ome\, and this was improved to 3 for all bases $b \\ge 5$ by Cilleruelo\, 
+ Luca\, and Baster.\n In this talk I will discuss some recent results about
+  palindromes in bases 2\, 3\, 4 and binary k'th powers. (A binary k'th pow
+ er is an integer whose base-2 expansion consists of k consecutive identica
+ l blocks.) In particular\, I'll show that for all $k \\ge 1$ there exists 
+ a constant W(k) such that every sufficiently large multiple of $\\gcd(k\, 
+ 2^k - 1)$ is the sum of W(k) binary k'th  powers.\n This is joint work wit
+ h Aayush Rajasekaran\, Dirk Nowotka\, Parthasarathy Madhusudan\, Tim Smith
+ \, Daniel Kane\, and Carlo Sanna.  \n \n \n
+LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CSIS Bulk Data Collection and National Security Surveillance - Com
@@ -431,6 +209,69 @@ DESCRIPTION:Speaker:  Micheal Vonn\, BC Civil Liberties Association\nTitle
 LOCATION:DC 1304
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finite and integral morphisms - Pure Mathematics (Seminar)
+DTSTART:20180206T200000Z
+DTEND:20180206T210000Z
+DTSTAMP:20180206T200000Z
+UID:20180206T200000Z_8cd5988995a3d9318a1450479f4b43f6
+DESCRIPTION:Speaker:  Diana Castaneda Santos\, Department of Pure Mathemat
+ ics\, University of Waterloo\nTitle:   "Finite and integral morphisms" \n\
+ nAbstract:  We will continue studying properties of finite and integral mo
+ rphisms. We will use properties of algebra homomorphisms to prove that fin
+ ite morphisms have finite fibers and that they are affine local on the tar
+ get. We will also prove that integral morphisms are closed and we will stu
+ dy some examples. Time permitting we will introduce morphisms (locally) of
+  finite type.  \n \n \n
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simulating fluid flows with large and small scales without having 
+ to pay (too much) for it - Computational Mathematics (Colloquium)
+DTSTART:20180206T210000Z
+DTEND:20180206T220000Z
+DTSTAMP:20180206T210000Z
+UID:20180206T210000Z_a38e98f6aa31c98dc80f6df35a9286db
+DESCRIPTION:Speaker:  Dr. Jean-Christophe Nave\, Department of Mathematics
+  and Statistics\, McGill University\nTitle:   "Simulating fluid flows with
+  large and small scales without having to pay (too much) for it" \n\nRemar
+ ks:  Refreshments served at 3:45pm in MC 6460  \n\nAbstract:  There are tw
+ o fundamental numerical challenges associated with solving fluid flow prob
+ lems involving multiple fluids/components/phases/scales: (1) solving PDEs 
+ with discontinuous coefficients and interface conditions\, (2) evolving in
+  time the geometry (e.g.\, a density\, a concentration\, the interface bet
+ ween air and water ) \nIn this talk I will present high-order numerical 
+ techniques to solve these problems on a regular Cartesian grid. First\, I 
+ will introduce the Correction Function Method (CFM) framework and will app
+ ly it to solve a canonical problem: Poisson's equation with interface jump
+  discontinuities. Second\, I will introduce the Gradient-Augmented Level S
+ et Method (GALSM) and will apply it to the problem of evolving interfaces 
+ separating the various fluid domains.\nThroughout this talk I will illustr
+ ate our approach with simulations of physical systems. I will end by showi
+ ng a surprising extension of the methods developed to solve with arbitrary
+  resolution the incompressible Euler equations.  \n \n \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Introduction to Quantum Graphs\, Chromatic Numbers and Lovász 
+ Inequalties - Pure Mathematics (Seminar)
+DTSTART:20180206T213000Z
+DTEND:20180206T223000Z
+DTSTAMP:20180206T213000Z
+UID:20180206T213000Z_db482d3884113fa4d8f321752df7dc3d
+DESCRIPTION:Speaker:  Arthur Mehta\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "An Introduction to Quantum Graphs\, Chromati
+ c Numbers and Lovász Inequalties" \n\nAbstract:  Joint Pure Math/C&O Grad
+ uate Student Colloquium\n Quantum graph theory\, also known as non-commuta
+ tive graph theory\, is an operator system generalization of graph theory. 
+ Quantum graphs were first used to extend the notion of one-shot-zero-error
+  capacity of a "Noisy Channel" to "Quantum Channels" .  In this talk we go
+  over some of this original motivation  and generalize several key graph t
+ heory parameters. We will also look at attempts made to define the complem
+ ent of a Quantum graph and generalize the famous Lovász inequality.  \n \
+ n \n
+LOCATION:MC 5501
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evolutionary Graph Theory - Computer Science (Algorithms and Compl
  exity Group Seminar)
 DTSTART:20180207T183000Z
@@ -454,6 +295,93 @@ DESCRIPTION:Speaker:  Josef Tkadlec\, PhD candidate\, Institute of Science
  esults concerning graphs for which the fixation probability tends to 1 as 
  the number of vertices tends to infinity.  \n \n \n
 LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Embedding Theorem for C*-algebras - Pure Mathematics (Seminar)
+DTSTART:20180207T190000Z
+DTEND:20180207T200000Z
+DTSTAMP:20180207T190000Z
+UID:20180207T190000Z_fa62e43497ca18dddc43c3df448a121e
+DESCRIPTION:Speaker:  Chris Schafhauser\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "An Embedding Theorem for C*-algebras" \
+ n\nAbstract:  A C*-algebra consists of an algebra of bounded linear operat
+ ors acting on a Hilbert space which is closed the adjoint operation (rough
+ ly\, the transpose) and is complete in a certain metric.  Typical examples
+  include the ring of $n \\times n$ complex matrices and the ring C(X) of r
+ epresentation of continuous functions from a compact space X to the comple
+ x numbers.  Many more interesting examples arise from various dynamical ob
+ jects (e.g. group and group actions) and from various geometric/topologica
+ l constructions.\n The structure of finite dimensional C*-algebras is well
+  understood: they are finite direct sums of complex matrix algebras.  The 
+ class of approximately finite-dimensional (AF) C*-algebras\, ones which ma
+ y be written as (the closure of) an increasing union of finite-dimensional
+  subalgebras\, are also well understood: they are determined up to isomorp
+ hism by their module structure.   However\, the class of sub-algebras of A
+ F-algebras is still rather mysterious\; it includes\, for instance\, all c
+ ommutative C*-algebras and all C*-algebras generated by amenable groups.  
+ It is a long-standing problem to find an abstract characterization of suba
+ lgebras of AF-algebras.\n I will discuss this class of algebras and a rece
+ nt partial answer to this AF-Embedding problem.  My goal is to keep the ta
+ lk accessible and mostly expository.  In particular\, I won't assume any p
+ rior knowledge of operator algebras or functional analysis.  \n \n \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Identifying Cache-based Side Channels in Production Software - Com
+ puter Science (Software Engineering Research Group Seminar)
+DTSTART:20180208T163000Z
+DTEND:20180208T173000Z
+DTSTAMP:20180208T163000Z
+UID:20180208T163000Z_d573970a06caeb723a65a773a173ac0e
+DESCRIPTION:Speaker:  Shuai Wang\, College of Information Sciences and Tec
+ hnology\, Pennsylvania State University\nTitle:   "Identifying Cache-based
+  Side Channels in Production Software" \n\nAbstract:  Side-channel attacks
+  recover secret information by analyzing the physical implementation of cr
+ yptosystems based on non-functional computational characteristics\, e.g. t
+ ime\, power\, and acoustic. Among all well-known side channels\, cache-bas
+ ed side channels are notoriously severe\, leading to practical attacks aga
+ inst certain implementations of theoretically secure crypto algorithms\, s
+ uch as RSA\, ElGamal and AES. Such attacks target the hierarchical design 
+ of the modern computer memory system\, where different memory access patte
+ rns of a program can bring observable cache status difference.\n In this t
+ alk\, Shuai Wang will present novel techniques to help software developers
+  identify potential vulnerabilities that can lead to cache-based side chan
+ nel attacks. The technique leverages constraint solving to detect potentia
+ l cache access differences at each program point. He will also describe tw
+ o approaches\, which leverage symbolic execution and abstract interpretati
+ on to deliver scalable detection of side channels. The proposed techniques
+  have been implemented into two practical tools\, and both tools have disc
+ overed a large number of known and unknown side-channel vulnerabilities fr
+ om real-world cryptosystems. He will conclude by discussing opportunities 
+ he is excited to explore in the future\, including supporting the detectio
+ n of new side-channel threats\, eliminating side-channel vulnerabilities f
+ rom existing software\, and providing new infrastructures for side-channel
+  detection on x86 and IoT platforms.\n      \n Bio : Shuai W
+ ang is a Ph.D. candidate in the College of Information Sciences and Techno
+ logy\, Pennsylvania State University. He is advised by Dinghao Wu. Shuai W
+ ang is broadly interested in computer security and specializes in software
+  security. The overall goal of his research is to enable building more sec
+ ure software systems.\n In addition to publications at top-tier venues for
+  Computer Security and Software Engineering\, his work has also achieved n
+ otable impacts. For example\, his binary reverse engineering work has been
+  adopted and enhanced by two teams among the seven finalists in the 2016 D
+ ARPA Cyber Grand Challenge (CGC) competition.  \n \n \n
+LOCATION:DC 1304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constructing Graphs Pseudo-Similar Vertices - Combinatorics and Op
+ timization (Algebraic Graph Theory Seminar)
+DTSTART:20180208T183000Z
+DTEND:20180208T193000Z
+DTSTAMP:20180208T183000Z
+UID:20180208T183000Z_5b5863ee6eb262050b0f676a1d19d46c
+DESCRIPTION:Speaker:  Cathy Wang\, University of Waterloo\nTitle:   "Const
+ ructing Graphs Pseudo-Similar Vertices" \n\nAbstract:  Let G be a graph. L
+ et a and b be vertices in G\, then a and b are pseudo-similar if G\\a is i
+ somorphic to G\\b\, but there's no automorphism of G that maps a onto b. I
+ n this talk\, we introduce some constructions of graphs with pseudo-simila
+ r vertices by Godsil and Kocay in 1980s.  \n \n \n
+LOCATION:MC 6486
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Numerical modeling approaches for examining water flow under ice s
@@ -483,6 +411,59 @@ DESCRIPTION:Speaker:  Christine Dow\, Department of Geography & Environmen
  he model outputs of lake growth and drainage are compared with satellite s
  urface altimetry measurements.  \n \n \n
 LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultraproducts and congruence distributive varieties - Part 2 - Pur
+ e Mathematics (Universal Algebra Seminar)
+DTSTART:20180209T190000Z
+DTEND:20180209T200000Z
+DTSTAMP:20180209T190000Z
+UID:20180209T190000Z_0fcf7f5ed496919cecffa8bd392b13d8
+DESCRIPTION:Speaker:  Nasir Sohail\, Wilfrid Laurier University\nTitle:   
+ "Ultraproducts and congruence distributive varieties - Part 2" \n\nAbstrac
+ t:  I shall prove that the class of subdirectly irreducible algebras in a 
+ congruence distributive variety V generated by a class K is contained in t
+ he class obtained by taking the closures under S (subalgebras) and H (homo
+ morphisms) of the class of all ultraproducts over K.  \n \n \n
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Synchronous Quantum Games - Pure Mathematics (Analysis Seminar 
+ Seminar)
+DTSTART:20180209T193000Z
+DTEND:20180209T203000Z
+DTSTAMP:20180209T193000Z
+UID:20180209T193000Z_11292b508ed2e3343460967d4c596a2a
+DESCRIPTION:Speaker:  Sam Kim\, Department of Pure Mathematics\, Universit
+ y of Waterloo\nTitle:   "On Synchronous Quantum Games" \n\nAbstract:  We w
+ ill discuss the notion of synchronous quantum games. Unlike general quantu
+ m games\, synchronous games have the advantage of having a purely C*-algeb
+ raic characterization of their correlation sets but still retain the full 
+ strength of its not necessarily synchronous counterpart. We will talk abou
+ t how different models of physical systems are distinguished using synchro
+ nous games and how the distinguishing of two synchronous correlation sets 
+ relates to Connes' embedding problem.  \n \n \n
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From SAT to Stochastic SAT - Computer Science (Artificial Intellig
+ ence Lab Seminar)
+DTSTART:20180213T210000Z
+DTEND:20180213T220000Z
+DTSTAMP:20180213T210000Z
+UID:20180213T210000Z_32c2ab1d6828b12a1d64ecf035d6723b
+DESCRIPTION:Speaker:  Ricardo Salmon\, David R. Cheriton School of Compute
+ r Science\nTitle:   "From SAT to Stochastic SAT" \n\nAbstract:  Stochastic
+  satisfiability (SSAT) problems are an extension of SAT problems that is P
+ SPACE-complete and in the same complexity class as quantified Boolean form
+ ula (QBF) and partially observable Markov decision processes (POMDPs).\n W
+ e show how to extend techniques from SAT into a stochastic solver called P
+ rime\, that solves probabilistic inference and POMDP problems. Similar to 
+ SAT and other NP-hard problems\, where a lot of research has been invested
+ \, we hope to encourage further research into SSAT. The results show that 
+ our solver is able to tackle large problems and is very competitive.  \n \
+ n \n
+LOCATION:DC 2306C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faster Approximate  Diameter and Distance Oracles in Planar Graphs

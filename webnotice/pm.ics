@@ -3,158 +3,172 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Problems on sofic and hyperlinear groups -  (Seminar)
-DTSTART:20180129T163000Z
-DTEND:20180129T173000Z
-DTSTAMP:20180129T163000Z
-UID:20180129T163000Z_e2cc66b615f1c4534acf14cbf94fea35
-DESCRIPTION:Speaker:  Ehsaan Hossain\, Department of Pure Mathematics\, Un
- iversity of Waterloo\nTitle:   "Problems on sofic and hyperlinear groups" 
- \n\nAbstract:  A sofic group is one that can be locally approximated by fi
- nite groups\; it is equivalent to embed into a "metric ultraproduct'' of f
- inite groups. A hyperlinear group is the same thing except with unitary ma
- trix groups instead of finite ones. So every sofic group is hyperlinear\, 
- but it is still standing whether these classes are the same. In fact nobod
- y knows even one example of a group that is not sofic or hyperlinear!\n So
- fic/hyperlinear groups are amongst the largest classes of groups for which
-  various famous problems have been verified: Connes's embedding problem\, 
- Gottschalk surjunctivity\, and Kaplansky's group rings problems\, amongst 
- others --- so the problems in soficity can give solutions for even some of
-  the biggest conjectures in other subjects. I'll learn about these and let
-  you know what I find\, and as the semester progresses\, let's try to get 
- our hands dirty with these groups and see what the field is like.  \n \n  
-  \n
-LOCATION:MC 5479
+SUMMARY:Ultraproducts and some loose ends -  (Seminar)
+DTSTART:20180205T173000Z
+DTEND:20180205T183000Z
+DTSTAMP:20180205T173000Z
+UID:20180205T173000Z_8122bf114689949bcc6ad4be4f5e6eee
+DESCRIPTION:Speaker:  John Sawatzky\, Department of Pure Mathematics\, Uni
+ versity of Waterloo\nTitle:   "Ultraproducts and some loose ends" \n\nAbst
+ ract:  We'll complete the metric ultraproduct construction\, and show that
+  a sofic group embeds in an ultraproduct of symmetric groups equipped with
+  the Hamming distance. If possible we'll tie up some of the loose ends fro
+ m last time\, e.g. the dependence on that constant $r$\, and residually fi
+ nite groups.  \n \n  \n
+LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finiteness conditions of schemes -  (Seminar)
-DTSTART:20180130T200000Z
-DTEND:20180130T210000Z
-DTSTAMP:20180130T200000Z
-UID:20180130T200000Z_8e632918a870cd38729377e5df4842fe
-DESCRIPTION:Speaker:  Brett Nasserden\, Department of Pure Mathematics\, U
- niversity of Waterloo\nTitle:   "Finiteness conditions of schemes" \n\nAbs
- tract:  To better understand the category of schemes I will explore finite
- ness properties that the morphisms between schemes may possess. In particu
- lar\, affine\, integral\, and other finite type conditions will be examine
- d. The lecture should be accessible to anyone with a basic understanding o
- f scheme theory.  \n \n      \n
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holomorphy of L-functions and its applications -  (Number Theory S
- eminar Seminar)
-DTSTART:20180201T183000Z
-DTEND:20180201T193000Z
-DTSTAMP:20180201T183000Z
-UID:20180201T183000Z_db6ce1a325a24d8a07476aa93189916e
-DESCRIPTION:Speaker:  Peng-Jie Wong\, University of Lethbridge\nTitle:   "
- Holomorphy of L-functions and its applications" \n\nAbstract:  The analyti
- c properties of L-functions have been one of the \ncentral topics in numbe
- r theory as they have a deep connection \nwith the distribution of primes.
-  For example\, the Riemann zeta \nfunction led to a proof of the celebrate
- d prime number theorem. In \ngeneral\, for any number field\, there are pr
- imes and L-functions of \nsimilar nature. In this talk\, we shall discuss 
- the holomorphy of \nsuch L-functions and its applications to the distribut
- ions of the \nassociated primes.  \n \n \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hyperreals (Infinitesimals and the transfer principle) -  (Sem
- inar)
-DTSTART:20180201T210000Z
-DTEND:20180201T220000Z
-DTSTAMP:20180201T210000Z
-UID:20180201T210000Z_03a135d223167410bf5cd2be6e205f32
-DESCRIPTION:Speaker:  Justin Laverdure\, Department of Pure Mathematics\, 
- University of Waterloo\nTitle:   "The Hyperreals (Infinitesimals and the t
- ransfer principle)" \n\nAbstract:  Intuitive discussions about calculus am
- ong those 'uninitiated' into proper analysis often involve discussions abo
- ut "infinitely small" quantities. Foundations of calculus\, of course\, fr
- ame these as limiting processes\, but can an actual concept of an infinite
- simal number be recovered and worked with directly? Turns out the answer i
- s "yes": we may enlarge the real line in such a way that there are infinit
- esimal quantities\, those strictly greater than zero but less than every 1
- /n. \n In fact\, the real numbers and the hyperreal numbers are closely re
- lated: facts about one can be translated to facts about the other. Thus\, 
- understanding the real line helps us to understand the hyperreal line\, an
- d interestingly\, the converse as well. In particular\, certain proofs in 
- analysis admit simpler proofs\, once the techniques of "non-standard analy
- sis" have been introduced.  \n \n  \n
+SUMMARY:Integrability and non-integrability in pentagram maps -  (Colloqui
+ um)
+DTSTART:20180205T210000Z
+DTEND:20180205T220000Z
+DTSTAMP:20180205T210000Z
+UID:20180205T210000Z_6dcbeb1fe22bff62ffb6652afe2d2a8c
+DESCRIPTION:Speaker:  Boris Khesin\, University of Toronto\nTitle:   "Inte
+ grability and non-integrability in pentagram maps" \n\nRemarks:  Refreshme
+ nts will be served in MC 5403 at 3:30pm.  \n\nAbstract:  We define pentagr
+ am maps on polygons in any dimension\, which extend R. Schwartz's definiti
+ on of the 2D pentagram map. Many of those maps turn out to be discrete int
+ egrable dynamical systems\, while the corresponding continuous limits of s
+ uch maps coincide with equations of the KdV hierarchy\, generalizing the B
+ oussinesq equation in 2D. We discuss their geometry\, Lax forms\, and inte
+ rrelations between recent pentagram generalizations. This is a joint work 
+ with F. Soloviev.  \n \n \n
 LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultraproducts and congruence distributive varieties - Part 1 -  (U
- niversal Algebra Seminar)
-DTSTART:20180202T190000Z
-DTEND:20180202T200000Z
-DTSTAMP:20180202T190000Z
-UID:20180202T190000Z_4b39bfc688f26e479ea13e14001a819d
-DESCRIPTION:Speaker:  Nasir Sohail\, Wilfrid Laurier University\nTitle:   
- "Ultraproducts and congruence distributive varieties - Part 1" \n\nAbstrac
- t:  I shall go from (direct) product to ultraproduct using a particular co
- ngruence. The ultraproduct of a finite set of finite algebras will be cons
- idered as a special case.  \n \n \n
-LOCATION:MC 5479
+SUMMARY:More on GL_q(2) and SL_q(2) -  (Algebra Learning Seminar Seminar)
+DTSTART:20180206T150000Z
+DTEND:20180206T160000Z
+DTSTAMP:20180206T150000Z
+UID:20180206T150000Z_d98f56b2ccd9ba1ce31e6fdc8f5a39d7
+DESCRIPTION:Speaker:  Chris Schafhauser\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "More on $GL_q(2)$ and $SL_q(2)$" \n\nAb
+ stract:  Last week Hongdi constructed the Hopf algebra structure on $GL_q(
+ 2)$ and $SL_q(2)$.  I will discuss the natural coaction of these objects o
+ n the quantum plane $k_q(2)$.  \n \n  \n
+LOCATION:MC 5403
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Complexity and Capacity Bounds for Operator Systems and Quantum Ch
- annels -  (Analysis Seminar Seminar)
-DTSTART:20180202T193000Z
-DTEND:20180202T203000Z
-DTSTAMP:20180202T193000Z
-UID:20180202T193000Z_b248bf0d619979105609d9b0575171ff
-DESCRIPTION:Speaker:  Vern Paulsen\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Complexity and Capacity Bounds for Operator 
- Systems and Quantum Channels" \n\nAbstract:  This is based on joint work w
- ith R. Levine and I. Todorov.   \n  Shannon introduced the concept of the 
- one-shot zero-error capacity of a classical channel and proved that each s
- uch channel had a graph affiliated with it so that the one-shot zero-error
-  capacity was the independence number of the graph.  The zero-error capaci
- ty is then obtained by taking the k-th root of the strong product of the g
- raph with itself k times and taking the supremum over k.  Shannon admitted
- ly couldnt compute this value for many graphs\, but then Lovasz introduc
- ed his theta function of a graph as a computable upper bound. The Lovasz t
- heta bound is still the best known bound for this capacity.\n Dean\, Sever
- ini\, and Winter studied Shannons ideas for quantum channels and proved 
- that each quantum channel has affiliated with it an operator system such t
- hat the one-shot zero-error capacity of the channel is the "independence n
- umber of the operator system. They then argued that the analogue of Shan
- nons capacity is to take the k-th root of the independence number of the
-  tensor product of the operator system with itself k times and take the su
- premum over k.  They then introduced the analogue of the Lovasz theta func
- tion for an operator system.\n In this talk we will review these ideas and
-  then introduce our new idea of the "complexity" of an operator system and
-  show that this gives another bound on the zero-error capacity of the quan
- tum channel.  We will present several different linear algebraic character
- izations of complexity. We will then show that there are some operator sys
- tems and quantum channels for which our complexity based bound is better t
- han the Lovasz bound.  \n \n \n
+SUMMARY:Waring's theorem for binary k'th powers and palindromes -  (Number
+  Theory Seminar Seminar)
+DTSTART:20180206T183000Z
+DTEND:20180206T193000Z
+DTSTAMP:20180206T183000Z
+UID:20180206T183000Z_56988fc3ac4938c3555c4bf567d3f152
+DESCRIPTION:Speaker:  Jeffrey Shallit\, David R. Cheriton School of Comput
+ er Science\, University of Waterloo\nTitle:   "Waring's theorem for binary
+  k'th powers and palindromes" \n\nAbstract:  Recently there has been some 
+ interest in analogues of Waring's theorem for other kinds of sets analogou
+ s to powers of integers.  For example\, Banks proved that every natural nu
+ mber is the sum of at most 49 numbers whose base-10 expansion is a palindr
+ ome\, and this was improved to 3 for all bases $b \\ge 5$ by Cilleruelo\, 
+ Luca\, and Baster.\n In this talk I will discuss some recent results about
+  palindromes in bases 2\, 3\, 4 and binary k'th powers. (A binary k'th pow
+ er is an integer whose base-2 expansion consists of k consecutive identica
+ l blocks.) In particular\, I'll show that for all $k \\ge 1$ there exists 
+ a constant W(k) such that every sufficiently large multiple of $\\gcd(k\, 
+ 2^k - 1)$ is the sum of W(k) binary k'th  powers.\n This is joint work wit
+ h Aayush Rajasekaran\, Dirk Nowotka\, Parthasarathy Madhusudan\, Tim Smith
+ \, Daniel Kane\, and Carlo Sanna.  \n \n  \n
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Fibered Morphism and Definite Determinantal Representations -
-   (Geometry & Topology Seminar Seminar)
-DTSTART:20180202T193000Z
-DTEND:20180202T203000Z
-DTSTAMP:20180202T193000Z
-UID:20180202T193000Z_cd1f38b6fffd9708bad303bfc7fd4684
-DESCRIPTION:Speaker:  Eli Shamovich\, Department of Pure Mathematics\, Uni
- versity of Waterloo\nTitle:   "Real Fibered Morphism and Definite Determin
- antal Representations" \n\nAbstract:  Stable and hyperbolic polynomials ar
- ose in the study of differential equations. These polynomials give rise to
-  real projective hypersurfaces with interesting convexity properties. Thes
- e convexity properties are used both in pure and applied mathematics (Kadi
- son-Singer and optimization for example). A good way to certify hyperbolic
- ity is to produce a definite determinant representation. Unfortunately\, t
- his is not always possible. In this talk I will present a generalization o
- f the hyperbolic property to morphisms between real projective varieties. 
- I will also discuss the notion of determinant representation and definite 
- Ulrich sheaves and show how the two notions relate. Time permitting\, I wi
- ll describe an algorithm to construct definite Ulrich sheaves on hyperboli
- c curves using theta functions with certain special characteristics on the
-  normalization.\n This talk is based on joint works with V. Vinnikov and M
- . Kummer.  \n \n      
+SUMMARY:Finite and integral morphisms -  (Seminar)
+DTSTART:20180206T200000Z
+DTEND:20180206T210000Z
+DTSTAMP:20180206T200000Z
+UID:20180206T200000Z_e451599c49631a29528f21401e85b362
+DESCRIPTION:Speaker:  Diana Castaneda Santos\, Department of Pure Mathemat
+ ics\, University of Waterloo\nTitle:   "Finite and integral morphisms" \n\
+ nAbstract:  We will continue studying properties of finite and integral mo
+ rphisms. We will use properties of algebra homomorphisms to prove that fin
+ ite morphisms have finite fibers and that they are affine local on the tar
+ get. We will also prove that integral morphisms are closed and we will stu
+ dy some examples. Time permitting we will introduce morphisms (locally) of
+  finite type.  \n \n  \n
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Introduction to Quantum Graphs\, Chromatic Numbers and Lovász 
+ Inequalties -  (Seminar)
+DTSTART:20180206T213000Z
+DTEND:20180206T223000Z
+DTSTAMP:20180206T213000Z
+UID:20180206T213000Z_14eac012c788c9a394b0755f8a5684ac
+DESCRIPTION:Speaker:  Arthur Mehta\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "An Introduction to Quantum Graphs\, Chromati
+ c Numbers and Lovász Inequalties" \n\nAbstract:  Joint Pure Math/C&O Grad
+ uate Student Colloquium\n Quantum graph theory\, also known as non-commuta
+ tive graph theory\, is an operator system generalization of graph theory. 
+ Quantum graphs were first used to extend the notion of one-shot-zero-error
+  capacity of a "Noisy Channel" to "Quantum Channels" .  In this talk we go
+  over some of this original motivation  and generalize several key graph t
+ heory parameters. We will also look at attempts made to define the complem
+ ent of a Quantum graph and generalize the famous Lovász inequality.  \n \
+ n  \n
+LOCATION:MC 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Embedding Theorem for C*-algebras -  (Seminar)
+DTSTART:20180207T190000Z
+DTEND:20180207T200000Z
+DTSTAMP:20180207T190000Z
+UID:20180207T190000Z_39d743323633cf041b38ab30105183cd
+DESCRIPTION:Speaker:  Chris Schafhauser\, Department of Pure Mathematics\,
+  University of Waterloo\nTitle:   "An Embedding Theorem for C*-algebras" \
+ n\nAbstract:  A C*-algebra consists of an algebra of bounded linear operat
+ ors acting on a Hilbert space which is closed the adjoint operation (rough
+ ly\, the transpose) and is complete in a certain metric.  Typical examples
+  include the ring of $n \\times n$ complex matrices and the ring C(X) of r
+ epresentation of continuous functions from a compact space X to the comple
+ x numbers.  Many more interesting examples arise from various dynamical ob
+ jects (e.g. group and group actions) and from various geometric/topologica
+ l constructions.\n The structure of finite dimensional C*-algebras is well
+  understood: they are finite direct sums of complex matrix algebras.  The 
+ class of approximately finite-dimensional (AF) C*-algebras\, ones which ma
+ y be written as (the closure of) an increasing union of finite-dimensional
+  subalgebras\, are also well understood: they are determined up to isomorp
+ hism by their module structure.   However\, the class of sub-algebras of A
+ F-algebras is still rather mysterious\; it includes\, for instance\, all c
+ ommutative C*-algebras and all C*-algebras generated by amenable groups.  
+ It is a long-standing problem to find an abstract characterization of suba
+ lgebras of AF-algebras.\n I will discuss this class of algebras and a rece
+ nt partial answer to this AF-Embedding problem.  My goal is to keep the ta
+ lk accessible and mostly expository.  In particular\, I won't assume any p
+ rior knowledge of operator algebras or functional analysis.  \n \n    \n
 LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultraproducts and congruence distributive varieties - Part 2 -  (U
+ niversal Algebra Seminar)
+DTSTART:20180209T190000Z
+DTEND:20180209T200000Z
+DTSTAMP:20180209T190000Z
+UID:20180209T190000Z_0fcf7f5ed496919cecffa8bd392b13d8
+DESCRIPTION:Speaker:  Nasir Sohail\, Wilfrid Laurier University\nTitle:   
+ "Ultraproducts and congruence distributive varieties - Part 2" \n\nAbstrac
+ t:  I shall prove that the class of subdirectly irreducible algebras in a 
+ congruence distributive variety V generated by a class K is contained in t
+ he class obtained by taking the closures under S (subalgebras) and H (homo
+ morphisms) of the class of all ultraproducts over K.  \n \n \n
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Synchronous Quantum Games -  (Analysis Seminar Seminar)
+DTSTART:20180209T193000Z
+DTEND:20180209T203000Z
+DTSTAMP:20180209T193000Z
+UID:20180209T193000Z_ce302f9fc1dc69b3ff0454c1be55a217
+DESCRIPTION:Speaker:  Sam Kim\, Department of Pure Mathematics\, Universit
+ y of Waterloo\nTitle:   "On Synchronous Quantum Games" \n\nAbstract:  We w
+ ill discuss the notion of synchronous quantum games. Unlike general quantu
+ m games\, synchronous games have the advantage of having a purely C*-algeb
+ raic characterization of their correlation sets but still retain the full 
+ strength of its not necessarily synchronous counterpart. We will talk abou
+ t how different models of physical systems are distinguished using synchro
+ nous games and how the distinguishing of two synchronous correlation sets 
+ relates to Connes' embedding problem.  \n \n    
+LOCATION:MC 5417
 END:VEVENT
 END:VCALENDAR

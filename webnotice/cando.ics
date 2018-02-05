@@ -3,95 +3,64 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:The Douglas-Rachford splitting algorithm for inconsistent minimiza
- tion problems -  (Special Seminar)
-DTSTART:20180129T143000Z
-DTEND:20180129T153000Z
-DTSTAMP:20180129T143000Z
-UID:20180129T143000Z_6c9ac56f45c9308ceadb4791e3203b1b
-DESCRIPTION:Speaker:  Walaa Moursi\, Stanford University\nTitle:   "The Do
- uglas-Rachford splitting algorithm for inconsistent minimization problems"
-  \n\nAbstract:  The Douglas--Rachford (DR) method is one of the most \npop
- ular splitting methods in optimization.\nThe method was first introduced i
- n 1956 to numerically solve certain types of heat equations. \nIn their se
- minal work Lions (a Fields' medalist) and Mercier extended the algorithm t
- o find a zero \nof the sum of two\, not necessarily linear and possibly se
- t-valued\, maximally monotone operators in possibly infinite-dimensional H
- ilbert spaces.\nNowadays\, the method is a very popular splitting techniqu
- e for finding a minimizer of the sum of two convex functions\, more genera
- lly a zero of the sum of two maximally monotone operators.\nNonetheless\, 
- the behaviour of the algorithm remains mysterious in the general inconsist
- ent case\, i.e.\, when the sum problem has no zeros\, which corresponds to
-  the absence of minimizers. However\, more than a decade ago\, it was show
- n that in the (possibly inconsistent) convex feasibility setting\, the so-
- called shadow sequence remains bounded and its weak cluster points solve a
-  best approximation problem. In this talk\, we advance the understanding o
- f the inconsistent case significantly by presenting a complete proof of th
- e full weak convergence in the convex feasibility setting. We also provide
-  strong and linear rates of convergence in special cases.  \n \n        \n
-LOCATION:MC 5417
+SUMMARY:Algorithms and complexity for quantum advantage -  (Special Semina
+ r)
+DTSTART:20180205T143000Z
+DTEND:20180205T153000Z
+DTSTAMP:20180205T143000Z
+UID:20180205T143000Z_87e3c03cf7da971be92745bb13c45d91
+DESCRIPTION:Speaker:  David Gosset\, IBM - T.J. Watson Research Center\nTi
+ tle:   "Algorithms and complexity for quantum advantage" \n\nAbstract:  Th
+ ere is strong evidence that a sufficiently large fault-tolerant quantum co
+ mputer would solve certain computational problems exponentially faster tha
+ n any classical computer. How can quantum algorithms and complexity theory
+  help guide the way forward in our current era of small and noisy quantum 
+ computers?\n A quantum computer without error correction will likely be li
+ mited to implementing short depth quantum circuits.  In the first part of 
+ the talk I will describe a linear algebra problem which is solved by a con
+ stant-depth quantum circuit but provably cannot be solved by any classical
+  circuit of less than logarithmic depth. This constitutes an unconditional
+  separation between constant depth quantum circuits and their classical co
+ unterparts.\n Classical simulation algorithms can be used to verify small 
+ quantum computers and to help demarcate the classically easy and hard regi
+ mes. In the second part of the talk I will describe a classical algorithm 
+ that can be used to simulate quantum circuits over the Clifford+T gate set
+  with mildly exponential scaling in the number of T gates.\n Finally\, I w
+ ill discuss how quantum computer science is intimately linked with our und
+ erstanding of physical systems and the complexity of simulating them. I wi
+ ll describe how a universal quantum computer is equivalent in computationa
+ l power to a quantum many-body system consisting of indistinguishable part
+ icles which move and interact on the vertices of a graph.  \n \n  \n
+LOCATION:QNC 0101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robust counterpart approximations of scalar chance constraints -  
- (Continuous Optimization Seminar)
-DTSTART:20180131T210000Z
-DTEND:20180131T220000Z
-DTSTAMP:20180131T210000Z
-UID:20180131T210000Z_0f0988a4c20bac1c5ab598909cd06abf
-DESCRIPTION:Speaker:  Reading Group\, University of Waterloo\nTitle:   "Ro
- bust counterpart approximations of scalar chance constraints" \n\nAbstract
- :  We will cover section 2.1\, section 2.2 and part of section 2.3 of the 
- book Robust Optimization by Ben-Tal et al. Given a non-deterministic linea
- r inequality and its uncertainty set\, there is a chance that coefficients
-  of the non-deterministic linear inequality can be determined outside of t
- he uncertainty set with a very small probability. We will introduce basic 
- notions of chance constraints\, its difficulties as well as its strengths.
-   \n \n  \n
-LOCATION:MC 5479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On Pretty Good State Transfer\, Entanglement\, and Spin Chains -  
- (Algebraic Graph Theory Seminar)
-DTSTART:20180201T183000Z
-DTEND:20180201T193000Z
-DTSTAMP:20180201T183000Z
-UID:20180201T183000Z_4157113c47cda6bd6c40d346cb6be30e
-DESCRIPTION:Speaker:  Christopher van Bommel\, University of Waterloo\nTit
- le:   "On Pretty Good State Transfer\, Entanglement\, and Spin Chains" \n\
- nAbstract:  We discuss the Vieira and Rigolin paper Almost perfect trans
- port of an entangled two-qubit state through a spin chain\, which consid
- ers slight modifications to a spin chain (I.e. path) that allows a maximal
- ly entangled two-qubit state to be almost perfectly transferred from one e
- nd to the other.  \n \n   \n
+SUMMARY:ALBANIS: A brief overview of Lattice-Based NIST Submissions -  (Cr
+ yptography Seminar)
+DTSTART:20180205T180000Z
+DTEND:20180205T190000Z
+DTSTAMP:20180205T180000Z
+UID:20180205T180000Z_62123f576aa2f7e788e6cdaf72cfc695
+DESCRIPTION:Speaker:  Luis Ruiz\, University of Waterloo\nTitle:   "ALBANI
+ S: A brief overview of Lattice-Based NIST Submissions" \n\nAbstract:  Now 
+ that the NIST competition is in the first round of the review process\, it
+  is our turn to take a look at the submissions (at least\, briefly). In th
+ is session we will talk about the ones in the lattice-based category.  \n 
+ \n            \n
 LOCATION:MC 6486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Polynomial systems: Graphical structure\, Geometry\, and Applicati
- ons -  (Special Seminar)
-DTSTART:20180202T143000Z
-DTEND:20180202T153000Z
-DTSTAMP:20180202T143000Z
-UID:20180202T143000Z_52dc508a5f0575f5fe787a24d5dcd92e
-DESCRIPTION:Speaker:  Diego Cifuentes\, MIT\nTitle:   "Polynomial systems:
-  Graphical structure\, Geometry\, and Applications" \n\nAbstract:  Various
-  problems in areas such as robotics\, power systems\, computer vision\, cr
- yptography\, and chemical reaction networks\, can be modeled by systems of
-  polynomial equations\, and in many cases the resulting systems have a sim
- ple sparsity structure. In the  first part of this talk we represent this 
- sparsity structure with a graph\, and study the algorithmic and complexity
-  consequences of this graphical abstraction. In particular\, we derive nov
- el algorithms to solve polynomial systems. These methods outperform existi
- ng techniques by orders of magnitude in certain applications from algebrai
- c statistics and vector addition systems.\n The second part of this talk f
- ocuses on the problem of minimizing a polynomial function subject to polyn
- omial equality constraints. This problem captures many important applicati
- ons\, including Max-Cut\, tensor low rank approximation\, the triangulatio
- n problem\, and rotation synchronization. Although these problems are nonc
- onvex\, tractable semidefinite programming (SDP) relaxations have been pro
- posed. We show novel guarantees on the quality of this relaxations. In par
- ticular\, we prove that estimation problems such as camera triangulation\,
-  rank one tensor approximation and rotation synchronization can be solved 
- exactly by SDP relaxations in the low noise regime.  \n \n         
-LOCATION:MC 5501
+SUMMARY:Constructing Graphs Pseudo-Similar Vertices -  (Algebraic Graph Th
+ eory Seminar)
+DTSTART:20180208T183000Z
+DTEND:20180208T193000Z
+DTSTAMP:20180208T183000Z
+UID:20180208T183000Z_7561d45d00c467d05437dd9ca0318cf6
+DESCRIPTION:Speaker:  Cathy Wang\, University of Waterloo\nTitle:   "Const
+ ructing Graphs Pseudo-Similar Vertices" \n\nAbstract:  Let G be a graph. L
+ et a and b be vertices in G\, then a and b are pseudo-similar if G\\a is i
+ somorphic to G\\b\, but there's no automorphism of G that maps a onto b. I
+ n this talk\, we introduce some constructions of graphs with pseudo-simila
+ r vertices by Godsil and Kocay in 1980s.  \n \n       
+LOCATION:MC 6486
 END:VEVENT
 END:VCALENDAR
