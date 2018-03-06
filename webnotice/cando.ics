@@ -3,64 +3,36 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Algorithms and complexity for quantum advantage -  (Special Semina
- r)
-DTSTART:20180205T143000Z
-DTEND:20180205T153000Z
-DTSTAMP:20180205T143000Z
-UID:20180205T143000Z_87e3c03cf7da971be92745bb13c45d91
-DESCRIPTION:Speaker:  David Gosset\, IBM - T.J. Watson Research Center\nTi
- tle:   "Algorithms and complexity for quantum advantage" \n\nAbstract:  Th
- ere is strong evidence that a sufficiently large fault-tolerant quantum co
- mputer would solve certain computational problems exponentially faster tha
- n any classical computer. How can quantum algorithms and complexity theory
-  help guide the way forward in our current era of small and noisy quantum 
- computers?\n A quantum computer without error correction will likely be li
- mited to implementing short depth quantum circuits.  In the first part of 
- the talk I will describe a linear algebra problem which is solved by a con
- stant-depth quantum circuit but provably cannot be solved by any classical
-  circuit of less than logarithmic depth. This constitutes an unconditional
-  separation between constant depth quantum circuits and their classical co
- unterparts.\n Classical simulation algorithms can be used to verify small 
- quantum computers and to help demarcate the classically easy and hard regi
- mes. In the second part of the talk I will describe a classical algorithm 
- that can be used to simulate quantum circuits over the Clifford+T gate set
-  with mildly exponential scaling in the number of T gates.\n Finally\, I w
- ill discuss how quantum computer science is intimately linked with our und
- erstanding of physical systems and the complexity of simulating them. I wi
- ll describe how a universal quantum computer is equivalent in computationa
- l power to a quantum many-body system consisting of indistinguishable part
- icles which move and interact on the vertices of a graph.  \n \n  \n
-LOCATION:QNC 0101
+SUMMARY:Claws\, ω and χ : induced binary submatroids -  (Graphs and Matr
+ oids Seminar Seminar)
+DTSTART:20180308T203000Z
+DTEND:20180308T213000Z
+DTSTAMP:20180308T203000Z
+UID:20180308T203000Z_fc2ca84746369afb9d2042047f56de28
+DESCRIPTION:Speaker:  Peter Nelson\, University of Waterloo\nTitle:   "Cla
+ ws\, ω and χ : induced binary submatroids" \n\nAbstract:  I will discuss
+  the interplay between clique number\, chromatic number\, and excluding in
+ duced submatroids in the setting of binary matroids.  \n \n     \n
+LOCATION:MC 5479
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALBANIS: A brief overview of Lattice-Based NIST Submissions -  (Cr
- yptography Seminar)
-DTSTART:20180205T180000Z
-DTEND:20180205T190000Z
-DTSTAMP:20180205T180000Z
-UID:20180205T180000Z_62123f576aa2f7e788e6cdaf72cfc695
-DESCRIPTION:Speaker:  Luis Ruiz\, University of Waterloo\nTitle:   "ALBANI
- S: A brief overview of Lattice-Based NIST Submissions" \n\nAbstract:  Now 
- that the NIST competition is in the first round of the review process\, it
-  is our turn to take a look at the submissions (at least\, briefly). In th
- is session we will talk about the ones in the lattice-based category.  \n 
- \n            \n
-LOCATION:MC 6486
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Constructing Graphs Pseudo-Similar Vertices -  (Algebraic Graph Th
- eory Seminar)
-DTSTART:20180208T183000Z
-DTEND:20180208T193000Z
-DTSTAMP:20180208T183000Z
-UID:20180208T183000Z_7561d45d00c467d05437dd9ca0318cf6
-DESCRIPTION:Speaker:  Cathy Wang\, University of Waterloo\nTitle:   "Const
- ructing Graphs Pseudo-Similar Vertices" \n\nAbstract:  Let G be a graph. L
- et a and b be vertices in G\, then a and b are pseudo-similar if G\\a is i
- somorphic to G\\b\, but there's no automorphism of G that maps a onto b. I
- n this talk\, we introduce some constructions of graphs with pseudo-simila
- r vertices by Godsil and Kocay in 1980s.  \n \n       
-LOCATION:MC 6486
+SUMMARY:Chromatic Symmetric Functions and H-Free Graphs -  (Tutte Colloqui
+ um Seminar)
+DTSTART:20180309T203000Z
+DTEND:20180309T213000Z
+DTSTAMP:20180309T203000Z
+UID:20180309T203000Z_77481226b7835821c7f300f9d6c70c90
+DESCRIPTION:Speaker:  Angèle Hamel\, Wilfrid Laurier University\nTitle:  
+  "Chromatic Symmetric Functions and H-Free Graphs" \n\nAbstract:  Chromati
+ c symmetric functions are defined in terms of colourings of particular gra
+ phs. Some key conjectures in this area concern whether chromatic symmetric
+  functions of claw-free graphs can be written in terms of other symmetric 
+ functions with positive coefficients.  Here we extend the claw-free idea t
+ o consider the e-positivity question for chromatic symmetric functions of 
+ H-free graphs with H ={claw\, F}\,  where  F is a four-vertex graph.  We s
+ ettle the question for all cases except H={claw\, co-diamond}\, and we pro
+ vide some partial results in that case. This is joint work with Chinh Hoan
+ g and Jake Tuero.  \n \n           
+LOCATION:MC 2038
 END:VEVENT
 END:VCALENDAR

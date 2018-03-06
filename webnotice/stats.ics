@@ -2,4 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
+BEGIN:VEVENT
+SUMMARY:Analysis of Generalized Semiparametric Mixed Varying-Coefficient E
+ ffects Model for Longitudinal Data -  (Seminar)
+DTSTART:20180308T210000Z
+DTEND:20180308T220000Z
+DTSTAMP:20180308T210000Z
+UID:20180308T210000Z_c2c62b957fb51dcd0d84b6189535e974
+DESCRIPTION:Speaker:  Yanqing Sun\, University of North Carolina at Charlo
+ tte\nTitle:   "Analysis of Generalized Semiparametric Mixed Varying-Coeffi
+ cient Effects Model for Longitudinal Data" \n\nRemarks:  Refreshments will
+  be provided.  \n\nAbstract:  The generalized semiparametric mixed varying
+ -coefficient effects model for longitudinal data that can flexibly model d
+ ifferent types of covariate effects. Different link functions can be selec
+ ted to provide a rich family of models for longitudinal data. The mixed va
+ rying-coefficient effects model accommodates constant effects\, time-varyi
+ ng effects\, and covariate-varying effects. The time-varying effects are u
+ nspecified functions of time and the covariate-varying effects are nonpara
+ metric functions of a possibly time-dependent exposure variable. We develo
+ p the semiparametric estimation procedure by using local linear smoothing 
+ and profile weighted least squares estimation techniques. The method requi
+ res smoothing in two different and yet connected domains for time and the 
+ time-dependent exposure variable. The estimators of the nonparametric effe
+ cts are obtained through aggregations to improve efficiency. The asymptoti
+ c properties are investigated for the estimators of both nonparametric and
+  parametric effects. Some hypothesis tests are developed to examine the co
+ variate effects. The finite sample properties of the proposed estimators a
+ nd tests are examined through simulations with satisfactory performances. 
+ The proposed methods are used to analyze the ACTG 244 clinical trial to in
+ vestigate the effects of antiretroviral treatment switching in HIV infecte
+ d patients before and after developing the codon 215 mutation.  \n \n     
+       \n
+LOCATION:M3-3127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probability models for discretization uncertainty with adaptive gr
+ id designs for systems of differential equations -  (Seminar)
+DTSTART:20180329T200000Z
+DTEND:20180329T210000Z
+DTSTAMP:20180329T200000Z
+UID:20180329T200000Z_98b220b8dfe160962334f5fb83dea7d7
+DESCRIPTION:Speaker:  Oksana Chkrebtii\, The Ohio State University\nTitle:
+    "Probability models for discretization uncertainty with adaptive grid d
+ esigns for systems of differential equations" \n\nRemarks:  Refreshments w
+ ill be provided.  \n\nAbstract:  When models are defined implicitly by sys
+ tems of differential equations without a closed form solution\, small loca
+ l errors in finite-dimensional solution approximations can propagate into 
+ large deviations from the true underlying state trajectory. Inference for 
+ such models relies on a likelihood approximation constructed around a nume
+ rical solution\, which underestimates posterior uncertainty. This talk wil
+ l introduce and discuss progress in a new adaptive formalism for modeling 
+ and propagating discretization uncertainty through the Bayesian inferentia
+ l framework\, allowing exact inference and uncertainty quantification for 
+ discretized differential equation models.  \n \n    
+LOCATION:M3-3127
+END:VEVENT
 END:VCALENDAR
