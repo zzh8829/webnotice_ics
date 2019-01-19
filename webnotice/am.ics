@@ -2,4 +2,125 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Applied Mathematics)
+BEGIN:VEVENT
+SUMMARY:The cost of crushing: curvature-driven wrinkling of thin elastic s
+ hells -  (Seminar)
+DTSTART:20190115T153000Z
+DTEND:20190115T163000Z
+DTSTAMP:20190115T153000Z
+UID:20190115T153000Z_0abb100cb5b82e7b9424164a62ec1604
+DESCRIPTION:Speaker:  Ian Tobasco\, University of Michigan\nTitle:   "The 
+ cost of crushing: curvature-driven wrinkling of thin elastic shells" \n\nA
+ bstract:  How much energy does it take to stamp a thin elastic shell flat?
+  Motivated by recent experiments on wrinkling patterns formed by thin floa
+ ting shells\, we develop a rigorous method (via Gamma-convergence) for eva
+ luating the cost of crushing to leading order in the shells thickness an
+ d other small parameters. The observed patterns involve regions of well-de
+ fined wrinkling alongside totally disordered regions where no single direc
+ tion of wrinkling is preferred. Our goal is to explain the appearance of s
+ uch wrinkling domains. Our analysis proves that energetically optimal 
+ patterns maximize their projected planar area subject to a shortness const
+ raint. This purely geometric variational problem turns out to be explicitl
+ y solvable in many cases of interest\, and a strikingly simple scheme for 
+ predicting wrinkle patterns results. We demonstrate our methods with concr
+ ete examples and offer comparisons with simulation and experiment.\n This 
+ talk will be mathematically self-contained\, not assuming prior background
+  in elasticity or calculus of variations.  \n \n     \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impacts of relativity on localizability and vacuum entanglement - 
+  (Master's Thesis Presentation)
+DTSTART:20190116T210000Z
+DTEND:20190116T220000Z
+DTSTAMP:20190116T210000Z
+UID:20190116T210000Z_95174ba37f08132fb0033819718679a9
+DESCRIPTION:Speaker:  Maria Papageorgiou\, Department  of Applied Mathemat
+ ics\, University of Waterloo\nTitle:   "Impacts of relativity on localizab
+ ility and vacuum entanglement" \n\nAbstract:  Much of the structure of qua
+ ntum field theory (QFT) is predicated on the principle of locality. Adhere
+ nce to locality is pursuant to convictions deduced from relativity\, and i
+ s achieved in QFT by the association of regions of spacetime with algebras
+  of observables. Although\, by construction\, the observables of QFT are l
+ ocal objects\, one may also consider characterizing the spatial or spaceti
+ me features of a state. For example\, if we have a single-particle state\,
+  how can we say that the particle is localized in a certain region of spac
+ e? It turns out that such a characterization is obstructed by a collection
+  of no-go theorems\, which imply the absence of any suitable position oper
+ ator or local number operator in the local algebra of observables. These d
+ ifficulties seem to suggest that relativistic QFT cannot support an ontolo
+ gy in terms of localizable particles.\n Looking towards low energies\, one
+  finds the widespread applicability of non-relativistic quantum mechanics 
+ (NRQM)\, a theory in which particle states are localizable by means of the
+ ir wavefunction. This seems to imply that NRQM can support a particle onto
+ logy\, so it is natural to ask whether one can make contact between the NR
+ QM description of particles and some appropriate notion in the latent QFT.
+  Admittedly QFT amd NRQM are very different theories\, both at the dynamic
+ al and kinematical level\, and recovering one from the other cannot come w
+ ith no cost. The main undertaking of this thesis will be to illuminate thi
+ s connection\, by starting with a relativistic QFT and making suitable app
+ roximations to recover features of NRQM.  \n \n \n
+LOCATION:QNC 4104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretical and Computational Issues in Control and Optimization o
+ f Fluid Flows -  (Seminar)
+DTSTART:20190117T150000Z
+DTEND:20190117T160000Z
+DTSTAMP:20190117T150000Z
+UID:20190117T150000Z_21c4d70cef8e1a5a189289d7a18b8191
+DESCRIPTION:Speaker:  Weiwei Hu\, Department of Mathematics\, Oklahoma Sta
+ te University\nTitle:   "Theoretical and Computational Issues in Control a
+ nd Optimization of Fluid Flows" \n\nAbstract:  The first part of my talk f
+ ocuses on control and optimization of a thermal fluid modeled by the Bouss
+ inesq equations. This work was motivated by the design and operation of lo
+ w energy consumption buildings. We investigate the problem of feedback sta
+ bilization of a fluid flow in natural convection\, which is important in t
+ he theory of hydrodynamical stability. In particular\, we are interested i
+ n stabilizing a possible unstable steady state solution to the Boussinesq 
+ equations in a two dimensional open and bounded domain. The challenge of s
+ tabilization of the Boussinesq equations lies in the stabilization of the 
+ Navier-Stokes equations and its coupling with the convection-diffusion equ
+ ation for temperature. We show that a finite number of controls acting on 
+ a portion of the boundary through Neu-mann/Robin type of boundary conditio
+ ns is sufficient to locally stabilize the full nonlinear equations. Numeri
+ cal experiments are provided to illustrate the concept and its design. The
+  second part of my talk discusses the problem of well-posedness and optima
+ l control designs for the Boussinesq equations with zero diffusivity and i
+ ts application to control of optimal transport and mixing via flow advecti
+ on. The\nchallenges in numerical implementation will be addressed.  \n \n 
+   \n
+LOCATION:MC 6460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spatially implicit and spatially explicit models of bacterial cell
+ ulose degradation -  (Seminar)
+DTSTART:20190228T193000Z
+DTEND:20190228T203000Z
+DTSTAMP:20190228T193000Z
+UID:20190228T193000Z_4b392049b63406b034c7920caae8efc7
+DESCRIPTION:Speaker:  Hermann Eberl \, Department of Mathematics and Stat
+ istics\, University of Guelph\nTitle:   "Spatially implicit and spatially 
+ explicit models of bacterial cellulose degradation" \n\nAbstract:  Cellulo
+ sic ethanol is a biofuel that is produced from non-edible plants and plant
+  materials\, such switchgrass and corn stover. It can have a positive net 
+ energy output with a reduction in green house gas emissions that is drasti
+ cally lower than that of cornbased ethanol and fossil fuels. Clostridium t
+ hermocellum is a bacteria that is able to directly convert cellulose into 
+ ethanol (and other by products). These bacteria colonize cellulose materia
+ l and degrade cellulose by "chewing" their way through their substrate. In
+  this talk we first present a very simple\, spatially implicit reactor sca
+ le model for cellulose degradation by C.thermocellum biofilms. This ODE ca
+ n be studied with elementary techniques and quantitatively compared agains
+ t experimental data. However\, it does not allow for a detailed descriptio
+ n of the spatial effects as the bacteria break down their substratum. To a
+ ddress this\, we formulate then a spatially explicit model\, which consist
+ s of a highly degenrate diffusion-reaction equation for bacterial biomas t
+ hat is couled with an oridnary differential equation for the growth limiti
+ ng substrate. We study this model numerically and qualitatively compare si
+ mulation results against experimental observations. The simulations sugges
+ t the existence of a traveling wave\; time permitting we investigate those
+  in a simplified setting in more detail.  \n \n 
+LOCATION:MC 6460
+END:VEVENT
 END:VCALENDAR

@@ -3,157 +3,259 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Pure Mathematics)
 BEGIN:VEVENT
-SUMMARY:Baker-DeMarco Learning Seminar: Berkovich spaces -  (Seminar)
-DTSTART:20180305T183000Z
-DTEND:20180305T193000Z
-DTSTAMP:20180305T183000Z
-UID:20180305T183000Z_e3b96c40e4dae1a7b659f3ae5e4bf2a1
-DESCRIPTION:Speaker:  Yoav Len\, Department of Combinatorics & Optimizatio
- n\nTitle:   "Baker-DeMarco Learning Seminar: Berkovich spaces" \n\nAbstrac
- t:  Berkovich analytic spaces are a slick way for "filling the holes" in v
- arieties defined over non-Archimedean fields. In the talk\, I will introdu
- ce the analytification construction\, and make the previous sentence more 
- precise. I will explicitly construct the Berkovich line\, and explain how 
- to find the analytification of curves of higher genus. The talk will mostl
- y be informal\, and focus on results and constructions rather than precise
-  proofs.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grad Student Colloquium -- Mistakes don't matter: Getting the mess
- age without getting the message -  (Seminar)
-DTSTART:20180305T203000Z
-DTEND:20180305T213000Z
-DTSTAMP:20180305T203000Z
-UID:20180305T203000Z_b3c6bf246f0f627c1ac4cae75442a7ef
-DESCRIPTION:Speaker:  Nick Rollick\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Grad Student Colloquium -- Mistakes don't ma
- tter: Getting the message without getting the message" \n\nAbstract:  Have
-  you ever wondered why a scratched CD still plays properly?  Or why you re
- ceive e-mails without transmission errors?  It's all thanks to some clever
-  math!  In this talk\, you will see the coolest-ever application of reduce
- d row echelon form.  You will also learn how basic facts about polynomials
-  over finite fields lead to an efficient error-correcting procedure.  Thes
- e so-called Reed-Solomon codes are used in everything from CDs to bar code
- s...  If someone ever asks you what pure math is good for\, now you'll hav
- e a satisfying answer!  \n \n   \n
+SUMMARY:G2 instantons and the Seiberg-Witten monopoles -  (Colloquium)
+DTSTART:20190114T210000Z
+DTEND:20190114T220000Z
+DTSTAMP:20190114T210000Z
+UID:20190114T210000Z_c11d8199d9804a009bc97c4546ca8125
+DESCRIPTION:Speaker:  Andriy Haydys\, University of Freiburg\nTitle:   "G2
+  instantons and the Seiberg-Witten monopoles" \n\nAbstract:  G2 manifolds 
+ constitute a class of Einstein seven-manifolds and are of substantial inte
+ rest both in Riemannian geometry and theoretical physics. At present a vas
+ t number of compact G2 manifolds is known to exist. In this talk I will di
+ scuss a gauge-theoretic approach to the construction of invariants of comp
+ act G2 manifolds. I will focus on an interplay between gauge theories in d
+ imensions 7 and 3 and how this can be used for the construction of the inv
+ ariants.  \n \n \n
 LOCATION:MC 5501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prime divisors of sparse values of cyclotomic polynomials -  (Numb
- er Theory Seminar Seminar)
-DTSTART:20180306T183000Z
-DTEND:20180306T193000Z
-DTSTAMP:20180306T183000Z
-UID:20180306T183000Z_1551a6675b919989f2dca850fbe695d8
-DESCRIPTION:Speaker:  François Seguin\, Queen's University\nTitle:   "Pri
- me divisors of sparse values of cyclotomic polynomials" \n\nAbstract:  We 
- will be presenting a result about the largest prime divisor of \ncyclotomi
- c polynomials evaluated at a specific integer.  \n \n \n
+SUMMARY:o-minimal GAGA Seminar: Introduction -  (Seminar)
+DTSTART:20190115T153000Z
+DTEND:20190115T163000Z
+DTSTAMP:20190115T153000Z
+UID:20190115T153000Z_a66c6b45d6e7a64ca627f3dc55e105de
+DESCRIPTION:Speaker:  Rahim Moosa\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "o-minimal GAGA Seminar: Introduction" \n\nAbs
+ tract:  This term some of us will be working through sections 2 and 3 (and
+   maybe 4?) of a recent paper of Bakker-Brunebarbe-Tsimerman in which a de
+ finable version of Serre's GAGA is developed (and then applied to solve an
+  old problem of Griffiths). It is a kind of compromise between algebraic g
+ eometry and local complex analytic geometry facilitated by model theory (i
+ t seems to involve very little of the last).\n In this first meeting I wil
+ l introduce the notions of "structure" and "o-minimality" on the reals\, a
+ s background preparation for starting to read the paper.  \n \n    \n
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A separation theorem for order unit modules\, with applications to
+  random walks and the Laplace transform -  (Analysis Seminar)
+DTSTART:20190116T203000Z
+DTEND:20190116T213000Z
+DTSTAMP:20190116T203000Z
+UID:20190116T203000Z_c97f484247f81f503875eebd50f96a48
+DESCRIPTION:Speaker:  Tobias Fritz\, Perimeter Institute\nTitle:   "A sepa
+ ration theorem for order unit modules\, with applications to random walks 
+ and the Laplace transform" \n\nAbstract:  I will introduce order unit modu
+ les over ordered commutative\n$\\mathbb{R}$-algebras. I will then state th
+ e moment problem for order\nunit modules\, and present a very general solu
+ tion. This solution\ninvolves a certain locally convex topology which spec
+ ializes to the\ntopology of compact convergence in the case of a polynomia
+ l ring.\nDualizing this solution of the moment problem gives a separation 
+ theorem\nwhich specializes to the Hahn-Banach theorem for order unit space
+ s in\nthe case where the algebra is $\\mathbb{R}$\, and to a Positivstelle
+ nsatz\nin the case where the module coincides with the algebra. In the cas
+ e of\na suitable algebra of measures under convolution\, these results als
+ o\nspecialize to characterizations of Laplace transforms and to a new\nthe
+ orem on the asymptotic comparison of random walks.  \n \n       \n
 LOCATION:MC 5417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Algebraic Geometry Learning Seminar: Elimination theory and closed
-  embeddings -  (Seminar)
-DTSTART:20180306T200000Z
-DTEND:20180306T210000Z
-DTSTAMP:20180306T200000Z
-UID:20180306T200000Z_2c8caff1127f02ae3f9bfd1ebce004a0
-DESCRIPTION:Speaker:  Christopher Hawthorne\, Department of Pure Mathemati
- cs\, University of Waterloo\nTitle:   "Algebraic Geometry Learning Seminar
- : Elimination theory and closed embeddings" \n\nAbstract:  We finish chapt
- er 7 with a discussion of quantifier elimination and the fundamental theor
- em of elimination theory\; we then begin to study closed embeddings of sch
- emes.  \n \n \n
-LOCATION:MC 5417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Postdoctoral Seminar: How to know when you've proved the best poss
- ible characterization or classification -  (Seminar)
-DTSTART:20180307T190000Z
-DTEND:20180307T200000Z
-DTSTAMP:20180307T190000Z
-UID:20180307T190000Z_6b24a1e0b300e7ee104b5f1514728afd
-DESCRIPTION:Speaker:  Matthew Harrison-Trainor\, Department of Pure Mathem
- atics\, University of Waterloo\nTitle:   "Postdoctoral Seminar: How to kno
- w when you've proved the best possible characterization or classification"
-  \n\nAbstract:  Many theorems take the form of a classification -- a\ndesc
- ription of some type of object up to isomorphism -- or a\nclassification -
- - a description of which objects satisfy some additional\nproperty. How do
-  you know when such a theorem is as good as possible?\nOne way is to use m
- ethods from computability theory. I'll talk about how\nto use index sets t
- o show that a particular classification or\ncharacterization must be at le
- ast a certain complexity.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decomposable Specht modules -  (Algebra Seminar)
-DTSTART:20180307T203000Z
-DTEND:20180307T213000Z
-DTSTAMP:20180307T203000Z
-UID:20180307T203000Z_a7f3747da8a3185653f846a8e372dd4e
-DESCRIPTION:Speaker:  Liron Speyer\, University of Virginia\nTitle:   "Dec
- omposable Specht modules" \n\nAbstract:  I will give a brief survey of the
-  study of decomposable Specht modules for the symmetric group and its Heck
- e algebra\, which includes results of Murphy\, Dodge and Fayers\, and myse
- lf. I will then report on an ongoing project with Louise Sutton\, in which
-  we are studying decomposable Specht modules for the Hecke algebra of type
-  $B$ indexed by 'bihooks'.  \n \n       \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Approximating projective subvarieties -  (Geometry & Topology Semi
- nar Seminar)
-DTSTART:20180309T193000Z
-DTEND:20180309T203000Z
-DTSTAMP:20180309T193000Z
-UID:20180309T193000Z_3f2ec88ffbec2010b40d215c38f95eca
-DESCRIPTION:Speaker:  Nick Rollick\, Department of Pure Mathematics\, Univ
- ersity of Waterloo\nTitle:   "Approximating projective subvarieties" \n\nA
- bstract:  Given an algebraic number\, how well can we approximate it by ra
- tional numbers\, relative to the "complexity" of those rational numbers?  
- Questions of this sort have long preoccupied number theorists.  However\, 
- it was only recently that this question was formulated and studied geometr
- ically.  Identifying numbers with points on the projective line\, the anal
- ogous geometric question is: given a projective variety $X$ and a closed s
- ubvariety $Z$ defined over $\\overline{\\mathbb{Q}}$\, how well can we app
- roximate $Z$ with rational points on $X$\, relative to the "complexity" of
-  the points in question?\n In this talk\, I will discuss McKinnon and Roth
- 's formulation of this question in terms of "approximation constants" (in 
- the special case where $Z$ is a single point)\, including lower bounds on 
- these constants.  Afterwards\, I will outline a few results of my own\, in
- volving the computation of approximation constants for certain closed subv
- arieties of projective space.  \n \n \n
-LOCATION:MC 5403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eventually Entanglement Breaking Maps -  (Analysis Seminar Seminar
+SUMMARY:Pseudo-finite sets and dimension\, Part 6 -  (Model Theory Seminar
  )
-DTSTART:20180309T193000Z
-DTEND:20180309T203000Z
-DTSTAMP:20180309T193000Z
-UID:20180309T193000Z_84f02fde710f9aa4d97dc7e193517265
-DESCRIPTION:Speaker:  Mizanur Rahaman\, Department of Pure Mathematics\, U
- niversity of Waterloo\nTitle:   "Eventually Entanglement Breaking Maps" \n
- \nAbstract:  Since its introduction\, the class of entanglement breaking m
- aps played a crucial role in the study of quantum information science and 
- also in the theory of completely positive maps. In this talk\, I will pres
- ent a certain\nclass of linear maps on matrix algebras that have the prope
- rty that they become entanglement breaking after composing finite or infin
- ite number\nof times with themselves. These maps are called eventually ent
- anglement breaking maps. This means that the Choi matrix of the iterated l
- inear map becomes separable in the tensor product space. It turns out that
- \nthe set of eventually entanglement breaking maps forms a rich class with
- in the set of all unital completely positive maps. I will connect these ma
- ps\nwith irreducible positive linear maps which have been studied a lot in
-  the non-commutative Perron-Frobenius theory in operator algebra. Various 
- spectral proper-\nties of a ucp map on finite dimensional C*-algebras will
-  be discussed. The motivation of this work is the "PPT-squared conjecture"
-  made by M. Christandl that says every PPT channel\, when composed with it
- self\, becomes entanglement breaking. In this work\, it is proved that eve
- ry unital PPT-channel becomes entanglement breaking after finite iteration
- s. This is a joint work with Sam Jaques and Vern Paulsen.  \n \n          
-   
+DTSTART:20190117T210000Z
+DTEND:20190117T220000Z
+DTSTAMP:20190117T210000Z
+UID:20190117T210000Z_1e131f1d678664f888b626ca7a96a85e
+DESCRIPTION:Speaker:  Rémi Jaoui\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "Pseudo-finite sets and dimension\, Part 6" \n
+ \nAbstract:  In this first session of the reading group for 2019\, I will 
+ summarize some results of the previous lectures on probability logic and e
+ xplain some applications to the study of ultraproducts of k-approximate su
+ bgroups.  \n \n   \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The blow up set of the Seiberg-Witten equation with multiple spino
+ rs -  (Geometry & Topology Seminar)
+DTSTART:20190118T193000Z
+DTEND:20190118T203000Z
+DTSTAMP:20190118T193000Z
+UID:20190118T193000Z_490389e7880fb6e38e27668e33a95e8e
+DESCRIPTION:Speaker:  Andriy Haydys\, University of Freiburg\nTitle:   "Th
+ e blow up set of the Seiberg-Witten equation with multiple spinors" \n\nAb
+ stract:  Unlike for the classical Seiberg-Witten equation\, the moduli spa
+ ce of the Seiberg-Witten equation with multiple spinors may be non-compact
+ . The boundary in this case is modelled on the Seiberg-Witten monopoles wi
+ th a singularity along a codimension two subset\, which is referred to as 
+ a blow up set. The purpose of this talk is to discuss a lower bound for th
+ e 1-dimensional Hausdorff measure of the blow up set when the base manifol
+ d is of dimension three.  \n \n    \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:o-minimal GAGA Seminar: Definable complex analytic spaces -  (Semi
+ nar)
+DTSTART:20190122T153000Z
+DTEND:20190122T163000Z
+DTSTAMP:20190122T153000Z
+UID:20190122T153000Z_1464bc81d60f0ea76decf64ea1ae3825
+DESCRIPTION:Speaker:  David McKinnon\, Department of Pure Mathematics\, Un
+ iversity of Waterloo\nTitle:   "o-minimal GAGA Seminar: Definable complex 
+ analytic spaces" \n\nAbstract:  I'm going to talk about definable spaces\,
+  and then start on a discussion of section two of the paper of Bakker-Brun
+ ebarbe-Tsimmerman.  \n \n \n
+LOCATION:MC 5479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On basic and Bass quaternion orders -  (Number Theory Seminar)
+DTSTART:20190122T173000Z
+DTEND:20190122T183000Z
+DTSTAMP:20190122T173000Z
+UID:20190122T173000Z_22b81ba1dbde46b26af6a1cfcf53155b
+DESCRIPTION:Speaker:  Daniel Smertnig\, Department of Pure Mathematics\, U
+ niversity of Waterloo\nTitle:   "On basic and Bass quaternion orders" \n\n
+ Abstract:  Quaternion orders can possess many different ring-theoretical\n
+ properties\, such as being maximal\, hereditary\, Eichler\, Bass\, or\nGor
+ enstein. I will recall these properties and their relations to\neach other
+ \, summarizing a 'taxonomy' of quaternion orders. A\nquaternion order O ov
+ er a domain R is basic if it contains an\nintegrally closed quadratic R-or
+ der. I will show that a quaternion\norder is Bass if and only if it is bas
+ ic\, in the local and global\nsettings.\n This is joint work with Sara Cha
+ ri and John Voight.  \n \n    \n
 LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Colloquium: Cryptographic primitives and applications
+  -  (Seminar)
+DTSTART:20190122T220000Z
+DTEND:20190122T230000Z
+DTSTAMP:20190122T220000Z
+UID:20190122T220000Z_e5ef2f04c25df81235c9819a9be78b3e
+DESCRIPTION:Speaker:  Christopher Hawthorne\, Department of Pure Mathemati
+ cs\, University of Waterloo\nTitle:   "Grad Student Colloquium: Cryptograp
+ hic primitives and applications" \n\nAbstract:  Modern computers and the i
+ nternet rely heavily on cryptography to keep our communications and machin
+ es safe from malicious parties\; in fact\, much of this cryptography is im
+ plemented using elementary algebra. In this talk\, I will present three cr
+ yptographic primitives (symmetric encryption\, public key encryption\, and
+  digital signatures)\, describe how one might construct instances of these
+  primitives\, and give an idea of how they are used in modern computing. T
+ ime permitting I will cover a fourth cryptographic primitive: secret shari
+ ng schemes.  \n \n \n
+LOCATION:MC 5501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyperrigid subsets of CuntzKrieger algebras and the property of 
+ rigidity at zero -  (Analysis Seminar)
+DTSTART:20190123T203000Z
+DTEND:20190123T213000Z
+DTSTAMP:20190123T203000Z
+UID:20190123T203000Z_f7c5063886e09e6d1f6ddf9391a8d272
+DESCRIPTION:Speaker:  Guy Salomon\, Department of Pure Mathematics\, Unive
+ rsity of Waterloo\nTitle:   "Hyperrigid subsets of CuntzKrieger algebras
+  and the property of rigidity at zero" \n\nAbstract:  A generating set of 
+ a C*-algebra is said to be hyperrigid if for every faithful nondegenerate 
+ *-representation of the C*-algebra on a Hilbert space H\, every sequence o
+ f unital completely positive self maps of B(H) that converges to the ident
+ ity on the generating set\, converges to the identity on the whole C*-alge
+ bra (all convergences are in the pointwise-norm sense). I will show that i
+ nside the CuntzKrieger algebra of a row-finite directed graph with no is
+ olated vertices\, the set of all edge partial-isometries is hyperrigid. I 
+ will also present\, both in general and in the graph context\, a related p
+ roperty called rigidity at zero that sheds light on the phenomenon of hype
+ rrigidity.  \n \n \n
+LOCATION:MC 5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Isomorphism Problem for Pregeometries -  (Computability Learni
+ ng Seminar)
+DTSTART:20190123T203000Z
+DTEND:20190123T213000Z
+DTSTAMP:20190123T203000Z
+UID:20190123T203000Z_a1cc42b00b4a6fd5ffa03d30bd23cfd4
+DESCRIPTION:Speaker:  Mohammad Mahmoud\, Department of Pure Mathematics\, 
+ University of Waterloo\nTitle:   "The Isomorphism Problem for Pregeometrie
+ s" \n\nAbstract:  We will talk about the isomorphism problem for classes o
+ f r.i.c.e.  pregeometries. By a r.i.c.e. pregeometry we mean a computable 
+ structure $\\mathcal{M}$ equipped with a r.i.c.e.  operator $cl^{\\mathcal
+ {M}}$ such that $(\\mathcal{M}\,cl^{\\mathcal{M}})$ is a pregeometry. The 
+ operator $cl^{\\mathcal{M}}$ is called r.i.c.e. (relatively intrinsically 
+ computably enumerable)  if for every computable copy $(\\mathcal{N}\,cl^{\
+ \mathcal{N}})$ of $(\\mathcal{M}\,cl^{\\mathcal{M}})$\, $cl^{\\mathcal{N}}
+ $ is c.e. in $\\mathcal{N}$. We will show that if $K$ is a class of r.i.c.
+ e. pregeometries in which dependent elements are dense\, then the isomorph
+ ism problem for the class $K$ is $\\Pi^0_3$-hard.  \n \n     \n
+LOCATION:MC 5413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dualizing structures that are necessarily of infinite signature - 
+  (Universal Algebra Seminar)
+DTSTART:20190124T200000Z
+DTEND:20190124T210000Z
+DTSTAMP:20190124T200000Z
+UID:20190124T200000Z_a0699eff1168f45b905bbc6ceeaa1af6
+DESCRIPTION:Speaker:  Ross Willard\, Department of Pure Mathematics\, Univ
+ ersity of Waterloo\nTitle:   "Dualizing structures that are necessarily of
+  infinite signature" \n\nAbstract:  Many classical dualities\, such as Sto
+ ne duality for Boolean algebras and Priestley duality for distributive lat
+ tices\, are mediated by a schizophrenic pair consisting of a finite al
+ gebra generating the algebraic category together with a topological struct
+ ure having the same universe as\, and compatible with\, the finite generat
+ ing algebra.  For example\, the schizophrenic pair for Stone duality consi
+ sts of the 2-element Boolean algebra together with the 2-element set viewe
+ d as a discrete space\, while the schizophrenic pair for Priestley duality
+  consists of the 2-element distributive lattice together with the 2-elemen
+ t total order (again viewed as a discrete space).  A long-standing open pr
+ oblem in the field of natural dualities asked if every schizophrenic pair 
+ is equivalent to one in which the topological structure has only finitely 
+ many operations and relations in its signature.\n This problem was finally
+  solved by Jane Pitkethly in 2011.  In this talk I will describe the schiz
+ ophrenic pairs that she constructed for this purpose and begin their analy
+ sis.  \n \n \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Limit cycles of planar vector fields\, Hilberts 16th problem and
+  o-minimality -  (Model Theory Seminar)
+DTSTART:20190124T210000Z
+DTEND:20190124T220000Z
+DTSTAMP:20190124T210000Z
+UID:20190124T210000Z_182986b7ed63b18581a71288e86edecb
+DESCRIPTION:Speaker:  Patrick Speissegger\, McMaster University\nTitle:   
+ "Limit cycles of planar vector fields\, Hilberts 16th problem and o-mini
+ mality" \n\nAbstract:  Recent work links certain aspects of the second par
+ t of\nHilberts 16th problem (H16) to the theory of o-minimality.  One of
+ \nthese aspects is the generation and destruction of limit cycles in\nfami
+ lies of planar vector fields\, commonly referred to as\nbifurcations. 
+  I will outline the significance of bifurcations for H16\nand explain how 
+ logicin particular\, o-minimalitycan be used to\nunderstand them well 
+ enough to be able to count limit cycles.  \n \n     \n
+LOCATION:MC 5403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azumaya Algebras and the Resolution Property -  (Geometry & Topolo
+ gy Seminar)
+DTSTART:20190125T183000Z
+DTEND:20190125T193000Z
+DTSTAMP:20190125T183000Z
+UID:20190125T183000Z_ed41e705c62fe025b75a8a8d8831ff2b
+DESCRIPTION:Speaker:  Siddharth Mathur\, University of Arizona\nTitle:   "
+ Azumaya Algebras and the Resolution Property" \n\nAbstract:  Azumaya algeb
+ ras\, are (etale) twisted forms of matrix rings. These objects are of grea
+ t utility because they give rise to Brauer classes. Fifty years ago\, Grot
+ hendieck asked whether every cohomological Brauer class has a correspondin
+ g Azumaya algebra. This question is still open even for smooth separated t
+ hreefolds over the complex numbers!\nOne says a scheme (or Algebraic stack
+ ) X satisfies the resolution property if every coherent sheaf is the quoti
+ ent of a vector bundle. The work of Totaro and Gross explains that this pr
+ operty holds iff X admits a very special quotient stack presentation. Howe
+ ver\, whether or not separated Algebraic stacks have this property remains
+  a difficult question.\n The goal of our talk will be to explain\n (1) Why
+  these two questions are deeply intertwined\,\n (2) New results regarding 
+ the existence of Azumaya Algebras and\n (3) How we can use results as in (
+ 2) to show large classes of algebraic stacks satisfy the resolution proper
+ ty.  \n \n          
+LOCATION:MC 5403
 END:VEVENT
 END:VCALENDAR

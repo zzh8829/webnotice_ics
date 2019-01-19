@@ -3,36 +3,99 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Combinatorics and Optimization)
 BEGIN:VEVENT
-SUMMARY:Claws\, ω and χ : induced binary submatroids -  (Graphs and Matr
- oids Seminar Seminar)
-DTSTART:20180308T203000Z
-DTEND:20180308T213000Z
-DTSTAMP:20180308T203000Z
-UID:20180308T203000Z_fc2ca84746369afb9d2042047f56de28
-DESCRIPTION:Speaker:  Peter Nelson\, University of Waterloo\nTitle:   "Cla
- ws\, ω and χ : induced binary submatroids" \n\nAbstract:  I will discuss
-  the interplay between clique number\, chromatic number\, and excluding in
- duced submatroids in the setting of binary matroids.  \n \n     \n
-LOCATION:MC 5479
+SUMMARY:Introduction to Entropy and Counting -  (Seminar)
+DTSTART:20190122T190000Z
+DTEND:20190122T200000Z
+DTSTAMP:20190122T190000Z
+UID:20190122T190000Z_2ff2e718f9553f99e2904060a8814d7d
+DESCRIPTION:Speaker:  Richard Lang\, University of Waterloo\nTitle:   "Int
+ roduction to Entropy and Counting" \n\nAbstract:  In the first talk of our
+  reading group\, we introduce the notion of entropy and derive some of its
+  basic properties. When then go through a few examples that illustrate how
+  entropy can be used to count combinatorial objects.  \n \n \n
+LOCATION:MC 6486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chromatic Symmetric Functions and H-Free Graphs -  (Tutte Colloqui
- um Seminar)
-DTSTART:20180309T203000Z
-DTEND:20180309T213000Z
-DTSTAMP:20180309T203000Z
-UID:20180309T203000Z_77481226b7835821c7f300f9d6c70c90
-DESCRIPTION:Speaker:  Angèle Hamel\, Wilfrid Laurier University\nTitle:  
-  "Chromatic Symmetric Functions and H-Free Graphs" \n\nAbstract:  Chromati
- c symmetric functions are defined in terms of colourings of particular gra
- phs. Some key conjectures in this area concern whether chromatic symmetric
-  functions of claw-free graphs can be written in terms of other symmetric 
- functions with positive coefficients.  Here we extend the claw-free idea t
- o consider the e-positivity question for chromatic symmetric functions of 
- H-free graphs with H ={claw\, F}\,  where  F is a four-vertex graph.  We s
- ettle the question for all cases except H={claw\, co-diamond}\, and we pro
- vide some partial results in that case. This is joint work with Chinh Hoan
- g and Jake Tuero.  \n \n           
-LOCATION:MC 2038
+SUMMARY:Reading group on the topic of "Entropy and Counting" -  (Graph The
+ ory Seminar)
+DTSTART:20190122T190000Z
+DTEND:20190122T200000Z
+DTSTAMP:20190122T190000Z
+UID:20190122T190000Z_bd681f806b5f79dc73e0c9555967b16e
+DESCRIPTION:Speaker:  TBD\, University of Waterloo\nTitle:   "Reading grou
+ p on the topic of "Entropy and Counting"" \n\nAbstract:  A new Reading Gro
+ up will be starting this term\, on the topic of "Entropy and Counting".\n 
+ The first talk will take place on Tuesday\, Jan 22\, 2019 from 2:00 p.m. t
+ o 3:00 p.m. in MC 6486\, and will continue on a weekly basis at the same t
+ ime and location.\n We will study how the notion entropy can be used as a 
+ tool for combinatorial enumeration. In the first couple of talks\, the bas
+ ic properties of entropy are covered and its use is illustrated with a few
+  examples. We then continue by reading a selection of classic and recent p
+ apers.\n Organizers: Michelle Delcourt and Richard Lang  \n \n     \n
+LOCATION:MC 6486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Induced Poset Saturation -  (Seminar)
+DTSTART:20190123T203000Z
+DTEND:20190123T213000Z
+DTSTAMP:20190123T203000Z
+UID:20190123T203000Z_0806774cbc2d4768f28c6b66b572724d
+DESCRIPTION:Speaker:  Bill Kay\, Ryerson University\nTitle:   "Induced Pos
+ et Saturation" \n\nAbstract:  In Graph Theory\, we say that a graph $G$ is
+  $H$ saturated if $G$ contains no copy of $H$ as a subgraph\, but on addit
+ ion of any edge $G$ contains a copy of $H$. For example\, any bipartite gr
+ aph is triangle saturated. The {\\em saturation number} of a graph $H$ (de
+ noted sat$(n\,H)$) is the minimum number of edges in an $H$ saturated grap
+ h on $n$ vertices.  Saturation serves as a complementary question to extre
+ mal numbers and has been well studied in the case of graphs. Note that for
+  any combinatorial object with a subobject relation we have a notion of sa
+ turation. In this talk\, we introduce (induced) saturation in the realm of
+  Partially Ordered Sets (Posets).  Joint work with  Michael Ferrara\,  Luc
+ as Kramer\, Ryan R. Martin\, Benjamin Reiniger\, Heather C. Smith\, Eric S
+ ullivan  \n \n   \n
+LOCATION:MC 6486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edge State Transfer -  (Algebraic Graph Theory Seminar)
+DTSTART:20190124T183000Z
+DTEND:20190124T193000Z
+DTSTAMP:20190124T183000Z
+UID:20190124T183000Z_a0654a130e068f24fb257437e2f01320
+DESCRIPTION:Speaker:  Tina Chen\, University of Waterloo\nTitle:   "Edge S
+ tate Transfer" \n\nAbstract:  So far the most studied quantum walks are th
+ e ones whose Hamiltonians are the adjacency matrices of the underlying gra
+ phs and initial states are vertex states $e_a$. This talk focuses on Lapla
+ cian edge state transfer\, that is\, the quantum walks whose initial state
+ s are edge states $e_a-e_b$and Hamiltonians are the Laplacians of the unde
+ rlying graphs. \n We will extend some known results of vertex state transf
+ er to Laplacian edge state transfer and introduce some basic properties of
+  Laplacian edge state transfer. We will prove two useful closure propertie
+ s for perfect Laplacian edge state transfer. One is that complementation p
+ reserves perfect edge state transfer.  The other is that if $G$ has vertex
+  state transfer and $H$ has edge state transfer\, then with some mild assu
+ mption on the pairs of vertex states and edge states that have perfect sta
+ te transfer\, the Cartesian product $G\\square H$also admits perfect edge 
+ state transfer. We will talk about one interesting transitivity phenomenon
+  that happens in Laplacian edge state transfer which never happens in vert
+ ex state transfer.\n We will give characterizations of perfect Laplacian e
+ dge state transfer in cycles\, paths. We will also briefly mention the cas
+ e when the unsigned Laplacian is Hamiltonian and initial states are plus s
+ tates of the form $e_a+e_b$.  \n \n      \n
+LOCATION:MC 6486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Additive Approximation of Chromatic Number in Apex-minor-free Grap
+ hs -  (Combinatorial Optimization Seminar)
+DTSTART:20190125T180000Z
+DTEND:20190125T190000Z
+DTSTAMP:20190125T180000Z
+UID:20190125T180000Z_79b4ac432c9f9cf335a58d64a035032f
+DESCRIPTION:Speaker:  Justin Toth\, University of Waterloo\nTitle:   "Addi
+ tive Approximation of Chromatic Number in Apex-minor-free Graphs" \n\nAbst
+ ract:  In this talk we will see a t+3 additive approximation to the chroma
+ tic number for t-apex-minor-free graphs. This talk is based on the paper "
+ Additive non-approximability of chromatic number in proper minor-closed cl
+ asses" by Dvorak and Kawarabayashi.  \n \n           
+LOCATION:MC 5479
 END:VEVENT
 END:VCALENDAR

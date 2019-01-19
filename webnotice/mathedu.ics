@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UW-Webnotice//EN
+X-WR-CALNAME:UW Webnotice (Mathematics Education Seminar)
+BEGIN:VEVENT
+SUMMARY:The Curse of Knowledge in Learning -  (Seminar)
+DTSTART:20190117T153000Z
+DTEND:20190117T163000Z
+DTSTAMP:20190117T153000Z
+UID:20190117T153000Z_919e7cce4fdd25f3c0564c05698d6438
+DESCRIPTION:Speaker:  Dan Wolczuk\, Faculty of Mathematics\, University of
+  Waterloo\nTitle:   "The Curse of Knowledge in Learning" \n\nAbstract:  In
+  educational psychology\, the curse of knowledge refers to the phenomenon 
+ that individuals inherently assume that the people they are communicating 
+ with have the same knowledge and thought processes as they do. \n In this 
+ seminar\, we will discuss how the curse of knowledge can affect both instr
+ uctors and students\, and we will look at some strategies that instructors
+  can use to try to counteract this and improve student learning.  \n \n   
+                                    
+LOCATION:MC 5501
+END:VEVENT
+END:VCALENDAR
