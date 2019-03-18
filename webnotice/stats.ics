@@ -3,314 +3,52 @@ VERSION:2.0
 PRODID:-//UW-Webnotice//EN
 X-WR-CALNAME:UW Webnotice (Statistics & Actuarial Science)
 BEGIN:VEVENT
-SUMMARY:Learning Optimal Individualized Decision Rules with Risk Control -
-   (Seminar)
-DTSTART:20190116T210000Z
-DTEND:20190116T220000Z
-DTSTAMP:20190116T210000Z
-UID:20190116T210000Z_7e5a583cfdf3597c2dc44f9d35b3c097
-DESCRIPTION:Speaker:  Zhengling Qi\, University of North Carolina\nTitle: 
-   "Learning Optimal Individualized Decision Rules with Risk Control" \n\nR
- emarks:  Refreshments will be provided.  \n\nAbstract:  With the emergence
-  of precision medicine\, estimation of optimal individualized decision rul
- es (IDRs) has attracted tremendous attentions in many scientific areas. Mo
- st existing literature has focused on finding optimal IDRs that can maximi
- ze the expected outcome for each individual. Motivated by complex individu
- alized decision making procedures and the popular conditional value at ris
- k\, in this talk\, I will introduce two new robust criteria to evaluate ID
- Rs: one is focused on the average lower tail of the subjects outcomes an
- d the other is on the individualized lower tail of each subjects outcome
- . The proposed criteria take tail behaviors of the outcome into considerat
- ion\, and thus the resulting optimal IDRs are robust in controlling advers
- e events. The optimal IDRs under our criteria can be interpreted as the di
- stributionally robust decision rules that maximize the worst-case scen
- ario of the outcome within a probability constrained set. Simulation studi
- es and a real data application are used to demonstrate the robust performa
- nce of our methods. Finally\, I will introduce a more general decision-rul
- e based optimized covariates dependent equivalent framework for individual
- ized decision making with risk control.  \n \n       \n
+SUMMARY:Excursion Probabilities and Geometric Properties of Multivariate G
+ aussian Random Fields -  (Seminar)
+DTSTART:20190328T080000Z
+DTEND:20190328T090000Z
+DTSTAMP:20190328T080000Z
+UID:20190328T080000Z_ce687adf4952ad8076aa26f78a52ccea
+DESCRIPTION:Speaker:  Yimin Xiao\, Michigan State University\nTitle:   "Ex
+ cursion Probabilities and Geometric Properties of Multivariate Gaussian Ra
+ ndom Fields" \n\nRemarks:  Refreshments will be provided.  \n\nAbstract:  
+ Excursion probabilities of Gaussian random fields have many applications i
+ n statistics (e.g.\, scanning statistic and control of false discovery rat
+ e (FDR)) and in other areas. The study of excursion probabilities has had 
+ a long history and is closely related to geometry of Gaussian random field
+ s. In recent years\, important developments have been made in both probabi
+ lity and statistics.\n In this talk\, we consider the excursion probabilit
+ ies of bivariate Gaussian random fields with non-smooth (or fractal) sampl
+ e functions and study their geometric properties and excursion probabiliti
+ es. Important classes of multivariate Gaussian random fields are those sta
+ tionary with Matérn cross-covariance functions [Gneiting\, Kleiber\, and 
+ Schlather (2010)] and operator fractional Brownian motions which are opera
+ tor-self-similar with stationary increments.  \n \n    \n
 LOCATION:M3-3127
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayesian nonparametric models for compositional data -  (Seminar)
-DTSTART:20190117T210000Z
-DTEND:20190117T220000Z
-DTSTAMP:20190117T210000Z
-UID:20190117T210000Z_d292eeeddbaa2c6d4135aaed0202a899
-DESCRIPTION:Speaker:  Andres Barrientos\, Duke University\nTitle:   "Bayes
- ian nonparametric models for compositional data" \n\nRemarks:  Refreshment
- s will be provided.  \n\nAbstract:  We propose Bayesian nonparametric proc
- edures for density estimation for compositional data\, i.e.\, data in the 
- simplex space. To this aim\, we propose prior distributions on probability
-  measures based on modified classes of multivariate Bernstein polynomials.
-  The resulting prior distributions are induced by mixtures of Dirichlet di
- stributions\, with random weights and a random number of components. Theor
- etical properties of the proposal are discussed\, including large support 
- and consistency of the posterior distribution. We use the proposed procedu
- res to define latent models and apply them to data on employees of the U.S
- . federal government. Specifically\, we model data comprising federal empl
- oyees careers\, i.e.\, the sequence of agencies where the employees have
-  worked. Our modeling of the employees careers is part of a broader unde
- rtaking to create a synthetic dataset of the federal workforce. The synthe
- tic dataset will facilitate access to relevant data for social science res
- earch while protecting subjects confidential information.  \n \n    \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impact of preferences on optimal insurance in the presence of mult
- iple policyholders -  (Seminar)
-DTSTART:20190121T210000Z
-DTEND:20190121T220000Z
-DTSTAMP:20190121T210000Z
-UID:20190121T210000Z_2f347f9983d4b6347fa842bf19e573e7
-DESCRIPTION:Speaker:  Fangda Liu\, Georgia State University\, Atlanta\nTit
- le:   "Impact of preferences on optimal insurance in the presence of multi
- ple policyholders" \n\nRemarks:  Refreshments will be provided.  \n\nAbstr
- act:  In the optimal insurance literature\, one typically studies optimal 
- risk sharing between one insurer (or reinsurer) and one policyholder. Howe
- ver\, the insurance business is based on diversification benefits that ari
- se when pooling many insurance policies. In this paper\, we first show tha
- t results on optimal insurance that are valid in the case of a single poli
- cyholder extend to the case of multiple policyholders\, provided their ins
- urance claims are independent. However\, due to natural catastrophes\, inc
- reasing life expectancy and terrorism events\, insurance claims show tende
- ncy to be correlated. Interestingly\, in the case of interdependent insura
- nce policies\, it may become optimal for the insurer to refuse selling ins
- urance to some prospects\, based on their attitude towards risk or due to 
- their risk exposure characteristics. This finding calls for government pol
- icies to ensure that insurance stays available and affordable to everyone.
-   \n \n      \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strategies for scaling iterated conditional Sequential Monte Carlo
-  methods for high dimensional state space models -  (Seminar)
-DTSTART:20190122T210000Z
-DTEND:20190122T220000Z
-DTSTAMP:20190122T210000Z
-UID:20190122T210000Z_1e42e56ccf2612c5ecc45192a699ee66
-DESCRIPTION:Speaker:  Alex Shestopaloff\, The Alan Turing Institute\nTitle
- :   "Strategies for scaling iterated conditional Sequential Monte Carlo me
- thods for high dimensional state space models" \n\nRemarks:  Refreshments 
- will be provided.  \n\nAbstract:  The iterated Conditional Sequential Mont
- e Carlo (cSMC) method is a particle MCMC method commonly used for state in
- ference in non-linear\, non-Gaussian state space models. Standard implemen
- tations of iterated cSMC provide an efficient way to sample state sequence
- s in low-dimensional state space models. However\, efficiently scaling ite
- rated cSMC methods to perform well in models with a high-dimensional state
-  remains a challenge. One reason for this is the use of a global proposal\
- , without reference to the current state sequence in the MCMC run. In high
-  dimensions\, such a proposal will typically not be well-matched to the po
- sterior and impede efficient sampling. I will describe a technique based o
- n the embedded HMM (Hidden Markov Model) framework to construct efficient 
- proposals in high dimensions that are local relative to the current state 
- sequence. A second obstacle to scalability of iterated cSMC is not using t
- he entire observed sequence to construct the proposal. Typical implementat
- ions of iterated cSMC use a proposal at time t that that relies only on da
- ta up to time t. In high dimensions and in the presence of informative dat
- a\, such proposals become inefficient\, and can considerably slow down sam
- pling. I will introduce a principled approach to incorporating future obse
- rvations in the cSMC proposal at time t. By considering several examples\,
-  I will demonstrate that both strategies improve the performance of iterat
- ed cSMC for sequence sampling in high-dimensional state space models.  \n 
- \n     \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some Priors for Nonparametric Shrinkage and Bayesian Sparsity Infe
- rence -  (Seminar)
-DTSTART:20190124T090000Z
-DTEND:20190124T100000Z
-DTSTAMP:20190124T090000Z
-UID:20190124T090000Z_83ab23ea3d810d7929ff308e1e338b68
-DESCRIPTION:Speaker:  Minsuk Shin\, Harvard University\nTitle:   "Some Pri
- ors for Nonparametric Shrinkage and Bayesian Sparsity Inference" \n\nRemar
- ks:  Refreshments will be provided.  \n\nAbstract:  In this talk\, I intro
- duce two novel classes of shrinkage priors for different purposes: functio
- nal HorseShoe (fHS) prior for nonparametric subspace shrinkage and neuroni
- zed priors for general sparsity inference. \n  In function estimation prob
- lems\, the fHS prior encourages shrinkage towards parametric classes of fu
- nctions. Unlike other shrinkage priors for parametric models\, the fHS shr
- inkage acts on the shape of the function rather than inducing sparsity on 
- model parameters. I study some desirable theoretical properties including 
- an optimal posterior concentration property on the function and the model 
- selection consistency. I apply the fHS prior to nonparametric additive mod
- els for some simulated and real data sets\, and the results show that the 
- proposed procedure outperforms the state-of-the-art methods in terms of es
- timation and model selection.\n  For general sparsity inference\, I propos
- e the neuronized priors to unify and extend existing shrinkage priors such
-  as one-group continuous shrinkage priors\, continuous spike-and-slab prio
- rs\, and discrete spike-and-slab priors with point-mass mixtures. The new 
- priors are formulated as the product of a weight variable and a transforme
- d scale variable via an activation function.  By altering the activation f
- unction\, practitioners can easily implement a large class of Bayesian var
- iable selection procedures. Compared with classic spike and slab priors\, 
- the neuronized priors achieve the same explicit variable selection without
-  employing any latent indicator variable\, which results in more efficient
-  MCMC algorithms and more effective posterior modal estimates. I also show
-  that these new formulations can be applied to more general and complex sp
- arsity inference problems\, which are computationally challenging\, such a
- s structured sparsity and spatially correlated sparsity problems.  \n \n  
-         \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cost of Privacy: Optimal Rates of Convergence for Parameter Es
- timation with Differential Privacy -  (Seminar)
-DTSTART:20190125T210000Z
-DTEND:20190125T220000Z
-DTSTAMP:20190125T210000Z
-UID:20190125T210000Z_9fb6934a0531f9cb023af16827ca46ab
-DESCRIPTION:Speaker:  Linjun Zhang\, University of Pennsylvania\nTitle:   
- "The Cost of Privacy: Optimal Rates of Convergence for Parameter Estimatio
- n with Differential Privacy" \n\nRemarks:  Refreshments will be provided. 
-  \n\nAbstract:  With the unprecedented availability of datasets containing
-  personal information\, there are increasing concerns that statistical ana
- lysis of such datasets may compromise individual privacy. These concerns g
- ive rise to statistical methods that provide privacy guarantees at the cos
- t of some statistical accuracy. A fundamental question is: to satisfy cert
- ain desired level of privacy\, what is the best statistical accuracy one c
- an achieve?  Standard statistical methods fail to yield sharp results\, an
- d new technical tools are called for.\n In this talk\, I will present a ge
- neral lower bound argument to investigate the tradeoff between statistical
-  accuracy and privacy\, with application to three problems: mean estimatio
- n\, linear regression and classification\, in both the classical low-dimen
- sional and modern high-dimensional settings. For these statistical problem
- s\, we also design computationally efficient algorithms that match the min
- imax lower bound under the privacy constraints. Finally I will show the ap
- plications of those privacy-preserving algorithms to real data containing 
- sensitive information\, such as SNPs and body fat\, for which privacy-pres
- erving statistical methods are necessary.  \n \n \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asymptotically optimal multiple testing with streaming data -  (Se
- minar)
-DTSTART:20190129T210000Z
-DTEND:20190129T220000Z
-DTSTAMP:20190129T210000Z
-UID:20190129T210000Z_fb0180bd51b010200b13023629ca8521
-DESCRIPTION:Speaker:  Yanglei Song\, University of Illinois at Urbana-Cham
- paign\nTitle:   "Asymptotically optimal multiple testing with streaming da
- ta" \n\nRemarks:  Refreshments will be provided.  \n\nAbstract:  The probl
- em of testing multiple hypotheses with streaming (sequential) data arises 
- in diverse applications such as multi-channel signal processing\, surveill
- ance systems\, multi-endpoint clinical trials\, and online surveys. In thi
- s talk\, we investigate the problem under two generalized error metrics. U
- nder the first one\, the probability of at least k mistakes\, of any kind\
- , is controlled. Under the second\, the probabilities of at least k1 false
-  positives and at least k2 false negatives are simultaneously controlled. 
- For each formulation\, we characterize the optimal expected sample size to
-  a first-order asymptotic approximation as the error probabilities vanish\
- , and propose a novel procedure that is asymptotically efficient under eve
- ry signal configuration.  These results are established when the data stre
- ams for the various hypotheses are independent and each local log-likeliho
- od ratio statistic satisfies a certain law of large numbers. Further\, in 
- the special case of iid observations\, we quantify the asymptotic gains of
-  sequential sampling over fixed-sample size schemes.  \n \n  \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:If Journals Embraced Conditional Equivalence Testing\, Would Resea
- rch be Better? -  (Seminar)
-DTSTART:20190130T210000Z
-DTEND:20190130T220000Z
-DTSTAMP:20190130T210000Z
-UID:20190130T210000Z_12c0c160e61a97d412029f7952a5ee21
-DESCRIPTION:Speaker:  Harlan Campbell\, University of British Columbia\nTi
- tle:   "If Journals Embraced Conditional Equivalence Testing\, Would Resea
- rch be Better?" \n\nRemarks:  Refreshments will be provided.  \n\nAbstract
- :  Motivated by recent concerns with the reproducibility and reliability o
- f scientific research\, we introduce a publication policy that incorporate
- s "conditional equivalence testing" (CET)\, a two-stage testing scheme in 
- which standard null hypothesis significance testing (NHST) is followed con
- ditionally by testing for equivalence. We explain how such a policy could 
- address issues of publication bias\, and investigate similarities with a B
- ayesian approach.  We then develop a novel optimality model that\, given c
- urrent incentives to publish\, predicts a researcher's most rational use o
- f resources. Using this model\, we are able to determine whether a given p
- olicy\, such as our CET policy\, can incentivize more reliable and reprodu
- cible research.  \n \n \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How does consumption habit affect the households demand for life
- -contingent claims? -  (Seminar)
-DTSTART:20190131T210000Z
-DTEND:20190131T220000Z
-DTSTAMP:20190131T210000Z
-UID:20190131T210000Z_ba85d0a2dbcdf406835d44b337058f85
-DESCRIPTION:Speaker:  Pengyu Wei\, UNSW Business School\nTitle:   "How doe
- s consumption habit affect the households demand for life-contingent cla
- ims?" \n\nRemarks:  Refreshments will be provided.  \n\nAbstract:  This pa
- per examines the impact of habit formation on demand for life-contingent c
- laims. We propose a life-cycle model with habit formation and solve the op
- timal consumption\, portfolio choice\, and life insurance/annuity problem 
- analytically. We illustrate how consumption habits can alter the bequest m
- otive and therefore drive the demand for life-contingent products. Finally
- \, we use our model to examine the mismatch in the life insurance market b
- etween the life insurance holdings of most households and their underlying
-  financial vulnerabilities\, and the mismatch in the annuity market betwee
- n the lack of any annuitization and the risk of outliving financial wealth
- .  \n \n \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Random Landscapes to Statistical inference -  (Seminar)
-DTSTART:20190201T210000Z
-DTEND:20190201T220000Z
-DTSTAMP:20190201T210000Z
-UID:20190201T210000Z_e4ceff7fc24a32fbc5b13526e3c5f594
-DESCRIPTION:Speaker:  Aukosh Jagannath\, Harvard University\nTitle:   "Fro
- m Random Landscapes to Statistical inference" \n\nRemarks:  Refreshments w
- ill be provided.  \n\nAbstract:  Consider the problem of recovering a rank
-  1 tensor of order k that has been subject to additive Gaussian Noise. It 
- is information theoretically possible to recover the tensor with a finite 
- number of samples via maximum likelihood estimation\, however\, it is expe
- cted that one needs a polynomially diverging number of samples to efficien
- tly recover it. What is the cause if this large statistical-to-algorithmic
-  gap? To understand this interesting question of high dimensional statisti
- cs\, we begin by studying an intimately related question: optimization of 
- random homogenous polynomials on the sphere in high dimensions. We show th
- at the estimation threshold is related to a geometric analogue of the BBP 
- transition for matrices. We then study the threshold for efficient recover
- y for a simple class of algorithms\, Langevin dynamics and gradient descen
- t. We view this problem in terms of a broader class of polynomial optimiza
- tion problems and propose a mechanism or success/failure of recovery in te
- rms of the strength of the signal on the high entropy region of the initia
- lization. We will review several results including joint works with Ben Ar
- ous-Gheissari and Lopatto-Miolane.  \n \n \n
-LOCATION:M3-3127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space-filling Designs for Computer Experiments and Their Applicat
- ion to Big Data Research -  (Seminar)
-DTSTART:20190205T210000Z
-DTEND:20190205T220000Z
-DTSTAMP:20190205T210000Z
-UID:20190205T210000Z_26e9435814e4a926d0d078fb374357c1
-DESCRIPTION:Speaker:  Chenlu Shi\, Simon Fraser University\nTitle:   "Spac
- e-filling Designs for Computer Experiments and Their Application to Big D
- ata Research" \n\nRemarks:  Refreshments will be provided.  \n\nAbstract: 
-  Computer experiments provide useful tools for investigating complex syste
- ms\, and they call for space-ﬁlling designs\, which are a class of desig
- ns that allow the use of various modeling methods. He and Tang (2013) intr
- oduced and studied a class of space-ﬁlling designs\, strong orthogonal a
- rrays. To date\, an important problem that has not been addressed in the l
- iterature is that of design selection for such arrays. In this talk\, I wi
- ll ﬁrst give a broad introduction to space-ﬁlling designs\, and then p
- resent some results on the selection of strong orthogonal arrays.\n The se
- cond part of my talk will present some preliminary work on the application
-  of space-ﬁlling designs to big data research. Nowadays\, it is challeng
- ing to use current computing resources to analyze super-large datasets. Su
- bsampling-based methods are the common approaches to reducing data sizes\,
-  with the leveraging method (Ma and Sun\, 2014) being the most popular. Re
- cently\, a new approach\, information-based optimal subdata selection (IBO
- SS) method was proposed (Wang\, Yang and Stufken\, 2018)\, which applies t
- he design methodology to the big data problem. However\, both the leveragi
- ng method and the IBOSS method are model-dependent. Space-ﬁlling designs
-  do not suﬀer this drawback\, as shown in our simulation studies.  \n \n
-    
+SUMMARY:Background risk model and inference based on ranks of residuals - 
+  (Seminar)
+DTSTART:20190329T143000Z
+DTEND:20190329T153000Z
+DTSTAMP:20190329T143000Z
+UID:20190329T143000Z_a73e7f9dc8e4d1bce868b3e50419cae6
+DESCRIPTION:Speaker:  Marie-Pier Cote\, Laval University\nTitle:   "Backgr
+ ound risk model and inference based on ranks of residuals" \n\nRemarks:  R
+ efreshments will be provided.  \n\nAbstract:  It is often easier to model 
+ the behaviour of a random vector by choosing the marginal distributions an
+ d the copula separately rather than using a classical multivariate distrib
+ ution. Many copula families\, including the classes of Archimedean and ell
+ iptical copulas\, may be written as the survival copula of a random vector
+  R(X\,Y)\, where R is a strictly positive random variable independent of t
+ he random vector (X\,Y). A unified framework is presented for studying the
+  dependence structure underlying this stochastic representation\, which is
+  called the background risk model. However\, in many applications\, part o
+ f the dependence may be explained by observable external factors\, which j
+ ustifies the use of generalized linear models for the marginal distributio
+ ns. In this case and under some conditions that will be discussed\, the in
+ ference on the copula can be based on the ranks of suitable residuals.  \n
+  \n        
 LOCATION:M3-3127
 END:VEVENT
 END:VCALENDAR
